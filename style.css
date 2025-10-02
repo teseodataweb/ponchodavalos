@@ -1201,6 +1201,26 @@ td {
   border-color: #fff;
 }
 
+
+.octf-btn-2.octf-btn-ligth {
+  color: #1a1a1a;
+  background: #fff;
+}
+.octf-btn-2.octf-btn-light:before, .octf-btn-2.octf-btn-light:after {
+  background: #fff;
+}
+.octf-btn-2.octf-btn-light:visited {
+  color: #1a1a1a;
+  background: #fff;
+}
+.octf-btn-2.octf-btn-light:hover, .octf-btn.octf-btn-light:focus {
+  background: #1a1a1a;
+  color: #fff;
+  border-color: #1a1a1a;
+}
+
+
+
 input[type=text],
 input[type=email],
 input[type=url],
@@ -7585,6 +7605,9 @@ section {
     border-color: #1A1A1A;
 }
 .octf-btn.border-hover-light:hover {
+  border-color: #1A1A1A;
+}
+.octf-btn.border-hover-light:hover {
     border-color: #fff;
 }
 /* SInle Team */
@@ -7982,6 +8005,14 @@ ul.style-default li:last-child, ol.style-default li:last-child {
     background-size: cover;
     padding: 70px 0 73px 0;
     color: #A9A9A9;
+}
+
+.cta-ligt {
+  background-image: url(images/bg/bg1-home2-light.html);
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 70px 0 73px 0;
+  color: #a0a0a0;
 }
 .pricing-plan .container-custom {
     max-width: 1340px;
