@@ -1,47 +1,34 @@
-.info-section {
-  background: #fff;
+.custom-card-expand {
+  background: #9f9e9e; /* gris oscuro */
+  color: #ffffff; /* texto blanco */
   border-radius: 10px;
-  padding: 15px;
   box-shadow: 0 3px 8px rgba(0, 0, 0, 0.12);
-  transition: transform 0.5s cubic-bezier(0.4, 0, 0.2, 1), 
-              box-shadow 0.5s cubic-bezier(0.4, 0, 0.2, 1);
-  min-height: 180px;
-  display: flex;
-  flex-direction: column;
-  justify-content: flex-start;
-  margin-bottom: 20px;
+  transition: transform 0.3s ease, height 0.3s ease;
+  cursor: pointer;
+  overflow: hidden;
+  margin: 15px 0; /* separa las cards arriba y abajo */
 }
 
-.info-section:hover {
-  transform: translateY(-8px);
-  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+.card-body {
+  padding: 15px;
 }
 
-
-/* Efecto hover para las cards de Bootstrap */
-.card-hover {
-  transition: transform 0.5s cubic-bezier(0.4, 0, 0.2, 1), 
-              box-shadow 0.5s cubic-bezier(0.4, 0, 0.2, 1);
-}
-
-.card-hover:hover {
-  transform: translateY(-8px);
-  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
-}
-
-/* Ajustes de listas dentro de las cards */
-.card-body ul {
-  padding-left: 20px;
-  margin-bottom: 0;
-}
-
-.card-body li {
-  list-style-type: disc;
-}
-
-/* Títulos */
 .card-title {
   font-size: 16px;
   font-weight: 600;
   margin-bottom: 10px;
+  color: #ffffff; /* asegura que los títulos sean blancos */
+}
+
+.card-content {
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.3s ease, opacity 0.3s ease;
+  opacity: 0;
+  color: #ffffff; /* texto de la lista también blanco */
+}
+
+.custom-card-expand:hover .card-content {
+  max-height: 500px; /* ajusta según altura del contenido */
+  opacity: 1;
 }

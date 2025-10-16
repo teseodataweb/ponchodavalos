@@ -1,0 +1,22 @@
+.gallery-post.img-slider {
+  width: 100%;           /* ocupa todo el ancho disponible */
+  max-width: 640px;      /* máximo 640px en escritorio */
+  aspect-ratio: 4 / 3;   /* mantiene la proporción 640x480 */
+  margin: 0 auto;        /* centra horizontalmente */
+  overflow: hidden;      /* evita que se salga contenido */
+}
+
+/* Imágenes dentro del carrusel */
+.gallery-post.img-slider .owl-item img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;      /* rellena el contenedor sin deformar */
+}
+
+/* Ajuste en pantallas pequeñas */
+@media (max-width: 768px) {
+  .gallery-post.img-slider {
+    max-width: 100%;     /* ocupa todo el ancho disponible en móviles */
+    aspect-ratio: auto;  /* mantiene proporcionalidad según la imagen */
+  }
+}
