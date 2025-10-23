@@ -7407,13 +7407,13 @@ section {
     margin-bottom: 20px;
 }
 .icon-bg-1 {
-    background-image: url(images/bg/bg-iconbox1.jpg);
+    background-color: white;
 }
 .icon-bg-2 {
-    background-image: url(images/bg/bg-iconbox2.jpg);
+      background-color: white;
 }
 .icon-bg-3 {
-    background-image: url(images/bg/bg-iconbox3.jpg);
+      background-color: white;
 }
 .icon-bg-4 {
     background-image: url(images/bg/bg-iconbox4.jpg);
@@ -7425,13 +7425,13 @@ section {
     background-image: url(images/bg/bg-iconbox6.jpg);
 }
 .icon-bg-1:hover {
-    background-image: url(images/bg/bg-iconbox1-hover.jpg);
+  background-color: #1a1a1a;
 }
 .icon-bg-2:hover {
-    background-image: url(images/bg/bg-iconbox2-hover.jpg);
+  background-color: #1a1a1a;
 }
 .icon-bg-3:hover {
-    background-image: url(images/bg/bg-iconbox3-hover.jpg);
+  background-color: #1a1a1a;
 }
 .icon-bg-4:hover {
     background-image: url(images/bg/bg-iconbox4-hover.jpg);

@@ -1,0 +1,58 @@
+/* =========================================
+   Portfolio Grid - Imágenes uniformes sin bordes redondeados
+   ========================================= */
+
+.projects-grid .project-item {
+  position: relative;
+  overflow: hidden;
+  height: 300px;              /* 🔹 Ajusta este valor si quieres otro alto */
+}
+
+/* Contenedor interno para aislar el filtro */
+.projects-grid .projects-thumbnail {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+}
+
+/* Imagen */
+.projects-grid .projects-thumbnail img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;          /* 🔹 Mantiene proporción sin deformar */
+  object-position: center;
+  display: block;
+  transition: filter 0.5s ease, transform 0.4s ease;
+  filter: grayscale(100%);    /* 🔹 Blanco y negro por defecto */
+}
+
+/* Hover: vuelve al color y se agranda suavemente */
+.projects-grid .project-item:hover .projects-thumbnail img {
+  filter: grayscale(0%);
+  transform: scale(1.05);
+}
+
+/* Overlay */
+.projects-grid .overlay {
+  transition: opacity 0.4s ease;
+}
+
+.projects-grid .project-item:hover .overlay {
+  opacity: 1;
+}
+
+
+
+/* Clase para tu mapa */
+.custom-map {
+  width: 100%;      /* Ajusta al tamaño que necesites */
+  height: 400px;    /* Ajusta la altura */
+  border: 0;
+  filter: grayscale(100%);
+  transition: filter 0.5s ease; /* Suaviza el cambio al pasar el cursor */
+}
+
+/* Al pasar el cursor */
+.custom-map:hover {
+  filter: grayscale(0%);
+}

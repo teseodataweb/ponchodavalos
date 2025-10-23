@@ -1,0 +1,109 @@
+/* ==========================
+   VARIABLES EDITABLES
+========================== */
+:root {
+  --card-width: 55%;       /* ancho de cada card */
+  --card-height: 120px;    /* altura de cada card */
+  --card-padding: 55px;    /* padding interno */
+  --card-radius: 12px;     /* bordes redondeados */
+  --card-bg: #fff;         /* color de fondo */
+  --card-shadow: rgba(0,0,0,0.08); /* sombra */
+  --icon-size: 40px;       /* tamaño del icono */
+  --gap-cards: 15px;       /* espacio entre cards */
+}
+
+/* Contenedor de las cards */
+.custom-info-cards {
+  display: flex;
+  justify-content: space-between; /* espaciado entre cards */
+  flex-wrap: nowrap;               /* no se rompe la fila */
+  gap: var(--gap-cards);
+  padding: 20px;
+  flex-shrink: 0;
+}
+
+/* Card individual */
+.custom-info-card {
+  display: flex;
+  align-items: center;
+  background-color: var(--card-bg);
+  border-radius: var(--card-radius);
+  padding: var(--card-padding);
+  width: var(--card-width);
+  height: var(--card-height);
+  box-shadow: 0 4px 12px var(--card-shadow);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.custom-info-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 7px 18px rgba(0,0,0,0.15);
+}
+
+/* Icono */
+.custom-info-icon {
+  width: var(--icon-size);
+  height: var(--icon-size);
+  object-fit: contain;
+  margin-right: 15px;
+}
+
+/* Texto */
+.custom-info-text h6 {
+  font-size: 12px;
+  font-weight: 600;
+  margin: 0;
+  color: #333;
+}
+
+.custom-info-text p {
+  font-size: 12px;
+  margin: 0;
+  color: #555;
+}
+
+/* ==========================
+   RESPONSIVE
+========================== */
+@media (max-width: 1200px) {
+  :root {
+    --card-width: 22%;
+    --card-height: 200px;
+    --icon-size: 36px;
+  }
+}
+
+@media (max-width: 992px) {
+  :root {
+    --card-width: 28%;
+    --card-height: 180px;
+    --icon-size: 32px;
+  }
+}
+
+@media (max-width: 768px) {
+  .custom-info-cards {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  :root {
+    --card-width: 40%;
+    --card-height: 160px;
+    --icon-size: 28px;
+  }
+}
+
+@media (max-width: 576px) {
+  .custom-info-cards {
+    flex-direction: column;
+    align-items: center;
+  }
+  :root {
+    --card-width: 90%;
+    --card-height: auto;
+    --icon-size: 28px;
+  }
+  .custom-info-card {
+    margin-bottom: 10px;
+  }
+}
