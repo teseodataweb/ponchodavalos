@@ -13,6 +13,7 @@
 <link href="css/flaticon.css" rel="stylesheet"/>
 <link href="css/owl.carousel.min.css" rel="stylesheet"/>
 <link href="css/owl.theme.css" rel="stylesheet"/>
+<link rel="stylesheet" href="css/dark-mode.css">
 <link href="css/magnific-popup.css" rel="stylesheet"/>
 <link href="css/lightgallery.css" rel="stylesheet"/>
 <link href="css/woocommerce.css" rel="stylesheet"/>
@@ -416,6 +417,10 @@
                             </figure>
                         </div>
                     </div>
+                    <button id="darkModeToggle" style="position:fixed; bottom:20px; right:20px; z-index:999; padding:10px 15px; background:#333; color:#fff; border:none; border-radius:5px; cursor:pointer;">
+    Dark Mode
+</button>
+
                     <div class="ot-heading ">
                         <h2 class="main-heading">Contact Info</h2>
                     </div>
@@ -447,16 +452,18 @@
             </div>
         </div>
 <div class="site-content" id="content">
-<div class="page-header dtable text-center header-transparent pheader-portfolio-detail">
-<div class="dcell">
-<div class="container">
-<h1 class="page-title">Altomar C6</h1>
-<ul class="breadcrumbs none-style" id="breadcrumbs">
-<li class="active">Tu estilo de vida soñado con vistas panorámicas al mar.</li>
-</ul>
+<div class="page-header dtable text-center header-transparent custom-header"
+     style="background-image: url('images/porpied/1/header.jpg');">
+  <div class="dcell">
+    <div class="container">
+      <h1 class="page-title">Altomar C6</h1>
+      <ul class="breadcrumbs none-style" id="breadcrumbs">
+        <li class="active">Tu estilo de vida soñado con vistas panorámicas al mar.</li>
+      </ul>
+    </div>
+  </div>
 </div>
-</div>
-</div>
+
 <section class="portfolio-detail p-0">
 <div class="container">
 <div class="row">
@@ -541,57 +548,65 @@
 <div class="row">
 <div class="col-md-12">
 <div class="row g-4">
+  <!-- Amenities -->
   <div class="col-6 col-md-3">
     <div class="card custom-card-expand h-100">
       <div class="card-body">
+        <img src="images/iconos_properties/amenities.png" alt="Amenities" class="card-icon-img">
         <h6 class="card-title">Amenities</h6>
-        <div class="card-content">
-          <ul class="list-unstyled mb-0">
-            <li>Accessibility Features</li>
-            <li>Accessible Stairways</li>
-            <li>Pool</li>
-            <li>Elevator</li>
-          </ul>
-        </div>
+      </div>
+      <div class="card-content">
+        <ul class="list-unstyled mb-0">
+          <li>Accessibility Features</li>
+          <li>Accessible Stairways</li>
+          <li>Pool</li>
+          <li>Elevator</li>
+        </ul>
       </div>
     </div>
   </div>
 
+  <!-- Devices -->
   <div class="col-6 col-md-3">
     <div class="card custom-card-expand h-100">
       <div class="card-body">
+        <img src="images/iconos_properties/AC.png" alt="Devices" class="card-icon-img">
         <h6 class="card-title">Devices</h6>
-        <div class="card-content">
-          <ul class="list-unstyled mb-0">
-            <li>Air Conditioning: Mini-Split</li>
-          </ul>
-        </div>
+      </div>
+      <div class="card-content">
+        <ul class="list-unstyled mb-0">
+          <li>Air Conditioning: Mini-Split</li>
+        </ul>
       </div>
     </div>
   </div>
 
+  <!-- Electricity -->
   <div class="col-6 col-md-3">
     <div class="card custom-card-expand h-100">
       <div class="card-body">
+        <img src="images/iconos_properties/electricity.png" alt="Electricity" class="card-icon-img">
         <h6 class="card-title">Electricity</h6>
-        <div class="card-content">
-          <ul class="list-unstyled mb-0">
-            <li>CFE</li>
-          </ul>
-        </div>
+      </div>
+      <div class="card-content">
+        <ul class="list-unstyled mb-0">
+          <li>CFE</li>
+        </ul>
       </div>
     </div>
   </div>
 
+  <!-- Location -->
   <div class="col-6 col-md-3">
     <div class="card custom-card-expand h-100">
       <div class="card-body">
+        <img src="images/iconos_properties/location.png" alt="Location" class="card-icon-img">
         <h6 class="card-title">Location</h6>
-        <div class="card-content">
-          <ul class="list-unstyled mb-0">
-            <li>City</li>
-          </ul>
-        </div>
+      </div>
+      <div class="card-content">
+        <ul class="list-unstyled mb-0">
+          <li>City</li>
+        </ul>
       </div>
     </div>
   </div>
@@ -603,41 +618,24 @@
 
 
 
-<!-- 
-<div class="space-20"></div>
-<div class="row">
-<div class="col-lg-3 col-md-6 col-sm-6 col-6 mb-5 mb-lg-0">
-<div class="room-area">
-<h3>[30m<sup>2</sup>]</h3>
-<h6>bedroom</h6>
-</div>
-</div>
-<div class="col-lg-3 col-md-6 col-sm-6 col-6 mb-5 mb-lg-0">
-<div class="room-area">
-<h3>[22m<sup>2</sup>]</h3>
-<h6>bedroom</h6>
-</div>
-</div>
-<div class="col-lg-3 col-md-6 col-sm-6 col-6">
-<div class="room-area">
-<h3>[28m<sup>2</sup>]</h3>
-<h6>workspace</h6>
-</div>
-</div>
-<div class="col-lg-3 col-md-6 col-sm-6 col-6">
-<div class="room-area">
-<h3>[28m<sup>2</sup>]</h3>
-<h6>kitchen area</h6>
-</div>
-</div> -->
-<!-- </div> -->
 <div class="space-50"></div>
 <div class="row">
 <div class="col-md-12">
 <h4>Location</h4>
 <p>1233 Andador Panama C6 Altomar C6 JA
 Puerto Vallarta</p>
-<iframe  class="custom-map" src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d233.8221968907069!2d-105.22699534645879!3d20.618043580200524!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e1!3m2!1ses-419!2smx!4v1760566456683!5m2!1ses-419!2smx" width="1280" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe><div class="space-30"></div>
+<iframe  
+    class="custom-map mapa-blanco-negro" 
+    src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d233.8221968907069!2d-105.22699534645879!3d20.618043580200524!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e1!3m2!1ses-419!2smx!4v1760566456683!5m2!1ses-419!2smx" 
+    width="1280" 
+    height="450" 
+    style="border:0;" 
+    allowfullscreen="" 
+    loading="lazy" 
+    referrerpolicy="no-referrer-when-downgrade">
+</iframe>
+
+<div class="space-30"></div>
 <div class="projects-grid pf_3_cols style-1 img-scale w-auto m-0">
 <h2>Ready to Visit This Property?</h2>
 <div class="cta-container">
@@ -649,12 +647,7 @@ Puerto Vallarta</p>
                                                 </a>
 </div>
 </div>
-<div class="share-portfolio">
-<a class="twit" href="twitter.html" target="_blank" title="Twitter"><i class="fab fa-twitter"></i></a>
-<a class="face" href="facebook.html" target="_blank" title="Facebook"><i class="fab fa-facebook-f"></i></a>
-<a class="pint" href="pinterest.html" target="_blank" title="Pinterest"><i class="fab fa-pinterest-p"></i></a>
-<a class="linked" href="linkedin.html" target="_blank" title="LinkedIn"><i class="fab fa-linkedin-in"></i></a>
-</div>
+
 </div>
 </div>
 <div class="project-bottom">
@@ -780,6 +773,7 @@ Puerto Vallarta</p>
 <script src="js/easypiechart.min.js"></script>
 <script src="js/jquery.countdown.min.js"></script>
 <script src="js/scripts.js"></script>
+<script src="js/dark-mode.js"></script>
 <script src="js/royal_preloader.min.js"></script>
 <script>
         window.jQuery = window.$ = jQuery;  

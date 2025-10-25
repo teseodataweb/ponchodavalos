@@ -1,23 +1,38 @@
 .custom-card-expand {
-  background: #9f9e9e; /* gris oscuro */
+  background: #2a2a2a; /* gris oscuro */
   color: #ffffff; /* texto blanco */
   border-radius: 10px;
   box-shadow: 0 3px 8px rgba(0, 0, 0, 0.12);
   transition: transform 0.3s ease, height 0.3s ease;
   cursor: pointer;
   overflow: hidden;
-  margin: 15px 0; /* separa las cards arriba y abajo */
+  margin: 15px 0;
+  width: 100%;
 }
 
 .card-body {
   padding: 15px;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  flex-wrap: nowrap;
+}
+
+.card-icon-img {
+  width: 28px;
+  height: 28px;
+  object-fit: contain;
+  flex-shrink: 0;
+  filter: brightness(0) invert(1); /* íconos blancos si son oscuros */
+  transition: transform 0.3s ease;
 }
 
 .card-title {
   font-size: 16px;
   font-weight: 600;
-  margin-bottom: 10px;
-  color: #ffffff; /* asegura que los títulos sean blancos */
+  margin: 0;
+  color: #ffffff;
+  line-height: 1.2;
 }
 
 .card-content {
@@ -25,10 +40,71 @@
   overflow: hidden;
   transition: max-height 0.3s ease, opacity 0.3s ease;
   opacity: 0;
-  color: #ffffff; /* texto de la lista también blanco */
+  color: #ffffff;
+  padding: 0 15px 10px 15px;
+}
+
+.custom-card-expand:hover .card-icon-img {
+  transform: scale(1.1);
 }
 
 .custom-card-expand:hover .card-content {
-  max-height: 500px; /* ajusta según altura del contenido */
+  max-height: 500px;
   opacity: 1;
+}
+
+/* --- 📱 ESTILOS RESPONSIVE --- */
+
+/* Dispositivos medianos (tablets) */
+@media (max-width: 992px) {
+  .card-body {
+    padding: 12px;
+    gap: 8px;
+  }
+
+  .card-icon-img {
+    width: 26px;
+    height: 26px;
+  }
+
+  .card-title {
+    font-size: 15px;
+  }
+
+  .card-content {
+    font-size: 14px;
+  }
+}
+
+/* Dispositivos pequeños (teléfonos) */
+@media (max-width: 576px) {
+  .custom-card-expand {
+    margin: 10px 0;
+    border-radius: 8px;
+  }
+
+  .card-body {
+    padding: 10px;
+    gap: 8px;
+  }
+
+  .card-icon-img {
+    width: 22px;
+    height: 22px;
+  }
+
+  .card-title {
+    font-size: 14px;
+  }
+
+  .card-content {
+    font-size: 13px;
+    padding: 0 10px 10px 10px;
+  }
+
+  /* Quita el hover si es pantalla táctil */
+  .custom-card-expand:hover .card-content {
+    max-height: none;
+    opacity: 1;
+  }
 }

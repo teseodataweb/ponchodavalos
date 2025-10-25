@@ -1,0 +1,43 @@
+/* Contenedor de texto + imagen */
+.text-image-wrapper {
+    display: flex;
+    align-items: flex-start; /* Alinea la imagen con el inicio del texto */
+    gap: 30px; /* Espacio entre texto e imagen */
+}
+
+/* Texto */
+.text-image-wrapper .text-content {
+    flex: 1 1 60%; /* Ocupa 60% del ancho */
+    text-align: left;
+}
+
+/* Imagen */
+.text-image-wrapper .image-content {
+    flex: 1 1 35%; /* Ocupa 35% del ancho */
+}
+
+.text-image-wrapper .image-content img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px; /* opcional */
+}
+
+/* Responsivo: en móviles, imagen debajo del texto */
+@media (max-width: 767px) {
+    .text-image-wrapper {
+        flex-direction: column;
+        gap: 20px;
+    }
+    .text-image-wrapper .image-content {
+        text-align: center;
+    }
+}
+
+
+.services-map {
+    margin-top: 50px; /* Ajusta el espacio superior */
+    width: 100%;      /* Asegura que el iframe ocupe todo el ancho */
+    height: 450px;    /* Mantén la altura que quieras */
+    border: 0;
+    filter: grayscale(100%) contrast(90%) brightness(110%);
+}

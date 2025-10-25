@@ -43,16 +43,9 @@
 
 
 
-/* Clase para tu mapa */
-.custom-map {
-  width: 100%;      /* Ajusta al tamaño que necesites */
-  height: 400px;    /* Ajusta la altura */
-  border: 0;
-  filter: grayscale(100%);
-  transition: filter 0.5s ease; /* Suaviza el cambio al pasar el cursor */
-}
-
-/* Al pasar el cursor */
-.custom-map:hover {
-  filter: grayscale(0%);
+/* Efecto blanco y negro para mapas */
+.mapa-blanco-negro {
+  filter: grayscale(100%) contrast(90%) brightness(110%);
+  -webkit-filter: grayscale(100%) contrast(90%) brightness(110%);
+  transition: filter 0.3s ease;
 }

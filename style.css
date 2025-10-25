@@ -4215,7 +4215,6 @@ object {
   padding-left: 50px;
   font-weight: 300;
 }
-
 /*--------------------------------------------------------------
 ## Testimonials
 --------------------------------------------------------------*/
@@ -4296,11 +4295,17 @@ object {
   margin-bottom: 3px;
 }
 
-.ot-testimonials.v-dark .ot-testimonials-slider-s1 .octf-swiper-button-next, .ot-testimonials.v-dark .ot-testimonials-slider-s1 .octf-swiper-button-prev, .ot-testimonials.v-dark .ot-testimonials-slider-s2 .octf-swiper-button-next, .ot-testimonials.v-dark .ot-testimonials-slider-s2 .octf-swiper-button-prev {
+.ot-testimonials.v-dark .ot-testimonials-slider-s1 .octf-swiper-button-next,
+.ot-testimonials.v-dark .ot-testimonials-slider-s1 .octf-swiper-button-prev,
+.ot-testimonials.v-dark .ot-testimonials-slider-s2 .octf-swiper-button-next,
+.ot-testimonials.v-dark .ot-testimonials-slider-s2 .octf-swiper-button-prev {
   color: #fff;
   background: #0a0a0a;
 }
-.ot-testimonials.v-dark .ot-testimonials-slider-s1 .octf-swiper-button-next:hover, .ot-testimonials.v-dark .ot-testimonials-slider-s1 .octf-swiper-button-prev:hover, .ot-testimonials.v-dark .ot-testimonials-slider-s2 .octf-swiper-button-next:hover, .ot-testimonials.v-dark .ot-testimonials-slider-s2 .octf-swiper-button-prev:hover {
+.ot-testimonials.v-dark .ot-testimonials-slider-s1 .octf-swiper-button-next:hover,
+.ot-testimonials.v-dark .ot-testimonials-slider-s1 .octf-swiper-button-prev:hover,
+.ot-testimonials.v-dark .ot-testimonials-slider-s2 .octf-swiper-button-next:hover,
+.ot-testimonials.v-dark .ot-testimonials-slider-s2 .octf-swiper-button-prev:hover {
   color: #919191;
 }
 .ot-testimonials.v-dark .octf-swiper-pagination .swiper-pagination-bullet {
@@ -4310,7 +4315,8 @@ object {
   background: #fff;
   border-color: #fff;
 }
-.ot-testimonials.v-dark .testi-item .t-head h6, .ot-testimonials.v-dark .testi-item .t-head h5 {
+.ot-testimonials.v-dark .testi-item .t-head h6,
+.ot-testimonials.v-dark .testi-item .t-head h5 {
   color: #fff;
 }
 .ot-testimonials.v-dark .testi-item .ttext {
@@ -4340,6 +4346,84 @@ object {
     margin-right: 15px;
   }
 }
+
+/* Hacemos que las cards tengan altura uniforme */
+.ot-testimonials .testimonial-inner {
+  display: flex;
+  flex-wrap: wrap; /* por si hay varias filas */
+  gap: 20px;       /* espacio entre cards */
+}
+
+.ot-testimonials .testi-item {
+  display: flex;
+  flex-direction: column; /* que ttext y t-head se acomoden verticalmente */
+  justify-content: space-between; /* ttext arriba, t-head abajo */
+  background: #fff;
+  border: 1px solid #e0e0e0;
+  border-radius: 12px;
+  padding: 20px;
+  height: 100%; /* se ajusta al contenedor flex */
+  box-sizing: border-box;
+}
+
+/* Igualamos altura de todos los .ttext usando flex-grow */
+.ot-testimonials .testi-item .ttext {
+  flex-grow: 1; /* ocupa todo el espacio disponible */
+  margin-bottom: 20px; /* separa del t-head */
+}
+
+/* Opcional: mantener la imagen y texto alineados */
+.ot-testimonials .t-head {
+  display: flex;
+  align-items: center;
+}
+
+
+/* ==========================================================
+   🔹 AJUSTE NUEVO PARA UNIFICAR EL TAMAÑO DE TODAS LAS CARDS
+   ========================================================== */
+.ot-testimonials {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: center;
+}
+
+.ot-testimonials .testi-item {
+  flex: 1 1 300px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  background: #fff;
+  border: 1px solid #e0e0e0;
+  border-radius: 10px;
+  padding: 20px;
+  box-sizing: border-box;
+  min-height: 400px; /* 🔹 altura uniforme */
+  max-width: 350px;  /* 🔹 evita cards muy anchas */
+  text-align: left;
+}
+
+/* Mantener el contenido centrado visualmente */
+.ot-testimonials .testi-item .ttext {
+  flex-grow: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+/* 🔹 Versión modo oscuro coherente */
+.dark-mode .ot-testimonials .testi-item {
+  background: #0a0a0a;
+  border-color: #292929;
+  color: #fff;
+}
+
+.dark-mode .ot-testimonials .testi-item .ttext {
+  color: #ddd;
+}
+
 /*--------------------------------------------------------------
 ## Image Carousel
 --------------------------------------------------------------*/

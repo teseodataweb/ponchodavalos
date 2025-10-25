@@ -1,0 +1,118 @@
+/* ==========================
+   Testimonials Cards
+========================== */
+.testi-carousel .testi-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  background: #fff;
+  border: 1px solid #e0e0e0;
+  border-radius: 12px;
+  padding: 30px 25px;
+  min-height: 300px; /* altura uniforme */
+  box-shadow: 0 4px 10px rgba(0,0,0,0.05);
+  box-sizing: border-box;
+  transition: transform 0.3s ease;
+}
+
+.testi-carousel .testi-card:hover {
+  transform: translateY(-5px);
+}
+
+.testi-carousel .testi-card .ttext {
+  font-size: 16px;
+  line-height: 1.6;
+  color: #333;
+  margin-bottom: 20px;
+  flex-grow: 1; /* hace que las cards tengan la misma altura */
+}
+
+.testi-carousel .testi-card .t-head {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+}
+
+.testi-carousel .testi-card .t-head img {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+.testi-carousel .testi-card .tinfo h6 {
+  margin: 0 0 4px 0;
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.testi-carousel .testi-card .tinfo span {
+  font-size: 13px;
+  text-transform: uppercase;
+  color: #777;
+}
+
+/* ==========================
+   Owl Carousel Overrides
+========================== */
+.owl-carousel .owl-nav button {
+  background: #0a0a0a;
+  color: #fff;
+  border-radius: 50%;
+  padding: 8px 12px;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  font-size: 18px;
+}
+
+.owl-carousel .owl-nav button:hover {
+  background: #333;
+}
+
+.owl-carousel .owl-nav button.owl-prev {
+  left: -25px;
+}
+
+.owl-carousel .owl-nav button.owl-next {
+  right: -25px;
+}
+
+.owl-carousel .owl-dots {
+  text-align: center;
+  margin-top: 15px;
+}
+
+.owl-carousel .owl-dots .owl-dot span {
+  width: 12px;
+  height: 12px;
+  background: #ccc;
+  display: inline-block;
+  border-radius: 50%;
+  margin: 0 4px;
+}
+
+.owl-carousel .owl-dots .owl-dot.active span {
+  background: #0a0a0a;
+}
+
+/* ==========================
+   Responsive
+========================== */
+@media (max-width: 992px) {
+  .testi-carousel .testi-card {
+    min-height: 280px;
+  }
+}
+
+@media (max-width: 768px) {
+  .testi-carousel .testi-card {
+    min-height: auto;
+  }
+  .owl-carousel .owl-nav button.owl-prev {
+    left: -15px;
+  }
+  .owl-carousel .owl-nav button.owl-next {
+    right: -15px;
+  }
+}

@@ -20,6 +20,7 @@
 <link href="css/royal-preload.css" rel="stylesheet"/>
 <link rel="stylesheet" href="css/cards.css">
 <link rel="stylesheet" href="css/carousel.css">
+<link rel="stylesheet" href="css/dark-mode.css">
 
 
 <style>
@@ -418,6 +419,10 @@
                             </figure>
                         </div>
                     </div>
+                    <button id="darkModeToggle" style="position:fixed; bottom:20px; right:20px; z-index:999; padding:10px 15px; background:#333; color:#fff; border:none; border-radius:5px; cursor:pointer;">
+    Dark Mode
+</button>
+
                     <div class="ot-heading ">
                         <h2 class="main-heading">Contact Info</h2>
                     </div>
@@ -533,186 +538,134 @@
 
 <div class="row g-4">
 
+  <!-- Amenities & Accessibility -->
   <div class="col-md-4 mb-4">
     <div class="card custom-card-expand h-100">
       <div class="card-body">
-        <h6 class="card-title">Accessibility Features</h6>
-        <div class="card-content">
-          <ul>
-            <li>Accessibility Features</li>
-            <li>Accessible Stairways</li>
-            <li>Accessible Entrance</li>
-          </ul>
-        </div>
+        <img src="images/iconos_properties/amenities.png" alt="Amenities & Accessibility" class="card-icon-img">
+        <h6 class="card-title">Amenities & Accessibility</h6>
+      </div>
+      <div class="card-content">
+        <ul>
+          <li>Wheelchair Accessible</li>
+          <li>Accessible Stairways</li>
+          <li>Accessible Entrance</li>
+          <li>Swimming Pool</li>
+          <li>Elevator</li>
+          <li>Gym</li>
+        </ul>
       </div>
     </div>
   </div>
 
+  <!-- Appliances & Devices -->
   <div class="col-md-4 mb-4">
     <div class="card custom-card-expand h-100">
       <div class="card-body">
-        <h6 class="card-title">Appliances</h6>
-        <div class="card-content">
-          <ul>
-            <li>Electric Stove</li>
-            <li>Washer/Dryer Connection</li>
-            <li>Range Hood / Ventilation</li>
-          </ul>
-        </div>
+        <img src="images/iconos_properties/AC.png" alt="Appliances & Devices" class="card-icon-img">
+        <h6 class="card-title">Appliances & Devices</h6>
+      </div>
+      <div class="card-content">
+        <ul>
+          <li>Electric Stove</li>
+          <li>Washer/Dryer Connection</li>
+          <li>Range Hood / Ventilation</li>
+          <li>Refrigerator/Freezer</li>
+          <li>Microwave</li>
+          <li>Dishwasher</li>
+          <li>Air Conditioning: Mini-Split</li>
+          <li>Heating</li>
+        </ul>
       </div>
     </div>
   </div>
 
+  <!-- Utilities -->
   <div class="col-md-4 mb-4">
     <div class="card custom-card-expand h-100">
       <div class="card-body">
-        <h6 class="card-title">Common Amenities</h6>
-        <div class="card-content">
-          <ul>
-            <li>Swimming Pool</li>
-            <li>Elevator</li>
-          </ul>
-        </div>
+        <img src="images/iconos_properties/utilities.png" alt="Utilities" class="card-icon-img">
+        <h6 class="card-title">Utilities</h6>
+      </div>
+      <div class="card-content">
+        <ul>
+          <li>Electricity: CFE</li>
+          <li>Water: City Service</li>
+          <li>Sewer System: Connected to City Network</li>
+        </ul>
       </div>
     </div>
   </div>
 
+  <!-- Property Details -->
   <div class="col-md-4 mb-4">
     <div class="card custom-card-expand h-100">
       <div class="card-body">
-        <h6 class="card-title">Construction</h6>
-        <div class="card-content">
-          <ul>
-            <li>Floor Type: Ceramic</li>
-          </ul>
-        </div>
+        <img src="images/iconos_properties/property.png" alt="Property Details" class="card-icon-img">
+        <h6 class="card-title">Property Details</h6>
+      </div>
+      <div class="card-content">
+        <ul>
+          <li>Property Showing: By Appointment, Agent Must Accompany</li>
+          <li>Property Title: Deed</li>
+          <li>Unit Details: Balcony</li>
+        </ul>
       </div>
     </div>
   </div>
 
+  <!-- HOA Fee Information -->
   <div class="col-md-4 mb-4">
     <div class="card custom-card-expand h-100">
       <div class="card-body">
-        <h6 class="card-title">Devices</h6>
-        <div class="card-content">
-          <ul>
-            <li>Air Conditioning: Mini-Split</li>
-            <li>Heating</li>
-          </ul>
-        </div>
-      </div>
-    </div>
-  </div>
-
-  <div class="col-md-4 mb-4">
-    <div class="card custom-card-expand h-100">
-      <div class="card-body">
-        <h6 class="card-title">Electricity</h6>
-        <div class="card-content">
-          <ul>
-            <li>CFE</li>
-          </ul>
-        </div>
-      </div>
-    </div>
-  </div>
-
-  <div class="col-md-4 mb-4">
-    <div class="card custom-card-expand h-100">
-      <div class="card-body">
-        <h6 class="card-title">Property Showing</h6>
-        <div class="card-content">
-          <ul>
-            <li>By Appointment</li>
-            <li>Agent Must Accompany</li>
-          </ul>
-        </div>
-      </div>
-    </div>
-  </div>
-
-  <div class="col-md-4 mb-4">
-    <div class="card custom-card-expand h-100">
-      <div class="card-body">
+        <img src="images/iconos_properties/fee.png" alt="HOA Fee Information" class="card-icon-img">
         <h6 class="card-title">HOA Fee Information</h6>
-        <div class="card-content">
-          <ul>
-            <li>Monthly Fee (MXN): 4,050</li>
-            <li>Swimming Pool Maintenance</li>
-            <li>Electricity in Common Areas</li>
-            <li>Common Area Maintenance</li>
-          </ul>
-        </div>
+      </div>
+      <div class="card-content">
+        <ul>
+          <li>Monthly Fee (MXN): 4,050</li>
+          <li>Swimming Pool Maintenance</li>
+          <li>Electricity in Common Areas</li>
+          <li>Common Area Maintenance</li>
+        </ul>
       </div>
     </div>
   </div>
 
+  <!-- Location & Road -->
   <div class="col-md-4 mb-4">
     <div class="card custom-card-expand h-100">
       <div class="card-body">
-        <h6 class="card-title">Location</h6>
-        <div class="card-content">
-          <ul>
-            <li>City</li>
-          </ul>
-        </div>
+        <img src="images/iconos_properties/location.png" alt="Location & Road" class="card-icon-img">
+        <h6 class="card-title">Location & Road</h6>
+      </div>
+      <div class="card-content">
+        <ul>
+          <li>City</li>
+          <li>Road Type: Cobblestone Street</li>
+        </ul>
       </div>
     </div>
   </div>
 
+  <!-- Walls & Construction -->
   <div class="col-md-4 mb-4">
     <div class="card custom-card-expand h-100">
       <div class="card-body">
-        <h6 class="card-title">Road Type</h6>
-        <div class="card-content">
-          <ul>
-            <li>Cobblestone Street</li>
-          </ul>
-        </div>
+        <img src="images/iconos_properties/materials.png" alt="Walls & Construction" class="card-icon-img">
+        <h6 class="card-title">Walls & Construction</h6>
       </div>
-    </div>
-  </div>
-
-  <div class="col-md-4 mb-4">
-    <div class="card custom-card-expand h-100">
-      <div class="card-body">
-        <h6 class="card-title">Sewer System</h6>
-        <div class="card-content">
-          <ul>
-            <li>Connected to City Network</li>
-          </ul>
-        </div>
-      </div>
-    </div>
-  </div>
-
-  <div class="col-md-4 mb-4">
-    <div class="card custom-card-expand h-100">
-      <div class="card-body">
-        <h6 class="card-title">Walls</h6>
-        <div class="card-content">
-          <ul>
-            <li>Concrete</li>
-          </ul>
-        </div>
-      </div>
-    </div>
-  </div>
-
-  <div class="col-md-4 mb-4">
-    <div class="card custom-card-expand h-100">
-      <div class="card-body">
-        <h6 class="card-title">Water</h6>
-        <div class="card-content">
-          <ul>
-            <li>City Service</li>
-          </ul>
-        </div>
+      <div class="card-content">
+        <ul>
+          <li>Floor Type: Ceramic</li>
+          <li>Walls: Concrete</li>
+        </ul>
       </div>
     </div>
   </div>
 
 </div>
+
 
 
 <!-- <div class="space-20"></div>
@@ -761,12 +714,7 @@ Puerto Vallarta</p>
                                                 </a>
 </div>
 </div>
-<div class="share-portfolio">
-<a class="twit" href="twitter.html" target="_blank" title="Twitter"><i class="fab fa-twitter"></i></a>
-<a class="face" href="facebook.html" target="_blank" title="Facebook"><i class="fab fa-facebook-f"></i></a>
-<a class="pint" href="pinterest.html" target="_blank" title="Pinterest"><i class="fab fa-pinterest-p"></i></a>
-<a class="linked" href="linkedin.html" target="_blank" title="LinkedIn"><i class="fab fa-linkedin-in"></i></a>
-</div>
+
 </div>
 </div>
 <div class="project-bottom">
@@ -903,6 +851,7 @@ Puerto Vallarta</p>
 <script src="js/jquery.countdown.min.js"></script>
 <script src="js/scripts.js"></script>
 <script src="js/royal_preloader.min.js"></script>
+<script src="js/dark-mode.js"></script>
 <script>
         window.jQuery = window.$ = jQuery;  
         (function($) { "use strict";

@@ -20,6 +20,7 @@
 <link href="css/royal-preload.css" rel="stylesheet"/>
 <link rel="stylesheet" href="css/cards.css">
 <link rel="stylesheet" href="css/carousel.css">
+<link rel="stylesheet" href="css/dark-mode.css">
 
 
 <style>
@@ -418,6 +419,10 @@
                             </figure>
                         </div>
                     </div>
+                    <button id="darkModeToggle" style="position:fixed; bottom:20px; right:20px; z-index:999; padding:10px 15px; background:#333; color:#fff; border:none; border-radius:5px; cursor:pointer;">
+    Dark Mode
+</button>
+
                     <div class="ot-heading ">
                         <h2 class="main-heading">Contact Info</h2>
                     </div>
@@ -531,24 +536,28 @@
 </div>
 <div class="row">
 <div class="col-md-12">
+<!-- HOA INFORMATION -->
 <div class="col-md-4 mb-4">
   <div class="card custom-card-expand h-100">
     <div class="card-body">
-      <h6 class="card-title">HOA Fee Information</h6>
-      <div class="card-content">
-        <ul>
-          <li>Monthly Fee (MXN): 3,000</li>
-          <li>Pool Maintenance</li>
-          <li>Electricity in Common Areas</li>
-          <li>Garden Maintenance</li>
-          <li>Common Area Maintenance</li>
-          <li>On-Site Manager</li>
-          <li>Building Insurance</li>
-        </ul>
-      </div>
+      <img src="images/iconos_properties/fee.png" alt="HOA Fee Information" class="card-icon-img">
+      <h6 class="card-title">HOA Information</h6>
+    </div>
+    <div class="card-content">
+      <ul>
+        <li>Monthly Fee (MXN): 9,960</li>
+        <li>Pool Maintenance</li>
+        <li>Garden Maintenance</li>
+        <li>Electricity in Common Areas</li>
+        <li>Common Area Maintenance</li>
+        <li>On-Site Manager</li>
+        <li>Building Insurance</li>
+        <li>HOA Name: Amapas 1</li>
+      </ul>
     </div>
   </div>
 </div>
+
 
 
 <!-- 
@@ -597,12 +606,7 @@ Puerto Vallarta</p>
                                                 </a>
 </div>
 </div>
-<div class="share-portfolio">
-<a class="twit" href="twitter.html" target="_blank" title="Twitter"><i class="fab fa-twitter"></i></a>
-<a class="face" href="facebook.html" target="_blank" title="Facebook"><i class="fab fa-facebook-f"></i></a>
-<a class="pint" href="pinterest.html" target="_blank" title="Pinterest"><i class="fab fa-pinterest-p"></i></a>
-<a class="linked" href="linkedin.html" target="_blank" title="LinkedIn"><i class="fab fa-linkedin-in"></i></a>
-</div>
+
 </div>
 </div>
 <div class="project-bottom">
@@ -739,6 +743,7 @@ Puerto Vallarta</p>
 <script src="js/jquery.countdown.min.js"></script>
 <script src="js/scripts.js"></script>
 <script src="js/royal_preloader.min.js"></script>
+<script src="js/dark-mode.js"></script>
 <script>
         window.jQuery = window.$ = jQuery;  
         (function($) { "use strict";

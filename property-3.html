@@ -20,6 +20,7 @@
 <link href="css/royal-preload.css" rel="stylesheet"/>
 <link rel="stylesheet" href="css/cards.css">
 <link rel="stylesheet" href="css/carousel.css">
+<link rel="stylesheet" href="css/dark-mode.css">
 
 
 <style>
@@ -418,6 +419,10 @@
                             </figure>
                         </div>
                     </div>
+                    <button id="darkModeToggle" style="position:fixed; bottom:20px; right:20px; z-index:999; padding:10px 15px; background:#333; color:#fff; border:none; border-radius:5px; cursor:pointer;">
+    Dark Mode
+</button>
+
                     <div class="ot-heading ">
                         <h2 class="main-heading">Contact Info</h2>
                     </div>
@@ -628,203 +633,155 @@
 <div class="col-md-12">
 <div class="row g-4">
 
+  <!-- AMENITIES -->
   <div class="col-md-4 mb-4">
     <div class="card custom-card-expand h-100">
       <div class="card-body">
-        <h6 class="card-title">Amenities</h6>
-        <div class="card-content">
-          <ul>
-            <li>Garden</li>
-            <li>Swimming Pool</li>
-            <li>Jacuzzi</li>
-            <li>24-Hour Security</li>
-            <li>Elevator</li>
-            <li>Picnic Area</li>
-            <li>Security Guard</li>
-            <li>Pool Heater</li>
-            <li>Gym</li>
-          </ul>
+        <img class="card-icon-img" src="images/iconos_properties/amenities.png" alt="Amenities">
+        <div>
+          <h6 class="card-title">Amenities</h6>
+          <div class="card-content">
+            <ul>
+              <li>Garden</li>
+              <li>Swimming Pool</li>
+              <li>Jacuzzi</li>
+              <li>24-Hour Security</li>
+              <li>Elevator</li>
+              <li>Picnic Area</li>
+              <li>Security Guard</li>
+              <li>Pool Heater</li>
+              <li>Gym</li>
+            </ul>
+          </div>
         </div>
       </div>
     </div>
   </div>
 
+  <!-- APPLIANCES & DEVICES -->
   <div class="col-md-4 mb-4">
     <div class="card custom-card-expand h-100">
       <div class="card-body">
-        <h6 class="card-title">Appliances</h6>
-        <div class="card-content">
-          <ul>
-            <li>Stove (Electric)</li>
-            <li>Refrigerator/Freezer</li>
-            <li>Oven (Electric)</li>
-            <li>Microwave</li>
-            <li>Dishwasher</li>
-          </ul>
+        <img class="card-icon-img" src="images/iconos_properties/AC.png" alt="Appliances">
+        <div>
+          <h6 class="card-title">Appliances & Devices</h6>
+          <div class="card-content">
+            <ul>
+              <li>Stove (Electric)</li>
+              <li>Refrigerator/Freezer</li>
+              <li>Oven (Electric)</li>
+              <li>Microwave</li>
+              <li>Dishwasher</li>
+              <li>Window Air Conditioner</li>
+            </ul>
+          </div>
         </div>
       </div>
     </div>
   </div>
 
+  <!-- UTILITIES -->
   <div class="col-md-4 mb-4">
     <div class="card custom-card-expand h-100">
       <div class="card-body">
-        <h6 class="card-title">Devices</h6>
-        <div class="card-content">
-          <ul>
-            <li>Window Air Conditioner</li>
-          </ul>
+        <img class="card-icon-img" src="images/iconos_properties/utilities.png" alt="Utilities">
+        <div>
+          <h6 class="card-title">Utilities</h6>
+          <div class="card-content">
+            <ul>
+              <li>Electricity: CFE</li>
+              <li>Water: City Service</li>
+              <li>Sewer System: Connected to City Network</li>
+              <li>Gas</li>
+            </ul>
+          </div>
         </div>
       </div>
     </div>
   </div>
 
+  <!-- HOA INFORMATION -->
   <div class="col-md-4 mb-4">
     <div class="card custom-card-expand h-100">
       <div class="card-body">
-        <h6 class="card-title">Electricity</h6>
-        <div class="card-content">
-          <ul>
-            <li>CFE</li>
-          </ul>
+        <img class="card-icon-img" src="images/iconos_properties/fee.png" alt="HOA">
+        <div>
+          <h6 class="card-title">HOA Information</h6>
+          <div class="card-content">
+            <ul>
+              <li>Monthly Fee (MXN): 9,960</li>
+              <li>Pool Maintenance</li>
+              <li>Garden Maintenance</li>
+              <li>Common Area Maintenance</li>
+              <li>On-Site Manager</li>
+              <li>HOA Name: Amapas 1</li>
+            </ul>
+          </div>
         </div>
       </div>
     </div>
   </div>
 
+  <!-- PROPERTY SHOWING -->
   <div class="col-md-4 mb-4">
     <div class="card custom-card-expand h-100">
       <div class="card-body">
-        <h6 class="card-title">Property Showing</h6>
-        <div class="card-content">
-          <ul>
-            <li>By Appointment</li>
-            <li>Minimum 24-Hour Notice</li>
-            <li>Agent Must Accompany</li>
-          </ul>
+        <img class="card-icon-img" src="images/iconos_properties/property.png" alt="Property Showing">
+        <div>
+          <h6 class="card-title">Property Showing</h6>
+          <div class="card-content">
+            <ul>
+              <li>By Appointment</li>
+              <li>Minimum 24-Hour Notice</li>
+              <li>Agent Must Accompany</li>
+            </ul>
+          </div>
         </div>
       </div>
     </div>
   </div>
 
+  <!-- UNIT DETAILS -->
   <div class="col-md-4 mb-4">
     <div class="card custom-card-expand h-100">
       <div class="card-body">
-        <h6 class="card-title">HOA Fee Information</h6>
-        <div class="card-content">
-          <ul>
-            <li>Monthly Fee (MXN): 9,960</li>
-            <li>Pool Maintenance</li>
-            <li>Garden Maintenance</li>
-            <li>Common Area Maintenance</li>
-            <li>On-Site Manager</li>
-            <li>24-Hour Security</li>
-            <li>Gym</li>
-            <li>Gas</li>
-            <li>Water</li>
-            <li>HOA Name: Amapas 1</li>
-          </ul>
+        <img class="card-icon-img" src="images/iconos_properties/unit.png" alt="Unit Details">
+        <div>
+          <h6 class="card-title">Unit Details</h6>
+          <div class="card-content">
+            <ul>
+              <li>Private Jacuzzi</li>
+              <li>Patio</li>
+              <li>Walls: Concrete</li>
+            </ul>
+          </div>
         </div>
       </div>
     </div>
   </div>
 
+  <!-- LOCATION -->
   <div class="col-md-4 mb-4">
     <div class="card custom-card-expand h-100">
       <div class="card-body">
-        <h6 class="card-title">Location</h6>
-        <div class="card-content">
-          <ul>
-            <li>Hillside</li>
-          </ul>
+        <img class="card-icon-img" src="images/iconos_properties/location.png" alt="Location">
+        <div>
+          <h6 class="card-title">Location</h6>
+          <div class="card-content">
+            <ul>
+              <li>Hillside</li>
+            </ul>
+          </div>
         </div>
       </div>
     </div>
   </div>
 
-  <div class="col-md-4 mb-4">
-    <div class="card custom-card-expand h-100">
-      <div class="card-body">
-        <h6 class="card-title">Sewer System</h6>
-        <div class="card-content">
-          <ul>
-            <li>Connected to City Network</li>
-          </ul>
-        </div>
-      </div>
-    </div>
-  </div>
-
-  <div class="col-md-4 mb-4">
-    <div class="card custom-card-expand h-100">
-      <div class="card-body">
-        <h6 class="card-title">Unit Details</h6>
-        <div class="card-content">
-          <ul>
-            <li>Private Jacuzzi</li>
-            <li>Patio</li>
-          </ul>
-        </div>
-      </div>
-    </div>
-  </div>
-
-  <div class="col-md-4 mb-4">
-    <div class="card custom-card-expand h-100">
-      <div class="card-body">
-        <h6 class="card-title">Walls</h6>
-        <div class="card-content">
-          <ul>
-            <li>Concrete</li>
-          </ul>
-        </div>
-      </div>
-    </div>
-  </div>
-
-  <div class="col-md-4 mb-4">
-    <div class="card custom-card-expand h-100">
-      <div class="card-body">
-        <h6 class="card-title">Water</h6>
-        <div class="card-content">
-          <ul>
-            <li>City Service</li>
-          </ul>
-        </div>
-      </div>
-    </div>
-  </div>
-
-
-
-<!-- 
-<div class="space-20"></div>
-<div class="row">
-<div class="col-lg-3 col-md-6 col-sm-6 col-6 mb-5 mb-lg-0">
-<div class="room-area">
-<h3>[30m<sup>2</sup>]</h3>
-<h6>bedroom</h6>
 </div>
+
+
 </div>
-<div class="col-lg-3 col-md-6 col-sm-6 col-6 mb-5 mb-lg-0">
-<div class="room-area">
-<h3>[22m<sup>2</sup>]</h3>
-<h6>bedroom</h6>
-</div>
-</div>
-<div class="col-lg-3 col-md-6 col-sm-6 col-6">
-<div class="room-area">
-<h3>[28m<sup>2</sup>]</h3>
-<h6>workspace</h6>
-</div>
-</div> -->
-<!-- <div class="col-lg-3 col-md-6 col-sm-6 col-6">
-<div class="room-area">
-<h3>[28m<sup>2</sup>]</h3>
-<h6>kitchen area</h6>
-</div>
-</div>
-</div> -->
+</div> 
 <div class="space-50"></div>
 <div class="row">
 <div class="col-md-12">
@@ -843,12 +800,7 @@ Puerto Vallarta</p>
                                                 </a>
 </div>
 </div>
-<div class="share-portfolio">
-<a class="twit" href="twitter.html" target="_blank" title="Twitter"><i class="fab fa-twitter"></i></a>
-<a class="face" href="facebook.html" target="_blank" title="Facebook"><i class="fab fa-facebook-f"></i></a>
-<a class="pint" href="pinterest.html" target="_blank" title="Pinterest"><i class="fab fa-pinterest-p"></i></a>
-<a class="linked" href="linkedin.html" target="_blank" title="LinkedIn"><i class="fab fa-linkedin-in"></i></a>
-</div>
+
 </div>
 </div>
 <div class="project-bottom">
@@ -985,6 +937,7 @@ Puerto Vallarta</p>
 <script src="js/jquery.countdown.min.js"></script>
 <script src="js/scripts.js"></script>
 <script src="js/royal_preloader.min.js"></script>
+<script src="js/dark-mode.js"></script>
 <script>
         window.jQuery = window.$ = jQuery;  
         (function($) { "use strict";

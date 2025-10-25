@@ -1,0 +1,44 @@
+/* -------------------------
+   Cards estilo claro y oscuro
+---------------------------*/
+
+/* Estilo base de las cards */
+.icon-box {
+    background-color: #ffffff;  /* Fondo blanco */
+    color: #1A1A1A;            /* Letras negras */
+    border: 1px solid #ccc;     /* Borde sutil */
+    padding: 20px;
+    text-align: center;
+    transition: all 0.3s ease;
+}
+
+/* Títulos y párrafos */
+.icon-box h5 a,
+.icon-box p {
+    color: #1A1A1A;
+    transition: color 0.3s ease;
+}
+
+/* Iconos */
+.icon-box .icon-main img {
+    width: 60px;
+    height: 60px;
+    object-fit: contain;
+    filter: invert(0%); /* Icono negro */
+    transition: all 0.3s ease;
+}
+
+/* Hover de la card */
+.icon-box:hover {
+    background-color: #1A1A1A;  /* Fondo oscuro */
+    color: #ffffff;              /* Letras blancas */
+}
+
+.icon-box:hover h5 a,
+.icon-box:hover p {
+    color: #ffffff;
+}
+
+.icon-box:hover .icon-main img {
+    filter: invert(100%);        /* Icono blanco */
+}
