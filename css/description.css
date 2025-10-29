@@ -1,0 +1,60 @@
+.story-section {
+  background-color: #1a1a1a;
+  color: #fff;
+  padding: 80px 0;
+}
+
+.story-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 40px;
+  flex-wrap: wrap; /* para móviles */
+}
+
+/* Texto largo a la izquierda */
+.story-text {
+  flex: 1;
+  font-size: 1.2rem;
+  line-height: 1.6;
+  font-style: italic;
+  color: #e0e0e0;
+}
+
+/* Contenedor del autor (imagen + texto) */
+.story-author {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  flex: 1;
+}
+
+/* Imagen redonda */
+.story-author img {
+  width: 140px;
+  height: 140px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+/* Nombre y rol */
+.story-info {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.poncho-name {
+    color: #ccc;
+  font-size: 1.3rem;
+  margin: 0;
+  font-weight: 600;
+}
+
+.story-role {
+  margin: 5px 0 0;
+  font-size: 0.95rem;
+  color: #ccc;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
