@@ -8,7 +8,6 @@
     width: 100%;
     aspect-ratio: 4/3; /* Mantiene una proporción uniforme (puedes cambiarla si quieres 16/9, 1/1, etc.) */
     overflow: hidden;
-    border-radius: 10px; /* Bordes redondeados opcional */
 }
 
 /* Imagen dentro del contenedor */

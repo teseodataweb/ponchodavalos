@@ -19,7 +19,6 @@
 .text-image-wrapper .image-content img {
     max-width: 100%;
     height: auto;
-    border-radius: 8px; /* opcional */
 }
 
 /* Responsivo: en móviles, imagen debajo del texto */

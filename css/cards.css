@@ -1,7 +1,6 @@
 .custom-card-expand {
   background: #2a2a2a; /* gris oscuro */
   color: #ffffff; /* texto blanco */
-  border-radius: 10px;
   box-shadow: 0 3px 8px rgba(0, 0, 0, 0.12);
   transition: transform 0.3s ease, height 0.3s ease;
   cursor: pointer;
@@ -80,7 +79,7 @@
 @media (max-width: 576px) {
   .custom-card-expand {
     margin: 10px 0;
-    border-radius: 8px;
+    
   }
 
   .card-body {
