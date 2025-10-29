@@ -1,0 +1,30 @@
+.header-filtro {
+    position: relative;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 400px; /* ajusta según necesites */
+    overflow: hidden;
+}
+
+/* Overlay oscuro sobre la imagen */
+.header-filtro::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background: rgba(0, 0, 0, 0.5); /* brillo reducido */
+    z-index: 0;
+}
+
+/* Contenido visible encima del overlay */
+.header-filtro .dcell {
+    position: relative;
+    z-index: 1;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: #fff;
+}

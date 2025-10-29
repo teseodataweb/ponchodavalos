@@ -750,3 +750,159 @@
 
 
 } )( jQuery );
+
+
+
+
+
+// carrusel
+
+class Carrusel {
+    constructor(contenedor) {
+        this.contenedor = contenedor;
+        this.carrusel = this.contenedor.querySelector('.carrusel');
+        this.items = Array.from(this.carrusel.querySelectorAll('.item-image'));
+        this.indiceActual = 0;
+        this.itemsPorVista = 3;
+        
+        this.inicializar();
+    }
+    
+    inicializar() {
+        this.crearControles();
+        this.crearIndicadores();
+        this.actualizarVista();
+        this.agregarEventos();
+        this.ajustarItemsPorVista();
+        
+        // Escuchar cambios de tamaño de ventana
+        window.addEventListener('resize', () => {
+            this.ajustarItemsPorVista();
+            this.actualizarVista();
+        });
+    }
+    
+    crearControles() {
+        // Crear flechas de navegación
+        const flechaIzquierda = document.createElement('button');
+        flechaIzquierda.className = 'carrusel-flecha izquierda';
+        flechaIzquierda.innerHTML = '&#10094;';
+        flechaIzquierda.addEventListener('click', () => this.anterior());
+        
+        const flechaDerecha = document.createElement('button');
+        flechaDerecha.className = 'carrusel-flecha derecha';
+        flechaDerecha.innerHTML = '&#10095;';
+        flechaDerecha.addEventListener('click', () => this.siguiente());
+        
+        this.contenedor.appendChild(flechaIzquierda);
+        this.contenedor.appendChild(flechaDerecha);
+    }
+    
+    crearIndicadores() {
+        this.indicadoresContainer = document.createElement('div');
+        this.indicadoresContainer.className = 'carrusel-indicadores';
+        
+        const totalSlides = Math.ceil(this.items.length / this.itemsPorVista);
+        
+        for (let i = 0; i < totalSlides; i++) {
+            const indicador = document.createElement('button');
+            indicador.className = 'carrusel-indicador';
+            if (i === 0) indicador.classList.add('activo');
+            
+            indicador.addEventListener('click', () => {
+                this.irASlide(i);
+            });
+            
+            this.indicadoresContainer.appendChild(indicador);
+        }
+        
+        this.contenedor.appendChild(this.indicadoresContainer);
+    }
+    
+    ajustarItemsPorVista() {
+        const anchoVentana = window.innerWidth;
+        
+        if (anchoVentana <= 480) {
+            this.itemsPorVista = 1;
+        } else if (anchoVentana <= 768) {
+            this.itemsPorVista = 2;
+        } else {
+            this.itemsPorVista = 3;
+        }
+        
+        // Recrear indicadores si cambia el número de items por vista
+        this.actualizarIndicadores();
+    }
+    
+    actualizarIndicadores() {
+        if (this.indicadoresContainer) {
+            this.indicadoresContainer.remove();
+        }
+        this.crearIndicadores();
+    }
+    
+    actualizarVista() {
+        const anchoItem = 100 / this.itemsPorVista;
+        const translateX = -this.indiceActual * 100;
+        
+        this.carrusel.style.transform = `translateX(${translateX}%)`;
+        
+        // Actualizar indicadores
+        const indicadores = this.indicadoresContainer.querySelectorAll('.carrusel-indicador');
+        indicadores.forEach((ind, index) => {
+            ind.classList.toggle('activo', index === this.indiceActual);
+        });
+    }
+    
+    siguiente() {
+        const maxSlide = Math.ceil(this.items.length / this.itemsPorVista) - 1;
+        
+        if (this.indiceActual < maxSlide) {
+            this.indiceActual++;
+        } else {
+            this.indiceActual = 0; // Volver al inicio
+        }
+        
+        this.actualizarVista();
+    }
+    
+    anterior() {
+        const maxSlide = Math.ceil(this.items.length / this.itemsPorVista) - 1;
+        
+        if (this.indiceActual > 0) {
+            this.indiceActual--;
+        } else {
+            this.indiceActual = maxSlide; // Ir al final
+        }
+        
+        this.actualizarVista();
+    }
+    
+    irASlide(indice) {
+        const maxSlide = Math.ceil(this.items.length / this.itemsPorVista) - 1;
+        
+        if (indice >= 0 && indice <= maxSlide) {
+            this.indiceActual = indice;
+            this.actualizarVista();
+        }
+    }
+    
+    agregarEventos() {
+        // Eventos de teclado
+        document.addEventListener('keydown', (e) => {
+            if (e.key === 'ArrowLeft') {
+                this.anterior();
+            } else if (e.key === 'ArrowRight') {
+                this.siguiente();
+            }
+        });
+    }
+}
+
+// Inicializar el carrusel cuando el DOM esté listo
+document.addEventListener('DOMContentLoaded', function() {
+    const contenedorCarrusel = document.querySelector('.carrusel-container');
+    if (contenedorCarrusel) {
+        new Carrusel(contenedorCarrusel);
+    }
+});
