@@ -2,32 +2,35 @@
    VARIABLES EDITABLES
 ========================== */
 :root {
-  --card-width: 55%;             
-  --card-height: 120px;          
-  --card-padding: 60px;          /* 🔹 Reducido para más espacio interno */
-  --card-radius: 12px;           
-  --card-bg: #2a2a2a;            
-  --card-shadow: rgba(0,0,0,0.25);
-  --icon-size: 38px;             
-  --gap-cards: 15px;             
+  --card-width: 55%;
+  --card-height: 120px;
+  --card-padding: 60px;
+  --card-radius: 12px;
+  --card-bg: #2a2a2a;
+  --card-shadow: rgba(0, 0, 0, 0.25);
+  --icon-size: 38px;
+  --gap-cards: 15px;
 }
 
-/* Contenedor de las cards */
+/* ==========================
+   CONTENEDOR DE LAS CARDS
+========================== */
 .custom-info-cards {
   display: flex;
   justify-content: space-between;
   flex-wrap: nowrap;
   gap: var(--gap-cards);
   padding: 20px;
-  flex-shrink: 0;
+  box-sizing: border-box;
 }
 
-/* Card individual */
+/* ==========================
+   CARD INDIVIDUAL
+========================== */
 .custom-info-card {
   display: flex;
   align-items: center;
   background-color: var(--card-bg);
-  
   padding: var(--card-padding);
   width: var(--card-width);
   height: var(--card-height);
@@ -35,14 +38,17 @@
   transition: transform 0.2s ease, box-shadow 0.2s ease;
   color: #ffffff;
   text-align: left;
+  box-sizing: border-box;
 }
 
 .custom-info-card:hover {
   transform: translateY(-3px);
-  box-shadow: 0 7px 18px rgba(0,0,0,0.35);
+  box-shadow: 0 7px 18px rgba(0, 0, 0, 0.35);
 }
 
-/* Icono */
+/* ==========================
+   ICONO
+========================== */
 .custom-info-icon {
   width: var(--icon-size);
   height: var(--icon-size);
@@ -51,9 +57,11 @@
   filter: brightness(0) invert(1);
 }
 
-/* Texto */
+/* ==========================
+   TEXTO
+========================== */
 .custom-info-text h6 {
-  font-size: 13px;       /* 🔹 Más pequeño para que quepa */
+  font-size: 13px;
   font-weight: 600;
   margin: 0 0 4px 0;
   color: #ffffff;
@@ -61,7 +69,7 @@
 }
 
 .custom-info-text p {
-  font-size: 12px;       /* 🔹 Ligero ajuste */
+  font-size: 12px;
   margin: 0;
   color: #e0e0e0;
   line-height: 1.3;
@@ -76,8 +84,6 @@
     --card-height: 200px;
     --icon-size: 34px;
   }
-  .custom-info-text h6 { font-size: 12px; }
-  .custom-info-text p { font-size: 11px; }
 }
 
 @media (max-width: 992px) {
@@ -86,8 +92,6 @@
     --card-height: 180px;
     --icon-size: 32px;
   }
-  .custom-info-text h6 { font-size: 12px; }
-  .custom-info-text p { font-size: 11px; }
 }
 
 @media (max-width: 768px) {
@@ -96,107 +100,147 @@
     justify-content: center;
   }
   :root {
-    --card-width: 40%;
-    --card-height: 160px;
-    --icon-size: 28px;
-  }
-  .custom-info-text h6 { font-size: 12px; }
-  .custom-info-text p { font-size: 11px; }
-}
-
-@media (max-width: 576px) {
-  .custom-info-cards {
-    flex-direction: column;
-    align-items: center;
-  }
-  :root {
-    --card-width: 90%;
+    --card-width: 45%;
     --card-height: auto;
     --icon-size: 28px;
-  }
-  .custom-info-card {
-    margin-bottom: 10px;
+    --card-padding: 30px;
   }
 }
 
+/* ==========================
+   SOLO EN TELÉFONOS
+========================== */
+@media (max-width: 576px) {
+  .custom-info-cards {
+    flex-direction: column;       /* 🔹 Una card sobre otra */
+    align-items: center;
+    gap: 20px;
+  }
 
+  :root {
+    --card-width: 90%;           /* 🔹 Ocupan casi todo el ancho */
+    --card-height: auto;
+    --icon-size: 26px;
+    --card-padding: 25px;
+  }
+
+  .custom-info-card {
+    flex-direction: row;          /* 🔹 Mantiene el icono a la izquierda */
+    justify-content: flex-start;
+    text-align: left;
+  }
+
+  .custom-info-icon {
+    margin-right: 10px;
+    margin-bottom: 0;
+  }
+
+  .custom-info-text h6 {
+    font-size: 14px;
+  }
+
+  .custom-info-text p {
+    font-size: 13px;
+  }
+}
+
+/* ==========================
+   BOTONES CTA
+========================== */
 .cta-container {
   display: flex;
-  justify-content: space-between; /* Uno a la izquierda y otro a la derecha */
+  justify-content: space-between;
   align-items: center;
   width: 100%;
-  max-width: 900px; /* Puedes ajustar este valor */
+  max-width: 900px;
   margin: 0 auto;
   padding: 20px 0;
+  flex-wrap: wrap;
+  gap: 10px;
 }
 
 .cta-btn {
   padding: 12px 28px;
   font-weight: 600;
-  
+  border-radius: 0;
   text-decoration: none;
   transition: all 0.3s ease;
+  text-align: center;
 }
 
 /* Botón principal */
 .cta-principal {
-  background-color: #2a2a2a; /* Verde WhatsApp */
+  border-radius: 0 ;
+  background-color: #2a2a2a;
   color: #fff;
 }
 
 .cta-principal:hover {
-  background-color: #2a2a2b;
+  background-color: #3a3a3a;
 }
 
-/* Botón secundario (sin borde negro) */
+/* Botón secundario */
 .cta-secundario {
-  background-color: #444; /* Color gris oscuro */
+  background-color: #444;
   color: #fff;
 }
 
 .cta-secundario:hover {
-  background-color: #000; /* Negro al pasar el mouse */
+  background-color: #000;
   color: #fff;
 }
 
-/* En pantallas pequeñas: se apilan centrados */
+/* En pantallas pequeñas: apilados */
 @media (max-width: 768px) {
   .cta-container {
     flex-direction: column;
+    align-items: center;
     gap: 15px;
   }
 }
 
-
+/* ==========================
+   HEADER CON FILTRO OSCURO
+========================== */
 .header-filtro {
-    position: relative;
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-    width: 100%;
-    height: 400px; /* ajusta según necesites */
-    overflow: hidden;
+  position: relative;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 400px;
+  overflow: hidden;
 }
 
-/* Overlay oscuro sobre la imagen */
 .header-filtro::before {
-    content: "";
-    position: absolute;
-    inset: 0;
-    background: rgba(0, 0, 0, 0.5); /* brillo reducido */
-    z-index: 0;
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.5);
+  z-index: 0;
 }
 
-/* Contenido visible encima del overlay */
 .header-filtro .dcell {
-    position: relative;
-    z-index: 1;
-    height: 100%;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    text-align: center;
-    color: #fff;
+  position: relative;
+  z-index: 1;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  color: #fff;
+  padding: 0 15px;
+  box-sizing: border-box;
 }
 
+/* Ajuste de altura y texto en móviles */
+@media (max-width: 576px) {
+  .header-filtro {
+    height: 250px;
+  }
 
+  .header-filtro .dcell h1,
+  .header-filtro .dcell h2 {
+    font-size: 1.3rem;
+  }
+}

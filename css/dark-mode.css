@@ -152,3 +152,8 @@ body.dark-mode .testi-card:hover .ttext,
 body.dark-mode .testi-card:hover .t-head span {
     color: #ffffff;
 }
+
+.letter_black{
+     color: #0A0A0A !important; 
+    
+}

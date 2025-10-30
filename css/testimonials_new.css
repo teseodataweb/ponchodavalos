@@ -84,6 +84,7 @@
   width: 12px;
   height: 12px;
   background: #ccc;
+  border-radius: 50%;
   display: inline-block;
   margin: 0 4px;
 }

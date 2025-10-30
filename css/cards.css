@@ -51,10 +51,11 @@
   max-height: 500px;
   opacity: 1;
 }
+/* --- 📱 ESTILOS RESPONSIVE MEJORADOS --- */
 
-/* --- 📱 ESTILOS RESPONSIVE --- */
-
-/* Dispositivos medianos (tablets) */
+/* ================================
+   TABLETS (pantallas medianas)
+================================ */
 @media (max-width: 992px) {
   .card-body {
     padding: 12px;
@@ -75,35 +76,66 @@
   }
 }
 
-/* Dispositivos pequeños (teléfonos) */
+/* ================================
+   TELÉFONOS (pantallas pequeñas)
+================================ */
 @media (max-width: 576px) {
+  /* Contenedor principal de las cards */
+  .custom-card-container {
+    display: flex;
+    flex-direction: column;   /* 🔹 Una card encima de otra */
+    align-items: center;      /* 🔹 Centra horizontalmente */
+    gap: 15px;                /* 🔹 Espacio entre cards */
+    width: 100%;
+    padding: 15px;
+    box-sizing: border-box;
+  }
+
+  /* Cada card individual */
   .custom-card-expand {
-    margin: 10px 0;
-    
+    width: 90%;               /* 🔹 Ocupa casi todo el ancho */
+    margin: 1px 0;
+    border-radius: 10px;
+    box-shadow: 0 3px 10px rgba(0, 0, 0, 0.25);
+    overflow: hidden;
   }
 
   .card-body {
-    padding: 10px;
-    gap: 8px;
+    display: flex;
+    align-items: flex-start;
+    gap: 10px;
+    padding: 12px;
+    flex-direction: row;       /* 🔹 Icono a la izquierda, texto a la derecha */
+    text-align: left;
   }
 
   .card-icon-img {
-    width: 22px;
-    height: 22px;
+    width: 24px;
+    height: 24px;
+    flex-shrink: 0;
   }
 
   .card-title {
     font-size: 14px;
+    font-weight: 600;
+    margin-bottom: 5px;
   }
 
   .card-content {
     font-size: 13px;
-    padding: 0 10px 10px 10px;
+    padding: 0 8px 10px 8px;
+    line-height: 1.4;
   }
 
-  /* Quita el hover si es pantalla táctil */
+  /* 🔹 En móvil eliminamos efectos hover que no funcionan bien en pantallas táctiles */
   .custom-card-expand:hover .card-content {
     max-height: none;
     opacity: 1;
+  }
+
+  /* 🔹 Si quieres que el contenido esté completamente expandido en móvil */
+  .custom-card-expand .card-content {
+    max-height: none !important;
+    opacity: 1 !important;
   }
 }
