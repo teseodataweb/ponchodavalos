@@ -58,3 +58,41 @@
   text-transform: uppercase;
   letter-spacing: 0.5px;
 }
+
+
+
+/* --- 📱 ESTILOS RESPONSIVE --- */
+@media (max-width: 768px) {
+  .story-wrapper {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    gap: 24px;
+  }
+
+  .story-text {
+    font-size: 1rem;
+    line-height: 1.5;
+    order: 2; /* texto abajo de la imagen y nombre */
+    padding: 0 20px;
+  }
+
+  .story-author {
+    flex-direction: column;
+    align-items: center;
+    order: 1;
+  }
+
+  .story-author img {
+    width: 100px;
+    height: 100px;
+  }
+
+  .poncho-name {
+    font-size: 1.1rem;
+  }
+
+  .story-role {
+    font-size: 0.85rem;
+  }
+}
