@@ -1,0 +1,447 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "properties": "Propiedades",
+    "about": "Nosotros",
+    "services": "Servicios",
+    "blog": "Blog",
+    "contact": "Contacto",
+    "services": {
+      "comprehensive": "Asesoría Integral",
+      "investment": "Inversión para Compradores Extranjeros",
+      "secondHome": "Adquisición de Casa Secundaria",
+      "premium": "Venta de Propiedades Premium",
+      "legal": "Gestión Legal y Transaccional",
+      "market": "Análisis de Mercado y Apreciación"
+    }
+  },
+  "services": {
+    "comprehensiveAdvisory": "Asesoría Integral",
+    "investmentForeignBuyers": "Inversión para Compradores Extranjeros",
+    "secondHomeAcquisition": "Adquisición de Casa Secundaria",
+    "premiumPropertySales": "Venta de Propiedades Premium",
+    "legalTransactionManagement": "Gestión Legal y Transaccional",
+    "marketAppreciationAnalysis": "Análisis de Mercado y Apreciación"
+  },
+  "hero": {
+    "slide1": {
+      "bigText": "ESTILO DE VIDA",
+      "title": "Un Nuevo Nivel de Vida en Puerto Vallarta",
+      "description": "Descubre residencias que elevan tu estilo de vida, seleccionadas cuidadosamente con diseño, ubicación y sofisticación duradera.",
+      "button": "Explorar Propiedades"
+    },
+    "slide2": {
+      "bigText": "VISIÓN",
+      "title": "Donde el Diseño Forma el Futuro",
+      "description": "Creamos espacios que equilibran belleza atemporal con crecimiento propositivo. Diseñados para quienes ven más allá del presente.",
+      "button": "Ver Desarrollos"
+    },
+    "slide3": {
+      "bigText": "CONFIANZA",
+      "title": "Tu Aliado en Bienes Raíces en Riviera Nayarit",
+      "description": "Asesoría bilingüe, servicio personalizado y propiedades que se adapten a tu estilo de vida u objetivos de inversión.",
+      "button": "Platicamos"
+    }
+  },
+  "sidePanel": {
+    "ourGallery": "Nuestra Galería",
+    "galleryTitle": "Nuestra Galería",
+    "contactInfo": "Información de Contacto",
+    "contactInfoTitle": "Información de Contacto",
+    "address": "Puerto Vallarta, Jal",
+    "email": "hello@ponchodavalos.com.mx",
+    "phone": "+52 (322) 292-2312"
+  },
+  "story": {
+    "quote": "Incluso si no tienes un esquema claro de lo que deseas, te ayudaremos a obtener el resultado que siempre soñaste.",
+    "name": "Poncho Davalos",
+    "role": "Fundador de la Empresa"
+  },
+  "portfolio": {
+    "subtitle": "[ Algunos de Nuestros Trabajos y Casos de Éxito ]",
+    "title": "Descubre Nuestros Listados Recientes y Destacados en Bienes Raíces",
+    "description": "Descubre casas y condominios cuidadosamente seleccionados que combinan estilo de vida, comodidad y oportunidades de inversión.",
+    "filters": {
+      "all": "Todas las Propiedades",
+      "forSale": "En Venta",
+      "luxuryVillas": "Villas de Lujo",
+      "condosApartments": "Condominios y Departamentos"
+    },
+    "properties": {
+      "oceanfrontCondo": "Condominio Frente al Océano en Conchas Chinas",
+      "luxuryVilla": "Villa de Lujo en Marina Vallarta",
+      "modernApartment": "Departamento Moderno en Zona Romántica",
+      "boutiqueHome": "Vivienda Boutique en Versalles",
+      "beachfrontPenthouse": "Penthouse Frente a la Playa en Nuevo Vallarta",
+      "elegantResidence": "Residencia Elegante en Guadalajara"
+    },
+    "viewAll": "Ver Todas las Propiedades"
+  },
+  "whyChoose": {
+    "subtitle": "[ NUESTROS SERVICIOS ]",
+    "title": "Por Qué Elegir Bienes Raíces Poncho Dávalos",
+    "service1": {
+      "title": "Servicio Boutique y Personalizado",
+      "description": "Nos enfocamos en tu estilo de vida y objetivos de inversión con soluciones a la medida."
+    },
+    "service2": {
+      "title": "Experiencia Local, Visión Global",
+      "description": "Conocemos profundamente Vallarta y Nayarit, guiando a compradores internacionales con confianza y claridad."
+    },
+    "service3": {
+      "title": "Confianza y Relaciones Duraderas",
+      "description": "No solo cerramos negocios, construimos conexiones duraderas basadas en honestidad y cuidado."
+    },
+    "stats": {
+      "years": {
+        "title": "Años de Experiencia Local",
+        "description": "Guiando tu camino en bienes raíces."
+      },
+      "propertiesSold": {
+        "title": "Propiedades Vendidas",
+        "description": "Éxito comprobado en cada transacción."
+      },
+      "clientReferrals": {
+        "title": "Referencias de Clientes",
+        "description": "Construido sobre confianza e integridad."
+      }
+    }
+  },
+  "testimonials": {
+    "subtitle": "[ testimonios ]",
+    "title": "Lo Que Dicen Nuestros Clientes",
+    "client1": {
+      "text": "Encontré la casa perfecta gracias a la asesoría de Poncho. Entendió exactamente lo que necesitaba y manejó todo con gran cuidado.",
+      "name": "Fernanda López",
+      "location": "Compradora de Guadalajara, México"
+    },
+    "client2": {
+      "text": "Poncho hizo el proceso fácil y transparente. Su conocimiento de Vallarta me dio total confianza desde la primera llamada hasta el cierre.",
+      "name": "Michael Turner",
+      "location": "Inversionista de California, USA"
+    },
+    "client3": {
+      "text": "Poncho ofreció excelente asesoría y estrategia. Su atención al detalle me ayudó a asegurar una propiedad que realmente se ajusta a mis objetivos.",
+      "name": "Mariana Torres",
+      "location": "Inversionista de la Ciudad de México, México"
+    },
+    "client4": {
+      "text": "Vender mi propiedad fue más rápido de lo esperado. El marketing y seguimiento de Poncho marcaron la diferencia.",
+      "name": "Sofía Herrera",
+      "location": "Vendedora de Monterrey, México"
+    },
+    "client5": {
+      "text": "Reubicarse en México fue sin esfuerzo con la ayuda de Poncho. Su enfoque tranquilo y profesionalismo hicieron cada paso libre de estrés.",
+      "name": "Thomas Reynolds",
+      "location": "Comprador de Texas, USA"
+    },
+    "client6": {
+      "text": "Desde tours virtuales hasta la firma, todo fue fluido. La comunicación bilingüe de Poncho hizo la experiencia cómoda y fácil.",
+      "name": "David Miller",
+      "location": "Comprador de Florida, USA"
+    }
+  },
+  "cta": {
+    "title": "¿Listo para Encontrar Tu Propiedad de Ensueño?",
+    "description": "Platicamos hoy y hacemos realidad tu estilo de vida u objetivos de inversión.",
+    "button": "Agendar una Consulta"
+  },
+  "footer": {
+    "description": "Ofrecemos una amplia gama de diseño interior, diseño arquitectónico.",
+    "contactsTitle": "Contactos",
+    "latestProjectsTitle": "Proyectos Recientes",
+    "socialMediaTitle": "Redes Sociales",
+    "copyright": "Copyright © 2025",
+    "companyName": "Bienes Raíces Poncho Dávalos",
+    "allRightsReserved": "Todos los Derechos Reservados.",
+    "termsOfUse": "Términos de Uso",
+    "privacyPolicy": "Política de Privacidad y Ambiental"
+  },
+  "search": {
+    "placeholder": "BUSCAR..."
+  },
+  "darkMode": "Modo Oscuro",
+  "common": {
+    "readMore": "Leer Más",
+    "learnMore": "Aprender Más",
+    "seeAll": "Ver Todos",
+    "contactUs": "Contáctanos",
+    "getStarted": "Comenzar",
+    "viewDetails": "Ver Detalles"
+  },
+  "aboutUs": {
+    "pageTitle": "Nosotros",
+    "hero": {
+      "label": "[ acerca de la empresa ]",
+      "title": "Redefiniendo los Bienes Raíces en Puerto Vallarta",
+      "subtitle": "Servicio boutique, experiencia local y propiedades con valor real a largo plazo.",
+      "description": "En Bienes Raíces Poncho Dávalos, creemos que comprar una casa o invertir en una propiedad debe ser una experiencia inspiradora, no abrumadora. Nuestro enfoque boutique combina conocimiento del mercado, asesoría transparente y atención personalizada para ayudarte a encontrar propiedades que eleven tu estilo de vida y protejan tu inversión.",
+      "button": "Descubre Nuestras Propiedades"
+    },
+    "mission": {
+      "label": "[ acerca de la empresa ]",
+      "title": "Nuestra Misión",
+      "subtitle": "Conectar a las personas con su hogar ideal en Puerto Vallarta y Riviera Nayarit.",
+      "description": "Estamos dedicados a hacer que cada experiencia en bienes raíces sea inspiradora, transparente y segura. Nuestra misión es guiar a compradores e inversionistas en cada paso del camino con profesionalismo y empatía, ayudándoles a encontrar propiedades que reflejen su estilo de vida y aseguren valor a largo plazo.",
+      "button": "Contáctanos"
+    },
+    "vision": {
+      "label": "[ acerca de la empresa ]",
+      "title": "Nuestra Visión",
+      "intro": "Ser la referencia líder boutique en bienes raíces de la región.",
+      "description": "Miramos hacia el futuro con la ambición de transformar la experiencia en bienes raíces en Puerto Vallarta y Riviera Nayarit. Nuestra visión se basa en cuatro pilares clave:",
+      "pillar1": "Fortalecer la confianza a través de procesos transparentes.",
+      "pillar2": "Ser la primera opción para inversionistas internacionales.",
+      "pillar3": "Promover el desarrollo local con propiedades premium.",
+      "pillar4": "Elevar el estilo de vida de cada cliente con oportunidades únicas."
+    },
+    "values": {
+      "label": "[ NUESTROS SERVICIOS ]",
+      "title": "Nuestros Valores",
+      "subtitle": "Los principios que guían cada decisión que tomamos.",
+      "trust": {
+        "title": "Confianza",
+        "description": "Actuamos con integridad, asegurando procesos seguros y transparentes."
+      },
+      "empathy": {
+        "title": "Empatía",
+        "description": "Escuchamos tus necesidades y personalizamos cada solución."
+      },
+      "passion": {
+        "title": "Pasión por Vallarta",
+        "description": "Promovemos orgullosamente el estilo de vida y oportunidades de la región."
+      },
+      "professionalism": {
+        "title": "Profesionalismo",
+        "description": "Ofrecemos asesoría experta respaldada por conocimiento del mercado."
+      },
+      "innovation": {
+        "title": "Innovación",
+        "description": "Adoptamos nuevas herramientas y estrategias para lograr mejores resultados."
+      }
+    },
+    "testimonials": {
+      "label": "[ testimonios ]",
+      "title": "Lo Que Dicen Nuestros Clientes",
+      "testimonial1": {
+        "quote": "Encontré la casa perfecta gracias a la asesoría de Poncho. Entendió exactamente lo que necesitaba y manejó todo con gran cuidado.",
+        "role": "Compradora de Guadalajara, México"
+      },
+      "testimonial2": {
+        "quote": "Poncho hizo el proceso fácil y transparente. Su conocimiento de Vallarta me dio total confianza desde la primera llamada hasta el cierre.",
+        "role": "Inversionista de California, USA"
+      },
+      "testimonial3": {
+        "quote": "Poncho ofreció excelente asesoría y estrategia. Su atención al detalle me ayudó a asegurar una propiedad que realmente se ajusta a mis objetivos.",
+        "role": "Inversionista de la Ciudad de México, México"
+      }
+    }
+  },
+  "contact": {
+    "pageTitle": "Contacto",
+    "breadcrumb": {
+      "home": "Inicio",
+      "contacts": "Contacto"
+    },
+    "form": {
+      "title": "Ponte en Contacto",
+      "subtitle": "Nos encantaría saber de ti. Ya sea que estés interesado en comprar, vender o invertir, nuestro equipo está listo para asistirte.",
+      "namePlaceholder": "Nombre *",
+      "emailPlaceholder": "Correo Electrónico *",
+      "phonePlaceholder": "Teléfono",
+      "areaPlaceholder": "Área de Interés",
+      "messagePlaceholder": "Mensaje...",
+      "sendButton": "Enviar Mensaje",
+      "errorName": "Por favor ingresa tu nombre",
+      "errorEmail": "Por favor ingresa tu correo electrónico",
+      "errorEmailValid": "El correo electrónico no tiene un formato válido",
+      "errorForm": "Hubo un problema validando el formulario. Por favor verifica.",
+      "errorTimeout": "La conexión al servidor agotó el tiempo de espera.",
+      "successMessage": "¡Enviado exitosamente!"
+    },
+    "info": {
+      "label": "[ nuestros datos de contacto ]",
+      "title": "Hablemos Sobre Tu Próxima Inversión",
+      "description": "Llámanos o visítanos en cualquier momento. Nos esforzamos por responder a todas las consultas dentro de 24 horas en días hábiles. Nuestro equipo estará feliz de asistirte.",
+      "addressTitle": "NUESTRA DIRECCIÓN:",
+      "mailboxTitle": "NUESTRO CORREO:",
+      "phoneTitle": "NUESTRO TELÉFONO:"
+    }
+  },
+  "propertiesPage": {
+    "pageTitle": "Propiedades",
+    "breadcrumb": {
+      "home": "Inicio",
+      "properties": "Propiedades"
+    },
+    "hero": {
+      "label": "[ Nuestras Propiedades ]",
+      "title": "Descubre Tu Próxima Propiedad",
+      "subtitle": "Explora nuestra selección curada de casas, condominios y villas diseñadas para estilo de vida, comodidad y oportunidades de inversión."
+    },
+    "filters": {
+      "all": "Todas las Propiedades",
+      "forSale": "En Venta",
+      "forRent": "En Renta",
+      "luxuryVillas": "Villas de Lujo",
+      "condos": "Condominios y Departamentos"
+    },
+    "card": {
+      "price": "Precio:",
+      "location": "Ubicación:",
+      "surface": "Superficie:"
+    },
+    "cta": {
+      "title": "¿No encontraste lo que buscas? Déjanos ayudarte.",
+      "description": "Cuéntanos qué tienes en mente y te ayudaremos a descubrir la propiedad que se adapte a tu estilo de vida.",
+      "button": "Ponte en Contacto"
+    }
+  },
+  "property": {
+    "common": {
+      "price": "Precio:",
+      "surface": "Superficie:",
+      "bedrooms": "Habitaciones:",
+      "baths": "Baños:",
+      "parking": "Estacionamiento:",
+      "parkingSpace": "1 espacio",
+      "description": "Descripción",
+      "amenities": {
+        "title": "Amenidades"
+      },
+      "devices": {
+        "title": "Dispositivos"
+      },
+      "electricity": {
+        "title": "Electricidad"
+      },
+      "view": {
+        "title": "Vista"
+      },
+      "security": {
+        "title": "Seguridad"
+      },
+      "construction": {
+        "title": "Construcción"
+      },
+      "location": {
+        "title": "Ubicación"
+      },
+      "cta": {
+        "title": "¿Listo para Visitar esta Propiedad?",
+        "whatsapp": "Chatea por WhatsApp",
+        "schedule": "Agenda una Visita"
+      }
+    },
+    "property1": {
+      "tagline": "Tu estilo de vida soñado con vistas panorámicas al mar.",
+      "description": "¡Bienvenido a la inversión de tus sueños en el próspero barrio 5 de Diciembre de Puerto Vallarta! Este elegante y moderno estudio forma parte de un desarrollo completamente nuevo, que ofrece excelentes amenidades. Ubicado justo al lado de Andador Panamá, estás a minutos del icónico Malecón, donde la mejor gastronomía, vida nocturna y vistas al mar de la ciudad cobran vida. Ya sea que busques una potencia de ingresos por alquiler o un refugio personal elegante, este estudio ofrece valor, ubicación"
+    },
+    "property2": {
+      "tagline": "Tu estilo de vida soñado con vistas panorámicas al mar.",
+      "description": "Experimenta la vida costera elevada en Indah, uno de los edificios más exclusivos de Lower Conchas Chinas. Este impresionante condominio de esquina cuenta con 3 amplias habitaciones, decoración moderna y elegante, y una gran terraza ideal para relajarse o entretenerse con impresionantes vistas al mar y a las montañas. Indah ofrece un conjunto completo de amenidades estilo resort que incluyen dos piscinas brillantes, un gimnasio de última generación, spa tranquilo, restaurante en el lugar, seguridad las 24 horas y estacionamiento cubierto. Ya sea que busques una residencia de tiempo completo, una escapada de vacaciones de lujo o una propiedad de alquiler de alto rendimiento, esta residencia combina estilo, comodidad y conveniencia en uno de los vecindarios más deseables de Puerto Vallarta. Indah es donde la elegancia se encuentra con el estilo de vida."
+    },
+    "property3": {
+      "tagline": "Tu estilo de vida soñado con vistas panorámicas al mar.",
+      "description": "Encantador departamento de múltiples niveles con techos altos, ventanales que aportan luz natural y acabados de primera calidad. Cuenta con dos amplias habitaciones, tres baños completos, área social y patio privado con jacuzzi. El condominio ofrece gimnasio, jardines, terrazas, miradores con vistas a la bahía y un rooftop con alberca, ideal para una estancia cómoda y placentera."
+    },
+    "property4": {
+      "tagline": "Tu estilo de vida soñado con vistas panorámicas al mar.",
+      "description": "Departamento NUEVO, Este Es un condominio cerrado de sólo 40 departamentos, que tiene una ubicación estratégica y atractivas amenidades, que lo convierten en la mejor opción de inversión si deseas adquirir un departamento nuevo en Puerto Vallarta, ya que es ideal para vivir, vacacionar o rentar. El contrato de enlistamiento esta firmado en MXN, el precio publicado en dólares es de 'referencia', pero se vende en Pesos Mexicanos."
+    },
+    "property5": {
+      "tagline": "Tu estilo de vida soñado con vistas panorámicas al mar.",
+      "description": "Departamento NUEVO, Este Es un condominio cerrado de sólo 40 departamentos, que tiene una ubicación estratégica y atractivas amenidades, que lo convierten en la mejor opción de inversión si deseas adquirir un departamento nuevo en Puerto Vallarta, ya que es ideal para vivir, vacacionar o rentar. El contrato de enlistamiento esta firmado en MXN, el precio publicado en dólares es de 'referencia', pero se vende en Pesos Mexicanos."
+    },
+    "property6": {
+      "tagline": "Tu estilo de vida soñado con vistas panorámicas al mar.",
+      "description": "Bienvenido a tu condominio soñado en 5 de Diciembre de Puerto Vallarta, donde el diseño moderno, la ubicación privilegiada y las amenidades de primer nivel se unen. Esta residencia de 1 habitación y 2 baños es perfecta para inversionistas, vacacionistas o cualquier persona que busque el estilo de vida playero definitivo. Ubicación Inmejorable - A un corto trayecto del Malecón, estás a pasos de los mejores restaurantes, vida nocturna y vistas al mar de Vallarta."
+    },
+    "property7": {
+      "tagline": "Tu estilo de vida soñado con vistas panorámicas al mar.",
+      "description": "Descubre esta encantadora propiedad ubicada en una de las zonas más cotizadas de Puerto Vallarta: Versalles. Este moderno condominio en Palm Springs 353 ofrece 2 amplias habitaciones, 2 baños completos, cocina equipada, área de lavado y una luminosa sala con acceso a un cómodo balcón. El diseño contemporáneo y funcional crea un ambiente ideal tanto para vivir como para invertir. El edificio cuenta con elevador, seguridad y una excelente ubicación, a solo pasos de restaurantes, cafeterías, supermercados y a 10 minutos de la playa. Ideal para quienes buscan confort, estilo y una vida práctica en el corazón de Vallarta. ¡Agenda tu cita hoy!"
+    },
+    "property8": {
+      "tagline": "Tu estilo de vida soñado con vistas panorámicas al mar.",
+      "description": "Bienvenido a tu condominio soñado en 5 de Diciembre de Puerto Vallarta, donde el diseño moderno, la ubicación privilegiada y las amenidades de primer nivel se unen. Esta residencia de 1 habitación y 2 baños es perfecta para inversionistas, vacacionistas o cualquier persona que busque el estilo de vida playero definitivo. Ubicación Inmejorable - A un corto trayecto del Malecón, estás a pasos de los mejores restaurantes, vida nocturna y vistas al mar de Vallarta. - Disfruta de una impresionante piscina común, perfecta para relajarse bajo el sol. Características de Alta Gama - Este condominio está en un desarrollo completamente nuevo con elevador, asegurando conveniencia y comodidad. El mercado inmobiliario de Puerto Vallarta está en auge y oportunidades como esta no duran. Ya sea que busques una inversión de alquiler o una escapada personal."
+    },
+    "property9": {
+      "tagline": "Tu estilo de vida soñado con vistas panorámicas al mar.",
+      "description": "Urban 1 te sitúa en el corazón de la Zona Romántica, a solo tres cuadras de la playa Los Muertos y rodeado de restaurantes, bares y galerías. Edificio boutique (2019) con elevador y un rooftop espectacular con alberca infinita y vistas a la ciudad y montañas: el spot perfecto para el atardecer. Este departamento de 2 recámaras y 2 baños se vende amueblado, con diseño contemporáneo y áreas pensadas para estancias cómodas y sociales. Su ubicación y propuesta lo convierten en imán de rentas: cuenta con historial sólido y alta ocupación proyectada en temporada alta, ideal para generar ingresos desde el día uno."
+    },
+    "property10": {
+      "tagline": "Tu estilo de vida soñado con vistas panorámicas al mar.",
+      "description": "Pavilion 309 es un encantador departamento de 75.96 m² con una habitación y dos baños completos. Pertenece a un edificio moderno de 7 pisos y 63 unidades, situado en el vibrante corazón de la Zona Romántica, a solo dos cuadras de la playa. El edificio ofrece amenidades de primer nivel: jardín en la azotea con alberca infinita, dos jacuzzis climatizados, zona de barbacoa, gimnasio, piscina tipo lap, seguridad 24/7, elevador, y opciones de estacionamiento y almacenamiento. Pavilion 309 presume de un balcón con vista a la calle principal y vista parcial al mar, ideal para relajarse y disfrutar del ambiente romántico y dinámico de la zona."
+    },
+    "property11": {
+      "tagline": "Tu estilo de vida soñado con vistas panorámicas al mar.",
+      "description": "Casa Corona es una joya arquitectónica ubicada en el encantador barrio de El Cerro, a solo cinco cuadras del Malecón de Puerto Vallarta. Esta propiedad ofrece lo mejor de dos mundos al mismo precio: cuenta con 3 habitaciones y 3.5 baños, divididos en dos espacios independientes. Uno de ellos es un loft moderno y elegante, ideal para pareja o huésped; el otro incluye dos recámaras amplias, perfectas para familia o para quienes buscan rentabilidad por separado. Cada ambiente está diseñado para ofrecer privacidad y confort, con acabados de calidad, ventilación natural y áreas sociales acogedoras. Además, su ubicación estratégica, en una de las zonas más valoradas de la ciudad, facilita el acceso a restaurantes, tiendas y, por supuesto, al vibrante ambiente del Malecón."
+    },
+    "property12": {
+      "tagline": "Tu estilo de vida soñado con vistas panorámicas al mar.",
+      "description": "LISTING SE FIRMÓ EN MXN por: 3,700,000 MXN. El precio en USD está solo como referencia, la vendedora quiere MXN. Listo para mudarte: departamento de 2 habitaciones y 2 baños que se vende amueblado, ideal para vivir cómodo, invertir o rentar a corto y largo plazo. La ubicación es imbatible: a pasos de Costco y La Comer, y a solo 15 minutos del centro de Puerto Vallarta. Estás muy cerca del corredor gastronómico de Versalles, con cafeterías y restaurantes de moda."
+    }
+  },
+  "servicesDetail": {
+    "service1": {
+      "pageTitle": "Asesoría Integral",
+      "sidebar": {
+        "title": "Asesoría Integral"
+      },
+      "label": "[ Nuestros Servicios ]",
+      "heading": "Acompañamiento Profesional en Todo el Proceso",
+      "description1": "Comprar o vender una propiedad es más que una transacción: es una decisión de vida. Nuestro equipo te acompaña en cada etapa, desde la búsqueda inicial hasta la firma final, asegurando que todo sea transparente, seguro y fluido.",
+      "description2": "Entendemos que cada transacción es única. Por eso brindamos asesoría personalizada que cubre aspectos financieros, legales y de estilo de vida, garantizando el mejor resultado al comprar o vender tu propiedad."
+    },
+    "service2": {
+      "pageTitle": "Inversión para Compradores Extranjeros",
+      "sidebar": {
+        "title": "Inversión para Compradores Extranjeros"
+      },
+      "label": "[ Nuestros Servicios ]",
+      "heading": "Inversiones Seguras en México para Clientes Internacionales",
+      "description1": "Ofrecemos un servicio especializado para extranjeros que desean invertir en el mercado inmobiliario mexicano, brindando orientación legal y administrativa en cada paso del camino.",
+      "description2": "Explicamos cómo funcionan los fideicomisos, los derechos de propiedad y las regulaciones locales. Nuestro equipo bilingüe proporciona confianza y seguridad para garantizar que tu inversión sea sólida y rentable."
+    },
+    "service3": {
+      "pageTitle": "Adquisición de Segunda Vivienda",
+      "sidebar": {
+        "title": "Adquisición de Segunda Vivienda"
+      },
+      "label": "[ Nuestros Servicios ]",
+      "heading": "La Casa de Vacaciones que Siempre Soñaste",
+      "description1": "Ya sea una casa frente al mar o un condominio en la ciudad, te ayudamos a encontrar esa segunda propiedad que se convierte en tu refugio personal o una oportunidad de ingresos por alquiler vacacional.",
+      "description2": "Entendemos la importancia de equilibrar estilo de vida y rentabilidad. Por eso buscamos propiedades que no solo cumplan con tus expectativas de comodidad, sino que también representen un activo valioso a largo plazo."
+    },
+    "service4": {
+      "pageTitle": "Venta de Propiedades Premium",
+      "sidebar": {
+        "title": "Venta de Propiedades Premium"
+      },
+      "label": "[ Nuestros Servicios ]",
+      "heading": "Estrategias de Venta para Propiedades de Alto Valor",
+      "description1": "Desarrollamos estrategias que combinan marketing digital, fotografía profesional y alcance internacional para posicionar tu propiedad frente a los compradores adecuados.",
+      "description2": "Cada listado premium merece un plan personalizado. Destacamos las características únicas de tu propiedad a través de campañas dirigidas, atrayendo compradores calificados y cerrando negocios en menos tiempo."
+    },
+    "service5": {
+      "pageTitle": "Gestión Legal y Transaccional",
+      "sidebar": {
+        "title": "Gestión Legal y Transaccional"
+      },
+      "label": "[ Nuestros Servicios ]",
+      "heading": "Seguridad Legal en Cada Transacción",
+      "description1": "Nos aseguramos de que cada transacción cumpla con todos los requisitos legales, reduciendo riesgos y evitando complicaciones en tu compra o venta.",
+      "description2": "Desde revisiones de títulos de propiedad hasta procesos notariales, garantizamos transparencia completa. Nuestro equipo legal asegura que tu inversión esté protegida de principio a fin."
+    },
+    "service6": {
+      "pageTitle": "Análisis de Mercado y Plusvalía",
+      "sidebar": {
+        "title": "Análisis de Mercado y Plusvalía"
+      },
+      "label": "[ Nuestros Servicios ]",
+      "heading": "Decisiones Inteligentes Basadas en Datos Reales",
+      "description1": "Proporcionamos reportes de mercado y estudios de plusvalía de propiedades para que puedas tomar decisiones estratégicas al invertir, comprar o vender en Puerto Vallarta y la región.",
+      "description2": "Con herramientas de análisis inmobiliario, identificamos las mejores oportunidades y las zonas con mayor crecimiento. De esta manera, cada decisión está respaldada por información precisa y actualizada."
+    }
+  }
+}

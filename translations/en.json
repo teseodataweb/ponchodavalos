@@ -1,0 +1,447 @@
+{
+  "nav": {
+    "home": "Home",
+    "properties": "Properties",
+    "about": "About Us",
+    "services": "Services",
+    "blog": "Blog",
+    "contact": "Contacts",
+    "services": {
+      "comprehensive": "Comprehensive Advisory",
+      "investment": "Investment for Foreign Buyers",
+      "secondHome": "Second Home Acquisition",
+      "premium": "Premium Property Sales",
+      "legal": "Legal & Transaction Management",
+      "market": "Market & Appreciation Analysis"
+    }
+  },
+  "services": {
+    "comprehensiveAdvisory": "Comprehensive Advisory",
+    "investmentForeignBuyers": "Investment for Foreign Buyers",
+    "secondHomeAcquisition": "Second Home Acquisition",
+    "premiumPropertySales": "Premium Property Sales",
+    "legalTransactionManagement": "Legal & Transaction Management",
+    "marketAppreciationAnalysis": "Market & Appreciation Analysis"
+  },
+  "hero": {
+    "slide1": {
+      "bigText": "LIFESTYLE",
+      "title": "A New Level of Living in Puerto Vallarta",
+      "description": "Discover residences that elevate your lifestyle, curated with design, location, and lasting sophistication in mind.",
+      "button": "Explore Properties"
+    },
+    "slide2": {
+      "bigText": "VISION",
+      "title": "Where Design Shapes Tomorrow",
+      "description": "We create spaces that balance timeless beauty with purposeful growth. Crafted for those who see beyond the present.",
+      "button": "View Developments"
+    },
+    "slide3": {
+      "bigText": "TRUST",
+      "title": "Your Real Estate Ally in Riviera Nayarit",
+      "description": "Bilingual guidance, personalized service, and properties that fit your lifestyle or investment goals.",
+      "button": "Let's Talk"
+    }
+  },
+  "sidePanel": {
+    "ourGallery": "Our Gallery",
+    "galleryTitle": "Our Gallery",
+    "contactInfo": "Contact Info",
+    "contactInfoTitle": "Contact Info",
+    "address": "Puerto Vallarta, Jal",
+    "email": "hello@ponchodavalos.com.mx",
+    "phone": "+52 (322) 292-2312"
+  },
+  "story": {
+    "quote": "Even if you don't have a ready sketch of what you want – we will help you to get the result you dreamed of.",
+    "name": "Poncho Davalos",
+    "role": "Founder of Company"
+  },
+  "portfolio": {
+    "subtitle": "[ Some of Our Works and Case Studies for Clients ]",
+    "title": "Discover Our Latest Listings and Real Estate Highlights",
+    "description": "Discover handpicked homes and condos that combine lifestyle, comfort, and investment value.",
+    "filters": {
+      "all": "All Properties",
+      "forSale": "For Sale",
+      "luxuryVillas": "Luxury Villas",
+      "condosApartments": "Condos & Apartments"
+    },
+    "properties": {
+      "oceanfrontCondo": "Oceanfront Condo in Conchas Chinas",
+      "luxuryVilla": "Luxury Villa in Marina Vallarta",
+      "modernApartment": "Modern Apartment in Romantic Zone",
+      "boutiqueHome": "Boutique Home in Versalles",
+      "beachfrontPenthouse": "Beachfront Penthouse in Nuevo Vallarta",
+      "elegantResidence": "Elegant Residence in Guadalajara"
+    },
+    "viewAll": "View All Properties"
+  },
+  "whyChoose": {
+    "subtitle": "[ OUR SERVICES ]",
+    "title": "Why Choose Poncho Dávalos Real Estate",
+    "service1": {
+      "title": "Boutique & Personalized Service",
+      "description": "We focus on your lifestyle and investment goals with tailor-made solutions."
+    },
+    "service2": {
+      "title": "Local Expertise, Global Vision",
+      "description": "We know Vallarta & Nayarit deeply, guiding international buyers with trust and clarity."
+    },
+    "service3": {
+      "title": "Trust & Long-Term Relationships",
+      "description": "We don't just close deals, we build lasting connections based on honesty and care."
+    },
+    "stats": {
+      "years": {
+        "title": "Years of Local Expertise",
+        "description": "Guiding your real estate journey."
+      },
+      "propertiesSold": {
+        "title": "Properties Sold",
+        "description": "Proven success in every transaction."
+      },
+      "clientReferrals": {
+        "title": "Client Referrals",
+        "description": "Built on trust and integrity."
+      }
+    }
+  },
+  "testimonials": {
+    "subtitle": "[ testimonials ]",
+    "title": "What Our Clients Say",
+    "client1": {
+      "text": "I found the perfect home thanks to Poncho's guidance. He understood exactly what I needed and handled everything with great care.",
+      "name": "Fernanda López",
+      "location": "Buyer from Guadalajara, Mexico"
+    },
+    "client2": {
+      "text": "Poncho made the process easy and transparent. His knowledge of Vallarta gave me total confidence from the first call to closing.",
+      "name": "Michael Turner",
+      "location": "Investor from California, USA"
+    },
+    "client3": {
+      "text": "Poncho offered excellent advice and strategy. His attention to detail helped me secure a property that truly fits my goals.",
+      "name": "Mariana Torres",
+      "location": "Investor from Mexico City, Mexico"
+    },
+    "client4": {
+      "text": "Selling my property was faster than expected. Poncho's marketing and follow-up made all the difference.",
+      "name": "Sofía Herrera",
+      "location": "Seller from Monterrey, Mexico"
+    },
+    "client5": {
+      "text": "Relocating to Mexico felt effortless with Poncho's help. His calm approach and professionalism made every step stress-free.",
+      "name": "Thomas Reynolds",
+      "location": "Buyer from Texas, USA"
+    },
+    "client6": {
+      "text": "From virtual tours to signing, everything was smooth. Poncho's bilingual communication made the experience comfortable and easy.",
+      "name": "David Miller",
+      "location": "Buyer from Florida, USA"
+    }
+  },
+  "cta": {
+    "title": "Ready to Find Your Dream Property?",
+    "description": "Let's talk today and make your lifestyle or investment goals a reality.",
+    "button": "Schedule a Consultation"
+  },
+  "footer": {
+    "description": "We provides a full range of interior design, architectural design.",
+    "contactsTitle": "Contacts",
+    "latestProjectsTitle": "Latest Projects",
+    "socialMediaTitle": "Social Media",
+    "copyright": "Copyright © 2025",
+    "companyName": "Poncho Dávalos Real State",
+    "allRightsReserved": "All Rights Reserved.",
+    "termsOfUse": "Terms of use",
+    "privacyPolicy": "Privacy Environmental Policy"
+  },
+  "search": {
+    "placeholder": "SEARCH..."
+  },
+  "darkMode": "Dark Mode",
+  "common": {
+    "readMore": "Read More",
+    "learnMore": "Learn More",
+    "seeAll": "See All",
+    "contactUs": "Contact Us",
+    "getStarted": "Get Started",
+    "viewDetails": "View Details"
+  },
+  "aboutUs": {
+    "pageTitle": "About Us",
+    "hero": {
+      "label": "[ about the company ]",
+      "title": "Redefining Real Estate in Puerto Vallarta",
+      "subtitle": "Boutique service, local expertise, and properties with real long-term value.",
+      "description": "At Poncho Dávalos Real Estate, we believe buying a home or investing in a property should be an inspiring—not overwhelming—experience. Our boutique approach combines market knowledge, transparent guidance, and personalized attention to help you find properties that elevate your lifestyle and protect your investment.",
+      "button": "Discover Our Properties"
+    },
+    "mission": {
+      "label": "[ about the company ]",
+      "title": "Our Mission",
+      "subtitle": "Connecting people with their ideal home in Puerto Vallarta and Riviera Nayarit.",
+      "description": "We are dedicated to making every real estate experience inspiring, transparent, and secure. Our mission is to guide buyers and investors every step of the way with professionalism and empathy, helping them find properties that reflect their lifestyle and ensure long-term value.",
+      "button": "Contact Us"
+    },
+    "vision": {
+      "label": "[ about the company ]",
+      "title": "Our Vision",
+      "intro": "To become the region's leading boutique real estate reference.",
+      "description": "We look to the future with the ambition to transform the real estate experience in Puerto Vallarta and Riviera Nayarit. Our vision is based on four key pillars:",
+      "pillar1": "Strengthen trust through transparent processes.",
+      "pillar2": "Be the first choice for international investors.",
+      "pillar3": "Promote local development with premium properties.",
+      "pillar4": "Elevate each client's lifestyle with unique opportunities."
+    },
+    "values": {
+      "label": "[ OUR SERVICES ]",
+      "title": "Our Values",
+      "subtitle": "The principles that guide every decision we make.",
+      "trust": {
+        "title": "Trust",
+        "description": "We act with integrity, ensuring secure and transparent processes."
+      },
+      "empathy": {
+        "title": "Empathy",
+        "description": "We listen to your needs and personalize every solution."
+      },
+      "passion": {
+        "title": "Passion for Vallarta",
+        "description": "We proudly promote the lifestyle and opportunities of the region."
+      },
+      "professionalism": {
+        "title": "Professionalism",
+        "description": "We offer expert advice backed by market knowledge."
+      },
+      "innovation": {
+        "title": "Innovation",
+        "description": "We embrace new tools and strategies to achieve better results."
+      }
+    },
+    "testimonials": {
+      "label": "[ testimonials ]",
+      "title": "What Our Clients Say",
+      "testimonial1": {
+        "quote": "I found the perfect home thanks to Poncho's guidance. He understood exactly what I needed and handled everything with great care.",
+        "role": "Buyer from Guadalajara, Mexico"
+      },
+      "testimonial2": {
+        "quote": "Poncho made the process easy and transparent. His knowledge of Vallarta gave me total confidence from the first call to closing.",
+        "role": "Investor from California, USA"
+      },
+      "testimonial3": {
+        "quote": "Poncho offered excellent advice and strategy. His attention to detail helped me secure a property that truly fits my goals.",
+        "role": "Investor from Mexico City, Mexico"
+      }
+    }
+  },
+  "contact": {
+    "pageTitle": "Contact",
+    "breadcrumb": {
+      "home": "Home",
+      "contacts": "Contacts"
+    },
+    "form": {
+      "title": "Get in Touch",
+      "subtitle": "We'd love to hear from you. Whether you're interested in buying, selling, or investing, our team is ready to assist.",
+      "namePlaceholder": "Name *",
+      "emailPlaceholder": "Email *",
+      "phonePlaceholder": "Phone",
+      "areaPlaceholder": "Area of Interest",
+      "messagePlaceholder": "Message...",
+      "sendButton": "Send Message",
+      "errorName": "Please enter your name",
+      "errorEmail": "Please enter your email",
+      "errorEmailValid": "Email is not a valid format",
+      "errorForm": "There was a problem validating the form. Please check!",
+      "errorTimeout": "The connection to the server timed out!",
+      "successMessage": "Successfully sent!"
+    },
+    "info": {
+      "label": "[ our contact details ]",
+      "title": "Let's Talk About Your Next Investment",
+      "description": "Give us a call or drop by anytime. We aim to respond to all inquiries within 24 hours on business days. Our team will be happy to assist you.",
+      "addressTitle": "OUR ADDRESS:",
+      "mailboxTitle": "OUR MAILBOX:",
+      "phoneTitle": "OUR PHONE:"
+    }
+  },
+  "propertiesPage": {
+    "pageTitle": "Properties",
+    "breadcrumb": {
+      "home": "Home",
+      "properties": "Properties"
+    },
+    "hero": {
+      "label": "[ Our Properties ]",
+      "title": "Discover Your Next Property",
+      "subtitle": "Explore our curated selection of homes, condos, and villas designed for lifestyle, comfort, and investment opportunities."
+    },
+    "filters": {
+      "all": "All Properties",
+      "forSale": "For Sale",
+      "forRent": "For Rent",
+      "luxuryVillas": "Luxury Villas",
+      "condos": "Condos & Apartments"
+    },
+    "card": {
+      "price": "Price:",
+      "location": "Ubication:",
+      "surface": "Surface:"
+    },
+    "cta": {
+      "title": "Didn't find what you're looking for? Let us help you.",
+      "description": "Tell us what you have in mind and we'll help you discover the property that fits your lifestyle.",
+      "button": "Get in Touch"
+    }
+  },
+  "property": {
+    "common": {
+      "price": "Price:",
+      "surface": "Surface:",
+      "bedrooms": "Bedrooms:",
+      "baths": "Baths:",
+      "parking": "Parking:",
+      "parkingSpace": "1 space",
+      "description": "Description",
+      "amenities": {
+        "title": "Amenities"
+      },
+      "devices": {
+        "title": "Devices"
+      },
+      "electricity": {
+        "title": "Electricity"
+      },
+      "view": {
+        "title": "View"
+      },
+      "security": {
+        "title": "Security"
+      },
+      "construction": {
+        "title": "Construction"
+      },
+      "location": {
+        "title": "Location"
+      },
+      "cta": {
+        "title": "Ready to Visit This Property?",
+        "whatsapp": "Chat on WhatsApp",
+        "schedule": "Schedule a Viewing"
+      }
+    },
+    "property1": {
+      "tagline": "Your dream lifestyle with panoramic ocean views.",
+      "description": "Welcome to your dream investment in Puerto Vallarta's thriving 5 de Diciembre neighborhood! This sleek and modern studio is part of a brand-new development, offering great amenities, Perched just off Andador Panamá, you're moments from the iconic Malecón, where the city's best dining, nightlife, and oceanfront views come to life. Whether you're looking for a rental income powerhouse or a stylish personal retreat, this studio delivers on value, location"
+    },
+    "property2": {
+      "tagline": "Your dream lifestyle with panoramic ocean views.",
+      "description": "Experience elevated coastal living at Indah, one of the most exclusive buildings in Lower Conchas Chinas. This stunning corner condo features 3 spacious bedrooms, sleek modern décor, and a large terrace ideal for relaxing or entertaining with breathtaking ocean and mountain views. Indah offers a full suite of resort-style amenities including two sparkling pools, a state-of-the-art gym, tranquil spa, on-site restaurant, 24-hour security, and covered parking. Whether you're looking for a full-time residence, a luxury vacation getaway, or a high-performing rental property, this residence blends style, comfort, and convenience in one of Puerto Vallarta's most desirable neighborhoods. Indah is where elegance meets lifestyle."
+    },
+    "property3": {
+      "tagline": "Your dream lifestyle with panoramic ocean views.",
+      "description": "Charming multi-level apartment with high ceilings, large windows for natural light, and premium finishes. It features two spacious bedrooms, three full bathrooms, a social area, and a private patio with a jacuzzi. The condominium offers amenities such as a gym, gardens, terraces, lookout points with bay views, and a rooftop pool, perfect for a comfortable and enjoyable stay."
+    },
+    "property4": {
+      "tagline": "Your dream lifestyle with panoramic ocean views.",
+      "description": "Brand NEW apartment, This is a closed condominium of only 40 apartments, which has a strategic location and attractive amenities, which make it the best investment option if you want to acquire a new apartment in Puerto Vallarta, since it is ideal for living, vacationing or renting. The listing contract is signed in MXN, the price published in dollars is for 'reference', but it is sold in Mexican Pesos."
+    },
+    "property5": {
+      "tagline": "Your dream lifestyle with panoramic ocean views.",
+      "description": "Brand NEW apartment, This is a closed condominium of only 40 apartments, which has a strategic location and attractive amenities, which make it the best investment option if you want to acquire a new apartment in Puerto Vallarta, since it is ideal for living, vacationing or renting. The listing contract is signed in MXN, the price published in dollars is for 'reference', but it is sold in Mexican Pesos."
+    },
+    "property6": {
+      "tagline": "Your dream lifestyle with panoramic ocean views.",
+      "description": "Welcome to your dream condo in Puerto Vallarta's 5 de Diciembre - where modern design, prime location, and top-tier amenities come together. This 1-bedroom, 2-bathroom residence is perfect for investors, vacationers, or anyone seeking the ultimate beachside lifestyle. Unbeatable Location - Just a short trip to the Malecón, you're steps from the best restaurants, nightlife, and ocean views in Vallarta."
+    },
+    "property7": {
+      "tagline": "Your dream lifestyle with panoramic ocean views.",
+      "description": "Discover this charming property located in one of Puerto Vallarta's most sought-after areas: Versalles. This modern condo at Palm Springs 353 offers 2 spacious bedrooms, 2 full bathrooms, equipped kitchen, laundry area and a bright living room with access to a comfortable balcony. The contemporary and functional design creates an ideal environment for both living and investing. The building has an elevator, security and an excellent location, just steps from restaurants, cafes, supermarkets and 10 minutes from the beach. Ideal for those seeking comfort, style and a practical life in the heart of Vallarta. Schedule your appointment today!"
+    },
+    "property8": {
+      "tagline": "Your dream lifestyle with panoramic ocean views.",
+      "description": "Welcome to your dream condo in Puerto Vallarta's 5 de Diciembre - where modern design, prime location, and top-tier amenities come together. This 1-bedroom, 2-bathroom residence is perfect for investors, vacationers, or anyone seeking the ultimate beachside lifestyle. Unbeatable Location - Just a short trip to the Malecón, you're steps from the best restaurants, nightlife, and ocean views in Vallarta. - Enjoy a stunning common pool, perfect for relaxing under the sun.  High-End Features - This condo is in a brand-new development with an elevator, ensuring both convenience and comfort.  Puerto Vallarta real estate is booming, and opportunities like this don't last. Whether you're looking for a rental investment or a personal getaway."
+    },
+    "property9": {
+      "tagline": "Your dream lifestyle with panoramic ocean views.",
+      "description": "Urban 1 places you in the heart of the Romantic Zone, just three blocks from Los Muertos beach and surrounded by restaurants, bars and galleries.  Boutique building (2019) with elevator and a spectacular rooftop with infinity pool and views of the city and mountains: the perfect spot for sunset.  This 2 bedroom, 2 bathroom apartment is sold furnished, with contemporary design and areas designed for comfortable and social stays.  Its location and proposal make it a magnet for rentals: it has a solid track record and high projected occupancy in high season, ideal for generating income from day one."
+    },
+    "property10": {
+      "tagline": "Your dream lifestyle with panoramic ocean views.",
+      "description": "Pavilion 309 is a charming 75.96 m² apartment with one bedroom and two full bathrooms. It belongs to a modern 7-story building with 63 units, located in the vibrant heart of the Romantic Zone, just two blocks from the beach. The building offers first-class amenities: rooftop garden with infinity pool, two heated jacuzzis, barbecue area, gym, lap pool, 24/7 security, elevator, and parking and storage options. Pavilion 309 boasts a balcony with a view of the main street and partial ocean view, ideal for relaxing and enjoying the romantic and dynamic atmosphere of the area."
+    },
+    "property11": {
+      "tagline": "Your dream lifestyle with panoramic ocean views.",
+      "description": "Casa Corona is an architectural gem located in the charming neighborhood of El Cerro, just five blocks from the Malecón of Puerto Vallarta. This property offers the best of both worlds at the same price: it has 3 bedrooms and 3.5 bathrooms, divided into two independent spaces. One of them is a modern and elegant loft, ideal for a couple or guest; the other includes two spacious bedrooms, perfect for a family or for those seeking profitability separately. Each environment is designed to offer privacy and comfort, with quality finishes, natural ventilation and cozy social areas. In addition, its strategic location, in one of the most valued areas of the city, facilitates access to restaurants, shops and, of course, the vibrant atmosphere of the Malecón."
+    },
+    "property12": {
+      "tagline": "Your dream lifestyle with panoramic ocean views.",
+      "description": "LISTING WAS SIGNED IN MXN for: 3,700,000 MXN. The price in USD is just for reference, the seller wants MXN. Ready to move in: 2 bedroom, 2 bathroom apartment sold furnished, ideal for comfortable living, investing or short and long term rental. The location is unbeatable: steps from Costco and La Comer, and just 15 minutes from downtown Puerto Vallarta. You are very close to the gastronomic corridor of Versailles, with trendy cafes and restaurants."
+    }
+  },
+  "servicesDetail": {
+    "service1": {
+      "pageTitle": "Comprehensive Advisory",
+      "sidebar": {
+        "title": "Comprehensive Advisory"
+      },
+      "label": "[ Our Services ]",
+      "heading": "Professional Guidance Throughout the Entire Process",
+      "description1": "Buying or selling a property is more than a transaction: it's a life decision. Our team accompanies you at every stage, from the initial search to the final signing, ensuring that everything is transparent, secure, and smooth.",
+      "description2": "We understand that every transaction is unique. That's why we provide personalized guidance covering financial, legal, and lifestyle aspects, ensuring the best outcome when buying or selling your property."
+    },
+    "service2": {
+      "pageTitle": "Investment for Foreign Buyers",
+      "sidebar": {
+        "title": "Investment for Foreign Buyers"
+      },
+      "label": "[ Our Services ]",
+      "heading": "Secure Investments in Mexico for International Clients",
+      "description1": "We offer a specialized service for foreigners who want to invest in the Mexican real estate market, providing legal and administrative guidance every step of the way.",
+      "description2": "We explain how trusts, property rights, and local regulations work. Our bilingual team provides confidence and security to ensure that your investment is solid and profitable."
+    },
+    "service3": {
+      "pageTitle": "Second Home Acquisition",
+      "sidebar": {
+        "title": "Second Home Acquisition"
+      },
+      "label": "[ Our Services ]",
+      "heading": "The Vacation Home You've Always Imagined",
+      "description1": "Whether it's a beachfront house or a city condo, we help you find that second property that becomes your personal retreat or a vacation rental income opportunity.",
+      "description2": "We understand the importance of balancing lifestyle and profitability. That's why we look for properties that not only meet your comfort expectations but also represent a valuable long-term asset."
+    },
+    "service4": {
+      "pageTitle": "Premium Property Sales",
+      "sidebar": {
+        "title": "Premium Property Sales"
+      },
+      "label": "[ Our Services ]",
+      "heading": "Sales Strategies for High-Value Properties",
+      "description1": "We develop strategies that combine digital marketing, professional photography, and international outreach to position your property in front of the right buyers.",
+      "description2": "Every premium listing deserves a custom plan. We highlight your property's unique features through targeted campaigns, attracting qualified buyers and closing deals in less time."
+    },
+    "service5": {
+      "pageTitle": "Legal & Transaction Management",
+      "sidebar": {
+        "title": "Legal & Transaction Management"
+      },
+      "label": "[ Our Services ]",
+      "heading": "Legal Security in Every Transaction",
+      "description1": "We make sure that every transaction meets all legal requirements, reducing risks and avoiding complications in your purchase or sale.",
+      "description2": "From property title reviews to notarial processes, we guarantee complete transparency. Our legal team ensures your investment is protected from start to finish."
+    },
+    "service6": {
+      "pageTitle": "Market & Appreciation Analysis",
+      "sidebar": {
+        "title": "Market & Appreciation Analysis"
+      },
+      "label": "[ Our Services ]",
+      "heading": "Smart Decisions Based on Real Data",
+      "description1": "We provide market reports and property appreciation studies so you can make strategic decisions when investing, buying, or selling in Puerto Vallarta and the region.",
+      "description2": "With real estate analysis tools, we identify the best opportunities and the areas with the highest growth. This way, every decision is backed by accurate and up-to-date information."
+    }
+  }
+}

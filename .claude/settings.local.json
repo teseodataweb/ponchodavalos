@@ -1,0 +1,22 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(for:*)",
+      "Bash(do echo \"Processing servcies-detail-$i.html\")",
+      "Bash(done)",
+      "Bash(do grep -q \"i18n.js\" \"C:\\Users\\Administrator\\Desktop\\ponchodavalos$file\")",
+      "Bash(echo:*)",
+      "Bash(powershell -Command:*)",
+      "Bash(python3:*)",
+      "Bash(/c/Users/Administrator/AppData/Local/Programs/Python/Python312/python:*)",
+      "Bash(/c/Program Files/nodejs/node create_translations.js)",
+      "Bash(node:*)",
+      "Bash(python apply_i18n.py:*)",
+      "Bash(git fetch:*)",
+      "Bash(git pull:*)",
+      "Bash(git add:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}

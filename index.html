@@ -10,6 +10,14 @@
     <meta name="description" content="Boutique real estate in Puerto Vallarta & Riviera Nayarit. Luxury homes, condos, and expert guidance to secure your next investment.">
 
     <title>Poncho Dávalos Real Estate | Puerto Vallarta & Riviera Nayarit</title>
+    <meta name="description" content="Luxury real estate in Puerto Vallarta and Riviera Nayarit. Find your dream property with expert guidance and personalized service.">
+    <meta name="keywords" content="Puerto Vallarta real estate, Riviera Nayarit properties, luxury homes Mexico, beachfront condos">
+
+    <!-- Alternate Language Links -->
+    <link rel="alternate" hreflang="en" href="https://ponchodavalos.com.mx/index.html" />
+    <link rel="alternate" hreflang="es" href="https://ponchodavalos.com.mx/es/index.html" />
+    <link rel="alternate" hreflang="x-default" href="https://ponchodavalos.com.mx/index.html" />
+
     <link rel="shortcut icon" type="image/x-icon" href="images/favicon.png" />
     <link rel="stylesheet" href="css/bootstrap.min.css" />
     <link rel="stylesheet" href="css/font-awesome.min.css" />
@@ -26,13 +34,24 @@
     <link rel="stylesheet" href="css/royal-preload.css" />
 
     <link rel="stylesheet" href="style.css" />
+    <link rel="stylesheet" href="css/i18n.css" />
     <!-- REVOLUTION SLIDER CSS -->
-    <link rel="stylesheet" type="text/css" href="plugins/revolution/revolution/css/settings.css">   
+    <link rel="stylesheet" type="text/css" href="plugins/revolution/revolution/css/settings.css">
     <!-- REVOLUTION NAVIGATION STYLE -->
     <link rel="stylesheet" type="text/css" href="plugins/revolution/revolution/css/navigation.css">
 </head>
 
 <body class="royal_preloader">
+    <!-- Language Switcher -->
+    <div class="lang-switcher">
+        <button class="lang-btn active" data-lang="en" aria-label="Switch to English">
+            <span class="sr-only">Switch to</span>EN
+        </button>
+        <button class="lang-btn" data-lang="es" aria-label="Cambiar a Español">
+            <span class="sr-only">Cambiar a</span>ES
+        </button>
+    </div>
+
     <div id="page" class="site">
         <header id="site-header" class="site-header header-transparent">
             <!-- Main Header start -->
@@ -51,98 +70,21 @@
                                 <div class="octf-col menu-col no-padding">
                                     <nav id="site-navigation" class="main-navigation">
                                         <ul class="menu">
-                                            <li class="current-menu-item"><a href="index.html">Home</a></li>
-                                            <!-- <li class="menu-item-has-children current-menu-item current-menu-ancestor">
-                                                <a href="index.html">Home</a>
+                                            <li class="current-menu-item"><a href="index.html" data-i18n="nav.home">Home</a></li>
+                                            <li><a href="portfolio-four-column-wide.html" data-i18n="nav.properties">Properties</a></li>
+                                            <li><a href="about-us.html" data-i18n="nav.aboutUs">About Us</a></li>
+                                            <li class="menu-item-has-children"><a href="servcies-detail-1.html" data-i18n="nav.services">Services</a>
                                                 <ul class="sub-menu">
-                                                    <li class="current-menu-item"><a href="index.html">Main Home</a></li>
-                                                    <li><a href="index-dark.html">Main Dark</a></li>
-                                                </ul>
-                                            </li> -->
-                                            <li><a href="portfolio-four-column-wide.html">Properties</a></li>
-                                            <li><a href="about-us.html">About Us</a></li>
-                                            <li class="menu-item-has-children"><a href="servcies-detail-1.html">Services</a>
-                                                <ul class="sub-menu">
-                                                    <li><a href="servcies-detail-1.html">Comprehensive Advisory</a></li>
-                                                    <li><a href="servcies-detail-2.html">Investment for Foreign Buyers</a></li>
-                                                    <li><a href="servcies-detail-3.html">Second Home Acquisition</a></li>
-                                                    <li><a href="servcies-detail-4.html">Premium Property Sales</a></li>
-                                                    <li><a href="servcies-detail-5.html">Legal & Transaction Management</a></li>
-                                                    <li><a href="servcies-detail-6.html">Market & Appreciation Analysis</a></li>
+                                                    <li><a href="servcies-detail-1.html" data-i18n="services.comprehensiveAdvisory">Comprehensive Advisory</a></li>
+                                                    <li><a href="servcies-detail-2.html" data-i18n="services.investmentForeignBuyers">Investment for Foreign Buyers</a></li>
+                                                    <li><a href="servcies-detail-3.html" data-i18n="services.secondHomeAcquisition">Second Home Acquisition</a></li>
+                                                    <li><a href="servcies-detail-4.html" data-i18n="services.premiumPropertySales">Premium Property Sales</a></li>
+                                                    <li><a href="servcies-detail-5.html" data-i18n="services.legalTransactionManagement">Legal & Transaction Management</a></li>
+                                                    <li><a href="servcies-detail-6.html" data-i18n="services.marketAppreciationAnalysis">Market & Appreciation Analysis</a></li>
                                                 </ul>
                                             </li>
-                                            <!-- <li class="menu-item-has-children"><a href="#">Pages</a>
-                                                <ul class="sub-menu">
-                                                    <li><a href="our-services.html">Our Services</a></li>
-                                                    <li><a href="our-team.html">Our Team</a></li>
-                                                    <li><a href="single-team.html">Single Team</a></li>
-                                                    <li><a href="our-process.html">Our Process</a></li>
-                                                    <li><a href="our-studio.html">Our Stufio</a></li>
-                                                    <li class="menu-item-has-children"><a href="shop.html">Shop</a>
-                                                        <ul class="sub-menu">
-                                                            <li><a href="single-product.html">Single Product</a></li>
-                                                            <li><a href="checkout-page.html">Checkout Page</a></li>
-                                                            <li><a href="cart-page.html">Cart Page</a></li>
-                                                        </ul>
-                                                    </li>
-                                                    <li><a href="typography.html">Typography</a></li>
-                                                    <li><a href="elements.html">Elements</a></li>
-                                                    <li><a href="faq.html">FAQS</a></li>
-                                                    <li><a href="cooming-soon.html">Coming Soon</a></li>
-                                                    <li><a href="404-error.html">404 Error</a></li>
-                                                </ul>
-                                            </li> -->
-                                            <!-- <li class="menu-item-has-children mega-dropdown"><a href="#">Portfolio</a>
-                                                <ul class="mega-sub-menu">
-                                                    <li class="row">
-                                                        <ul class="col">
-                                                            <li class="menu-title">Portfolio Types</li>
-                                                            <li><a href="portfolio-masonry.html">Portfolio Grid Masonry</a></li>
-                                                            <li><a href="portfolio-no-gap.html">Portfolio Grid No Gap</a></li>
-                                                            <li><a href="portfolio-under.html">Portfolio Info Under Image</a></li>
-                                                            <li><a href="portfolio-metro.html">Portfolio Metro</a></li>
-                                                            <li><a href="portfolio-metro-no-gap.html">Portfolio Metro No Space</a></li>
-                                                            <li><a href="portfolio-gallery.html">Portfolio Gallery</a></li>
-                                                            <li><a href="portfolio-slider.html">Portfolio Slider</a></li>
-                                                        </ul>
-                                                        <ul class="col">
-                                                            <li class="menu-title">Portfolio Layout</li>
-                                                            <li><a href="portfolio-two-column.html">Two Columns</a></li>
-                                                            <li><a href="portfolio-three-column.html">Three Columns</a></li>
-                                                            <li><a href="portfolio-three-column-wide.html">Three Columns Wide</a></li>
-                                                            
-                                                            <li><a href="portfolio-five-column-wide.html">Five Columns Wide</a></li>
-                                                        </ul>
-                                                        <ul class="col">
-                                                            <li class="menu-title">Single Types</li>
-                                                            <li><a href="portfolio-standar.html">Standard</a></li>
-                                                            <li><a href="portfolio-detail-slider.html">Slider Images</a></li>
-                                                            <li><a href="portfolio-left.html">Left Images</a></li>
-                                                            <li><a href="portfolio-right.html">Right Images</a></li>
-                                                            <li><a href="portfolio-small.html">Small Images</a></li>
-                                                            <li><a href="portfolio-big.html">Big Images</a></li>
-                                                        </ul>
-                                                        <ul class="col">
-                                                            <li class="menu-title">Hover Types</li>
-                                                            <li><a href="image-scale.html">Image Scale</a></li>
-                                                            <li><a href="show-overlay-info.html">Show Overlay Info</a></li>
-                                                            <li><a href="hidden-overlay-info.html">Hidden Overlay Info</a></li>
-                                                            <li><a href="background-solid.html">Background Solid</a></li>
-                                                            <li><a href="hidden-1.html">Hidden 1</a></li>
-                                                            <li><a href="hidden-2.html">Hidden 2</a></li>
-                                                        </ul>
-                                                    </li>
-                                                </ul>
-                                            </li> -->
-                                            <li><a href="#">Blog</a></li>
-                                            <!-- <li class="menu-item-has-children"><a href="blog.html">Blog</a>
-                                                <ul class="sub-menu">
-                                                    <li><a href="blog.html">Blog Listing</a></li>
-                                                    <li><a href="blog-grid.html">Blog Grid</a></li>
-                                                    <li><a href="post.html">Blog Single</a></li>
-                                                </ul>
-                                            </li> -->
-                                            <li><a href="contact.html">Contacts</a></li>
+                                            <li><a href="#" data-i18n="nav.blog">Blog</a></li>
+                                            <li><a href="contact.html" data-i18n="nav.contacts">Contacts</a></li>
                                         </ul>
                                     </nav>
                                 </div>
@@ -246,7 +188,7 @@
                         </a>               
                     </div>
                     <div class="ot-heading">
-                        <a href=""><h2 class="main-heading">Our Gallery</h2></a>
+                        <a href=""><h2 class="main-heading" data-i18n="sidePanel.ourGallery">Our Gallery</h2></a>
                     </div>
                     <div class="image-gallery">
                         <div id="gallery-1" class="gallery galleryid-102 gallery-columns-3 gallery-size-thumbnail">
@@ -299,21 +241,21 @@
 </button>
 
                     <div class="ot-heading ">
-                        <h2 class="main-heading">Contact Info</h2>
+                        <h2 class="main-heading" data-i18n="sidePanel.contactInfo">Contact Info</h2>
                     </div>
                     <div class="side-panel-cinfo">
                         <ul class="panel-cinfo">
                             <li class="panel-list-item">
                                 <span class="panel-list-icon"><i class="ot-flaticon-place"></i></span>
-                                <span class="panel-list-text">Puerto Vallarta, Jal</span>
+                                <span class="panel-list-text" data-i18n="sidePanel.address">Puerto Vallarta, Jal</span>
                             </li>
                             <li class="panel-list-item">
                                 <span class="panel-list-icon"><i class="ot-flaticon-mail"></i></span>
-                                <span class="panel-list-text">hello@ponchodavalos.com.mx</span>
+                                <span class="panel-list-text" data-i18n="sidePanel.email">hello@ponchodavalos.com.mx</span>
                             </li>
                             <li class="panel-list-item">
                                 <span class="panel-list-icon"><i class="ot-flaticon-phone-call"></i></span>
-                                <span class="panel-list-text">+52 (322) 292-2312</span>
+                                <span class="panel-list-text" data-i18n="sidePanel.phone">+52 (322) 292-2312</span>
                             </li>
                         </ul>
                     </div>
@@ -369,8 +311,8 @@
                                     data-frames='[{"delay":500,"split":"chars","splitdelay":0.1,"speed":500,"frame":"0","from":"x:[105%];z:0;rX:45deg;rY:0deg;rZ:90deg;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","to":"o:1;","ease":"power4.inOut"},{"delay":"wait","speed":1000,"frame":"999","to":"x:50px;z:0;rX:0deg;rY:0deg;rZ:0deg;sX:1;sY:1;skX:0;skY:0;","ease":"power3.inOut"}]'
 
                                     data-textAlign="['center','center','center','center']"
-                
-                                    >LIFESTYLE
+
+                                    ><span data-i18n="hero.slide1.bigText">LIFESTYLE</span>
                                 </div>
                                        
                                 <!-- LAYER 4  Bold Title-->
@@ -390,8 +332,8 @@
                                     data-frames='[{"delay":900,"speed":1000,"frame":"0","from":"x:50px;opacity:0;","to":"o:1;","ease":"power3.inOut"},{"delay":"wait","speed":1000,"frame":"999","to":"x:50px;opacity:0;","ease":"power3.inOut"}]'
 
                                     data-textAlign="['left','left','left','left']"
-                
-                                    >A New Level of Living in Puerto Vallarta
+
+                                    ><span data-i18n="hero.slide1.title">A New Level of Living in Puerto Vallarta</span>
                                 </div>
                                                                     
                                 <!-- LAYER 5  Paragraph-->
@@ -412,8 +354,8 @@
                                     data-frames='[{"delay":1200,"speed":1000,"frame":"0","from":"x:50px;opacity:0;","to":"o:1;","ease":"power3.inOut"},{"delay":"wait","speed":1000,"frame":"999","to":"x:50px;opacity:0;","ease":"power3.inOut"}]'
                                     
                                     data-textAlign="['center','center','center','center']"
-                
-                                    >Discover residences that elevate your lifestyle, curated with design, location, and lasting sophistication in mind.
+
+                                    ><span data-i18n="hero.slide1.description">Discover residences that elevate your lifestyle, curated with design, location, and lasting sophistication in mind.</span>
                                     </div> 
         
                                 <!-- LAYER 6  Read More-->
@@ -435,8 +377,8 @@
                                     data-paddingright="[0,0,0,0]"
                                     data-paddingbottom="[0,0,0,0]"
                                     data-paddingleft="[0,0,0,0]"
-                
-                                    ><a href="portfolio-four-column-wide.html" class="octf-btn octf-btn-primary btn-slider btn-large">Explore Properties</a>
+
+                                    ><a href="portfolio-four-column-wide.html" class="octf-btn octf-btn-primary btn-slider btn-large" data-i18n="hero.slide1.button">Explore Properties</a>
                                 </div>  
                        
                             </li>  
@@ -650,18 +592,18 @@
             <section class="story-section">
   <div class="container">
     <div class="story-wrapper">
-      
+
       <!-- Texto largo a la izquierda -->
       <div class="story-text">
-        <p>“Even if you don’t have a ready sketch of what you want – we will help you to get the result you dreamed of.”</p>
+        <p data-i18n="story.quote">"Even if you don't have a ready sketch of what you want – we will help you to get the result you dreamed of."</p>
       </div>
 
       <!-- Imagen y texto a la derecha -->
       <div class="story-author">
         <img src="images/fotodeperfil.jpeg" alt="Poncho Davalos">
         <div class="story-info">
-          <h5 class="poncho-name">Poncho Davalos</h5>
-          <p class="story-role">Founder of Company</p>
+          <h5 class="poncho-name" data-i18n="story.name">Poncho Davalos</h5>
+          <p class="story-role" data-i18n="story.role">Founder of Company</p>
         </div>
       </div>
 
@@ -675,18 +617,18 @@
                     <div class="row">
                         <div class="col-lg-12 text-center theratio-align-center">
                             <div class="ot-heading is-dots">
-                                <span>[ Some of Our Works and Case Studies for Clients ]</span>
-                                <h2 class="main-heading">Discover Our Latest Listings and Real Estate Highlights<br> </h2>
+                                <span data-i18n="portfolio.subtitle">[ Some of Our Works and Case Studies for Clients ]</span>
+                                <h2 class="main-heading" data-i18n="portfolio.title">Discover Our Latest Listings and Real Estate Highlights<br> </h2>
                                 <div class="space-10"></div>
-                                <p>Discover handpicked homes and condos that combine lifestyle, comfort, and investment value.</p> 
+                                <p data-i18n="portfolio.description">Discover handpicked homes and condos that combine lifestyle, comfort, and investment value.</p>
                             </div>
                             <div class="space-40"></div>
                             <div class="project-filter-wrapper">
                                 <ul class="project_filters">
-                                    <li><a href="#" data-filter="*" class="selected btn-details">All Properties<span class="filter-count"></span></a></li>
-                                    <li><a class="btn-details" href="#" data-filter=".category-14">For Sale<span class="filter-count"></span></a></li>         
-                                    <li><a class="btn-details" href="#" data-filter=".category-20">Luxury Villas<span class="filter-count"></span></a></li>
-                                    <li><a class="btn-details" href="#" data-filter=".category-19">Condos & Apartments<span class="filter-count"></span></a></li>
+                                    <li><a href="#" data-filter="*" class="selected btn-details" data-i18n="portfolio.filters.all">All Properties<span class="filter-count"></span></a></li>
+                                    <li><a class="btn-details" href="#" data-filter=".category-14" data-i18n="portfolio.filters.forSale">For Sale<span class="filter-count"></span></a></li>
+                                    <li><a class="btn-details" href="#" data-filter=".category-20" data-i18n="portfolio.filters.luxuryVillas">Luxury Villas<span class="filter-count"></span></a></li>
+                                    <li><a class="btn-details" href="#" data-filter=".category-19" data-i18n="portfolio.filters.condosApartments">Condos & Apartments<span class="filter-count"></span></a></li>
                                 </ul>
                                 <div class="projects-grid pf_3_cols style-5 img-scale w-auto">
                                     <div class="grid-sizer"></div>
@@ -815,7 +757,7 @@
                                     </div>
                                 </div>
                                 <div class="btn-block text-center">
-                                    <a href="portfolio-four-column-wide.html" class="btn-loadmore octf-btn">View All Properties</a>
+                                    <a href="portfolio-four-column-wide.html" class="btn-loadmore octf-btn" data-i18n="portfolio.viewAll">View All Properties</a>
                                 </div>
                             </div>
                         </div>
@@ -867,8 +809,8 @@
                     <div class="row">
                         <div class="col-md-12 text-center theratio-align-center">
                             <div class="ot-heading is-dots">
-                                <span>[ OUR SERVICES ]</span>
-                                <h2 class="main-heading text-light">Why Choose Poncho Dávalos Real Estate</h2>
+                                <span data-i18n="whyChoose.subtitle">[ OUR SERVICES ]</span>
+                                <h2 class="main-heading text-light" data-i18n="whyChoose.title">Why Choose Poncho Dávalos Real Estate</h2>
                             </div>
                             <div class="space-50"></div>
                         </div>
@@ -878,36 +820,27 @@
                             <div  class="icon-box icon-box--bg-img icon-box--icon-top icon-box--is-line-hover icon-bg-1 text-center">
                                 <div class="icon-main"><img src="images/iconos_properties/1.png" alt=""></div>
                                 <div class="content-box">
-                                    <h5><a href="servcies-detail-1.html">Boutique & Personalized Service</a></h5>
-                                    <p>We focus on your lifestyle and investment goals with tailor-made solutions.</p>
+                                    <h5><a href="servcies-detail-1.html" data-i18n="whyChoose.service1.title">Boutique & Personalized Service</a></h5>
+                                    <p data-i18n="whyChoose.service1.description">We focus on your lifestyle and investment goals with tailor-made solutions.</p>
                                 </div>
-                                <!-- <div class="link-box">
-                                    <a href="servcies-detail-1.html" class="btn-details">READ MORE</a>
-                                </div> -->
                             </div>
                         </div>
                         <div class="col-lg-4 col-md-6 col-sm-12">
                             <div class="icon-box icon-box--bg-img icon-box--icon-top icon-box--is-line-hover icon-bg-2 text-center">
                                 <div class="icon-main"><img src="images/iconos_properties/2.png" alt=""></div>
                                 <div class="content-box">
-                                    <h5><a href="servcies-detail-1.html">Local Expertise, Global Vision</a></h5>
-                                    <p>We know Vallarta & Nayarit deeply, guiding international buyers with trust and clarity.</p>
+                                    <h5><a href="servcies-detail-1.html" data-i18n="whyChoose.service2.title">Local Expertise, Global Vision</a></h5>
+                                    <p data-i18n="whyChoose.service2.description">We know Vallarta & Nayarit deeply, guiding international buyers with trust and clarity.</p>
                                 </div>
-                                <!-- <div class="link-box">
-                                    <a href="servcies-detail-1.html" class="btn-details">READ MORE</a>
-                                </div> -->
                             </div>
                         </div>
                         <div class="col-lg-4 col-md-6 col-sm-12">
                             <div class="icon-box icon-box--bg-img icon-box--icon-top icon-box--is-line-hover icon-bg-3 text-center">
                                 <div class="icon-main"><img src="images/iconos_properties/3.png" alt=""></div>
                                 <div class="content-box">
-                                    <h5><a href="servcies-detail-1.html">Trust & Long-Term Relationships</a></h5>
-                                    <p>We don’t just close deals, we build lasting connections based on honesty and care.</p>
+                                    <h5><a href="servcies-detail-1.html" data-i18n="whyChoose.service3.title">Trust & Long-Term Relationships</a></h5>
+                                    <p data-i18n="whyChoose.service3.description">We don't just close deals, we build lasting connections based on honesty and care.</p>
                                 </div>
-                                <!-- <div class="link-box">
-                                    <a href="servcies-detail-1.html" class="btn-details">READ MORE</a>
-                                </div> -->
                             </div>
                         </div>
                         <div class="space-120"></div>
@@ -920,8 +853,8 @@
                                     <span class="num" data-to="10" data-time="2000">0</span>
                                     <span>+]</span>
                                 </div>
-                                <h6 style="color: #A9A9A9;">Years of Local Expertise</h6> 
-                                <p style="color: #A9A9A9;">Guiding your real estate journey.</p>                           
+                                <h6 style="color: #A9A9A9;" data-i18n="whyChoose.stats.years.title">Years of Local Expertise</h6>
+                                <p style="color: #A9A9A9;" data-i18n="whyChoose.stats.years.description">Guiding your real estate journey.</p>                           
                             </div>
                         </div>
                         <div class="col-xl-4 col-lg-6 col-md-6 col-sm-6 mb-4 mb-xl-0">
@@ -931,8 +864,8 @@
                                     <span class="num" data-to="120" data-time="2000">0</span>
                                     <span>+]</span>
                                 </div>
-                                <h6 style="color: #A9A9A9;">Properties Sold</h6>
-                                <p style="color: #A9A9A9;">Proven success in every transaction.</p>                            
+                                <h6 style="color: #A9A9A9;" data-i18n="whyChoose.stats.propertiesSold.title">Properties Sold</h6>
+                                <p style="color: #A9A9A9;" data-i18n="whyChoose.stats.propertiesSold.description">Proven success in every transaction.</p>
                             </div>
                         </div>
                         <div class="col-xl-4 col-lg-6 col-md-6 col-sm-6 mb-4 mb-sm-0">
@@ -942,8 +875,8 @@
                                     <span class="num" data-to="95" data-time="2000">0</span>
                                     <span>%]</span>
                                 </div>
-                                <h6 style="color: #A9A9A9;">Client Referrals</h6> 
-                                <p style="color: #A9A9A9;">Built on trust and integrity.</p>                            
+                                <h6 style="color: #A9A9A9;" data-i18n="whyChoose.stats.clientReferrals.title">Client Referrals</h6>
+                                <p style="color: #A9A9A9;" data-i18n="whyChoose.stats.clientReferrals.description">Built on trust and integrity.</p>                            
                             </div>
                         </div>
                     </div>
@@ -955,8 +888,8 @@
     <div class="row text-center mb-5">
       <div class="col-lg-12">
         <div class="ot-heading is-dots">
-          <span>[ testimonials ]</span>
-          <h2 class="main-heading">What Our Clients Say</h2>
+          <span data-i18n="testimonials.subtitle">[ testimonials ]</span>
+          <h2 class="main-heading" data-i18n="testimonials.title">What Our Clients Say</h2>
         </div>
       </div>
     </div>
@@ -1057,13 +990,13 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-lg-8 mb-4 mb-lg-0">
-                            <h2 class="text-light mb-0">Ready to Find Your Dream Property?</h2>
+                            <h2 class="text-light mb-0" data-i18n="cta.title">Ready to Find Your Dream Property?</h2>
                             <div class="space-5"></div>
-                            <p class=" mb-0">Let’s talk today and make your lifestyle or investment goals a reality.</p>
+                            <p class=" mb-0" data-i18n="cta.description">Let's talk today and make your lifestyle or investment goals a reality.</p>
                         </div>
                         <div class="col-lg-4 text-left text-lg-right align-self-center">
                             <div class="ot-button">
-                                <a href="contact.html" class="octf-btn octf-btn-light border-hover-light">Schedule a Consultation</a>
+                                <a href="contact.html" class="octf-btn octf-btn-light border-hover-light" data-i18n="cta.button">Schedule a Consultation</a>
                             </div>
                         </div>
                     </div>
@@ -1078,12 +1011,10 @@
                 <div class="col-xl-3 col-lg-6 col-md-6 col-sm-12 mb-4 mb-xl-0">
                     <div class="widget-footer">
                         <img src="images/logo.png" alt="Poncho Davalos Real Estate" class="">
-                        <p>We provides a full range of interior design, architectural design.</p>
+                        <p data-i18n="footer.description">We provides a full range of interior design, architectural design.</p>
                         <div class="footer-social list-social">
                             <ul>
                                 <li><a href="https://www.facebook.com/ponchodavalosre" target="_self"><i class="fab fa-facebook-f"></i></a></li>
-                                <!-- <li><a href="http://twitter.com/" target="_self"><i class="fab fa-twitter"></i></a></li> -->
-                                <!-- <li><a href="http://linkedin.com/" target="_self"><i class="fab fa-linkedin-in"></i></a></li> -->
                                 <li><a href="https://www.instagram.com/ponchodavalos_re/" target="_self"><i class="fab fa-instagram"></i></a></li>
                             </ul>
                         </div>
@@ -1091,26 +1022,26 @@
                 </div>
                 <div class="col-xl-3 col-lg-6 col-md-6 col-sm-12 mb-4 mb-xl-0">
                     <div class="widget-footer">
-                        <h6>Contacts</h6>
+                        <h6 data-i18n="footer.contactsTitle">Contacts</h6>
                         <ul class="footer-list">
                             <li class="footer-list-item">
                                 <span class="list-item-icon"><i class="ot-flaticon-place"></i></span>
-                                <span class="list-item-text"> Puerto Vallarta, Jal</span>
+                                <span class="list-item-text" data-i18n="sidePanel.address"> Puerto Vallarta, Jal</span>
                             </li>
                             <li class="footer-list-item">
                                 <span class="list-item-icon"><i class="ot-flaticon-mail"></i></span>
-                                <span class="list-item-text"> hello@ponchodavalos.com.mx</span>
+                                <span class="list-item-text" data-i18n="sidePanel.email"> hello@ponchodavalos.com.mx</span>
                             </li>
                             <li class="footer-list-item">
                                 <span class="list-item-icon"><i class="ot-flaticon-phone-call"></i></span>
-                                <span class="list-item-text"> +52 (322) 292-2312</span>
+                                <span class="list-item-text" data-i18n="sidePanel.phone"> +52 (322) 292-2312</span>
                             </li>
                         </ul>
                     </div>
                 </div>
                 <div class="col-xl-3 col-lg-6 col-md-6 col-sm-12 mb-4 mb-md-0">
                     <div class="widget-footer widget-contact">
-                        <h6>Latest Projects</h6>
+                        <h6 data-i18n="footer.latestProjectsTitle">Latest Projects</h6>
                         <ul>
                             <li><a href="property-1.html">Altomar C6</a></li>
                             <li><a href="property-2.html">Indah 3B</a></li>
@@ -1120,7 +1051,7 @@
                 </div>
                 <div class="col-xl-3 col-lg-6 col-md-6 col-sm-12">
                     <div class="widget-footer footer-widget-subcribe">
-                        <h6>Social Media</h6>
+                        <h6 data-i18n="footer.socialMediaTitle">Social Media</h6>
                         <form class="mc4wp-form" method="post">
                             <div class="mc4wp-form-fields">
                                 <div class="subscribe-inner-form">
@@ -1142,15 +1073,15 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-7 col-md-12 mb-4 mb-lg-0">
-                    <p>Copyright © 2025 <a class="text-light" href="#">Poncho Dávalos Real State</a>. All Rights Reserved.</p>
+                    <p><span data-i18n="footer.copyright">Copyright © 2025</span> <a class="text-light" href="#" data-i18n="footer.companyName">Poncho Dávalos Real State</a>. <span data-i18n="footer.allRightsReserved">All Rights Reserved.</span></p>
                 </div>
                 <div class="col-lg-5 col-md-12 align-self-center">
                     <ul class="icon-list-items inline-items justify-content-lg-end">
                         <li class="icon-list-item inline-item">
-                            <a href="#"><span class="icon-list-text">Terms of use</span></a>
+                            <a href="#"><span class="icon-list-text" data-i18n="footer.termsOfUse">Terms of use</span></a>
                         </li>
                         <li class="icon-list-item inline-item">
-                            <a href="#"><span class="icon-list-text">Privacy Environmental Policy</span></a>
+                            <a href="#"><span class="icon-list-text" data-i18n="footer.privacyPolicy">Privacy Environmental Policy</span></a>
                         </li>
                     </ul>
                 </div>
@@ -1182,8 +1113,12 @@
 
     <!-- REVOLUTION SLIDER SCRIPT FILES -->
     <script  src="js/rev-script-1.js"></script>
+
+    <!-- i18n SCRIPT -->
+    <script src="js/i18n.js"></script>
+
     <script>
-        window.jQuery = window.$ = jQuery;  
+        window.jQuery = window.$ = jQuery;
         (function($) { "use strict";
             //Preloader
             Royal_Preloader.config({
@@ -1191,7 +1126,7 @@
                 background     :   '#1a1a1a',
             });
         })(jQuery);
-    </script>  
+    </script>
 </body>
 
 <!-- Mirrored from templates.thememodern.com/theratio/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 19 Sep 2025 20:58:47 GMT -->

@@ -9,6 +9,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
     <meta name="description" content="Boutique real estate in Puerto Vallarta & Riviera Nayarit. Luxury homes, condos, and expert guidance to secure your next investment.">
     <title>Poncho Dávalos Real Estate | Puerto Vallarta & Riviera Nayarit</title>
+    <meta name="description" content="Luxury real estate in Puerto Vallarta and Riviera Nayarit. Find your dream property with expert guidance and personalized service.">
+    <meta name="keywords" content="Puerto Vallarta real estate, Riviera Nayarit properties, luxury homes Mexico, beachfront condos">
+
+    <!-- Alternate Language Links -->
+    <link rel="alternate" hreflang="en" href="https://ponchodavalos.com.mx/servcies-detail-1.html" />
+    <link rel="alternate" hreflang="es" href="https://ponchodavalos.com.mx/es/servcies-detail-1.html" />
+    <link rel="alternate" hreflang="x-default" href="https://ponchodavalos.com.mx/servcies-detail-1.html" />
     <link rel="shortcut icon" type="image/x-icon" href="images/favicon.png" />
     <link rel="stylesheet" href="css/bootstrap.min.css" />
     <link rel="stylesheet" href="css/font-awesome.min.css" />
@@ -24,11 +31,21 @@
     <link rel="stylesheet" href="css/royal-preload.css" />
 
     <link rel="stylesheet" href="style.css" />
-    
+    <link rel="stylesheet" href="css/i18n.css" />
 </head>
 
 
 <body>
+    <!-- Language Switcher -->
+    <div class="lang-switcher">
+        <button class="lang-btn active" data-lang="en" aria-label="Switch to English">
+            <span class="sr-only">Switch to</span>EN
+        </button>
+        <button class="lang-btn" data-lang="es" aria-label="Cambiar a Español">
+            <span class="sr-only">Cambiar a</span>ES
+        </button>
+    </div>
+
     <div id="royal_preloader"></div>
     <div id="page" class="site">
        <header id="site-header" class="site-header header-transparent">
@@ -48,24 +65,17 @@
                                 <div class="octf-col menu-col no-padding">
                                     <nav id="site-navigation" class="main-navigation">
                                         <ul class="menu">
-                                            <li class=""><a href="index.html">Home</a></li>
-                                            <!-- <li class="menu-item-has-children current-menu-item current-menu-ancestor">
-                                                <a href="index.html">Home</a>
+                                            <li class=""><a href="index.html" data-i18n="nav.home">Home</a></li>
+                                            <li><a href="portfolio-four-column-wide.html" data-i18n="nav.properties">Properties</a></li>
+                                            <li><a href="about-us.html" data-i18n="nav.aboutUs">About Us</a></li>
+                                            <li class="menu-item-has-children current-menu-item"><a href="servcies-detail-1.html" data-i18n="nav.services">Services</a>
                                                 <ul class="sub-menu">
-                                                    <li class="current-menu-item"><a href="index.html">Main Home</a></li>
-                                                    <li><a href="index-dark.html">Main Dark</a></li>
-                                                </ul>
-                                            </li> -->
-                                            <li><a href="portfolio-four-column-wide.html">Properties</a></li>
-                                            <li><a href="about-us.html">About Us</a></li>
-                                            <li class="menu-item-has-children current-menu-item"><a href="servcies-detail-1.html">Services</a>
-                                                <ul class="sub-menu">
-                                                    <li><a href="servcies-detail-1.html">Comprehensive Advisory</a></li>
-                                                    <li><a href="servcies-detail-2.html">Investment for Foreign Buyers</a></li>
-                                                    <li><a href="servcies-detail-3.html">Second Home Acquisition</a></li>
-                                                    <li><a href="servcies-detail-4.html">Premium Property Sales</a></li>
-                                                    <li><a href="servcies-detail-5.html">Legal & Transaction Management</a></li>
-                                                    <li><a href="servcies-detail-6.html">Market & Appreciation Analysis</a></li>
+                                                    <li><a href="servcies-detail-1.html" data-i18n="services.comprehensiveAdvisory">Comprehensive Advisory</a></li>
+                                                    <li><a href="servcies-detail-2.html" data-i18n="services.investmentForeignBuyers">Investment for Foreign Buyers</a></li>
+                                                    <li><a href="servcies-detail-3.html" data-i18n="services.secondHomeAcquisition">Second Home Acquisition</a></li>
+                                                    <li><a href="servcies-detail-4.html" data-i18n="services.premiumPropertySales">Premium Property Sales</a></li>
+                                                    <li><a href="servcies-detail-5.html" data-i18n="services.legalTransactionManagement">Legal & Transaction Management</a></li>
+                                                    <li><a href="servcies-detail-6.html" data-i18n="services.marketAppreciationAnalysis">Market & Appreciation Analysis</a></li>
                                                 </ul>
                                             </li>
                                             <!-- <li class="menu-item-has-children"><a href="#">Pages</a>
@@ -329,7 +339,7 @@
             <div class="page-header dtable text-center header-solid pheader-service-detail1 header-filtro">
                 <div class="dcell">
                     <div class="container">
-                        <h1 class="page-title">Comprehensive Advisory</h1>
+                        <h1 class="page-title" data-i18n="servicesDetail.service1.pageTitle">Comprehensive Advisory</h1>
                         <ul id="breadcrumbs" class="breadcrumbs none-style">
                             <!-- <li><a href="index.html">Home</a></li>
                             <li><a href="our-services.html">Our Services</a></li>
@@ -346,27 +356,27 @@
                     <div class="widget-area col-lg-3 col-md-12">
                         <div class="widget widget_nav_menu">
                             <ul class="services-menu">
-                                <li class="current-menu-item"><a href="servcies-detail-1.html"><span>01.</span> Comprehensive Advisory</a></li>
-                                <li><a href="servcies-detail-2.html"><span>02.</span> Investment for Foreign Buyers</a></li>
-                                <li><a href="servcies-detail-3.html"><span>03.</span> Second Home Acquisition</a></li>
-                                <li><a href="servcies-detail-4.html"><span>04.</span> Premium Property Sales</a></li>
-                                <li><a href="servcies-detail-5.html"><span>05.</span> Legal & Transaction Management</a></li>
-                                <li><a href="servcies-detail-6.html"><span>06.</span> Market & Appreciation Analysis</a></li>
+                                <li class="current-menu-item"><a href="servcies-detail-1.html"><span>01.</span> <span data-i18n="servicesDetail.service1.sidebar.title">Comprehensive Advisory</span></a></li>
+                                <li><a href="servcies-detail-2.html"><span>02.</span> <span data-i18n="servicesDetail.service2.sidebar.title">Investment for Foreign Buyers</span></a></li>
+                                <li><a href="servcies-detail-3.html"><span>03.</span> <span data-i18n="servicesDetail.service3.sidebar.title">Second Home Acquisition</span></a></li>
+                                <li><a href="servcies-detail-4.html"><span>04.</span> <span data-i18n="servicesDetail.service4.sidebar.title">Premium Property Sales</span></a></li>
+                                <li><a href="servcies-detail-5.html"><span>05.</span> <span data-i18n="servicesDetail.service5.sidebar.title">Legal & Transaction Management</span></a></li>
+                                <li><a href="servcies-detail-6.html"><span>06.</span> <span data-i18n="servicesDetail.service6.sidebar.title">Market & Appreciation Analysis</span></a></li>
                             </ul>
                         </div>
                     </div>
                     <div class="col-lg-9 col-md-12">
     <div class="services-detail-content">
         <div class="ot-heading">
-            <span>[ Our Services ]</span>
-            <h2 class="main-heading">Professional Guidance Throughout the Entire Process</h2>
+            <span data-i18n="servicesDetail.service1.label">[ Our Services ]</span>
+            <h2 class="main-heading" data-i18n="servicesDetail.service1.heading">Professional Guidance Throughout the Entire Process</h2>
         </div>
 
         <!-- Contenedor de texto + imagen -->
         <div class="text-image-wrapper">
             <div class="text-content">
-                <p>Buying or selling a property is more than a transaction: it’s a life decision. Our team accompanies you at every stage, from the initial search to the final signing, ensuring that everything is transparent, secure, and smooth.</p>
-                <p>We understand that every transaction is unique. That’s why we provide personalized guidance covering financial, legal, and lifestyle aspects, ensuring the best outcome when buying or selling your property.</p>
+                <p data-i18n="servicesDetail.service1.description1">Buying or selling a property is more than a transaction: it's a life decision. Our team accompanies you at every stage, from the initial search to the final signing, ensuring that everything is transparent, secure, and smooth.</p>
+                <p data-i18n="servicesDetail.service1.description2">We understand that every transaction is unique. That's why we provide personalized guidance covering financial, legal, and lifestyle aspects, ensuring the best outcome when buying or selling your property.</p>
             </div>
             <div class="image-content">
                 <img src="images/porpied/2/13.jpg" alt="" class="detail-img">
@@ -403,7 +413,7 @@
                 </div>
                 <div class="col-xl-3 col-lg-6 col-md-6 col-sm-12 mb-4 mb-xl-0">
                     <div class="widget-footer">
-                        <h6>Contacts</h6>
+                        <h6 data-i18n="footer.contactsTitle">Contacts</h6>
                         <ul class="footer-list">
                             <li class="footer-list-item">
                                 <span class="list-item-icon"><i class="ot-flaticon-place"></i></span>
@@ -422,7 +432,7 @@
                 </div>
                 <div class="col-xl-3 col-lg-6 col-md-6 col-sm-12 mb-4 mb-md-0">
                     <div class="widget-footer widget-contact">
-                        <h6>Latest Projects</h6>
+                        <h6 data-i18n="footer.latestProjectsTitle">Latest Projects</h6>
                         <ul>
                             <li><a href="property-1.html">Altomar C6</a></li>
                             <li><a href="property-2.html">Indah 3B</a></li>
@@ -432,7 +442,7 @@
                 </div>
                 <div class="col-xl-3 col-lg-6 col-md-6 col-sm-12">
                     <div class="widget-footer footer-widget-subcribe">
-                        <h6>Social Media</h6>
+                        <h6 data-i18n="footer.socialMediaTitle">Social Media</h6>
                         <form class="mc4wp-form" method="post">
                             <div class="mc4wp-form-fields">
                                 <div class="subscribe-inner-form">
@@ -454,15 +464,15 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-7 col-md-12 mb-4 mb-lg-0">
-                    <p>Copyright © 2025 <a class="text-light" href="#">Poncho Dávalos Real State</a>. All Rights Reserved.</p>
+                    <p data-i18n="footer.copyright">Copyright © 2025 <a class="text-light" href="#">Poncho Dávalos Real State</a>. All Rights Reserved.</p>
                 </div>
                 <div class="col-lg-5 col-md-12 align-self-center">
                     <ul class="icon-list-items inline-items justify-content-lg-end">
                         <li class="icon-list-item inline-item">
-                            <a href="#"><span class="icon-list-text">Terms of use</span></a>
+                            <a href="#"><span class="icon-list-text" data-i18n="footer.termsOfUse">Terms of use</span></a>
                         </li>
                         <li class="icon-list-item inline-item">
-                            <a href="#"><span class="icon-list-text">Privacy Environmental Policy</span></a>
+                            <a href="#"><span class="icon-list-text" data-i18n="footer.privacyPolicy">Privacy Environmental Policy</span></a>
                         </li>
                     </ul>
                 </div>
@@ -484,7 +494,7 @@
     <script src="js/dark-mode.js"></script>
     <script src="js/royal_preloader.min.js"></script>
     <script>
-        window.jQuery = window.$ = jQuery;  
+        window.jQuery = window.$ = jQuery;
         (function($) { "use strict";
             //Preloader
             Royal_Preloader.config({
@@ -492,7 +502,10 @@
                 background     :   '#1a1a1a',
             });
         })(jQuery);
-    </script>  
+    </script>
+
+    <!-- i18n SCRIPT -->
+    <script src="js/i18n.js"></script>
 </body>
 
 <!-- Mirrored from templates.thememodern.com/theratio/servcies-detail-1.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 19 Sep 2025 20:59:17 GMT -->

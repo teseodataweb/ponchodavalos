@@ -10,6 +10,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
     <meta name="description" content="Boutique real estate in Puerto Vallarta & Riviera Nayarit. Luxury homes, condos, and expert guidance to secure your next investment.">
     <title>Poncho Dávalos Real Estate | Puerto Vallarta & Riviera Nayarit</title>
+    <meta name="description" content="Luxury real estate in Puerto Vallarta and Riviera Nayarit. Find your dream property with expert guidance and personalized service.">
+    <meta name="keywords" content="Puerto Vallarta real estate, Riviera Nayarit properties, luxury homes Mexico, beachfront condos">
+
+    <!-- Alternate Language Links -->
+    <link rel="alternate" hreflang="en" href="https://ponchodavalos.com.mx/portfolio-four-column-wide.html" />
+    <link rel="alternate" hreflang="es" href="https://ponchodavalos.com.mx/es/portfolio-four-column-wide.html" />
+    <link rel="alternate" hreflang="x-default" href="https://ponchodavalos.com.mx/portfolio-four-column-wide.html" />
     <link rel="shortcut icon" type="image/x-icon" href="images/logo.png" />
     <link rel="stylesheet" href="css/bootstrap.min.css" />
     <link rel="stylesheet" href="css/font-awesome.min.css" />
@@ -26,9 +33,20 @@
     <link rel="stylesheet" href="css/header-filtro.css">
 
     <link rel="stylesheet" href="style.css" />
+    <link rel="stylesheet" href="css/i18n.css" />
 </head>
 
 <body>
+    <!-- Language Switcher -->
+    <div class="lang-switcher">
+        <button class="lang-btn active" data-lang="en" aria-label="Switch to English">
+            <span class="sr-only">Switch to</span>EN
+        </button>
+        <button class="lang-btn" data-lang="es" aria-label="Cambiar a Español">
+            <span class="sr-only">Cambiar a</span>ES
+        </button>
+    </div>
+
     <div id="royal_preloader"></div>
     <div id="page" class="site">
         <header id="site-header" class="site-header header-transparent">
@@ -48,24 +66,17 @@
                                 <div class="octf-col menu-col no-padding">
                                     <nav id="site-navigation" class="main-navigation">
                                         <ul class="menu">
-                                            <li class=""><a href="index.html">Home</a></li>
-                                            <!-- <li class="menu-item-has-children current-menu-item current-menu-ancestor">
-                                                <a href="index.html">Home</a>
+                                            <li class=""><a href="index.html" data-i18n="nav.home">Home</a></li>
+                                            <li class="current-menu-item"><a href="portfolio-four-column-wide.html" data-i18n="nav.properties">Properties</a></li>
+                                            <li><a href="about-us.html" data-i18n="nav.aboutUs">About Us</a></li>
+                                            <li class="menu-item-has-children"><a href="servcies-detail-1.html" data-i18n="nav.services">Services</a>
                                                 <ul class="sub-menu">
-                                                    <li class="current-menu-item"><a href="index.html">Main Home</a></li>
-                                                    <li><a href="index-dark.html">Main Dark</a></li>
-                                                </ul>
-                                            </li> -->
-                                            <li class="current-menu-item"><a href="portfolio-four-column-wide.html">Properties</a></li>
-                                            <li><a href="about-us.html">About Us</a></li>
-                                            <li class="menu-item-has-children"><a href="servcies-detail-1.html">Services</a>
-                                                <ul class="sub-menu">
-                                                    <li><a href="servcies-detail-1.html">Comprehensive Advisory</a></li>
-                                                    <li><a href="servcies-detail-2.html">Investment for Foreign Buyers</a></li>
-                                                    <li><a href="servcies-detail-3.html">Second Home Acquisition</a></li>
-                                                    <li><a href="servcies-detail-4.html">Premium Property Sales</a></li>
-                                                    <li><a href="servcies-detail-5.html">Legal & Transaction Management</a></li>
-                                                    <li><a href="servcies-detail-6.html">Market & Appreciation Analysis</a></li>
+                                                    <li><a href="servcies-detail-1.html" data-i18n="services.comprehensiveAdvisory">Comprehensive Advisory</a></li>
+                                                    <li><a href="servcies-detail-2.html" data-i18n="services.investmentForeignBuyers">Investment for Foreign Buyers</a></li>
+                                                    <li><a href="servcies-detail-3.html" data-i18n="services.secondHomeAcquisition">Second Home Acquisition</a></li>
+                                                    <li><a href="servcies-detail-4.html" data-i18n="services.premiumPropertySales">Premium Property Sales</a></li>
+                                                    <li><a href="servcies-detail-5.html" data-i18n="services.legalTransactionManagement">Legal & Transaction Management</a></li>
+                                                    <li><a href="servcies-detail-6.html" data-i18n="services.marketAppreciationAnalysis">Market & Appreciation Analysis</a></li>
                                                 </ul>
                                             </li>
                                             <!-- <li class="menu-item-has-children"><a href="#">Pages</a>
@@ -243,7 +254,7 @@
                         </a>               
                     </div>
                     <div class="ot-heading">
-                        <a href=""><h2 class="main-heading">Our Gallery</h2></a>
+                        <a href=""><h2 class="main-heading" data-i18n="sidePanel.galleryTitle">Our Gallery</h2></a>
                     </div>
                     <div class="image-gallery">
                         <div id="gallery-1" class="gallery galleryid-102 gallery-columns-3 gallery-size-thumbnail">
@@ -295,7 +306,7 @@
     Dark Mode
 </button>
                     <div class="ot-heading ">
-                        <h2 class="main-heading">Contact Info</h2>
+                        <h2 class="main-heading" data-i18n="sidePanel.contactInfoTitle">Contact Info</h2>
                     </div>
                     <div class="side-panel-cinfo">
                         <ul class="panel-cinfo">
@@ -330,10 +341,10 @@
          style="background-image: url('images/page-header/pheader-portfolio.jpg');">
         <div class="dcell">
             <div class="container">
-                <h1 class="page-title">Properties</h1>
+                <h1 class="page-title" data-i18n="propertiesPage.pageTitle">Properties</h1>
                 <ul id="breadcrumbs" class="breadcrumbs none-style">
-                    <li><a href="index.html">Home</a></li>
-                    <li class="active">Properties</li>
+                    <li><a href="index.html" data-i18n="propertiesPage.breadcrumb.home">Home</a></li>
+                    <li class="active" data-i18n="propertiesPage.breadcrumb.properties">Properties</li>
                     <div class="space-10"></div>
                 </ul>
             </div>
@@ -346,10 +357,10 @@
         <div class="row">
             <div class="col-lg-12 text-center theratio-align-center">
                 <div class="ot-heading is-dots">
-                    <span>[ Our Properties ]</span>
-                    <h2 class="main-heading">Discover Your Next Property</h2>
+                    <span data-i18n="propertiesPage.hero.label">[ Our Properties ]</span>
+                    <h2 class="main-heading" data-i18n="propertiesPage.hero.title">Discover Your Next Property</h2>
                     <div>
-                        <h6>
+                        <h6 data-i18n="propertiesPage.hero.subtitle">
                             Explore our curated selection of homes, condos, and villas designed for lifestyle, comfort, and investment opportunities.
                         </h6>
                     </div>
@@ -359,11 +370,11 @@
                 <div class="space-40"></div>
                 <div class="project-filter-wrapper">
                     <ul class="project_filters">
-                        <li><a href="#" data-filter="*" class="selected btn-details">All Properties<span class="filter-count"></span></a></li>
-                        <li><a class="btn-details" href="#" data-filter=".category-14">For Sale<span class="filter-count"></span></a></li>
-                        <li><a class="btn-details" href="#" data-filter=".category-15">For Rent<span class="filter-count"></span></a></li>
-                        <li><a class="btn-details" href="#" data-filter=".category-20">Luxury Villas<span class="filter-count"></span></a></li>
-                        <li><a class="btn-details" href="#" data-filter=".category-19">Condos & Apartments<span class="filter-count"></span></a></li>
+                        <li><a href="#" data-filter="*" class="selected btn-details" data-i18n="propertiesPage.filters.all">All Properties<span class="filter-count"></span></a></li>
+                        <li><a class="btn-details" href="#" data-filter=".category-14" data-i18n="propertiesPage.filters.forSale">For Sale<span class="filter-count"></span></a></li>
+                        <li><a class="btn-details" href="#" data-filter=".category-15" data-i18n="propertiesPage.filters.forRent">For Rent<span class="filter-count"></span></a></li>
+                        <li><a class="btn-details" href="#" data-filter=".category-20" data-i18n="propertiesPage.filters.luxuryVillas">Luxury Villas<span class="filter-count"></span></a></li>
+                        <li><a class="btn-details" href="#" data-filter=".category-19" data-i18n="propertiesPage.filters.condos">Condos & Apartments<span class="filter-count"></span></a></li>
                     </ul>
 
                     <div class="projects-grid pf_4_cols style-5 img-scale w-auto mx-0">
@@ -385,9 +396,9 @@
                                     <div class="portfolio-info-inner">
                                         <h5><a class="title-link" href="property-1.html">Altomar C6</a></h5>
                                         <ul style="color:#ffffff; list-style:none; padding-left:0; margin-bottom:0;">
-                                            <li><strong>Price:</strong> $3,000,000 MXN</li>
-                                            <li><strong>Ubication:</strong> JA, Centro North</li>
-                                            <li><strong>Surface:</strong> 33 m²</li>
+                                            <li><strong data-i18n="propertiesPage.card.price">Price:</strong> $3,000,000 MXN</li>
+                                            <li><strong data-i18n="propertiesPage.card.location">Ubication:</strong> JA, Centro North</li>
+                                            <li><strong data-i18n="propertiesPage.card.surface">Surface:</strong> 33 m²</li>
                                         </ul>
                                     </div>
                                     <a class="overlay" href="property-1.html"></a>
@@ -411,10 +422,10 @@
                                     <div class="portfolio-info-inner">
                                         <h5><a class="title-link" href="property-2.html">Indah 3B</a></h5>
                                         <ul style="color:#ffffff; list-style:none; padding-left:0; margin-bottom:0;">
-                                            <li><strong>Price:</strong> $29,979,360 MXN</li>
-                                            <li><strong>Ubication:</strong> JA, South Shore</li>
-                                            <li><strong>Surface:</strong> 222 m²</li>
-                                           
+                                            <li><strong data-i18n="propertiesPage.card.price">Price:</strong> $29,979,360 MXN</li>
+                                            <li><strong data-i18n="propertiesPage.card.location">Ubication:</strong> JA, South Shore</li>
+                                            <li><strong data-i18n="propertiesPage.card.surface">Surface:</strong> 222 m²</li>
+
                                         </ul>
                                     </div>
                                     <a class="overlay" href="property-2.html"></a>
@@ -438,10 +449,10 @@
                                     <div class="portfolio-info-inner">
                                         <h5><a class="title-link" href="property-3.html">Amapas B11</a></h5>
                                         <ul style="color:#ffffff; list-style:none; padding-left:0; margin-bottom:0;">
-                                            <li><strong>Price:</strong> $15,000,000 MXN</li>
-                                            <li><strong>Ubication:</strong> JA, South Shore</li>
-                                            <li><strong>Surface:</strong> 202 m²</li>
-                                        
+                                            <li><strong data-i18n="propertiesPage.card.price">Price:</strong> $15,000,000 MXN</li>
+                                            <li><strong data-i18n="propertiesPage.card.location">Ubication:</strong> JA, South Shore</li>
+                                            <li><strong data-i18n="propertiesPage.card.surface">Surface:</strong> 202 m²</li>
+
                                         </ul>
                                     </div>
                                     <a class="overlay" href="property-3.html"></a>
@@ -465,10 +476,10 @@
                                     <div class="portfolio-info-inner">
                                         <h5><a class="title-link" href="property-4.html">Coras Living D3</a></h5>
                                         <ul style="color:#ffffff; list-style:none; padding-left:0; margin-bottom:0;">
-                                            <li><strong>Price:</strong> $3,085,000 MXN</li>
-                                            <li><strong>Ubication:</strong> JA, Airport</li>
-                                            <li><strong>Surface:</strong> 79 m²</li>
-                                            
+                                            <li><strong data-i18n="propertiesPage.card.price">Price:</strong> $3,085,000 MXN</li>
+                                            <li><strong data-i18n="propertiesPage.card.location">Ubication:</strong> JA, Airport</li>
+                                            <li><strong data-i18n="propertiesPage.card.surface">Surface:</strong> 79 m²</li>
+
                                         </ul>
                                         
                                     </div>
@@ -493,10 +504,10 @@
                                     <div class="portfolio-info-inner">
                                         <h5><a class="title-link" href="property-5.html">Coras Living D4</a></h5>
                                         <ul style="color:#ffffff; list-style:none; padding-left:0; margin-bottom:0;">
-                                            <li><strong>Price:</strong> $3,136,000 MXN</li>
-                                            <li><strong>Ubication:</strong> JA, Airport</li>
-                                            <li><strong>Surface:</strong> 82 m²</li>
-                                            
+                                            <li><strong data-i18n="propertiesPage.card.price">Price:</strong> $3,136,000 MXN</li>
+                                            <li><strong data-i18n="propertiesPage.card.location">Ubication:</strong> JA, Airport</li>
+                                            <li><strong data-i18n="propertiesPage.card.surface">Surface:</strong> 82 m²</li>
+
                                         </ul>
                                         
                                     </div>
@@ -521,10 +532,10 @@
                                     <div class="portfolio-info-inner">
                                         <h5><a class="title-link" href="property-6.html">Altomar B3</a></h5>
                                         <ul style="color:#ffffff; list-style:none; padding-left:0; margin-bottom:0;">
-                                            <li><strong>Price:</strong> $5,113,400 MXN</li>
-                                            <li><strong>Ubication:</strong> JA, Centro North</li>
-                                            <li><strong>Surface:</strong> 69 m²</li>
-                                            
+                                            <li><strong data-i18n="propertiesPage.card.price">Price:</strong> $5,113,400 MXN</li>
+                                            <li><strong data-i18n="propertiesPage.card.location">Ubication:</strong> JA, Centro North</li>
+                                            <li><strong data-i18n="propertiesPage.card.surface">Surface:</strong> 69 m²</li>
+
                                         </ul>
                                         
                                     </div>
@@ -549,10 +560,10 @@
                                     <div class="portfolio-info-inner">
                                         <h5><a class="title-link" href="property-7.html">Palm Springs 353 Condo Chris</a></h5>
                                         <ul style="color:#ffffff; list-style:none; padding-left:0; margin-bottom:0;">
-                                            <li><strong>Price:</strong> $6,599,980 MXN</li>
-                                            <li><strong>Ubication:</strong> JA, Francisco Villa West</li>
-                                            <li><strong>Surface:</strong> 84 m²</li>
-                                            
+                                            <li><strong data-i18n="propertiesPage.card.price">Price:</strong> $6,599,980 MXN</li>
+                                            <li><strong data-i18n="propertiesPage.card.location">Ubication:</strong> JA, Francisco Villa West</li>
+                                            <li><strong data-i18n="propertiesPage.card.surface">Surface:</strong> 84 m²</li>
+
                                         </ul>
                                         
                                     </div>
@@ -577,10 +588,10 @@
                                     <div class="portfolio-info-inner">
                                         <h5><a class="title-link" href="property-8.html">Altomar A6</a></h5>
                                         <ul style="color:#ffffff; list-style:none; padding-left:0; margin-bottom:0;">
-                                            <li><strong>Price:</strong> $5,346,000 MXN</li>
-                                            <li><strong>Ubication:</strong> JA, Centro North</li>
-                                            <li><strong>Surface:</strong> 81 m²</li>
-                                            
+                                            <li><strong data-i18n="propertiesPage.card.price">Price:</strong> $5,346,000 MXN</li>
+                                            <li><strong data-i18n="propertiesPage.card.location">Ubication:</strong> JA, Centro North</li>
+                                            <li><strong data-i18n="propertiesPage.card.surface">Surface:</strong> 81 m²</li>
+
                                         </ul>
                                         
                                     </div>
@@ -605,10 +616,10 @@
                                     <div class="portfolio-info-inner">
                                         <h5><a class="title-link" href="property-9.html">Urban 3A</a></h5>
                                         <ul style="color:#ffffff; list-style:none; padding-left:0; margin-bottom:0;">
-                                            <li><strong>Price:</strong> $12,400,000 MXN</li>
-                                            <li><strong>Ubication:</strong> JA, Centro South</li>
-                                            <li><strong>Surface:</strong> 122 m²</li>
-                                            
+                                            <li><strong data-i18n="propertiesPage.card.price">Price:</strong> $12,400,000 MXN</li>
+                                            <li><strong data-i18n="propertiesPage.card.location">Ubication:</strong> JA, Centro South</li>
+                                            <li><strong data-i18n="propertiesPage.card.surface">Surface:</strong> 122 m²</li>
+
                                         </ul>
                                         
                                     </div>
@@ -633,10 +644,10 @@
                                     <div class="portfolio-info-inner">
                                         <h5><a class="title-link" href="property-10.html">Pavilion 309</a></h5>
                                         <ul style="color:#ffffff; list-style:none; padding-left:0; margin-bottom:0;">
-                                            <li><strong>Price:</strong> $9,900,000 MXN</li>
-                                            <li><strong>Ubication:</strong> JA, Centro South</li>
-                                            <li><strong>Surface:</strong> 76 m²</li>
-                                           
+                                            <li><strong data-i18n="propertiesPage.card.price">Price:</strong> $9,900,000 MXN</li>
+                                            <li><strong data-i18n="propertiesPage.card.location">Ubication:</strong> JA, Centro South</li>
+                                            <li><strong data-i18n="propertiesPage.card.surface">Surface:</strong> 76 m²</li>
+
                                         </ul>
                                         
                                     </div>
@@ -661,10 +672,10 @@
                                     <div class="portfolio-info-inner">
                                         <h5><a class="title-link" href="property-11.html">Casa Corona</a></h5>
                                         <ul style="color:#ffffff; list-style:none; padding-left:0; margin-bottom:0;">
-                                            <li><strong>Price:</strong> $11,999,800 MXN</li>
-                                            <li><strong>Ubication:</strong> JA, Centro North</li>
-                                            <li><strong>Surface:</strong> 291 m²</li>
-                                           
+                                            <li><strong data-i18n="propertiesPage.card.price">Price:</strong> $11,999,800 MXN</li>
+                                            <li><strong data-i18n="propertiesPage.card.location">Ubication:</strong> JA, Centro North</li>
+                                            <li><strong data-i18n="propertiesPage.card.surface">Surface:</strong> 291 m²</li>
+
                                         </ul>
                                        
                                     </div>
@@ -689,10 +700,10 @@
                                     <div class="portfolio-info-inner">
                                         <h5><a class="title-link" href="property-12.html">Condo Amapas 353 202</a></h5>
                                         <ul style="color:#ffffff; list-style:none; padding-left:0; margin-bottom:0;">
-                                            <li><strong>Price:</strong> $10,888,000 MXN</li>
-                                            <li><strong>Ubication:</strong> JA, South Shore</li>
-                                            <li><strong>Surface:</strong> 114 m²</li>
-                                          
+                                            <li><strong data-i18n="propertiesPage.card.price">Price:</strong> $10,888,000 MXN</li>
+                                            <li><strong data-i18n="propertiesPage.card.location">Ubication:</strong> JA, South Shore</li>
+                                            <li><strong data-i18n="propertiesPage.card.surface">Surface:</strong> 114 m²</li>
+
                                         </ul>
                                       
                                     </div>
@@ -713,13 +724,13 @@
             <div class="container">
                 <div class="row">
                     <div class="col-lg-8 mb-4 mb-lg-0">
-                        <h2 class="text-light mb-0">Didn’t find what you’re looking for? Let us help you.</h2>
+                        <h2 class="text-light mb-0" data-i18n="propertiesPage.cta.title">Didn't find what you're looking for? Let us help you.</h2>
                         <div class="space-5"></div>
-                        <p class=" mb-0">Tell us what you have in mind we’ll help you discover the property that fits your lifestyle.</p>
+                        <p class=" mb-0" data-i18n="propertiesPage.cta.description">Tell us what you have in mind we'll help you discover the property that fits your lifestyle.</p>
                     </div>
                     <div class="col-lg-4 text-left text-lg-right align-self-center">
                         <div class="ot-button">
-                            <a href="contact.html" class="octf-btn octf-btn-light border-hover-light">Get in Touch</a>
+                            <a href="contact.html" class="octf-btn octf-btn-light border-hover-light" data-i18n="propertiesPage.cta.button">Get in Touch</a>
                         </div>
                     </div>
                 </div>
@@ -753,7 +764,7 @@
                 </div>
                 <div class="col-xl-3 col-lg-6 col-md-6 col-sm-12 mb-4 mb-xl-0">
                     <div class="widget-footer">
-                        <h6>Contacts</h6>
+                        <h6 data-i18n="footer.contactsTitle">Contacts</h6>
                         <ul class="footer-list">
                             <li class="footer-list-item">
                                 <span class="list-item-icon"><i class="ot-flaticon-place"></i></span>
@@ -772,7 +783,7 @@
                 </div>
                 <div class="col-xl-3 col-lg-6 col-md-6 col-sm-12 mb-4 mb-md-0">
                     <div class="widget-footer widget-contact">
-                        <h6>Latest Projects</h6>
+                        <h6 data-i18n="footer.latestProjectsTitle">Latest Projects</h6>
                         <ul>
                             <li><a href="property-1.html">Altomar C6</a></li>
                             <li><a href="property-2.html">Indah 3B</a></li>
@@ -782,7 +793,7 @@
                 </div>
                 <div class="col-xl-3 col-lg-6 col-md-6 col-sm-12">
                     <div class="widget-footer footer-widget-subcribe">
-                        <h6>Social Media</h6>
+                        <h6 data-i18n="footer.socialMediaTitle">Social Media</h6>
                         <form class="mc4wp-form" method="post">
                             <div class="mc4wp-form-fields">
                                 <div class="subscribe-inner-form">
@@ -804,15 +815,15 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-7 col-md-12 mb-4 mb-lg-0">
-                    <p>Copyright © 2025 <a class="text-light" href="#">Poncho Dávalos Real State</a>. All Rights Reserved.</p>
+                    <p data-i18n="footer.copyright">Copyright © 2025 <a class="text-light" href="#">Poncho Dávalos Real State</a>. All Rights Reserved.</p>
                 </div>
                 <div class="col-lg-5 col-md-12 align-self-center">
                     <ul class="icon-list-items inline-items justify-content-lg-end">
                         <li class="icon-list-item inline-item">
-                            <a href="#"><span class="icon-list-text">Terms of use</span></a>
+                            <a href="#"><span class="icon-list-text" data-i18n="footer.termsOfUse">Terms of use</span></a>
                         </li>
                         <li class="icon-list-item inline-item">
-                            <a href="#"><span class="icon-list-text">Privacy Environmental Policy</span></a>
+                            <a href="#"><span class="icon-list-text" data-i18n="footer.privacyPolicy">Privacy Environmental Policy</span></a>
                         </li>
                     </ul>
                 </div>
@@ -845,6 +856,9 @@
             });
         })(jQuery);
     </script>
+
+    <!-- i18n SCRIPT -->
+    <script src="js/i18n.js"></script>
 </body>
 
 <!-- Mirrored from templates.thememodern.com/theratio/portfolio-four-column-wide.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 19 Sep 2025 20:59:26 GMT -->

@@ -22,6 +22,7 @@
 <link rel="stylesheet" href="css/cards.css">
 <link rel="stylesheet" href="css/info-cards.css">
 <link rel="stylesheet" href="css/carousel.css">
+<link rel="stylesheet" href="css/i18n.css" />
 <style>
 
 .cta-container {
@@ -75,6 +76,15 @@
 <link href="style.css" rel="stylesheet"/>
 </meta></head>
 <body>
+<!-- Language Switcher -->
+<div class="lang-switcher">
+    <button class="lang-btn active" data-lang="en" aria-label="Switch to English">
+        <span class="sr-only">Switch to</span>EN
+    </button>
+    <button class="lang-btn" data-lang="es" aria-label="Cambiar a Español">
+        <span class="sr-only">Cambiar a</span>ES
+    </button>
+</div>
 <div id="royal_preloader"></div>
 <div class="site" id="page">
 <header id="site-header" class="site-header header-transparent">
@@ -94,98 +104,21 @@
                                 <div class="octf-col menu-col no-padding">
                                     <nav id="site-navigation" class="main-navigation">
                                        <ul class="menu">
-                                            <li class=""><a href="index.html">Home</a></li>
-                                            <!-- <li class="menu-item-has-children current-menu-item current-menu-ancestor">
-                                                <a href="index.html">Home</a>
+                                            <li class=""><a href="index.html" data-i18n="nav.home">Home</a></li>
+                                            <li class="current-menu-item"><a href="portfolio-four-column-wide.html" data-i18n="nav.properties">Properties</a></li>
+                                            <li><a href="about-us.html" data-i18n="nav.about">About Us</a></li>
+                                            <li class="menu-item-has-children"><a href="servcies-detail-1.html" data-i18n="nav.services">Services</a>
                                                 <ul class="sub-menu">
-                                                    <li class="current-menu-item"><a href="index.html">Main Home</a></li>
-                                                    <li><a href="index-dark.html">Main Dark</a></li>
-                                                </ul>
-                                            </li> -->
-                                            <li class="current-menu-item"><a href="portfolio-four-column-wide.html">Properties</a></li>
-                                            <li><a href="about-us.html">About Us</a></li>
-                                            <li class="menu-item-has-children"><a href="servcies-detail-1.html">Services</a>
-                                                <ul class="sub-menu">
-                                                    <li><a href="servcies-detail-1.html">Comprehensive Advisory</a></li>
-                                                    <li><a href="servcies-detail-2.html">Investment for Foreign Buyers</a></li>
-                                                    <li><a href="servcies-detail-3.html">Second Home Acquisition</a></li>
-                                                    <li><a href="servcies-detail-4.html">Premium Property Sales</a></li>
-                                                    <li><a href="servcies-detail-5.html">Legal & Transaction Management</a></li>
-                                                    <li><a href="servcies-detail-6.html">Market & Appreciation Analysis</a></li>
+                                                    <li><a href="servcies-detail-1.html" data-i18n="nav.services.comprehensive">Comprehensive Advisory</a></li>
+                                                    <li><a href="servcies-detail-2.html" data-i18n="nav.services.investment">Investment for Foreign Buyers</a></li>
+                                                    <li><a href="servcies-detail-3.html" data-i18n="nav.services.secondHome">Second Home Acquisition</a></li>
+                                                    <li><a href="servcies-detail-4.html" data-i18n="nav.services.premium">Premium Property Sales</a></li>
+                                                    <li><a href="servcies-detail-5.html" data-i18n="nav.services.legal">Legal & Transaction Management</a></li>
+                                                    <li><a href="servcies-detail-6.html" data-i18n="nav.services.market">Market & Appreciation Analysis</a></li>
                                                 </ul>
                                             </li>
-                                            <!-- <li class="menu-item-has-children"><a href="#">Pages</a>
-                                                <ul class="sub-menu">
-                                                    <li><a href="our-services.html">Our Services</a></li>
-                                                    <li><a href="our-team.html">Our Team</a></li>
-                                                    <li><a href="single-team.html">Single Team</a></li>
-                                                    <li><a href="our-process.html">Our Process</a></li>
-                                                    <li><a href="our-studio.html">Our Stufio</a></li>
-                                                    <li class="menu-item-has-children"><a href="shop.html">Shop</a>
-                                                        <ul class="sub-menu">
-                                                            <li><a href="single-product.html">Single Product</a></li>
-                                                            <li><a href="checkout-page.html">Checkout Page</a></li>
-                                                            <li><a href="cart-page.html">Cart Page</a></li>
-                                                        </ul>
-                                                    </li>
-                                                    <li><a href="typography.html">Typography</a></li>
-                                                    <li><a href="elements.html">Elements</a></li>
-                                                    <li><a href="faq.html">FAQS</a></li>
-                                                    <li><a href="cooming-soon.html">Coming Soon</a></li>
-                                                    <li><a href="404-error.html">404 Error</a></li>
-                                                </ul>
-                                            </li> -->
-                                            <!-- <li class="menu-item-has-children mega-dropdown"><a href="#">Portfolio</a>
-                                                <ul class="mega-sub-menu">
-                                                    <li class="row">
-                                                        <ul class="col">
-                                                            <li class="menu-title">Portfolio Types</li>
-                                                            <li><a href="portfolio-masonry.html">Portfolio Grid Masonry</a></li>
-                                                            <li><a href="portfolio-no-gap.html">Portfolio Grid No Gap</a></li>
-                                                            <li><a href="portfolio-under.html">Portfolio Info Under Image</a></li>
-                                                            <li><a href="portfolio-metro.html">Portfolio Metro</a></li>
-                                                            <li><a href="portfolio-metro-no-gap.html">Portfolio Metro No Space</a></li>
-                                                            <li><a href="portfolio-gallery.html">Portfolio Gallery</a></li>
-                                                            <li><a href="portfolio-slider.html">Portfolio Slider</a></li>
-                                                        </ul>
-                                                        <ul class="col">
-                                                            <li class="menu-title">Portfolio Layout</li>
-                                                            <li><a href="portfolio-two-column.html">Two Columns</a></li>
-                                                            <li><a href="portfolio-three-column.html">Three Columns</a></li>
-                                                            <li><a href="portfolio-three-column-wide.html">Three Columns Wide</a></li>
-                                                            
-                                                            <li><a href="portfolio-five-column-wide.html">Five Columns Wide</a></li>
-                                                        </ul>
-                                                        <ul class="col">
-                                                            <li class="menu-title">Single Types</li>
-                                                            <li><a href="portfolio-standar.html">Standard</a></li>
-                                                            <li><a href="portfolio-detail-slider.html">Slider Images</a></li>
-                                                            <li><a href="portfolio-left.html">Left Images</a></li>
-                                                            <li><a href="portfolio-right.html">Right Images</a></li>
-                                                            <li><a href="portfolio-small.html">Small Images</a></li>
-                                                            <li><a href="portfolio-big.html">Big Images</a></li>
-                                                        </ul>
-                                                        <ul class="col">
-                                                            <li class="menu-title">Hover Types</li>
-                                                            <li><a href="image-scale.html">Image Scale</a></li>
-                                                            <li><a href="show-overlay-info.html">Show Overlay Info</a></li>
-                                                            <li><a href="hidden-overlay-info.html">Hidden Overlay Info</a></li>
-                                                            <li><a href="background-solid.html">Background Solid</a></li>
-                                                            <li><a href="hidden-1.html">Hidden 1</a></li>
-                                                            <li><a href="hidden-2.html">Hidden 2</a></li>
-                                                        </ul>
-                                                    </li>
-                                                </ul>
-                                            </li> -->
-                                            <li><a href="#">Blog</a></li>
-                                            <!-- <li class="menu-item-has-children"><a href="blog.html">Blog</a>
-                                                <ul class="sub-menu">
-                                                    <li><a href="blog.html">Blog Listing</a></li>
-                                                    <li><a href="blog-grid.html">Blog Grid</a></li>
-                                                    <li><a href="post.html">Blog Single</a></li>
-                                                </ul>
-                                            </li> -->
-                                            <li><a href="contact.html">Contacts</a></li>
+                                            <li><a href="#" data-i18n="nav.blog">Blog</a></li>
+                                            <li><a href="contact.html" data-i18n="nav.contact">Contacts</a></li>
                                         </ul>
                                     </nav>
                                 </div>
@@ -378,7 +311,7 @@
     <div class="container">
       <h1 class="page-title">Altomar C6</h1>
       <ul class="breadcrumbs none-style" id="breadcrumbs">
-        <li class="active">Tu estilo de vida soñado con vistas panorámicas al mar.</li>
+        <li class="active" data-i18n="property.property1.tagline">Your dream lifestyle with panoramic ocean views.</li>
       </ul>
     </div>
   </div>
@@ -421,7 +354,7 @@
   <div class="custom-info-card">
     <img src="images/iconos_properties/dollar.png" alt="Price Icon" class="custom-info-icon">
     <div class="custom-info-text">
-      <h6>Price:</h6>
+      <h6 data-i18n="property.common.price">Price:</h6>
       <p>USD $135,000</p>
     </div>
   </div>
@@ -429,7 +362,7 @@
   <div class="custom-info-card">
     <img src="images/iconos_properties/area.png" alt="Surface Icon" class="custom-info-icon">
     <div class="custom-info-text">
-      <h6>Surface:</h6>
+      <h6 data-i18n="property.common.surface">Surface:</h6>
       <p>33 m²</p>
     </div>
   </div>
@@ -437,7 +370,7 @@
   <div class="custom-info-card">
     <img src="images/iconos_properties/bed.png" alt="Bedrooms Icon" class="custom-info-icon">
     <div class="custom-info-text">
-      <h6>Bedrooms:</h6>
+      <h6 data-i18n="property.common.bedrooms">Bedrooms:</h6>
       <p>0</p>
     </div>
   </div>
@@ -445,7 +378,7 @@
   <div class="custom-info-card">
     <img src="images/iconos_properties/taza.png" alt="Bathrooms Icon" class="custom-info-icon">
     <div class="custom-info-text">
-      <h6>Baths:</h6>
+      <h6 data-i18n="property.common.baths">Baths:</h6>
       <p>1</p>
     </div>
   </div>
@@ -453,8 +386,8 @@
   <div class="custom-info-card">
     <img src="images/iconos_properties/parking.png" alt="Parking Icon" class="custom-info-icon">
     <div class="custom-info-text">
-      <h6>Parking:</h6>
-      <p>1 space</p>
+      <h6 data-i18n="property.common.parking">Parking:</h6>
+      <p data-i18n="property.common.parkingSpace">1 space</p>
     </div>
   </div>
 </div>
@@ -465,8 +398,8 @@
 
 <div class="space-30"></div>
 <div class="col-lg-12">
-<h4>Description</h4>
-<p>Welcome to your dream investment in Puerto Vallarta's thriving 5 de Diciembre neighborhood! This sleek and modern studio is part of a brand-new development, offering great amenities, Perched just off Andador Panamá, you're moments from the iconic Malecón, where the city's best dining, nightlife, and oceanfront views come to life. Whether you're looking for a rental income powerhouse or a stylish personal retreat, this studio delivers on value, location
+<h4 data-i18n="property.common.description">Description</h4>
+<p data-i18n="property.property1.description">Welcome to your dream investment in Puerto Vallarta's thriving 5 de Diciembre neighborhood! This sleek and modern studio is part of a brand-new development, offering great amenities, Perched just off Andador Panamá, you're moments from the iconic Malecón, where the city's best dining, nightlife, and oceanfront views come to life. Whether you're looking for a rental income powerhouse or a stylish personal retreat, this studio delivers on value, location
 </p>
 <div class="space-5"></div>
 </div>
@@ -479,7 +412,7 @@
     <div class="card custom-card-expand h-100">
       <div class="card-body">
         <img src="images/iconos_properties/amenities.png" alt="Amenities" class="card-icon-img">
-        <h6 class="card-title">Amenities</h6>
+        <h6 class="card-title" data-i18n="property.common.amenities.title">Amenities</h6>
       </div>
       <div class="card-content">
         <ul class="list-unstyled mb-0">
@@ -497,7 +430,7 @@
     <div class="card custom-card-expand h-100">
       <div class="card-body">
         <img src="images/iconos_properties/AC.png" alt="Devices" class="card-icon-img">
-        <h6 class="card-title">Devices</h6>
+        <h6 class="card-title" data-i18n="property.common.devices.title">Devices</h6>
       </div>
       <div class="card-content">
         <ul class="list-unstyled mb-0">
@@ -512,7 +445,7 @@
     <div class="card custom-card-expand h-100">
       <div class="card-body">
         <img src="images/iconos_properties/electricity.png" alt="Electricity" class="card-icon-img">
-        <h6 class="card-title">Electricity</h6>
+        <h6 class="card-title" data-i18n="property.common.electricity.title">Electricity</h6>
       </div>
       <div class="card-content">
         <ul class="list-unstyled mb-0">
@@ -527,7 +460,7 @@
     <div class="card custom-card-expand h-100">
       <div class="card-body">
         <img src="images/iconos_properties/location.png" alt="Location" class="card-icon-img">
-        <h6 class="card-title">Location</h6>
+        <h6 class="card-title" data-i18n="property.common.location.title">Location</h6>
       </div>
       <div class="card-content">
         <ul class="list-unstyled mb-0">
@@ -547,7 +480,7 @@
 <div class="space-50"></div>
 <div class="row">
 <div class="col-md-12">
-<h4>Location</h4>
+<h4 data-i18n="property.common.location.title">Location</h4>
 <p>1233 Andador Panama C6 Altomar C6 JA
 Puerto Vallarta</p>
 <iframe  
@@ -563,12 +496,12 @@ Puerto Vallarta</p>
 
 <div class="space-30"></div>
 <div class="projects-grid pf_3_cols style-1 img-scale w-auto m-0">
-<h2>Ready to Visit This Property?</h2>
+<h2 data-i18n="property.common.cta.title">Ready to Visit This Property?</h2>
 <div class="cta-container">
-<a class="cta-btn cta-principal" href="https://wa.me/523222922312" target="_blank">
+<a class="cta-btn cta-principal" href="https://wa.me/523222922312" target="_blank" data-i18n="property.common.cta.whatsapp">
                                                     Chat on WhatsApp
                                                 </a>
-<a class="cta-btn cta-secundario" href="contact.html">
+<a class="cta-btn cta-secundario" href="contact.html" data-i18n="property.common.cta.schedule">
                                                     Schedule a Viewing
                                                 </a>
 </div>
@@ -702,9 +635,11 @@ Puerto Vallarta</p>
 <script src="js/dark-mode.js"></script>
 <script src="js/royal_preloader.min.js"></script>
 <script src="js/carrusel.js"></script>
+<!-- i18n SCRIPT -->
+<script src="js/i18n.js"></script>
 
 <script>
-        window.jQuery = window.$ = jQuery;  
+        window.jQuery = window.$ = jQuery;
         (function($) { "use strict";
             //Preloader
             Royal_Preloader.config({
