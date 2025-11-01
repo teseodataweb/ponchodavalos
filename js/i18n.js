@@ -12,6 +12,9 @@
     // Translations cache
     let translations = {};
 
+    // Original content cache (to restore English)
+    const originalContent = new Map();
+
     // Current language
     let currentLang = localStorage.getItem('language') || DEFAULT_LANG;
 
@@ -44,35 +47,89 @@
     }
 
     /**
-     * Translate all elements with data-i18n attribute
+     * Save original content from HTML
      */
-    function translatePage() {
-        // Translate elements with data-i18n
+    function saveOriginalContent() {
+        // Save original content for data-i18n elements
         document.querySelectorAll('[data-i18n]').forEach(element => {
             const key = element.getAttribute('data-i18n');
-            const translation = getNestedTranslation(translations, key);
 
-            if (translation) {
-                // Check if element should translate placeholder
+            if (!originalContent.has(key)) {
                 if (element.hasAttribute('data-i18n-placeholder')) {
-                    element.placeholder = translation;
+                    originalContent.set(key, { type: 'placeholder', value: element.placeholder });
                 } else if (element.tagName === 'INPUT' || element.tagName === 'TEXTAREA') {
-                    element.value = translation;
+                    originalContent.set(key, { type: 'value', value: element.value });
                 } else {
-                    element.textContent = translation;
+                    originalContent.set(key, { type: 'text', value: element.textContent });
                 }
             }
         });
 
-        // Translate elements with data-i18n-html (for HTML content)
+        // Save original content for data-i18n-html elements
         document.querySelectorAll('[data-i18n-html]').forEach(element => {
             const key = element.getAttribute('data-i18n-html');
-            const translation = getNestedTranslation(translations, key);
 
-            if (translation) {
-                element.innerHTML = translation;
+            if (!originalContent.has(key)) {
+                originalContent.set(key, { type: 'html', value: element.innerHTML });
             }
         });
+    }
+
+    /**
+     * Translate all elements with data-i18n attribute
+     */
+    function translatePage() {
+        // If language is English, restore original content
+        if (currentLang === DEFAULT_LANG) {
+            document.querySelectorAll('[data-i18n]').forEach(element => {
+                const key = element.getAttribute('data-i18n');
+                const original = originalContent.get(key);
+
+                if (original) {
+                    if (original.type === 'placeholder') {
+                        element.placeholder = original.value;
+                    } else if (original.type === 'value') {
+                        element.value = original.value;
+                    } else if (original.type === 'text') {
+                        element.textContent = original.value;
+                    }
+                }
+            });
+
+            document.querySelectorAll('[data-i18n-html]').forEach(element => {
+                const key = element.getAttribute('data-i18n-html');
+                const original = originalContent.get(key);
+
+                if (original && original.type === 'html') {
+                    element.innerHTML = original.value;
+                }
+            });
+        } else {
+            // Translate to non-English language
+            document.querySelectorAll('[data-i18n]').forEach(element => {
+                const key = element.getAttribute('data-i18n');
+                const translation = getNestedTranslation(translations, key);
+
+                if (translation) {
+                    if (element.hasAttribute('data-i18n-placeholder')) {
+                        element.placeholder = translation;
+                    } else if (element.tagName === 'INPUT' || element.tagName === 'TEXTAREA') {
+                        element.value = translation;
+                    } else {
+                        element.textContent = translation;
+                    }
+                }
+            });
+
+            document.querySelectorAll('[data-i18n-html]').forEach(element => {
+                const key = element.getAttribute('data-i18n-html');
+                const translation = getNestedTranslation(translations, key);
+
+                if (translation) {
+                    element.innerHTML = translation;
+                }
+            });
+        }
 
         // Update HTML lang attribute
         document.documentElement.lang = currentLang;
@@ -89,8 +146,10 @@
             // Update button states
             updateLanguageButtons();
 
-            // Load translations and update page
-            await loadTranslations(lang);
+            // Load translations and update page (only if not English)
+            if (lang !== DEFAULT_LANG) {
+                await loadTranslations(lang);
+            }
             translatePage();
 
             // Dispatch custom event for other scripts
@@ -126,9 +185,15 @@
      * Initialize i18n system
      */
     async function init() {
-        // Load initial translations
-        await loadTranslations(currentLang);
-        translatePage();
+        // Save original content from HTML (English)
+        saveOriginalContent();
+
+        // Only load and apply translations if not in default language
+        if (currentLang !== DEFAULT_LANG) {
+            await loadTranslations(currentLang);
+            translatePage();
+        }
+
         updateLanguageButtons();
 
         // Add click handlers to language buttons

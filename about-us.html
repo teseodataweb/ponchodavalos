@@ -8,8 +8,14 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
-    <meta name="description" content="Boutique real estate in Puerto Vallarta & Riviera Nayarit. Luxury homes, condos, and expert guidance to secure your next investment.">
     <title>Poncho Dávalos Real Estate | Puerto Vallarta & Riviera Nayarit</title>
+    <meta name="description" content="Luxury real estate in Puerto Vallarta and Riviera Nayarit. Find your dream property with expert guidance and personalized service.">
+    <meta name="keywords" content="Puerto Vallarta real estate, Riviera Nayarit properties, luxury homes Mexico, beachfront condos">
+
+    <!-- Alternate Language Links -->
+    <link rel="alternate" hreflang="en" href="https://ponchodavalos.com.mx/about-us.html" />
+    <link rel="alternate" hreflang="es" href="https://ponchodavalos.com.mx/es/about-us.html" />
+    <link rel="alternate" hreflang="x-default" href="https://ponchodavalos.com.mx/about-us.html" />
     <link rel="shortcut icon" type="image/x-icon" href="images/favicon.png" />
     <link rel="stylesheet" href="css/bootstrap.min.css" />
     <link rel="stylesheet" href="css/font-awesome.min.css" />
@@ -25,6 +31,7 @@
     <link rel="stylesheet" href="css/header-filtro.css">
 
     <link rel="stylesheet" href="style.css" />
+    <link rel="stylesheet" href="css/i18n.css" />
 
     <style>/* Contenedor de las cards */
 .row.justify-content-center {
@@ -45,6 +52,16 @@
 </head>
 
 <body>
+    <!-- Language Switcher -->
+    <div class="lang-switcher">
+        <button class="lang-btn active" data-lang="en" aria-label="Switch to English">
+            <span class="sr-only">Switch to</span>EN
+        </button>
+        <button class="lang-btn" data-lang="es" aria-label="Cambiar a Español">
+            <span class="sr-only">Cambiar a</span>ES
+        </button>
+    </div>
+
     <div id="royal_preloader"></div>
     <div id="page" class="site">
        <header id="site-header" class="site-header header-transparent">
@@ -64,98 +81,21 @@
                                 <div class="octf-col menu-col no-padding">
                                     <nav id="site-navigation" class="main-navigation">
                                         <ul class="menu">
-                                            <li class=""><a href="index.html">Home</a></li>
-                                            <!-- <li class="menu-item-has-children current-menu-item current-menu-ancestor">
-                                                <a href="index.html">Home</a>
+                                            <li class=""><a href="index.html" data-i18n="nav.home">Home</a></li>
+                                            <li><a href="portfolio-four-column-wide.html" data-i18n="nav.properties">Properties</a></li>
+                                            <li class="current-menu-item"><a href="about-us.html" data-i18n="nav.aboutUs">About Us</a></li>
+                                            <li class="menu-item-has-children"><a href="servcies-detail-1.html" data-i18n="nav.services">Services</a>
                                                 <ul class="sub-menu">
-                                                    <li class="current-menu-item"><a href="index.html">Main Home</a></li>
-                                                    <li><a href="index-dark.html">Main Dark</a></li>
-                                                </ul>
-                                            </li> -->
-                                            <li><a href="portfolio-four-column-wide.html">Properties</a></li>
-                                            <li class="current-menu-item"><a href="about-us.html">About Us</a></li>
-                                            <li class="menu-item-has-children"><a href="servcies-detail-1.html">Services</a>
-                                                <ul class="sub-menu">
-                                                    <li><a href="servcies-detail-1.html">Comprehensive Advisory</a></li>
-                                                    <li><a href="servcies-detail-2.html">Investment for Foreign Buyers</a></li>
-                                                    <li><a href="servcies-detail-3.html">Second Home Acquisition</a></li>
-                                                    <li><a href="servcies-detail-4.html">Premium Property Sales</a></li>
-                                                    <li><a href="servcies-detail-5.html">Legal & Transaction Management</a></li>
-                                                    <li><a href="servcies-detail-6.html">Market & Appreciation Analysis</a></li>
+                                                    <li><a href="servcies-detail-1.html" data-i18n="services.comprehensiveAdvisory">Comprehensive Advisory</a></li>
+                                                    <li><a href="servcies-detail-2.html" data-i18n="services.investmentForeignBuyers">Investment for Foreign Buyers</a></li>
+                                                    <li><a href="servcies-detail-3.html" data-i18n="services.secondHomeAcquisition">Second Home Acquisition</a></li>
+                                                    <li><a href="servcies-detail-4.html" data-i18n="services.premiumPropertySales">Premium Property Sales</a></li>
+                                                    <li><a href="servcies-detail-5.html" data-i18n="services.legalTransactionManagement">Legal & Transaction Management</a></li>
+                                                    <li><a href="servcies-detail-6.html" data-i18n="services.marketAppreciationAnalysis">Market & Appreciation Analysis</a></li>
                                                 </ul>
                                             </li>
-                                            <!-- <li class="menu-item-has-children"><a href="#">Pages</a>
-                                                <ul class="sub-menu">
-                                                    <li><a href="our-services.html">Our Services</a></li>
-                                                    <li><a href="our-team.html">Our Team</a></li>
-                                                    <li><a href="single-team.html">Single Team</a></li>
-                                                    <li><a href="our-process.html">Our Process</a></li>
-                                                    <li><a href="our-studio.html">Our Stufio</a></li>
-                                                    <li class="menu-item-has-children"><a href="shop.html">Shop</a>
-                                                        <ul class="sub-menu">
-                                                            <li><a href="single-product.html">Single Product</a></li>
-                                                            <li><a href="checkout-page.html">Checkout Page</a></li>
-                                                            <li><a href="cart-page.html">Cart Page</a></li>
-                                                        </ul>
-                                                    </li>
-                                                    <li><a href="typography.html">Typography</a></li>
-                                                    <li><a href="elements.html">Elements</a></li>
-                                                    <li><a href="faq.html">FAQS</a></li>
-                                                    <li><a href="cooming-soon.html">Coming Soon</a></li>
-                                                    <li><a href="404-error.html">404 Error</a></li>
-                                                </ul>
-                                            </li> -->
-                                            <!-- <li class="menu-item-has-children mega-dropdown"><a href="#">Portfolio</a>
-                                                <ul class="mega-sub-menu">
-                                                    <li class="row">
-                                                        <ul class="col">
-                                                            <li class="menu-title">Portfolio Types</li>
-                                                            <li><a href="portfolio-masonry.html">Portfolio Grid Masonry</a></li>
-                                                            <li><a href="portfolio-no-gap.html">Portfolio Grid No Gap</a></li>
-                                                            <li><a href="portfolio-under.html">Portfolio Info Under Image</a></li>
-                                                            <li><a href="portfolio-metro.html">Portfolio Metro</a></li>
-                                                            <li><a href="portfolio-metro-no-gap.html">Portfolio Metro No Space</a></li>
-                                                            <li><a href="portfolio-gallery.html">Portfolio Gallery</a></li>
-                                                            <li><a href="portfolio-slider.html">Portfolio Slider</a></li>
-                                                        </ul>
-                                                        <ul class="col">
-                                                            <li class="menu-title">Portfolio Layout</li>
-                                                            <li><a href="portfolio-two-column.html">Two Columns</a></li>
-                                                            <li><a href="portfolio-three-column.html">Three Columns</a></li>
-                                                            <li><a href="portfolio-three-column-wide.html">Three Columns Wide</a></li>
-                                                            
-                                                            <li><a href="portfolio-five-column-wide.html">Five Columns Wide</a></li>
-                                                        </ul>
-                                                        <ul class="col">
-                                                            <li class="menu-title">Single Types</li>
-                                                            <li><a href="portfolio-standar.html">Standard</a></li>
-                                                            <li><a href="portfolio-detail-slider.html">Slider Images</a></li>
-                                                            <li><a href="portfolio-left.html">Left Images</a></li>
-                                                            <li><a href="portfolio-right.html">Right Images</a></li>
-                                                            <li><a href="portfolio-small.html">Small Images</a></li>
-                                                            <li><a href="portfolio-big.html">Big Images</a></li>
-                                                        </ul>
-                                                        <ul class="col">
-                                                            <li class="menu-title">Hover Types</li>
-                                                            <li><a href="image-scale.html">Image Scale</a></li>
-                                                            <li><a href="show-overlay-info.html">Show Overlay Info</a></li>
-                                                            <li><a href="hidden-overlay-info.html">Hidden Overlay Info</a></li>
-                                                            <li><a href="background-solid.html">Background Solid</a></li>
-                                                            <li><a href="hidden-1.html">Hidden 1</a></li>
-                                                            <li><a href="hidden-2.html">Hidden 2</a></li>
-                                                        </ul>
-                                                    </li>
-                                                </ul>
-                                            </li> -->
-                                            <li><a href="#">Blog</a></li>
-                                            <!-- <li class="menu-item-has-children"><a href="blog.html">Blog</a>
-                                                <ul class="sub-menu">
-                                                    <li><a href="blog.html">Blog Listing</a></li>
-                                                    <li><a href="blog-grid.html">Blog Grid</a></li>
-                                                    <li><a href="post.html">Blog Single</a></li>
-                                                </ul>
-                                            </li> -->
-                                            <li><a href="contact.html">Contacts</a></li>
+                                            <li><a href="#" data-i18n="nav.blog">Blog</a></li>
+                                            <li><a href="contact.html" data-i18n="nav.contacts">Contacts</a></li>
                                         </ul>
                                     </nav>
                                 </div>
@@ -183,7 +123,7 @@
                             <div class="mlogo_wrapper clearfix">
                                 <div class="mobile_logo">
                                     <a href="index.html">
-                                        <img src="images/logo.png" alt="Poncho Davalos Real Estate">
+                                        <img src="images/logo.svg" alt="Theratio">
                                     </a>
                                 </div>
                             </div>
@@ -215,29 +155,110 @@
                                             <ul id="menu-main-menu" class="mobile_mainmenu none-style">
                                                 <li class="menu-item-has-children current-menu-item current-menu-ancestor">
                                                     <a href="index.html">Home</a>
-                                                </li>
-                                                <li class="menu-item-has-children"><a href="portfolio-four-column-wide.html">Properties</a>
-                                                </li>
-                                                <li class="menu-item-has-children"><a href="about-us.html">About Us</a>
-                                                    
-                                                </li>
-                                                <li class="menu-item-has-children"><a href="servcies-detail-1.html">Services</a>
                                                     <ul class="sub-menu">
-                                                        <li><a href="servcies-detail-1.html">Comprehensive Advisory</a></li>
-                                                        <li><a href="servcies-detail-2.html">Investment for Foreign Buyers</a></li>
-                                                        <li><a href="servcies-detail-3.html">Second Home Acquisition</a></li>
-                                                        <li><a href="servcies-detail-4.html">Premium Property Sales</a></li>
-                                                        <li><a href="servcies-detail-5.html">Legal & Transaction Magnagement</a></li>
-                                                        <li><a href="servcies-detail-6.html">Market & Appreciation Analysis</a></li>
+                                                        <li class="current-menu-item"><a href="index.html">Main Home</a></li>
+                                                        <li><a href="index-dark.html">Main Dark</a></li>
+                                                        <li><a href="index-2.html">Interior Design</a></li>
+                                                        <li><a href="index-2-light.html">Interior Design Light</a></li>
+                                                        <li><a href="index-3.html">Studio Home</a></li>
+                                                        <li><a href="index-3-dark.html">Studio Home Dark</a></li>
+                                                        <li><a href="index-4.html">Architecture Agency</a></li>
+                                                        <li><a href="index-4-dark.html">Architecture Agency Dark</a></li>
+                                                        <li><a href="index-5.html">Design Company</a></li>
+                                                        <li><a href="index-5-dark.html">Design Company Dark</a></li>
+                                                        <li><a href="index-6.html">Home Video</a></li>
+                                                        <li><a href="index-6-dark.html">Home Video Dark</a></li>
+                                                        <li><a href="home-full-screen.html">Home Full Screen</a></li>
+                                                        <li><a href="one-page.html">Home One Page</a></li>
+                                                        <li><a href="one-page-dark.html">Home One Page Dark</a></li>
+                                                        <li><a href="index-sidenav.html">Home with Side Menu</a></li>
+                                                        <li><a href="index-sidenav-light.html">Home with Side Menu Light</a></li>
                                                     </ul>
                                                 </li>
-                                                
-                                                <li class="menu-item-has-children"><a href="#">Blog</a>
+                                                <li class="menu-item-has-children"><a href="#">Pages</a>
+                                                    <ul class="sub-menu">
+                                                        <li><a href="about-us.html">About Us</a></li>
+                                                        <li><a href="our-services.html">Our Services</a></li>
+                                                        <li><a href="our-team.html">Our Team</a></li>
+                                                        <li><a href="single-team.html">Single Team</a></li>
+                                                        <li><a href="our-process.html">Our Process</a></li>
+                                                        <li><a href="our-studio.html">Our Studio</a></li>
+                                                        <li class="menu-item-has-children"><a href="shop.html">Shop</a>
+                                                            <ul class="sub-menu">
+                                                                <li><a href="single-product.html">Single Product</a></li>
+                                                                <li><a href="checkout-page.html">Checkout Page</a></li>
+                                                                <li><a href="cart-page.html">Cart Page</a></li>
+                                                            </ul>
+                                                        </li>
+                                                        <li><a href="typography.html">Typography</a></li>
+                                                        <li><a href="elements.html">Elements</a></li>
+                                                        <li><a href="faq.html">FAQS</a></li>
+                                                        <li><a href="cooming-soon.html">Coming Soon</a></li>
+                                                        <li><a href="404-error.html">404 Error</a></li>
+                                                    </ul>
                                                 </li>
-                                                <li><a href="contact.html">Contact Us</a></li>
-                                                <button id="darkModeToggle" style="position:fixed; bottom:20px; right:20px; z-index:999; padding:10px 15px; background:#333; color:#fff; border:none; border-radius:5px; cursor:pointer;">
-                                                    Dark Mode
-                                                </button>
+                                                <li class="menu-item-has-children"><a href="#">Services</a>
+                                                    <ul class="sub-menu">
+                                                        <li><a href="servcies-detail-1.html">Design & Planning</a></li>
+                                                        <li><a href="servcies-detail-2.html">Exterior Design</a></li>
+                                                        <li><a href="servcies-detail-3.html">Custom Solutions</a></li>
+                                                        <li><a href="servcies-detail-4.html">Furniture & Decor</a></li>
+                                                        <li><a href="servcies-detail-5.html">Creating Concept</a></li>
+                                                        <li><a href="servcies-detail-6.html">Author’s Control</a></li>
+                                                    </ul>
+                                                </li>
+                                                <li class="menu-item-has-children"><a href="#">Portfolio</a>
+                                                    <ul class="sub-menu">
+                                                        <li class="menu-item-has-children"><a href="#">Portfolio Types</a>
+                                                            <ul class="sub-menu">
+                                                                <li><a href="portfolio-masonry.html">Portfolio Grid Masonry</a></li>
+                                                                <li><a href="portfolio-no-gap.html">Portfolio Grid No Gap</a></li>
+                                                                <li><a href="portfolio-under.html">Portfolio Info Under Image</a></li>
+                                                                <li><a href="portfolio-metro.html">Portfolio Metro</a></li>
+                                                                <li><a href="portfolio-metro-no-gap.html">Portfolio Metro No Space</a></li>
+                                                                <li><a href="portfolio-gallery.html">Portfolio Gallery</a></li>
+                                                                <li><a href="portfolio-slider.html">Portfolio Slider</a></li>
+                                                            </ul>
+                                                        </li>
+                                                        <li class="menu-item-has-children"><a href="#">Portfolio Layout</a>
+                                                            <ul class="sub-menu">
+                                                                <li><a href="portfolio-two-column.html">Two Columns</a></li>
+                                                                <li><a href="portfolio-three-column.html">Three Columns</a></li>
+                                                                <li><a href="portfolio-three-column-wide.html">Three Columns Wide</a></li>
+                                                                <li><a href="portfolio-four-column-wide.html">Four Columns Wide</a></li>
+                                                                <li><a href="portfolio-five-column-wide.html">Five Columns Wide</a></li>
+                                                            </ul>
+                                                        </li>
+                                                        <li class="menu-item-has-children"><a href="#">Portfolio Hover Types</a>
+                                                            <ul class="sub-menu">
+                                                                <li><a href="portfolio-standar.html">Standar</a></li>
+                                                                <li><a href="portfolio-detail-slider.html">Slider Images</a></li>
+                                                                <li><a href="portfolio-left.html">Left Image</a></li>
+                                                                <li><a href="portfolio-right.html">Right Image</a></li>
+                                                                <li><a href="portfolio-small.html">Small Image</a></li>
+                                                                <li><a href="portfolio-big.html">Big Image</a></li>
+                                                            </ul>
+                                                        </li>
+                                                        <li class="menu-item-has-children"><a href="image-scale.html">Image-scale</a>
+                                                            <ul class="sub-menu">
+                                                                <li><a href="image-scale.html">Image Scale</a></li>
+                                                                <li><a href="show-overlay-info.html">Show Overlay Info</a></li>
+                                                                <li><a href="hidden-overlay-info.html">Hidden Overlay Info</a></li>
+                                                                <li><a href="background-solid.html">Background Solid</a></li>
+                                                                <li><a href="hidden-1.html">Hidden 1</a></li>
+                                                                <li><a href="hidden-2.html">Hidden 2</a></li>
+                                                            </ul>
+                                                        </li>
+                                                    </ul>
+                                                </li>
+                                                <li class="menu-item-has-children"><a href="blog.html">Blog</a>
+                                                    <ul class="sub-menu">
+                                                        <li><a href="blog.html">Blog Listing</a></li>
+                                                        <li><a href="blog-grid.html">Blog Grid</a></li>
+                                                        <li><a href="post.html">Blog Single</a></li>
+                                                    </ul>
+                                                </li>
+                                                <li><a href="contact.html">Contacts</a></li>
                                             </ul>
                                         </div>
                                     </div>
@@ -345,7 +366,7 @@
          style="background-image: url('images/page-header/pheader-aboutus.jpg');">
         <div class="dcell">
             <div class="container">
-                <h1 class="page-title">About Us</h1>
+                <h1 class="page-title" data-i18n="aboutUs.pageTitle">About Us</h1>
                 <ul id="breadcrumbs" class="breadcrumbs none-style">
                     <!-- aquí puedes agregar tus breadcrumbs -->
                 </ul>
@@ -366,13 +387,13 @@
             <div class="col-lg-6 col-md-12 align-self-center">
                 <div class="about-detail">
                     <div class="ot-heading is-dots">
-                        <span>[ about the company ]</span>
-                        <h1 class="main-heading">Redefining Real Estate in Puerto Vallarta</h1>
-                        <h6>Boutique service, local expertise, and properties with real long-term value.</h6>
+                        <span data-i18n="aboutUs.hero.label">[ about the company ]</span>
+                        <h1 class="main-heading" data-i18n="aboutUs.hero.title">Redefining Real Estate in Puerto Vallarta</h1>
+                        <h6 data-i18n="aboutUs.hero.subtitle">Boutique service, local expertise, and properties with real long-term value.</h6>
                     </div>
-                    <p>At Poncho Dávalos Real Estate, we believe buying a home or investing in a property should be an inspiring—not overwhelming—experience. Our boutique approach combines market knowledge, transparent guidance, and personalized attention to help you find properties that elevate your lifestyle and protect your investment.</p>
+                    <p data-i18n="aboutUs.hero.description">At Poncho Dávalos Real Estate, we believe buying a home or investing in a property should be an inspiring—not overwhelming—experience. Our boutique approach combines market knowledge, transparent guidance, and personalized attention to help you find properties that elevate your lifestyle and protect your investment.</p>
                     <div class="ot-button">
-                        <a href="portfolio-four-column-wide.html" class="octf-btn octf-btn-dark border-hover-dark">Discover Our Properties</a>
+                        <a href="portfolio-four-column-wide.html" class="octf-btn octf-btn-dark border-hover-dark" data-i18n="aboutUs.hero.button">Discover Our Properties</a>
                     </div>
                 </div>
             </div>
@@ -387,13 +408,13 @@
             <div class="col-lg-6 col-md-12 align-self-center">
                 <div class="about-detail">
                     <div class="ot-heading is-dots">
-                        <span>[ about the company ]</span>
-                        <h2 class="main-heading text-light">Our Mission</h2>
+                        <span data-i18n="aboutUs.mission.label">[ about the company ]</span>
+                        <h2 class="main-heading text-light" data-i18n="aboutUs.mission.title">Our Mission</h2>
                     </div>
-                    <h6 style="color: #A3A3A3;">Connecting people with their ideal home in Puerto Vallarta and Riviera Nayarit.</h6>
-                    <p style="color: #A3A3A3;">We are dedicated to making every real estate experience inspiring, transparent, and secure. Our mission is to guide buyers and investors every step of the way with professionalism and empathy, helping them find properties that reflect their lifestyle and ensure long-term value.</p>
+                    <h6 style="color: #A3A3A3;" data-i18n="aboutUs.mission.subtitle">Connecting people with their ideal home in Puerto Vallarta and Riviera Nayarit.</h6>
+                    <p style="color: #A3A3A3;" data-i18n="aboutUs.mission.description">We are dedicated to making every real estate experience inspiring, transparent, and secure. Our mission is to guide buyers and investors every step of the way with professionalism and empathy, helping them find properties that reflect their lifestyle and ensure long-term value.</p>
                     <div class="ot-button">
-                        <a href="contact.html" class="octf-btn octf-btn-light border-hover-light">Contact Us</a>
+                        <a href="contact.html" class="octf-btn octf-btn-light border-hover-light" data-i18n="aboutUs.mission.button">Contact Us</a>
                     </div>
                 </div>
             </div>
@@ -411,18 +432,18 @@
         <div class="row">
             <div class="col-lg-12 col-md-12 text-center theratio-align-center">
                 <div class="ot-heading is-dots">
-                    <span>[ about the company ]</span>
-                    <h2 class="main-heading">Our Vision</h2>
+                    <span data-i18n="aboutUs.vision.label">[ about the company ]</span>
+                    <h2 class="main-heading" data-i18n="aboutUs.vision.title">Our Vision</h2>
                 </div>
             </div>
         </div>
         <div class="row">
             <div class="col-lg-3 align-self-center">
                 <div class="process-classic sleft text-center text-lg-right px-5 px-lg-0">
-                    <h6>To become the region’s leading boutique real estate reference.</h6>
+                    <h6 data-i18n="aboutUs.vision.intro">To become the region's leading boutique real estate reference.</h6>
                 </div>
                 <div class="process-classic sleft text-center text-lg-right px-5 px-lg-0 mb-lg-0">
-                    <h6>We look to the future with the ambition to transform the real estate experience in Puerto Vallarta and Riviera Nayarit. Our vision is based on four key pillars:</h6>
+                    <h6 data-i18n="aboutUs.vision.description">We look to the future with the ambition to transform the real estate experience in Puerto Vallarta and Riviera Nayarit. Our vision is based on four key pillars:</h6>
                 </div>
             </div>
             <div class="col-lg-6 text-center mb-5 mb-lg-0">
@@ -430,12 +451,12 @@
             </div>
             <div class="col-lg-3 align-self-center">
                 <div class="process-classic sright text-center text-lg-left px-5 px-lg-0">
-                    <li>Strengthen trust through transparent processes.</li>
-                    <li>Be the first choice for international investors.</li>
+                    <li data-i18n="aboutUs.vision.pillar1">Strengthen trust through transparent processes.</li>
+                    <li data-i18n="aboutUs.vision.pillar2">Be the first choice for international investors.</li>
                 </div>
                 <div class="process-classic sright text-center text-lg-left px-5 px-lg-0 mb-lg-0">
-                    <li>Promote local development with premium properties.</li>
-                    <li>Elevate each client’s lifestyle with unique opportunities.</li>
+                    <li data-i18n="aboutUs.vision.pillar3">Promote local development with premium properties.</li>
+                    <li data-i18n="aboutUs.vision.pillar4">Elevate each client's lifestyle with unique opportunities.</li>
                 </div>
             </div>
         </div>
@@ -452,9 +473,9 @@
         <div class="row">
             <div class="col-md-12 text-center theratio-align-center">
                 <div class="ot-heading is-dots">
-                    <span>[ OUR SERVICES ]</span>
-                    <h2 class="main-heading text-light">Our Values</h2>
-                    <h6 style="color: snow;">The principles that guide every decision we make.</h6>
+                    <span data-i18n="aboutUs.values.label">[ OUR SERVICES ]</span>
+                    <h2 class="main-heading text-light" data-i18n="aboutUs.values.title">Our Values</h2>
+                    <h6 style="color: snow;" data-i18n="aboutUs.values.subtitle">The principles that guide every decision we make.</h6>
                 </div>
                 <div class="space-50"></div>
             </div>
@@ -463,8 +484,8 @@
             <div class="col-lg-4 col-md-6 col-sm-12">
                 <div class="icon-box icon-box--bg-img icon-box--icon-top icon-box--is-line-hover icon-bg-1 text-center white-mode">
                     <div class="content-box">
-                        <h5 >Trust</h5>
-                        <p>We act with integrity, ensuring secure and transparent processes.</p>
+                        <h5 data-i18n="aboutUs.values.trust.title">Trust</h5>
+                        <p data-i18n="aboutUs.values.trust.description">We act with integrity, ensuring secure and transparent processes.</p>
                     </div>
                     <div class="link-box"></div>
                 </div>
@@ -472,8 +493,8 @@
             <div class="col-lg-4 col-md-6 col-sm-12">
                 <div class="icon-box icon-box--bg-img icon-box--icon-top icon-box--is-line-hover icon-bg-2 text-center white-mode">
                     <div class="content-box">
-                        <h5>Empathy</h5>
-                        <p>We listen to your needs and personalize every solution.</p>
+                        <h5 data-i18n="aboutUs.values.empathy.title">Empathy</h5>
+                        <p data-i18n="aboutUs.values.empathy.description">We listen to your needs and personalize every solution.</p>
                     </div>
                     <div class="link-box"></div>
                 </div>
@@ -481,8 +502,8 @@
             <div class="col-lg-4 col-md-6 col-sm-12">
                 <div class="icon-box icon-box--bg-img icon-box--icon-top icon-box--is-line-hover icon-bg-3 text-center white-mode">
                     <div class="content-box">
-                        <h5>Passion for Vallarta</h5>
-                        <p>We proudly promote the lifestyle and opportunities of the region.</p>
+                        <h5 data-i18n="aboutUs.values.passion.title">Passion for Vallarta</h5>
+                        <p data-i18n="aboutUs.values.passion.description">We proudly promote the lifestyle and opportunities of the region.</p>
                     </div>
                     <div class="link-box"></div>
                 </div>
@@ -493,8 +514,8 @@
             <div class="col-lg-4 col-md-6 col-sm-12">
                 <div class="icon-box icon-box--bg-img icon-box--icon-top icon-box--is-line-hover icon-bg-1 text-center white-mode">
                     <div class="content-box">
-                        <h5>Professionalism</h5>
-                        <p>We offer expert advice backed by market knowledge.</p>
+                        <h5 data-i18n="aboutUs.values.professionalism.title">Professionalism</h5>
+                        <p data-i18n="aboutUs.values.professionalism.description">We offer expert advice backed by market knowledge.</p>
                     </div>
                     <div class="link-box"></div>
                 </div>
@@ -502,8 +523,8 @@
             <div class="col-lg-4 col-md-6 col-sm-12">
                 <div class="icon-box icon-box--bg-img icon-box--icon-top icon-box--is-line-hover icon-bg-2 text-center white-mode">
                     <div class="content-box">
-                        <h5>Innovation</h5>
-                        <p>We embrace new tools and strategies to achieve better results.</p>
+                        <h5 data-i18n="aboutUs.values.innovation.title">Innovation</h5>
+                        <p data-i18n="aboutUs.values.innovation.description">We embrace new tools and strategies to achieve better results.</p>
                     </div>
                     <div class="link-box"></div>
                 </div>
@@ -1054,48 +1075,48 @@
     <div class="row text-center mb-5">
       <div class="col-lg-12">
         <div class="ot-heading is-dots">
-          <span>[ testimonials ]</span>
-          <h2 class="main-heading">What Our Clients Say</h2>
+          <span data-i18n="aboutUs.testimonials.label">[ testimonials ]</span>
+          <h2 class="main-heading" data-i18n="aboutUs.testimonials.title">What Our Clients Say</h2>
         </div>
       </div>
     </div>
 
     <div class="owl-carousel testi-carousel">
       <div class="testi-card">
-        <div class="ttext">
-          "I found the perfect home thanks to Poncho’s guidance. He understood exactly what I needed and handled everything with great care."
+        <div class="ttext" data-i18n="aboutUs.testimonials.testimonial1.quote">
+          "I found the perfect home thanks to Poncho's guidance. He understood exactly what I needed and handled everything with great care."
         </div>
         <div class="t-head">
           <img src="images/testi1.png" alt="Fernanda López">
           <div class="tinfo">
             <h6>Fernanda López</h6>
-            <span>Buyer from Guadalajara, Mexico</span>
+            <span data-i18n="aboutUs.testimonials.testimonial1.role">Buyer from Guadalajara, Mexico</span>
           </div>
         </div>
       </div>
 
       <div class="testi-card">
-        <div class="ttext">
+        <div class="ttext" data-i18n="aboutUs.testimonials.testimonial2.quote">
           "Poncho made the process easy and transparent. His knowledge of Vallarta gave me total confidence from the first call to closing."
         </div>
         <div class="t-head">
           <img src="images/testi2.png" alt="Michael Turner">
           <div class="tinfo">
             <h6>Michael Turner</h6>
-            <span>Investor from California, USA</span>
+            <span data-i18n="aboutUs.testimonials.testimonial2.role">Investor from California, USA</span>
           </div>
         </div>
       </div>
 
       <div class="testi-card">
-        <div class="ttext">
+        <div class="ttext" data-i18n="aboutUs.testimonials.testimonial3.quote">
           "Poncho offered excellent advice and strategy. His attention to detail helped me secure a property that truly fits my goals."
         </div>
         <div class="t-head">
           <img src="images/testi3.png" alt="Mariana Torres">
           <div class="tinfo">
             <h6>Mariana Torres</h6>
-            <span>Investor from Mexico City, Mexico</span>
+            <span data-i18n="aboutUs.testimonials.testimonial3.role">Investor from Mexico City, Mexico</span>
           </div>
         </div>
       </div>
@@ -1124,7 +1145,7 @@
                 </div>
                 <div class="col-xl-3 col-lg-6 col-md-6 col-sm-12 mb-4 mb-xl-0">
                     <div class="widget-footer">
-                        <h6>Contacts</h6>
+                        <h6 data-i18n="footer.contactsTitle">Contacts</h6>
                         <ul class="footer-list">
                             <li class="footer-list-item">
                                 <span class="list-item-icon"><i class="ot-flaticon-place"></i></span>
@@ -1143,7 +1164,7 @@
                 </div>
                 <div class="col-xl-3 col-lg-6 col-md-6 col-sm-12 mb-4 mb-md-0">
                     <div class="widget-footer widget-contact">
-                        <h6>Latest Projects</h6>
+                        <h6 data-i18n="footer.latestProjectsTitle">Latest Projects</h6>
                         <ul>
                             <li><a href="property-1.html">Altomar C6</a></li>
                             <li><a href="property-2.html">Indah 3B</a></li>
@@ -1153,7 +1174,7 @@
                 </div>
                 <div class="col-xl-3 col-lg-6 col-md-6 col-sm-12">
                     <div class="widget-footer footer-widget-subcribe">
-                        <h6>Social Media</h6>
+                        <h6 data-i18n="footer.socialMediaTitle">Social Media</h6>
                         <form class="mc4wp-form" method="post">
                             <div class="mc4wp-form-fields">
                                 <div class="subscribe-inner-form">
@@ -1175,15 +1196,15 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-7 col-md-12 mb-4 mb-lg-0">
-                    <p>Copyright © 2025 <a class="text-light" href="#">Poncho Dávalos Real State</a>. All Rights Reserved.</p>
+                    <p data-i18n="footer.copyright">Copyright © 2025 <a class="text-light" href="#">Poncho Dávalos Real State</a>. All Rights Reserved.</p>
                 </div>
                 <div class="col-lg-5 col-md-12 align-self-center">
                     <ul class="icon-list-items inline-items justify-content-lg-end">
                         <li class="icon-list-item inline-item">
-                            <a href="#"><span class="icon-list-text">Terms of use</span></a>
+                            <a href="#"><span class="icon-list-text" data-i18n="footer.termsOfUse">Terms of use</span></a>
                         </li>
                         <li class="icon-list-item inline-item">
-                            <a href="#"><span class="icon-list-text">Privacy Environmental Policy</span></a>
+                            <a href="#"><span class="icon-list-text" data-i18n="footer.privacyPolicy">Privacy Environmental Policy</span></a>
                         </li>
                     </ul>
                 </div>
@@ -1216,6 +1237,9 @@
             });
         })(jQuery);
     </script>
+
+    <!-- i18n SCRIPT -->
+    <script src="js/i18n.js"></script>
 </body>
 
 <!-- Mirrored from templates.thememodern.com/theratio/about-us.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 19 Sep 2025 20:59:07 GMT -->

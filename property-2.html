@@ -22,6 +22,7 @@
 <link rel="stylesheet" href="css/cards.css">
 <link rel="stylesheet" href="css/carousel.css">
 <link rel="stylesheet" href="css/dark-mode.css">
+<link rel="stylesheet" href="css/i18n.css" />
 
 <style>
 
@@ -76,6 +77,15 @@
 <link href="style.css" rel="stylesheet"/>
 </meta></head>
 <body>
+<!-- Language Switcher -->
+<div class="lang-switcher">
+    <button class="lang-btn active" data-lang="en" aria-label="Switch to English">
+        <span class="sr-only">Switch to</span>EN
+    </button>
+    <button class="lang-btn" data-lang="es" aria-label="Cambiar a Español">
+        <span class="sr-only">Cambiar a</span>ES
+    </button>
+</div>
 <div id="royal_preloader"></div>
 <div class="site" id="page">
 <header id="site-header" class="site-header header-transparent">
@@ -95,7 +105,7 @@
                                 <div class="octf-col menu-col no-padding">
                                     <nav id="site-navigation" class="main-navigation">
                                         <ul class="menu">
-                                            <li class=""><a href="index.html">Home</a></li>
+                                            <li class=""><a href="index.html" data-i18n="nav.home">Home</a></li>
                                             <!-- <li class="menu-item-has-children current-menu-item current-menu-ancestor">
                                                 <a href="index.html">Home</a>
                                                 <ul class="sub-menu">
@@ -103,16 +113,16 @@
                                                     <li><a href="index-dark.html">Main Dark</a></li>
                                                 </ul>
                                             </li> -->
-                                            <li class="current-menu-item"><a href="portfolio-four-column-wide.html">Properties</a></li>
-                                            <li><a href="about-us.html">About Us</a></li>
-                                            <li class="menu-item-has-children"><a href="servcies-detail-1.html">Services</a>
+                                            <li class="current-menu-item"><a href="portfolio-four-column-wide.html" data-i18n="nav.properties">Properties</a></li>
+                                            <li><a href="about-us.html" data-i18n="nav.about">About Us</a></li>
+                                            <li class="menu-item-has-children"><a href="servcies-detail-1.html" data-i18n="nav.services">Services</a>
                                                 <ul class="sub-menu">
-                                                    <li><a href="servcies-detail-1.html">Comprehensive Advisory</a></li>
-                                                    <li><a href="servcies-detail-2.html">Investment for Foreign Buyers</a></li>
-                                                    <li><a href="servcies-detail-3.html">Second Home Acquisition</a></li>
-                                                    <li><a href="servcies-detail-4.html">Premium Property Sales</a></li>
-                                                    <li><a href="servcies-detail-5.html">Legal & Transaction Management</a></li>
-                                                    <li><a href="servcies-detail-6.html">Market & Appreciation Analysis</a></li>
+                                                    <li><a href="servcies-detail-1.html" data-i18n="nav.services.comprehensive">Comprehensive Advisory</a></li>
+                                                    <li><a href="servcies-detail-2.html" data-i18n="nav.services.investment">Investment for Foreign Buyers</a></li>
+                                                    <li><a href="servcies-detail-3.html" data-i18n="nav.services.secondHome">Second Home Acquisition</a></li>
+                                                    <li><a href="servcies-detail-4.html" data-i18n="nav.services.premium">Premium Property Sales</a></li>
+                                                    <li><a href="servcies-detail-5.html" data-i18n="nav.services.legal">Legal & Transaction Management</a></li>
+                                                    <li><a href="servcies-detail-6.html" data-i18n="nav.services.market">Market & Appreciation Analysis</a></li>
                                                 </ul>
                                             </li>
                                             <!-- <li class="menu-item-has-children"><a href="#">Pages</a>
@@ -178,7 +188,7 @@
                                                     </li>
                                                 </ul>
                                             </li> -->
-                                            <li><a href="#">Blog</a></li>
+                                            <li><a href="#" data-i18n="nav.blog">Blog</a></li>
                                             <!-- <li class="menu-item-has-children"><a href="blog.html">Blog</a>
                                                 <ul class="sub-menu">
                                                     <li><a href="blog.html">Blog Listing</a></li>
@@ -186,7 +196,7 @@
                                                     <li><a href="post.html">Blog Single</a></li>
                                                 </ul>
                                             </li> -->
-                                            <li><a href="contact.html">Contacts</a></li>
+                                            <li><a href="contact.html" data-i18n="nav.contact">Contacts</a></li>
                                         </ul>
                                     </nav>
                                 </div>
@@ -418,7 +428,7 @@
   <div class="custom-info-card">
     <img src="images/iconos_properties/dollar.png" alt="Price Icon" class="custom-info-icon">
     <div class="custom-info-text">
-      <h6>Price:</h6>
+      <h6 data-i18n="property.common.price">Price:</h6>
       <p>USD $1,498,968</p>
     </div>
   </div>
@@ -426,7 +436,7 @@
   <div class="custom-info-card">
     <img src="images/iconos_properties/area.png" alt="Surface Icon" class="custom-info-icon">
     <div class="custom-info-text">
-      <h6>Surface:</h6>
+      <h6 data-i18n="property.common.surface">Surface:</h6>
       <p>221.94 m²</p>
     </div>
   </div>
@@ -434,7 +444,7 @@
   <div class="custom-info-card">
     <img src="images/iconos_properties/bed.png" alt="Bedrooms Icon" class="custom-info-icon">
     <div class="custom-info-text">
-      <h6>Bedrooms:</h6>
+      <h6 data-i18n="property.common.bedrooms">Bedrooms:</h6>
       <p>3</p>
     </div>
   </div>
@@ -450,7 +460,7 @@
   <div class="custom-info-card">
     <img src="images/iconos_properties/parking.png" alt="Parking Icon" class="custom-info-icon">
     <div class="custom-info-text">
-      <h6>Parking:</h6>
+      <h6 data-i18n="property.common.parking">Parking:</h6>
       <p>1 space</p>
     </div>
   </div>
@@ -458,7 +468,7 @@
 
 <div class="space-30"></div>
 <div class="col-lg-12">
-<h4>Description</h4>
+<h4 data-i18n="property.common.description">Description</h4>
 <p>Experience elevated coastal living at Indah, one of the most exclusive buildings in Lower Conchas Chinas. This stunning corner condo features 3 spacious bedrooms, sleek modern décor, and a large terrace ideal for relaxing or entertaining with breathtaking ocean and mountain views. Indah offers a full suite of resort-style amenities including two sparkling pools, a state-of-the-art gym, tranquil spa, on-site restaurant, 24-hour security, and covered parking. Whether you're looking for a full-time residence, a luxury vacation getaway, or a high-performing rental property, this residence blends style, comfort, and convenience in one of Puerto Vallarta's most desirable neighborhoods. Indah is where elegance meets lifestyle.
 </p>
 <div class="space-5"></div>
@@ -473,7 +483,7 @@
     <div class="card custom-card-expand h-100">
       <div class="card-body">
         <img src="images/iconos_properties/amenities.png" alt="Amenities" class="card-icon-img">
-        <h6 class="card-title">Amenities</h6>
+        <h6 class="card-title" data-i18n="property.common.amenities.title">Amenities</h6>
       </div>
       <div class="card-content">
         <ul>
@@ -497,7 +507,7 @@
     <div class="card custom-card-expand h-100">
       <div class="card-body">
         <img src="images/iconos_properties/AC.png" alt="Appliances & Devices" class="card-icon-img">
-        <h6 class="card-title">Appliances & Devices</h6>
+        <h6 class="card-title" data-i18n="property.common.devices.title">Appliances & Devices</h6>
       </div>
       <div class="card-content">
         <ul>
@@ -593,7 +603,7 @@
     <div class="card custom-card-expand h-100">
       <div class="card-body">
         <img src="images/iconos_properties/location.png" alt="Location" class="card-icon-img">
-        <h6 class="card-title">Location</h6>
+        <h6 class="card-title" data-i18n="property.common.location.title">Location</h6>
       </div>
       <div class="card-content">
         <ul>
@@ -616,12 +626,12 @@
 Puerto Vallarta</p>
 <iframe  class="custom-map" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d233.86010101922378!2d-105.24178992485848!3d20.593342643748453!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x84215ab60e882d57%3A0x7a9ceeba6bfa035f!2sAmapas%20121%2C%20Conchas%20Chinas%2C%2048399%20Puerto%20Vallarta%2C%20Jal.!5e1!3m2!1ses-419!2smx!4v1760567138481!5m2!1ses-419!2smx" width="1280" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe><div class="space-30"></div>
 <div class="projects-grid pf_3_cols style-1 img-scale w-auto m-0">
-<h2>Ready to Visit This Property?</h2>
+<h2 data-i18n="property.common.cta.title">Ready to Visit This Property?</h2>
 <div class="cta-container">
-<a class="cta-btn cta-principal" href="https://wa.me/523222922312" target="_blank">
+<a class="cta-btn cta-principal" href="https://wa.me/523222922312" target="_blank" data-i18n="property.common.cta.whatsapp">
                                                     Chat on WhatsApp
                                                 </a>
-<a class="cta-btn cta-secundario" href="contact.html">
+<a class="cta-btn cta-secundario" href="contact.html" data-i18n="property.common.cta.schedule">
                                                     Schedule a Viewing
                                                 </a>
 </div>
@@ -765,7 +775,7 @@ Puerto Vallarta</p>
 <script src="js/royal_preloader.min.js"></script>
 <script src="js/dark-mode.js"></script>
 <script>
-        window.jQuery = window.$ = jQuery;  
+        window.jQuery = window.$ = jQuery;
         (function($) { "use strict";
             //Preloader
             Royal_Preloader.config({
@@ -774,6 +784,7 @@ Puerto Vallarta</p>
             });
         })(jQuery);
     </script>
+<script src="js/i18n.js"></script>
 </body>
 <!-- Mirrored from templates.thememodern.com/theratio/portfolio-detail-slider.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 19 Sep 2025 20:59:30 GMT -->
 </html>
