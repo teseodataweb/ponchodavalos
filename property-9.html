@@ -23,6 +23,7 @@
 <link rel="stylesheet" href="css/carousel.css">
 <link rel="stylesheet" href="css/dark-mode.css">
 <link rel="stylesheet" href="css/i18n.css" />
+<link rel="stylesheet" href="css/currency-switcher.css" />
 
 
 <style>
@@ -87,6 +88,15 @@
         <span class="sr-only">Cambiar a</span>ES
     </button>
 </div>
+    <!-- Currency Switcher -->
+    <div class="currency-switcher">
+        <button class="currency-btn active" data-currency="MXN" aria-label="Show prices in Mexican Pesos">
+            <span class="sr-only">Currency:</span>MXN
+        </button>
+        <button class="currency-btn" data-currency="USD" aria-label="Show prices in US Dollars">
+            <span class="sr-only">Currency:</span>USD
+        </button>
+    </div>
 <div id="royal_preloader"></div>
 <div class="site" id="page">
 <header id="site-header" class="site-header header-transparent">
@@ -515,14 +525,14 @@
                                                         <li><a href="servcies-detail-2.html" data-i18n="nav.services.investment">Investment for Foreign Buyers</a></li>
                                                         <li><a href="servcies-detail-3.html" data-i18n="nav.services.secondHome">Second Home Acquisition</a></li>
                                                         <li><a href="servcies-detail-4.html" data-i18n="nav.services.premium">Premium Property Sales</a></li>
-                                                        <li><a href="servcies-detail-5.html">Legal & Transaction Magnagement</a></li>
+                                                        <li><a href="servcies-detail-5.html" data-i18n="nav.services.legal">Legal & Transaction Magnagement</a></li>
                                                         <li><a href="servcies-detail-6.html" data-i18n="nav.services.market">Market & Appreciation Analysis</a></li>
                                                     </ul>
                                                 </li>
                                                 
                                                 <li class="menu-item-has-children"><a href="#" data-i18n="nav.blog">Blog</a>
                                                 </li>
-                                                <li><a href="contact.html">Contact Us</a></li>
+                                                <li><a href="contact.html" data-i18n="nav.contact">Contact Us</a></li>
                                                 <button id="darkModeToggle" style="position:fixed; bottom:20px; right:20px; z-index:999; padding:10px 15px; background:#333; color:#fff; border:none; border-radius:5px; cursor:pointer;">
                                                     Dark Mode
                                                 </button>
@@ -630,7 +640,7 @@
     <div class="container">
       <h1 class="page-title">Urban 3A</h1>
       <ul class="breadcrumbs none-style" id="breadcrumbs">
-        <li class="active">Your dream lifestyle with panoramic ocean views.</li>
+        <li class="active" data-i18n="property.property9.tagline">Your dream lifestyle with panoramic ocean views.</li>
       </ul>
     </div>
   </div>
@@ -668,7 +678,7 @@
     <img src="images/iconos_properties/dollar.png" alt="Price Icon" class="custom-info-icon">
     <div class="custom-info-text">
       <h6 data-i18n="property.common.price">Price:</h6>
-      <p>USD $620,000</p>
+      <p><span data-price-mxn="12400000.0" data-price-usd="620000">$12,400,000 MXN</span></p>
     </div>
   </div>
 
@@ -691,7 +701,7 @@
   <div class="custom-info-card">
     <img src="images/iconos_properties/taza.png" alt="Bathrooms Icon" class="custom-info-icon">
     <div class="custom-info-text">
-      <h6>Bathrooms:</h6>
+      <h6 data-i18n="property.common.baths">Bathrooms:</h6>
       <p>2</p>
     </div>
   </div>
@@ -705,10 +715,18 @@
   </div>
 </div>
 
+
+<!-- Price Disclaimer -->
+<div class="price-disclaimer">
+  <strong data-i18n="propertiesPage.priceDisclaimer.text">Prices displayed are for reference only and subject to change. Exchange rate:</strong>
+  <span class="exchange-rate">1 USD = 20 MXN</span>
+  <span class="disclaimer-note" data-i18n="propertiesPage.priceDisclaimer.note">Please contact us for the most current pricing and availability.</span>
+</div>
+
 <div class="space-30"></div>
 <div class="col-lg-12">
 <h4 data-i18n="property.common.description">Description</h4>
-<p>Urban 1 te sitúa en el corazón de la Zona Romántica, a solo tres cuadras de la playa Los Muertos y rodeado de restaurantes, bares y galerías.  Edificio boutique (2019) con elevador y un rooftop espectacular con alberca infinita y vistas a la ciudad y montañas: el spot perfecto para el atardecer.  Este departamento de 2 recámaras y 2 baños se vende amueblado, con diseño contemporáneo y áreas pensadas para estancias cómodas y sociales.  Su ubicación y propuesta lo convierten en imán de rentas: cuenta con historial sólido y alta ocupación proyectada en temporada alta, ideal para generar ingresos desde el día uno.   En Venustiano Carranza?arteria gastronómica
+<p data-i18n="property.property9.description">Urban 1 te sitúa en el corazón de la Zona Romántica, a solo tres cuadras de la playa Los Muertos y rodeado de restaurantes, bares y galerías.  Edificio boutique (2019) con elevador y un rooftop espectacular con alberca infinita y vistas a la ciudad y montañas: el spot perfecto para el atardecer.  Este departamento de 2 recámaras y 2 baños se vende amueblado, con diseño contemporáneo y áreas pensadas para estancias cómodas y sociales.  Su ubicación y propuesta lo convierten en imán de rentas: cuenta con historial sólido y alta ocupación proyectada en temporada alta, ideal para generar ingresos desde el día uno.   En Venustiano Carranza?arteria gastronómica
 </p>
 <div class="space-5"></div>
 </div>
@@ -783,7 +801,7 @@
     <div class="card custom-card-expand h-100">
       <div class="card-body">
         <img src="images/iconos_properties/property.png" alt="Property Details" class="card-icon-img">
-        <h6 class="card-title">Property Details</h6>
+        <h6 class="card-title" data-i18n="property.common.propertyDetails.title">Property Details</h6>
       </div>
       <div class="card-content">
         <ul>
@@ -800,7 +818,7 @@
     <div class="card custom-card-expand h-100">
       <div class="card-body">
         <img src="images/iconos_properties/fee.png" alt="HOA Fee Information" class="card-icon-img">
-        <h6 class="card-title">HOA Fee Information</h6>
+        <h6 class="card-title" data-i18n="property.common.hoaFee.title">HOA Fee Information</h6>
       </div>
       <div class="card-content">
         <ul>
@@ -1044,6 +1062,7 @@ Puerto Vallarta</p>
         })(jQuery);
     </script>
 <script src="js/i18n.js"></script>
+<script src="js/currency-switcher.js"></script>
 </body>
 <!-- Mirrored from templates.thememodern.com/theratio/portfolio-detail-slider.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 19 Sep 2025 20:59:30 GMT -->
 </html>

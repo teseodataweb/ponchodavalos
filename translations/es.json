@@ -291,6 +291,10 @@
       "location": "Ubicación:",
       "surface": "Superficie:"
     },
+    "priceDisclaimer": {
+      "text": "Los precios mostrados son solo de referencia y están sujetos a cambios. Tipo de cambio:",
+      "note": "Por favor contáctanos para obtener los precios y disponibilidad más actuales."
+    },
     "cta": {
       "title": "¿No encontraste lo que buscas? Déjanos ayudarte.",
       "description": "Cuéntanos qué tienes en mente y te ayudaremos a descubrir la propiedad que se adapte a tu estilo de vida.",
@@ -326,6 +330,18 @@
       },
       "location": {
         "title": "Ubicación"
+      },
+      "connectivity": {
+        "title": "Conectividad"
+      },
+      "buildingInfo": {
+        "title": "Información del Edificio"
+      },
+      "hoaFee": {
+        "title": "Información de Cuota HOA"
+      },
+      "propertyDetails": {
+        "title": "Detalles de la Propiedad"
       },
       "cta": {
         "title": "¿Listo para Visitar esta Propiedad?",

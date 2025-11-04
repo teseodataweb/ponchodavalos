@@ -34,6 +34,7 @@
 
     <link rel="stylesheet" href="style.css" />
     <link rel="stylesheet" href="css/i18n.css" />
+    <link rel="stylesheet" href="css/currency-switcher.css" />
 </head>
 
 <body>
@@ -44,6 +45,16 @@
         </button>
         <button class="lang-btn" data-lang="es" aria-label="Cambiar a Español">
             <span class="sr-only">Cambiar a</span>ES
+        </button>
+    </div>
+
+    <!-- Currency Switcher -->
+    <div class="currency-switcher">
+        <button class="currency-btn active" data-currency="MXN" aria-label="Show prices in Mexican Pesos">
+            <span class="sr-only">Currency:</span>MXN
+        </button>
+        <button class="currency-btn" data-currency="USD" aria-label="Show prices in US Dollars">
+            <span class="sr-only">Currency:</span>USD
         </button>
     </div>
 
@@ -68,7 +79,7 @@
                                         <ul class="menu">
                                             <li class=""><a href="index.html" data-i18n="nav.home">Home</a></li>
                                             <li class="current-menu-item"><a href="portfolio-four-column-wide.html" data-i18n="nav.properties">Properties</a></li>
-                                            <li><a href="about-us.html" data-i18n="nav.aboutUs">About Us</a></li>
+                                            <li><a href="about-us.html" data-i18n="nav.about">About Us</a></li>
                                             <li class="menu-item-has-children"><a href="servcies-detail-1.html" data-i18n="nav.services">Services</a>
                                                 <ul class="sub-menu">
                                                     <li><a href="servcies-detail-1.html" data-i18n="services.comprehensiveAdvisory">Comprehensive Advisory</a></li>
@@ -368,6 +379,15 @@
                     <!-- <p>Discover handpicked homes and condos that combine lifestyle, comfort, and investment value.</p> -->
                 </div>
                 <div class="space-40"></div>
+
+                <!-- Price Disclaimer -->
+                <div class="price-disclaimer">
+                    <strong data-i18n="propertiesPage.priceDisclaimer.text">Prices displayed are for reference only and subject to change. Exchange rate:</strong>
+                    <span class="exchange-rate">1 USD = 20 MXN</span>
+                    <span class="disclaimer-note" data-i18n="propertiesPage.priceDisclaimer.note">Please contact us for the most current pricing and availability.</span>
+                </div>
+                <div class="space-20"></div>
+
                 <div class="project-filter-wrapper">
                     <ul class="project_filters">
                         <li><a href="#" data-filter="*" class="selected btn-details" data-i18n="propertiesPage.filters.all">All Properties<span class="filter-count"></span></a></li>
@@ -396,7 +416,7 @@
                                     <div class="portfolio-info-inner">
                                         <h5><a class="title-link" href="property-1.html">Altomar C6</a></h5>
                                         <ul style="color:#ffffff; list-style:none; padding-left:0; margin-bottom:0;">
-                                            <li><strong data-i18n="propertiesPage.card.price">Price:</strong> $3,000,000 MXN</li>
+                                            <li><strong data-i18n="propertiesPage.card.price">Price:</strong> <span data-price-mxn="3000000.0" data-price-usd="150000.0">$3,000,000 MXN</span></li>
                                             <li><strong data-i18n="propertiesPage.card.location">Ubication:</strong> JA, Centro North</li>
                                             <li><strong data-i18n="propertiesPage.card.surface">Surface:</strong> 33 m²</li>
                                         </ul>
@@ -422,7 +442,7 @@
                                     <div class="portfolio-info-inner">
                                         <h5><a class="title-link" href="property-2.html">Indah 3B</a></h5>
                                         <ul style="color:#ffffff; list-style:none; padding-left:0; margin-bottom:0;">
-                                            <li><strong data-i18n="propertiesPage.card.price">Price:</strong> $29,979,360 MXN</li>
+                                            <li><strong data-i18n="propertiesPage.card.price">Price:</strong> <span data-price-mxn="29979360.0" data-price-usd="1498968.0">$29,979,360 MXN</span></li>
                                             <li><strong data-i18n="propertiesPage.card.location">Ubication:</strong> JA, South Shore</li>
                                             <li><strong data-i18n="propertiesPage.card.surface">Surface:</strong> 222 m²</li>
 
@@ -449,7 +469,7 @@
                                     <div class="portfolio-info-inner">
                                         <h5><a class="title-link" href="property-3.html">Amapas B11</a></h5>
                                         <ul style="color:#ffffff; list-style:none; padding-left:0; margin-bottom:0;">
-                                            <li><strong data-i18n="propertiesPage.card.price">Price:</strong> $15,000,000 MXN</li>
+                                            <li><strong data-i18n="propertiesPage.card.price">Price:</strong> <span data-price-mxn="15000000.0" data-price-usd="750000.0">$15,000,000 MXN</span></li>
                                             <li><strong data-i18n="propertiesPage.card.location">Ubication:</strong> JA, South Shore</li>
                                             <li><strong data-i18n="propertiesPage.card.surface">Surface:</strong> 202 m²</li>
 
@@ -476,7 +496,7 @@
                                     <div class="portfolio-info-inner">
                                         <h5><a class="title-link" href="property-4.html">Coras Living D3</a></h5>
                                         <ul style="color:#ffffff; list-style:none; padding-left:0; margin-bottom:0;">
-                                            <li><strong data-i18n="propertiesPage.card.price">Price:</strong> $3,085,000 MXN</li>
+                                            <li><strong data-i18n="propertiesPage.card.price">Price:</strong> <span data-price-mxn="3085000.0" data-price-usd="154250.0">$3,085,000 MXN</span></li>
                                             <li><strong data-i18n="propertiesPage.card.location">Ubication:</strong> JA, Airport</li>
                                             <li><strong data-i18n="propertiesPage.card.surface">Surface:</strong> 79 m²</li>
 
@@ -504,7 +524,7 @@
                                     <div class="portfolio-info-inner">
                                         <h5><a class="title-link" href="property-5.html">Coras Living D4</a></h5>
                                         <ul style="color:#ffffff; list-style:none; padding-left:0; margin-bottom:0;">
-                                            <li><strong data-i18n="propertiesPage.card.price">Price:</strong> $3,136,000 MXN</li>
+                                            <li><strong data-i18n="propertiesPage.card.price">Price:</strong> <span data-price-mxn="3136000.0" data-price-usd="156800.0">$3,136,000 MXN</span></li>
                                             <li><strong data-i18n="propertiesPage.card.location">Ubication:</strong> JA, Airport</li>
                                             <li><strong data-i18n="propertiesPage.card.surface">Surface:</strong> 82 m²</li>
 
@@ -532,7 +552,7 @@
                                     <div class="portfolio-info-inner">
                                         <h5><a class="title-link" href="property-6.html">Altomar B3</a></h5>
                                         <ul style="color:#ffffff; list-style:none; padding-left:0; margin-bottom:0;">
-                                            <li><strong data-i18n="propertiesPage.card.price">Price:</strong> $5,113,400 MXN</li>
+                                            <li><strong data-i18n="propertiesPage.card.price">Price:</strong> <span data-price-mxn="5113400.0" data-price-usd="255670.0">$5,113,400 MXN</span></li>
                                             <li><strong data-i18n="propertiesPage.card.location">Ubication:</strong> JA, Centro North</li>
                                             <li><strong data-i18n="propertiesPage.card.surface">Surface:</strong> 69 m²</li>
 
@@ -560,7 +580,7 @@
                                     <div class="portfolio-info-inner">
                                         <h5><a class="title-link" href="property-7.html">Palm Springs 353 Condo Chris</a></h5>
                                         <ul style="color:#ffffff; list-style:none; padding-left:0; margin-bottom:0;">
-                                            <li><strong data-i18n="propertiesPage.card.price">Price:</strong> $6,599,980 MXN</li>
+                                            <li><strong data-i18n="propertiesPage.card.price">Price:</strong> <span data-price-mxn="6599980.0" data-price-usd="329999.0">$6,599,980 MXN</span></li>
                                             <li><strong data-i18n="propertiesPage.card.location">Ubication:</strong> JA, Francisco Villa West</li>
                                             <li><strong data-i18n="propertiesPage.card.surface">Surface:</strong> 84 m²</li>
 
@@ -588,7 +608,7 @@
                                     <div class="portfolio-info-inner">
                                         <h5><a class="title-link" href="property-8.html">Altomar A6</a></h5>
                                         <ul style="color:#ffffff; list-style:none; padding-left:0; margin-bottom:0;">
-                                            <li><strong data-i18n="propertiesPage.card.price">Price:</strong> $5,346,000 MXN</li>
+                                            <li><strong data-i18n="propertiesPage.card.price">Price:</strong> <span data-price-mxn="5346000.0" data-price-usd="267300.0">$5,346,000 MXN</span></li>
                                             <li><strong data-i18n="propertiesPage.card.location">Ubication:</strong> JA, Centro North</li>
                                             <li><strong data-i18n="propertiesPage.card.surface">Surface:</strong> 81 m²</li>
 
@@ -616,7 +636,7 @@
                                     <div class="portfolio-info-inner">
                                         <h5><a class="title-link" href="property-9.html">Urban 3A</a></h5>
                                         <ul style="color:#ffffff; list-style:none; padding-left:0; margin-bottom:0;">
-                                            <li><strong data-i18n="propertiesPage.card.price">Price:</strong> $12,400,000 MXN</li>
+                                            <li><strong data-i18n="propertiesPage.card.price">Price:</strong> <span data-price-mxn="12400000.0" data-price-usd="620000.0">$12,400,000 MXN</span></li>
                                             <li><strong data-i18n="propertiesPage.card.location">Ubication:</strong> JA, Centro South</li>
                                             <li><strong data-i18n="propertiesPage.card.surface">Surface:</strong> 122 m²</li>
 
@@ -644,7 +664,7 @@
                                     <div class="portfolio-info-inner">
                                         <h5><a class="title-link" href="property-10.html">Pavilion 309</a></h5>
                                         <ul style="color:#ffffff; list-style:none; padding-left:0; margin-bottom:0;">
-                                            <li><strong data-i18n="propertiesPage.card.price">Price:</strong> $9,900,000 MXN</li>
+                                            <li><strong data-i18n="propertiesPage.card.price">Price:</strong> <span data-price-mxn="9900000.0" data-price-usd="495000.0">$9,900,000 MXN</span></li>
                                             <li><strong data-i18n="propertiesPage.card.location">Ubication:</strong> JA, Centro South</li>
                                             <li><strong data-i18n="propertiesPage.card.surface">Surface:</strong> 76 m²</li>
 
@@ -672,7 +692,7 @@
                                     <div class="portfolio-info-inner">
                                         <h5><a class="title-link" href="property-11.html">Casa Corona</a></h5>
                                         <ul style="color:#ffffff; list-style:none; padding-left:0; margin-bottom:0;">
-                                            <li><strong data-i18n="propertiesPage.card.price">Price:</strong> $11,999,800 MXN</li>
+                                            <li><strong data-i18n="propertiesPage.card.price">Price:</strong> <span data-price-mxn="11999800.0" data-price-usd="599990.0">$11,999,800 MXN</span></li>
                                             <li><strong data-i18n="propertiesPage.card.location">Ubication:</strong> JA, Centro North</li>
                                             <li><strong data-i18n="propertiesPage.card.surface">Surface:</strong> 291 m²</li>
 
@@ -700,7 +720,7 @@
                                     <div class="portfolio-info-inner">
                                         <h5><a class="title-link" href="property-12.html">Condo Amapas 353 202</a></h5>
                                         <ul style="color:#ffffff; list-style:none; padding-left:0; margin-bottom:0;">
-                                            <li><strong data-i18n="propertiesPage.card.price">Price:</strong> $10,888,000 MXN</li>
+                                            <li><strong data-i18n="propertiesPage.card.price">Price:</strong> <span data-price-mxn="10888000.0" data-price-usd="544400.0">$10,888,000 MXN</span></li>
                                             <li><strong data-i18n="propertiesPage.card.location">Ubication:</strong> JA, South Shore</li>
                                             <li><strong data-i18n="propertiesPage.card.surface">Surface:</strong> 114 m²</li>
 
@@ -859,6 +879,7 @@
 
     <!-- i18n SCRIPT -->
     <script src="js/i18n.js"></script>
+    <script src="js/currency-switcher.js"></script>
 </body>
 
 <!-- Mirrored from templates.thememodern.com/theratio/portfolio-four-column-wide.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 19 Sep 2025 20:59:26 GMT -->

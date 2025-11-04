@@ -1,0 +1,179 @@
+/* ============================================
+   CURRENCY SWITCHER (MXN/USD)
+   ============================================ */
+
+.currency-switcher {
+    position: fixed;
+    top: 70px; /* Below the language switcher */
+    right: 20px;
+    z-index: 9999;
+    background: rgba(255, 255, 255, 0.95);
+    border-radius: 25px;
+    padding: 4px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.15);
+    display: flex;
+    gap: 4px;
+    backdrop-filter: blur(10px);
+    transition: all 0.3s ease;
+}
+
+.currency-switcher:hover {
+    box-shadow: 0 6px 20px rgba(0, 0, 0, 0.2);
+}
+
+.currency-btn {
+    padding: 8px 16px;
+    border: none;
+    background: transparent;
+    color: #666;
+    font-size: 13px;
+    font-weight: 600;
+    cursor: pointer;
+    border-radius: 20px;
+    transition: all 0.3s ease;
+    letter-spacing: 0.5px;
+    font-family: 'Poppins', sans-serif;
+    text-transform: uppercase;
+}
+
+.currency-btn:hover {
+    color: #1a1a1a;
+    background: rgba(192, 181, 150, 0.2);
+}
+
+.currency-btn.active {
+    background: #c0b596;
+    color: #1a1a1a;
+    box-shadow: 0 2px 8px rgba(192, 181, 150, 0.4);
+}
+
+.currency-btn .sr-only {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    margin: -1px;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    white-space: nowrap;
+    border-width: 0;
+}
+
+/* Dark mode support */
+body.dark-mode .currency-switcher {
+    background: rgba(30, 30, 30, 0.95);
+}
+
+body.dark-mode .currency-btn {
+    color: #999;
+}
+
+body.dark-mode .currency-btn:hover {
+    color: #fff;
+    background: rgba(192, 181, 150, 0.15);
+}
+
+body.dark-mode .currency-btn.active {
+    background: #c0b596;
+    color: #1a1a1a;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+    .currency-switcher {
+        top: 120px; /* Adjust for mobile */
+        right: 15px;
+        padding: 3px;
+    }
+
+    .currency-btn {
+        padding: 6px 12px;
+        font-size: 12px;
+    }
+}
+
+/* Price Disclaimer */
+.price-disclaimer {
+    background: #fff9e6;
+    border-left: 4px solid #c0b596;
+    padding: 15px 20px;
+    margin: 30px 0;
+    border-radius: 6px;
+    font-size: 14px;
+    color: #666;
+    line-height: 1.8;
+    max-width: 100%;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+}
+
+.price-disclaimer strong {
+    color: #1a1a1a;
+    font-weight: 600;
+    display: inline;
+}
+
+.price-disclaimer .exchange-rate {
+    display: inline;
+    background: rgba(192, 181, 150, 0.3);
+    padding: 3px 10px;
+    border-radius: 4px;
+    font-weight: 600;
+    color: #1a1a1a;
+    margin: 0 4px;
+    white-space: nowrap;
+}
+
+.price-disclaimer .disclaimer-note {
+    display: block;
+    margin-top: 8px;
+    font-size: 12px;
+    color: #888;
+    font-style: italic;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+    .price-disclaimer {
+        padding: 12px 15px;
+        margin: 20px 0;
+        font-size: 13px;
+    }
+
+    .price-disclaimer .exchange-rate {
+        padding: 2px 8px;
+        font-size: 12px;
+    }
+
+    .price-disclaimer .disclaimer-note {
+        font-size: 11px;
+        margin-top: 6px;
+    }
+}
+
+/* Dark mode for disclaimer */
+body.dark-mode .price-disclaimer {
+    background: rgba(192, 181, 150, 0.1);
+    border-left-color: #c0b596;
+    color: #999;
+}
+
+body.dark-mode .price-disclaimer strong {
+    color: #fff;
+}
+
+body.dark-mode .price-disclaimer .exchange-rate {
+    background: rgba(192, 181, 150, 0.25);
+    color: #fff;
+}
+
+/* Loading animation for price change */
+.price-changing {
+    opacity: 0.5;
+    transition: opacity 0.2s ease;
+}
+
+/* Currency symbol styling */
+.currency-symbol {
+    font-weight: 600;
+    margin-right: 2px;
+}

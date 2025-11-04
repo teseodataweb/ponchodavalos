@@ -291,6 +291,10 @@
       "location": "Ubication:",
       "surface": "Surface:"
     },
+    "priceDisclaimer": {
+      "text": "Prices displayed are for reference only and subject to change. Exchange rate:",
+      "note": "Please contact us for the most current pricing and availability."
+    },
     "cta": {
       "title": "Didn't find what you're looking for? Let us help you.",
       "description": "Tell us what you have in mind and we'll help you discover the property that fits your lifestyle.",
@@ -326,6 +330,18 @@
       },
       "location": {
         "title": "Location"
+      },
+      "connectivity": {
+        "title": "Connectivity"
+      },
+      "buildingInfo": {
+        "title": "Building Information"
+      },
+      "hoaFee": {
+        "title": "HOA Fee Information"
+      },
+      "propertyDetails": {
+        "title": "Property Details"
       },
       "cta": {
         "title": "Ready to Visit This Property?",
