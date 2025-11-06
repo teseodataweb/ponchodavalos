@@ -32,6 +32,7 @@
     <link rel="stylesheet" href="css/woocommerce.css" />
     <link rel="stylesheet" href="css/testimonials_new.css">
     <link rel="stylesheet" href="css/royal-preload.css" />
+    <link rel="stylesheet" href="css/header-filtro.css">
 
     <link rel="stylesheet" href="style.css" />
     <link rel="stylesheet" href="css/i18n.css" />
@@ -39,6 +40,7 @@
     <link rel="stylesheet" type="text/css" href="plugins/revolution/revolution/css/settings.css">
     <!-- REVOLUTION NAVIGATION STYLE -->
     <link rel="stylesheet" type="text/css" href="plugins/revolution/revolution/css/navigation.css">
+    
 </head>
 
 <body class="royal_preloader">
@@ -286,9 +288,9 @@
                         <ul>
                         
                             <!-- SLIDE 1 -->
-                            <li data-index="rs-70" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="300"  data-thumb="images/slider/slider1-home1-1.jpg"  data-rotate="0"  data-saveperformance="off"  data-title="" data-param1="1" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
+                            <li class="header-filtro" data-index="rs-70" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="300"  data-thumb="images/slider/slider1-home1-1.jpg"  data-rotate="0"  data-saveperformance="off"  data-title="" data-param1="1" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
                                 <!-- MAIN IMAGE -->
-                                <img src="images/slider/slider1-home1-1.jpg" data-bgcolor='rgba(255,255,255,0)' style='' alt=""  data-bgposition="center center" data-bgfit="cover" class="rev-slidebg" data-bgrepeat="no-repeat" data-bgparallax="off" data-no-retina>
+                                <img src="images/page-header/ciudadHeader.jpg" data-bgcolor='rgba(255,255,255,0)' style='' alt=""  data-bgposition="center center" data-bgfit="cover" class="rev-slidebg header-filtro" data-bgrepeat="no-repeat" data-bgparallax="off" data-no-retina >
                                 
                                 <!-- LAYER 1  right image overlay dark-->
 
@@ -387,7 +389,7 @@
                             <!-- SLIDE 1 -->
                             <li data-index="rs-71" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="300"  data-thumb="images/slider/slider2-home1-1.jpg"  data-rotate="0"  data-saveperformance="off"  data-title="" data-param1="1" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
                                 <!-- MAIN IMAGE -->
-                                <img src="images/slider/slider2-home1-1.jpg" data-bgcolor='#ffffff' style='' alt=""  data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-bgparallax="off" data-no-retina>
+                                <img src="images/page-header/playaHead.jpg" data-bgcolor='#ffffff' style='' alt=""  data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg header-filtro" data-bgparallax="off" data-no-retina>
                                   
                                                             
                                 <!-- LAYER 3  Thin text title-->
@@ -482,7 +484,7 @@
                             <!-- SLIDE 1 -->
                             <li data-index="rs-72" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="300"  data-thumb="images/slider/slider3-home1-1.jpg"  data-rotate="0"  data-saveperformance="off"  data-title="" data-param1="1" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
                                 <!-- MAIN IMAGE -->
-                                <img src="images/slider/slider3-home1-1.jpg" data-bgcolor='#ffffff' style='' alt=""  data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-bgparallax="off" data-no-retina>
+                                <img src="images/page-header/panoramicaHead.jpg" data-bgcolor='#ffffff' style='' alt=""  data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg header-filtro" data-bgparallax="off" data-no-retina>
                                 
                                                             
                                 <!-- LAYER 3  Thin text title-->
@@ -591,24 +593,25 @@
 
             <section class="story-section">
   <div class="container">
-    <div class="story-wrapper">
+  <div class="story-wrapper">
 
-      <!-- Texto largo a la izquierda -->
-      <div class="story-text">
-        <p data-i18n="story.quote">"Even if you don't have a ready sketch of what you want – we will help you to get the result you dreamed of."</p>
-      </div>
-
-      <!-- Imagen y texto a la derecha -->
-      <div class="story-author">
-        <img src="images/fotodeperfil.jpeg" alt="Poncho Davalos">
-        <div class="story-info">
-          <h5 class="poncho-name" data-i18n="story.name">Poncho Davalos</h5>
-          <p class="story-role" data-i18n="story.role">Founder of Company</p>
-        </div>
-      </div>
-
+    <!-- Texto largo a la izquierda -->
+    <div class="story-text">
+      <p id="story-quote" data-i18n="story.quote">“I don’t just sell properties, I help you find the place where your life feels right.”</p>
     </div>
+
+    <!-- Imagen y texto a la derecha -->
+    <div class="story-author">
+      <img src="images/fotodeperfil.jpeg" alt="Poncho Davalos">
+      <div class="story-info">
+        <h5 class="poncho-name" data-i18n="story.name">Poncho Davalos</h5>
+        <p class="story-role" data-i18n="story.role">Founder of Company</p>
+      </div>
+    </div>
+
   </div>
+</div>
+
 </section>
 
 
@@ -902,7 +905,7 @@
           "I found the perfect home thanks to Poncho’s guidance. He understood exactly what I needed and handled everything with great care."
         </div>
         <div class="t-head">
-          <img src="images/testi1.png" alt="Fernanda López">
+          <img src="images/iconos_properties/pfp.png" alt="Fernanda López">
           <div class="tinfo">
             <h6>Fernanda López</h6>
             <span>Buyer from Guadalajara, Mexico</span>
@@ -916,7 +919,7 @@
           "Poncho made the process easy and transparent. His knowledge of Vallarta gave me total confidence from the first call to closing."
         </div>
         <div class="t-head">
-          <img src="images/testi2.png" alt="Michael Turner">
+          <img src="images/iconos_properties/pfp.png" alt="Michael Turner">
           <div class="tinfo">
             <h6>Michael Turner</h6>
             <span>Investor from California, USA</span>
@@ -930,7 +933,7 @@
           "Poncho offered excellent advice and strategy. His attention to detail helped me secure a property that truly fits my goals."
         </div>
         <div class="t-head">
-          <img src="images/testi3.png" alt="Mariana Torres">
+          <img src="images/iconos_properties/pfp.png" alt="Mariana Torres">
           <div class="tinfo">
             <h6>Mariana Torres</h6>
             <span>Investor from Mexico City, Mexico</span>
@@ -944,7 +947,7 @@
           "Selling my property was faster than expected. Poncho’s marketing and follow-up made all the difference."
         </div>
         <div class="t-head">
-          <img src="images/testi1.png" alt="Sofía Herrera">
+          <img src="images/iconos_properties/pfp.png" alt="Sofía Herrera">
           <div class="tinfo">
             <h6>Sofía Herrera</h6>
             <span>Seller from Monterrey, Mexico</span>
@@ -958,7 +961,7 @@
           "Relocating to Mexico felt effortless with Poncho’s help. His calm approach and professionalism made every step stress-free."
         </div>
         <div class="t-head">
-          <img src="images/testi2.png" alt="Thomas Reynolds">
+          <img src="images/iconos_properties/pfp.png" alt="Thomas Reynolds">
           <div class="tinfo">
             <h6>Thomas Reynolds</h6>
             <span>Buyer from Texas, USA</span>
@@ -972,7 +975,7 @@
           "From virtual tours to signing, everything was smooth. Poncho’s bilingual communication made the experience comfortable and easy."
         </div>
         <div class="t-head">
-          <img src="images/testi2.png" alt="David Miller">
+          <img src="images/iconos_properties/pfp.png" alt="David Miller">
           <div class="tinfo">
             <h6>David Miller</h6>
             <span>Buyer from Florida, USA</span>
@@ -1103,6 +1106,7 @@
     <script src="js/jquery.countdown.min.js"></script>
     <script src="js/scripts.js"></script>
     <script src="js/royal_preloader.min.js"></script>
+    <script src="js/text-carrusel.js"></script>
     <!-- REVOLUTION JS FILES -->
 
     <script  src="plugins/revolution/revolution/js/jquery.themepunch.tools.min.js"></script>
