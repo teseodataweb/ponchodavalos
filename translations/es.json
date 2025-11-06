@@ -3,7 +3,7 @@
     "home": "Inicio",
     "properties": "Propiedades",
     "about": "Nosotros",
-    "services": "Servicios",
+    "services1": "Servicios",
     "blog": "Blog",
     "contact": "Contacto",
     "services": {
@@ -58,6 +58,7 @@
     "role": "Fundador de la Empresa"
   },
   "portfolio": {
+    "propiedad":"Propiedad",
     "subtitle": "[ Algunos de Nuestros Trabajos y Casos de Éxito ]",
     "title": "Descubre Nuestros Listados Recientes y Destacados en Bienes Raíces",
     "description": "Descubre casas y condominios cuidadosamente seleccionados que combinan estilo de vida, comodidad y oportunidades de inversión.",
@@ -396,7 +397,12 @@
     "property12": {
       "tagline": "Tu estilo de vida soñado con vistas panorámicas al mar.",
       "description": "LISTING SE FIRMÓ EN MXN por: 3,700,000 MXN. El precio en USD está solo como referencia, la vendedora quiere MXN. Listo para mudarte: departamento de 2 habitaciones y 2 baños que se vende amueblado, ideal para vivir cómodo, invertir o rentar a corto y largo plazo. La ubicación es imbatible: a pasos de Costco y La Comer, y a solo 15 minutos del centro de Puerto Vallarta. Estás muy cerca del corredor gastronómico de Versalles, con cafeterías y restaurantes de moda."
+    },
+    "property13": {
+      "tagline": "Tu estilo de vida soñado con vistas panorámicas al mar.",
+      "description": "Bienvenido a La Perla, un exclusivo desarrollo boutique que ofrece residencias cuidadosamente diseñadas de 1 y 2 recámaras, cada una con terrazas privadas que muestran impresionantes vistas a la montaña y a la ciudad. Ubicado a solo unas cuadras de la playa y a minutos del bullicioso centro de Puerto Vallarta, La Perla te invita a experimentar la verdadera vida costera en su máxima expresión. Los residentes disfrutan de amenidades premium en la azotea, incluyendo una hermosa piscina con vistas panorámicas de la bahía, un área de parrilla y un espacio multipropósito para reuniones y relajación. Con estacionamiento reservado para cada unidad, La Perla es ideal tanto para quienes disfrutan explorar a pie como para aquellos que valoran la flexibilidad de tener un vehículo."
     }
+
   },
   "servicesDetail": {
     "service1": {
