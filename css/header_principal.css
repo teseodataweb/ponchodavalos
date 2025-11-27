@@ -1,0 +1,122 @@
+/* ============================================
+   HEADER CON FILTRO OSCURO Y SLIDER LIMPIO
+============================================ */
+
+.header-filtro {
+  position: relative;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 400px;
+  overflow: hidden;
+}
+
+.header-filtro::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.5);
+  z-index: 0;
+}
+
+.header-filtro img.rev-slidebg {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  filter: brightness(75%);
+  z-index: -1;
+}
+
+/* Capas de texto centradas sobre la imagen */
+.tp-caption {
+  position: relative;
+  z-index: 2;
+  color: #fff;
+  text-align: center;
+}
+
+.tp-caption-big {
+  font-size: 5rem;
+  font-weight: 900;
+  letter-spacing: 6px;
+  line-height: 1;
+}
+
+.tp-caption-main {
+  font-size: 2.5rem;
+  font-weight: 300;
+  margin-top: 1rem;
+}
+
+.tp-desc {
+  font-size: 1.1rem;
+  max-width: 800px;
+  margin: 1rem auto;
+  line-height: 1.6;
+  color: #f0f0f0;
+}
+
+/* Botón del slider */
+.rev-btn a,
+.octf-btn {
+  display: inline-block;
+  margin-top: 20px;
+  padding: 12px 32px;
+  background-color: #b8860b;
+  color: #fff;
+  text-transform: uppercase;
+  border-radius: 30px;
+  font-weight: 600;
+  letter-spacing: 1px;
+  transition: background-color 0.3s ease;
+}
+
+.rev-btn a:hover,
+.octf-btn:hover {
+  background-color: #a17508;
+}
+
+/* Responsividad para móviles */
+@media (max-width: 768px) {
+  .header-filtro {
+    height: 300px;
+  }
+
+  .tp-caption-big {
+    font-size: 2.5rem;
+    letter-spacing: 2px;
+  }
+
+  .tp-caption-main {
+    font-size: 1.3rem;
+  }
+
+  .tp-desc {
+    font-size: 0.9rem;
+    padding: 0 15px;
+  }
+
+  .rev-btn a {
+    font-size: 0.9rem;
+    padding: 10px 25px;
+  }
+}
+
+@media (max-width: 480px) {
+  .header-filtro {
+    height: 250px;
+  }
+
+  .tp-caption-big {
+    font-size: 1.8rem;
+  }
+
+  .tp-caption-main {
+    font-size: 1rem;
+  }
+
+  .tp-desc {
+    font-size: 0.85rem;
+  }
+}

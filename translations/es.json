@@ -3,7 +3,7 @@
     "home": "Inicio",
     "properties": "Propiedades",
     "about": "Nosotros",
-    "services": "Servicios",
+    "services1": "Servicios",
     "blog": "Blog",
     "contact": "Contacto",
     "services": {
@@ -58,6 +58,7 @@
     "role": "Fundador de la Empresa"
   },
   "portfolio": {
+    "propiedad":"Propiedad",
     "subtitle": "[ Algunos de Nuestros Trabajos y Casos de Éxito ]",
     "title": "Descubre Nuestros Listados Recientes y Destacados en Bienes Raíces",
     "description": "Descubre casas y condominios cuidadosamente seleccionados que combinan estilo de vida, comodidad y oportunidades de inversión.",
@@ -139,6 +140,22 @@
       "text": "Desde tours virtuales hasta la firma, todo fue fluido. La comunicación bilingüe de Poncho hizo la experiencia cómoda y fácil.",
       "name": "David Miller",
       "location": "Comprador de Florida, USA"
+    },
+    "client7": {
+      "text": "Poncho Dávalos me cuidó muy bien durante mi prolongada búsqueda de casa en Vallarta. Me presentó muchos vecindarios diferentes que podrían satisfacer mis necesidades para vivir a largo plazo. Encontramos un hermoso condominio en un vecindario muy agradable y transitable (5 de Diciembre). Me acompañó en todos los elementos de la inspección, negociación y compra. Todas mis preguntas fueron respondidas con paciencia y minuciosidad, haciendo que el proceso fuera lo más cómodo posible. ¡Gracias Poncho!",
+      "location": "Cliente"
+    },
+    "client8": {
+      "text": "Conocí a Poncho en 2019 cuando compré mi primer condominio en PV. Fue de gran ayuda guiándome a través de todo el proceso de comprar algo en México, lo cual era nuevo para mí. No solo se ha convertido en mi agente de bienes raíces de por vida, sino que también se ha convertido en mi amigo. Compré mi segundo condominio con Poncho en 2020 y lo he recomendado a todos mis amigos que están interesados en comprar en México. Es tanto agradable como conocedor y le estaré eternamente agradecido. ¡Gracias Poncho!",
+      "location": "Cliente"
+    },
+    "client9": {
+      "text": "Mi esposa y yo trabajamos con Poncho en el transcurso de un par de años para encontrar el vecindario, edificio y unidad exactos. Poncho trabajó de manera proactiva para ayudarnos a obtener información anticipada que nos permitió conseguir la unidad bajo contrato incluso antes de que saliera al mercado. Luego, Poncho nos guio en cada paso del proceso de compra, incluyendo un Poder Notarial en México (mi esposa no pudo asistir al cierre) y todos los aspectos del fideicomiso que se requería para la propiedad. Poncho continuó trabajando con nosotros incluso DESPUÉS de la compra para asegurarse de que nuestros servicios (electricidad, internet, etc.) fueran transferidos. ¡Ha sido un partner increíble en PV y esperamos usarlo nuevamente en nuestra próxima compra!",
+      "location": "Cliente"
+    },
+    "client10": {
+      "text": "Poncho me fue recomendado por uno de mis amigos para ayudarme a buscar un condominio en PV. Inicialmente trabajamos juntos por videollamadas y mensajes y me proporcionó una gran descripción general del proceso de compra en México, además de ayudarme a refinar mis criterios de búsqueda. Una vez que llegué a PV, organizó para que viera varias propiedades diferentes, incluyendo visitas repetidas a diferentes horas del día a algunas propiedades para que pudiera tomar la mejor decisión posible. Una vez que decidí, me ayudó con una oferta y asistió en las negociaciones para asegurar que consiguiera la propiedad de mis sueños a un buen precio. Lo que realmente hizo destacar a Poncho fue su ayuda incluso después de que la oferta fue aceptada; ha sido un gran recurso para ayudarme a conseguir las cosas que necesitaba para la instalación del apartamento y ha sido extremadamente servicial trabajando con algunos de los proveedores más difíciles para mantenerlos en el camino correcto. Ha sido un placer trabajar con Poncho y lo recomendaría ampliamente para cualquiera que busque su propio pedacito de paraíso en PV.",
+      "location": "Cliente"
     }
   },
   "cta": {
@@ -396,7 +413,12 @@
     "property12": {
       "tagline": "Tu estilo de vida soñado con vistas panorámicas al mar.",
       "description": "LISTING SE FIRMÓ EN MXN por: 3,700,000 MXN. El precio en USD está solo como referencia, la vendedora quiere MXN. Listo para mudarte: departamento de 2 habitaciones y 2 baños que se vende amueblado, ideal para vivir cómodo, invertir o rentar a corto y largo plazo. La ubicación es imbatible: a pasos de Costco y La Comer, y a solo 15 minutos del centro de Puerto Vallarta. Estás muy cerca del corredor gastronómico de Versalles, con cafeterías y restaurantes de moda."
+    },
+    "property13": {
+      "tagline": "Tu estilo de vida soñado con vistas panorámicas al mar.",
+      "description": "Bienvenido a La Perla, un exclusivo desarrollo boutique que ofrece residencias cuidadosamente diseñadas de 1 y 2 recámaras, cada una con terrazas privadas que muestran impresionantes vistas a la montaña y a la ciudad. Ubicado a solo unas cuadras de la playa y a minutos del bullicioso centro de Puerto Vallarta, La Perla te invita a experimentar la verdadera vida costera en su máxima expresión. Los residentes disfrutan de amenidades premium en la azotea, incluyendo una hermosa piscina con vistas panorámicas de la bahía, un área de parrilla y un espacio multipropósito para reuniones y relajación. Con estacionamiento reservado para cada unidad, La Perla es ideal tanto para quienes disfrutan explorar a pie como para aquellos que valoran la flexibilidad de tener un vehículo."
     }
+
   },
   "servicesDetail": {
     "service1": {
