@@ -60,6 +60,7 @@
 
     <link rel="stylesheet" href="style.css" />
     <link rel="stylesheet" href="css/i18n.css" />
+    <link rel="stylesheet" href="css/lead-form.css" />
     <!-- REVOLUTION SLIDER CSS -->
     <link
       rel="stylesheet"
@@ -1320,67 +1321,88 @@
             <div class="row justify-content-center">
               <div class="col-lg-4 col-md-6 col-sm-12">
                 <div
-                  class="icon-box icon-box--bg-img icon-box--icon-top icon-box--is-line-hover icon-bg-1 text-center"
+                  class="icon-box icon-box--bg-img icon-box--icon-top icon-box--is-line-hover icon-bg-1 text-center guide-download"
+                  data-guide="buyers-guide"
+                  role="button"
+                  tabindex="0"
                 >
                   <div class="icon-main">
                     <img src="images/iconos_properties/1.png" alt="" />
                   </div>
                   <div class="content-box">
                     <h5>
-                      <a
-                        href="servcies-detail-1.html"
-                        data-i18n="whyChoose.service1.title"
-                        >Boutique & Personalized Service</a
+                      <span data-i18n="whyChoose.service1.title"
+                        >Boutique & Personalized Service</span
                       >
                     </h5>
                     <p data-i18n="whyChoose.service1.description">
                       We focus on your lifestyle and investment goals with
                       tailor-made solutions.
                     </p>
+                    <div class="download-indicator">
+                      <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-4l-4 4m0 0l-4-4m4 4V4" />
+                      </svg>
+                      <span data-i18n="whyChoose.downloadGuide">Buyers Guide</span>
+                    </div>
                   </div>
                 </div>
               </div>
               <div class="col-lg-4 col-md-6 col-sm-12">
                 <div
-                  class="icon-box icon-box--bg-img icon-box--icon-top icon-box--is-line-hover icon-bg-2 text-center"
+                  class="icon-box icon-box--bg-img icon-box--icon-top icon-box--is-line-hover icon-bg-2 text-center guide-download"
+                  data-guide="sellers-guide"
+                  role="button"
+                  tabindex="0"
                 >
                   <div class="icon-main">
                     <img src="images/iconos_properties/2.png" alt="" />
                   </div>
                   <div class="content-box">
                     <h5>
-                      <a
-                        href="servcies-detail-1.html"
-                        data-i18n="whyChoose.service2.title"
-                        >Local Expertise, Global Vision</a
+                      <span data-i18n="whyChoose.service2.title"
+                        >Local Expertise, Global Vision</span
                       >
                     </h5>
                     <p data-i18n="whyChoose.service2.description">
                       We know Vallarta & Nayarit deeply, guiding international
                       buyers with trust and clarity.
                     </p>
+                    <div class="download-indicator">
+                      <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-4l-4 4m0 0l-4-4m4 4V4" />
+                      </svg>
+                      <span data-i18n="whyChoose.downloadGuide2">Sellers Guide</span>
+                    </div>
                   </div>
                 </div>
               </div>
               <div class="col-lg-4 col-md-6 col-sm-12">
                 <div
-                  class="icon-box icon-box--bg-img icon-box--icon-top icon-box--is-line-hover icon-bg-3 text-center"
+                  class="icon-box icon-box--bg-img icon-box--icon-top icon-box--is-line-hover icon-bg-3 text-center guide-download"
+                  data-guide="presale-guide"
+                  role="button"
+                  tabindex="0"
                 >
                   <div class="icon-main">
                     <img src="images/iconos_properties/3.png" alt="" />
                   </div>
                   <div class="content-box">
                     <h5>
-                      <a
-                        href="servcies-detail-1.html"
-                        data-i18n="whyChoose.service3.title"
-                        >Trust & Long-Term Relationships</a
+                      <span data-i18n="whyChoose.service3.title"
+                        >Trust & Long-Term Relationships</span
                       >
                     </h5>
                     <p data-i18n="whyChoose.service3.description">
                       We don't just close deals, we build lasting connections
                       based on honesty and care.
                     </p>
+                    <div class="download-indicator">
+                      <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-4l-4 4m0 0l-4-4m4 4V4" />
+                      </svg>
+                      <span data-i18n="whyChoose.downloadGuide3">Pre-Sale Guide</span>
+                    </div>
                   </div>
                 </div>
               </div>
@@ -1830,6 +1852,9 @@
 
     <!-- i18n SCRIPT -->
     <script src="js/i18n.js"></script>
+
+    <!-- Lead Form Script -->
+    <script src="js/lead-form.js"></script>
 
     <script>
       window.jQuery = window.$ = jQuery;

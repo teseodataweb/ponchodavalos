@@ -105,7 +105,31 @@
         "title": "Client Referrals",
         "description": "Built on trust and integrity."
       }
-    }
+    },
+    "downloadGuide": "Buyers Guide",
+    "downloadGuide2": "Sellers Guide",
+    "downloadGuide3": "Pre-Sale Guide"
+  },
+  "leadForm": {
+    "subtitle": "Complete the form to receive your free guide",
+    "name": "Full Name",
+    "namePlaceholder": "John Doe",
+    "email": "Email",
+    "emailPlaceholder": "john@example.com",
+    "phone": "Phone",
+    "phonePlaceholder": "+1 (555) 123-4567",
+    "interest": "Interest",
+    "selectOption": "Select an option",
+    "buying": "Buying a property",
+    "selling": "Selling a property",
+    "investing": "Investment opportunities",
+    "renting": "Renting",
+    "other": "Other",
+    "consent": "I agree to receive communications from Poncho Dávalos Real Estate.",
+    "submit": "Download Guide",
+    "successTitle": "Thank you!",
+    "successMessage": "Your guide is ready for download.",
+    "downloadBtn": "Download PDF"
   },
   "testimonials": {
     "subtitle": "[ testimonials ]",

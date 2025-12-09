@@ -106,7 +106,31 @@
         "title": "Referencias de Clientes",
         "description": "Construido sobre confianza e integridad."
       }
-    }
+    },
+    "downloadGuide": "Guía del Comprador",
+    "downloadGuide2": "Guía del Vendedor",
+    "downloadGuide3": "Guía de Preventa"
+  },
+  "leadForm": {
+    "subtitle": "Completa el formulario para recibir tu guía gratuita",
+    "name": "Nombre Completo",
+    "namePlaceholder": "Juan Pérez",
+    "email": "Correo Electrónico",
+    "emailPlaceholder": "juan@ejemplo.com",
+    "phone": "Teléfono",
+    "phonePlaceholder": "+52 (322) 123-4567",
+    "interest": "Interés",
+    "selectOption": "Selecciona una opción",
+    "buying": "Comprar una propiedad",
+    "selling": "Vender una propiedad",
+    "investing": "Oportunidades de inversión",
+    "renting": "Rentar",
+    "other": "Otro",
+    "consent": "Acepto recibir comunicaciones de Poncho Dávalos Real Estate.",
+    "submit": "Descargar Guía",
+    "successTitle": "¡Gracias!",
+    "successMessage": "Tu guía está lista para descargar.",
+    "downloadBtn": "Descargar PDF"
   },
   "testimonials": {
     "subtitle": "[ testimonios ]",
