@@ -30,6 +30,58 @@
 
     <link rel="stylesheet" href="style.css" />
     <link rel="stylesheet" href="css/i18n.css" />
+<style>
+    /* Fondo oscuro */
+#modal {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0,0,0,0.6);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    opacity: 0;
+    pointer-events: none;
+    transition: 0.3s;
+    z-index: 9999;
+}
+
+/* Mostrar */
+#modal.show {
+    opacity: 1;
+    pointer-events: auto;
+}
+
+/* Caja */
+#modal-box {
+    background: #fff;
+    padding: 30px;
+    max-width: 350px;
+    width: 90%;
+    border-radius: 10px;
+    text-align: center;
+    font-family: Arial, sans-serif;
+    box-shadow: 0 3px 15px rgba(0,0,0,0.3);
+}
+
+#modal-text {
+    font-size: 17px;
+    margin-bottom: 20px;
+}
+
+#modal-close {
+    background: #333;
+    color: #fff;
+    border: none;
+    padding: 8px 18px;
+    cursor: pointer;
+    border-radius: 5px;
+    font-size: 15px;
+}
+
+</style>
 </head>
 
 <body>
@@ -138,7 +190,7 @@
                                                     </li>
                                                 </ul>
                                             </li> -->
-                                            <li><a href="#">Blog</a></li>
+                                            <li><a href="https://ponchodavalosrealty.com/blog/">Blog</a></li>
                                             <!-- <li class="menu-item-has-children"><a href="blog.html">Blog</a>
                                                 <ul class="sub-menu">
                                                     <li><a href="blog.html">Blog Listing</a></li>
@@ -146,8 +198,13 @@
                                                     <li><a href="post.html">Blog Single</a></li>
                                                 </ul>
                                             </li> -->
-                                            <li class="current-menu-item"><a href="contact.html">Contacts</a></li>
-                                        </ul>
+ <li class="menu-item-has-children"><a href="contact.html" data-i18n="nav.contact" >Contacts</a>
+                                                <ul>
+                                                    <li>
+                                                        <a href="#" data-i18n="nav.meet">Meet the team</a>
+                                                    </li>
+                                                </ul>
+                                            </li>                                        </ul>
                                     </nav>
                                 </div>
                                 <div class="octf-col cta-col text-right no-padding">
@@ -435,7 +492,7 @@
     <div class="contact-left">
         <h2 data-i18n="contact.form.title">Get in Touch</h2>
         <p class="font14" data-i18n="contact.form.subtitle">We'd love to hear from you. Whether you're interested in buying, selling, or investing, our team is ready to assist.</p>
-        <form id="ajax-form" name="ajax-form" action="https://templates.thememodern.com/theratio/contact.php" method="post" class="wpcf7">
+        <form id="ajax-form" name="ajax-form" action="send_email.php" method="post" class="wpcf7">
             <div class="main-form">
                 <p>
                     <label for="name">
@@ -475,6 +532,13 @@
                 <div class="error" id="err-state"></div>
             </div>
         </form>
+        <div id="modal">
+    <div id="modal-box">
+        <div id="modal-text"></div>
+        <button id="modal-close">Cerrar</button>
+    </div>
+</div>
+
 
         <div class="clear"></div>
         <div id="ajaxsuccess" data-i18n="contact.form.successMessage">Successfully sent!</div>
@@ -494,7 +558,7 @@
             <i class="ot-flaticon-place"></i>
             <div class="info-text">
                 <h6 data-i18n="contact.info.addressTitle">OUR ADDRESS:</h6>
-                <p>Basilio Vadillo 405, Puerto Vallarta.</p>
+                <p>Basilio Badillo 405, Puerto Vallarta.</p>
             </div>
         </div>
 
@@ -651,6 +715,46 @@
                 background     :   '#1a1a1a',
             });
         })(jQuery);
+    </script>
+    <script>
+        document.getElementById("ajax-form").addEventListener("submit", function(e) {
+    e.preventDefault();
+
+    const form = this;
+    const formData = new FormData(form);
+
+    fetch("send_mail.php", {
+        method: "POST",
+        body: formData
+    })
+    .then(res => res.json())
+    .then(data => {
+
+        // Mostrar ventana emergente
+        const modal = document.getElementById("modal");
+        const modalText = document.getElementById("modal-text");
+
+        if (data.status === "success") {
+            modalText.textContent = "Tu mensaje se envió correctamente.";
+            form.reset(); // Limpiar campos
+        } else {
+            modalText.textContent = "Hubo un error al enviar el mensaje.";
+        }
+
+        modal.classList.add("show");
+
+        // Cerrar modal al dar clic
+        document.getElementById("modal-close").onclick = () => {
+            modal.classList.remove("show");
+        };
+    })
+    .catch(() => {
+        const modal = document.getElementById("modal");
+        document.getElementById("modal-text").textContent = "Error de conexión con el servidor.";
+        modal.classList.add("show");
+    });
+});
+
     </script>
 
     <!-- i18n SCRIPT -->
