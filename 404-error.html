@@ -2,12 +2,19 @@
 <html lang="en">
 
 
-<!-- Mirrored from templates.thememodern.com/theratio/404-error.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 19 Sep 2025 20:59:16 GMT -->
 <head>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-4EQE7MV2F7"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-4EQE7MV2F7');
+    </script>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
-    <title>Theratio</title>
+    <title>Página No Encontrada | Poncho Dávalos Real Estate</title>
     <link rel="shortcut icon" type="image/x-icon" href="images/favicon.png" />
     <link rel="stylesheet" href="css/bootstrap.min.css" />
     <link rel="stylesheet" href="css/font-awesome.min.css" />
@@ -16,14 +23,22 @@
     <link rel="stylesheet" href="css/owl.theme.css" />
     <link rel="stylesheet" href="css/magnific-popup.css" />
     <link rel="stylesheet" href="css/lightgallery.css" />
-    <link rel="stylesheet" href="css/woocommerce.css" />
     <link rel="stylesheet" href="css/royal-preload.css" />
 
     <link rel="stylesheet" href="style.css" />
-</head>
+    <link rel="stylesheet" href="css/i18n.css" />
+    <link rel="canonical" href="https://ponchodavalos.com.mx/404-error.html" />
+  </head>
 
 <body>
     <div id="royal_preloader"></div>
+
+    <!-- Language Switcher -->
+    <div class="lang-switcher" role="group" aria-label="Language selector">
+        <button class="lang-btn active" data-lang="en" aria-label="English">EN</button>
+        <button class="lang-btn" data-lang="es" aria-label="Español">ES</button>
+    </div>
+
     <section class="error-404">
         <div class="container">
             <div class="row justify-content-center">
@@ -31,20 +46,20 @@
                     <div class="error-logo">
                         <div class="the-logo">
                             <a href="index.html">
-                                <img src="images/logo-404.svg" alt="">
+                                <img src="images/logo.svg" alt="Poncho Dávalos Real Estate">
                             </a>
                         </div>
                     </div>
                     <div class="page-content">
                         <h1>404</h1>
-                        <h2>Sorry! Page Not Found!</h2>
-                        <p>Oops! The page you are looking for does not exist. Please return to the site’s homepage.</p>
+                        <h2 data-i18n="error404.title">Sorry! Page Not Found!</h2>
+                        <p data-i18n="error404.message">Oops! The page you are looking for does not exist. Please return to the site's homepage.</p>
                         <form role="search" method="get" class="search-form">
-                            <input type="search" class="search-field" placeholder="SEARCH..." value="" name="s">
+                            <input type="search" class="search-field" placeholder="SEARCH..." value="" name="s" data-i18n="error404.searchPlaceholder" data-i18n-placeholder>
                             <button type="submit" class="search-submit"><i class="ot-flaticon-search"></i></button>
                         </form>
                         <div class="ot-button">
-                            <a href="#" class="octf-btn octf-btn-light no-line">TAKE ME HOME</a>
+                            <a href="index.html" class="octf-btn octf-btn-light no-line" data-i18n="error404.button">TAKE ME HOME</a>
                         </div>
                     </div>
                 </div>
@@ -61,6 +76,7 @@
     <script src="js/easypiechart.min.js"></script>
     <script src="js/jquery.countdown.min.js"></script>
     <script src="js/scripts.js"></script>
+    <script src="js/i18n.js"></script>
     <script src="js/royal_preloader.min.js"></script>
     <script>
         window.jQuery = window.$ = jQuery;  
@@ -74,5 +90,4 @@
     </script>  
 </body>
 
-<!-- Mirrored from templates.thememodern.com/theratio/404-error.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 19 Sep 2025 20:59:16 GMT -->
 </html>

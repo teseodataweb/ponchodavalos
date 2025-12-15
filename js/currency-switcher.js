@@ -24,7 +24,7 @@
         rateLastUpdated: null,
 
         init: async function() {
-            console.log('[Currency Switcher] Initializing...');
+            //console.log('[Currency Switcher] Initializing...');
 
             // Fetch exchange rate from API
             await this.fetchExchangeRate();
@@ -41,8 +41,8 @@
             // Update active button state
             this.updateButtonStates();
 
-            console.log('[Currency Switcher] Initialized with currency:', this.currentCurrency);
-            console.log('[Currency Switcher] Exchange rate (USD to MXN):', EXCHANGE_RATE);
+            //console.log('[Currency Switcher] Initialized with currency:', this.currentCurrency);
+            //console.log('[Currency Switcher] Exchange rate (USD to MXN):', EXCHANGE_RATE);
         },
 
         fetchExchangeRate: async function() {
@@ -52,12 +52,12 @@
                 if (cachedData) {
                     EXCHANGE_RATE = cachedData.rate;
                     this.rateLastUpdated = new Date(cachedData.timestamp);
-                    console.log('[Currency Switcher] Using cached exchange rate:', EXCHANGE_RATE);
+                    //console.log('[Currency Switcher] Using cached exchange rate:', EXCHANGE_RATE);
                     return;
                 }
 
                 // Fetch from API
-                console.log('[Currency Switcher] Fetching exchange rate from API...');
+                //console.log('[Currency Switcher] Fetching exchange rate from API...');
                 const response = await fetch(EXCHANGE_RATE_API);
 
                 if (!response.ok) {
@@ -74,14 +74,14 @@
                     // Cache the rate
                     this.cacheRate(EXCHANGE_RATE);
 
-                    console.log('[Currency Switcher] ✓ Exchange rate fetched successfully:', EXCHANGE_RATE);
+                    //console.log('[Currency Switcher] ✓ Exchange rate fetched successfully:', EXCHANGE_RATE);
                 } else {
                     throw new Error('MXN rate not found in API response');
                 }
 
             } catch (error) {
                 console.warn('[Currency Switcher] Failed to fetch exchange rate:', error.message);
-                console.log('[Currency Switcher] Using fallback rate:', FALLBACK_RATE);
+                //console.log('[Currency Switcher] Using fallback rate:', FALLBACK_RATE);
                 EXCHANGE_RATE = FALLBACK_RATE;
                 this.rateLastUpdated = new Date();
             }
@@ -117,7 +117,7 @@
                     timestamp: Date.now()
                 };
                 localStorage.setItem('exchangeRateCache', JSON.stringify(cacheData));
-                console.log('[Currency Switcher] Exchange rate cached for 24 hours');
+                //console.log('[Currency Switcher] Exchange rate cached for 24 hours');
             } catch (error) {
                 console.error('[Currency Switcher] Error caching rate:', error);
             }
@@ -146,7 +146,7 @@
         changeCurrency: function(currency) {
             if (this.currentCurrency === currency) return;
 
-            console.log('[Currency Switcher] Changing currency from', this.currentCurrency, 'to', currency);
+            //console.log('[Currency Switcher] Changing currency from', this.currentCurrency, 'to', currency);
 
             this.currentCurrency = currency;
             localStorage.setItem('preferredCurrency', currency);
@@ -287,7 +287,7 @@
 
     // Listen for language changes to update disclaimer text and time ago
     window.addEventListener('languageChanged', function(e) {
-        console.log('[Currency Switcher] Language changed to', e.detail.language);
+        //console.log('[Currency Switcher] Language changed to', e.detail.language);
         // Update the time ago text in the disclaimer
         if (CurrencySwitcher.rateLastUpdated) {
             CurrencySwitcher.updateDisclaimerRate();

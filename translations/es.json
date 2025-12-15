@@ -1,4 +1,7 @@
 {
+  "home": {
+    "h1": "Poncho Dávalos Real Estate - Propiedades de Lujo en Puerto Vallarta y Riviera Nayarit"
+  },
   "nav": {
     "home": "Inicio",
     "properties": "Propiedades",
@@ -506,5 +509,11 @@
       "description1": "Proporcionamos reportes de mercado y estudios de plusvalía de propiedades para que puedas tomar decisiones estratégicas al invertir, comprar o vender en Puerto Vallarta y la región.",
       "description2": "Con herramientas de análisis inmobiliario, identificamos las mejores oportunidades y las zonas con mayor crecimiento. De esta manera, cada decisión está respaldada por información precisa y actualizada."
     }
+  },
+  "error404": {
+    "title": "¡Lo sentimos! Página No Encontrada",
+    "message": "¡Ups! La página que buscas no existe. Por favor regresa a la página principal del sitio.",
+    "searchPlaceholder": "BUSCAR...",
+    "button": "VOLVER AL INICIO"
   }
 }

@@ -1,12 +1,15 @@
 {
+  "home": {
+    "h1": "Poncho Dávalos Real Estate - Luxury Properties in Puerto Vallarta & Riviera Nayarit"
+  },
   "nav": {
     "home": "Home",
     "properties": "Properties",
     "about": "About Us",
-    "services": "Services",
+    "services1": "Services",
     "blog": "Blog",
     "contact": "Contacts",
-    "meet":"Meet the team",
+    "meet": "Meet the team",
     "services": {
       "comprehensive": "Comprehensive Advisory",
       "investment": "Investment for Foreign Buyers",
@@ -164,6 +167,22 @@
       "text": "From virtual tours to signing, everything was smooth. Poncho's bilingual communication made the experience comfortable and easy.",
       "name": "David Miller",
       "location": "Buyer from Florida, USA"
+    },
+    "client7": {
+      "text": "Poncho Dávalos took great care of me during my extended house hunting in Vallarta. He introduced me to many different neighborhoods that could meet my needs for long-term living. We found a beautiful condo in a very nice, walkable neighborhood (5 de Diciembre). He accompanied me through all elements of inspection, negotiation, and purchase. All my questions were answered patiently and thoroughly, making the process as comfortable as possible. Thank you Poncho!",
+      "location": "Client"
+    },
+    "client8": {
+      "text": "I met Poncho in 2019 when I bought my first condo in PV. He was very helpful guiding me through the whole process of buying something in Mexico, which was new to me. Not only has he become my lifetime real estate agent, but he has also become my friend. I bought my second condo with Poncho in 2020 and have recommended him to all my friends interested in buying in Mexico. He is both pleasant and knowledgeable and I will be eternally grateful. Thank you Poncho!",
+      "location": "Client"
+    },
+    "client9": {
+      "text": "My wife and I worked with Poncho over the course of a couple of years to find the exact neighborhood, building, and unit. Poncho proactively worked to help us get early information that allowed us to get the unit under contract even before it hit the market. Poncho then guided us through every step of the purchase process, including a Power of Attorney in Mexico (my wife couldn't attend closing) and all aspects of the fideicomiso required for the property. Poncho continued working with us even AFTER the purchase to ensure our utilities (electricity, internet, etc.) were transferred. He's been an incredible partner in PV and we look forward to using him again on our next purchase!",
+      "location": "Client"
+    },
+    "client10": {
+      "text": "Poncho was recommended to me by a friend to help me search for a condo in PV. We initially worked together via video calls and messages, and he provided me with a great overview of the buying process in Mexico, plus helped me refine my search criteria. Once I arrived in PV, he arranged for me to see several different properties, including repeat visits at different times of day to some properties so I could make the best possible decision. Once I decided, he helped me with an offer and assisted in negotiations to ensure I got my dream property at a good price. What really made Poncho stand out was his help even after the offer was accepted; he's been a great resource helping me get the things I needed for apartment setup and has been extremely helpful working with some of the more difficult vendors to keep them on track. It's been a pleasure working with Poncho and I would highly recommend him to anyone looking for their own little piece of paradise in PV.",
+      "location": "Client"
     }
   },
   "cta": {
@@ -421,6 +440,10 @@
     "property12": {
       "tagline": "Your dream lifestyle with panoramic ocean views.",
       "description": "LISTING WAS SIGNED IN MXN for: 3,700,000 MXN. The price in USD is just for reference, the seller wants MXN. Ready to move in: 2 bedroom, 2 bathroom apartment sold furnished, ideal for comfortable living, investing or short and long term rental. The location is unbeatable: steps from Costco and La Comer, and just 15 minutes from downtown Puerto Vallarta. You are very close to the gastronomic corridor of Versailles, with trendy cafes and restaurants."
+    },
+    "property13": {
+      "tagline": "Exclusive boutique development in the heart of Puerto Vallarta.",
+      "description": "Welcome to La Perla, an exclusive boutique development featuring thoughtfully designed 1- and 2-bedroom residences, each with private terraces showcasing stunning mountain and city views. Located just a few blocks from the beach and minutes from Puerto Vallarta's bustling downtown, La Perla invites you to experience true coastal living at its finest. Exceptional amenities in a thriving community. At La Perla, residents enjoy premium rooftop amenities, including a beautiful pool with panoramic bay views, a barbecue area, and a multipurpose space for gatherings and relaxation. With reserved parking for each unit, La Perla is ideal for those who love to explore on foot and those who enjoy the flexibility of having a vehicle."
     }
   },
   "servicesDetail": {
@@ -484,5 +507,11 @@
       "description1": "We provide market reports and property appreciation studies so you can make strategic decisions when investing, buying, or selling in Puerto Vallarta and the region.",
       "description2": "With real estate analysis tools, we identify the best opportunities and the areas with the highest growth. This way, every decision is backed by accurate and up-to-date information."
     }
+  },
+  "error404": {
+    "title": "Sorry! Page Not Found!",
+    "message": "Oops! The page you are looking for does not exist. Please return to the site's homepage.",
+    "searchPlaceholder": "SEARCH...",
+    "button": "TAKE ME HOME"
   }
 }

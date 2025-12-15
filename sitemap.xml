@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <!-- PÁGINA PRINCIPAL -->
+  <url>
+    <loc>https://ponchodavalos.com.mx/index.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ponchodavalos.com.mx/index.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://ponchodavalos.com.mx/es/index.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ponchodavalos.com.mx/index.html"/>
+    <lastmod>2025-12-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- ABOUT US -->
+  <url>
+    <loc>https://ponchodavalos.com.mx/about-us.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ponchodavalos.com.mx/about-us.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://ponchodavalos.com.mx/es/about-us.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ponchodavalos.com.mx/about-us.html"/>
+    <lastmod>2025-12-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- CONTACT -->
+  <url>
+    <loc>https://ponchodavalos.com.mx/contact.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ponchodavalos.com.mx/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://ponchodavalos.com.mx/es/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ponchodavalos.com.mx/contact.html"/>
+    <lastmod>2025-12-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- PORTFOLIO / PROPERTIES LISTING -->
+  <url>
+    <loc>https://ponchodavalos.com.mx/portfolio-four-column-wide.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ponchodavalos.com.mx/portfolio-four-column-wide.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://ponchodavalos.com.mx/es/portfolio-four-column-wide.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ponchodavalos.com.mx/portfolio-four-column-wide.html"/>
+    <lastmod>2025-12-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- PROPIEDAD 1: Altomar C6 -->
+  <url>
+    <loc>https://ponchodavalos.com.mx/property-1.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ponchodavalos.com.mx/property-1.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://ponchodavalos.com.mx/es/property-1.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ponchodavalos.com.mx/property-1.html"/>
+    <lastmod>2025-12-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- PROPIEDAD 2: Indah 3B -->
+  <url>
+    <loc>https://ponchodavalos.com.mx/property-2.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ponchodavalos.com.mx/property-2.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://ponchodavalos.com.mx/es/property-2.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ponchodavalos.com.mx/property-2.html"/>
+    <lastmod>2025-12-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- PROPIEDAD 3: Amapas B11 -->
+  <url>
+    <loc>https://ponchodavalos.com.mx/property-3.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ponchodavalos.com.mx/property-3.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://ponchodavalos.com.mx/es/property-3.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ponchodavalos.com.mx/property-3.html"/>
+    <lastmod>2025-12-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- PROPIEDAD 4: Coras Living D3 -->
+  <url>
+    <loc>https://ponchodavalos.com.mx/property-4.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ponchodavalos.com.mx/property-4.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://ponchodavalos.com.mx/es/property-4.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ponchodavalos.com.mx/property-4.html"/>
+    <lastmod>2025-12-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- PROPIEDAD 5: Coras Living D4 -->
+  <url>
+    <loc>https://ponchodavalos.com.mx/property-5.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ponchodavalos.com.mx/property-5.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://ponchodavalos.com.mx/es/property-5.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ponchodavalos.com.mx/property-5.html"/>
+    <lastmod>2025-12-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- PROPIEDAD 6: Altomar B3 -->
+  <url>
+    <loc>https://ponchodavalos.com.mx/property-6.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ponchodavalos.com.mx/property-6.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://ponchodavalos.com.mx/es/property-6.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ponchodavalos.com.mx/property-6.html"/>
+    <lastmod>2025-12-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- PROPIEDAD 7: Palm Springs 353 -->
+  <url>
+    <loc>https://ponchodavalos.com.mx/property-7.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ponchodavalos.com.mx/property-7.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://ponchodavalos.com.mx/es/property-7.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ponchodavalos.com.mx/property-7.html"/>
+    <lastmod>2025-12-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- PROPIEDAD 8: Altomar A6 -->
+  <url>
+    <loc>https://ponchodavalos.com.mx/property-8.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ponchodavalos.com.mx/property-8.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://ponchodavalos.com.mx/es/property-8.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ponchodavalos.com.mx/property-8.html"/>
+    <lastmod>2025-12-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- PROPIEDAD 9: Urban 3A -->
+  <url>
+    <loc>https://ponchodavalos.com.mx/property-9.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ponchodavalos.com.mx/property-9.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://ponchodavalos.com.mx/es/property-9.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ponchodavalos.com.mx/property-9.html"/>
+    <lastmod>2025-12-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- PROPIEDAD 10: Pavilion 309 -->
+  <url>
+    <loc>https://ponchodavalos.com.mx/property-10.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ponchodavalos.com.mx/property-10.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://ponchodavalos.com.mx/es/property-10.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ponchodavalos.com.mx/property-10.html"/>
+    <lastmod>2025-12-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- PROPIEDAD 11: Casa Corona -->
+  <url>
+    <loc>https://ponchodavalos.com.mx/property-11.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ponchodavalos.com.mx/property-11.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://ponchodavalos.com.mx/es/property-11.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ponchodavalos.com.mx/property-11.html"/>
+    <lastmod>2025-12-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- PROPIEDAD 12: Los Mangos A7 -->
+  <url>
+    <loc>https://ponchodavalos.com.mx/property-12.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ponchodavalos.com.mx/property-12.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://ponchodavalos.com.mx/es/property-12.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ponchodavalos.com.mx/property-12.html"/>
+    <lastmod>2025-12-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- PROPIEDAD 13: La Perla -->
+  <url>
+    <loc>https://ponchodavalos.com.mx/property-13.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ponchodavalos.com.mx/property-13.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://ponchodavalos.com.mx/es/property-13.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ponchodavalos.com.mx/property-13.html"/>
+    <lastmod>2025-12-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- SERVICIO 1: Comprehensive Advisory -->
+  <url>
+    <loc>https://ponchodavalos.com.mx/services-detail-1.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ponchodavalos.com.mx/services-detail-1.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://ponchodavalos.com.mx/es/services-detail-1.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ponchodavalos.com.mx/services-detail-1.html"/>
+    <lastmod>2025-12-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- SERVICIO 2: Foreign Buyer Investment -->
+  <url>
+    <loc>https://ponchodavalos.com.mx/services-detail-2.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ponchodavalos.com.mx/services-detail-2.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://ponchodavalos.com.mx/es/services-detail-2.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ponchodavalos.com.mx/services-detail-2.html"/>
+    <lastmod>2025-12-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- SERVICIO 3: Second Home Acquisition -->
+  <url>
+    <loc>https://ponchodavalos.com.mx/services-detail-3.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ponchodavalos.com.mx/services-detail-3.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://ponchodavalos.com.mx/es/services-detail-3.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ponchodavalos.com.mx/services-detail-3.html"/>
+    <lastmod>2025-12-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- SERVICIO 4: Premium Property Sales -->
+  <url>
+    <loc>https://ponchodavalos.com.mx/services-detail-4.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ponchodavalos.com.mx/services-detail-4.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://ponchodavalos.com.mx/es/services-detail-4.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ponchodavalos.com.mx/services-detail-4.html"/>
+    <lastmod>2025-12-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- SERVICIO 5: Legal & Transaction -->
+  <url>
+    <loc>https://ponchodavalos.com.mx/services-detail-5.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ponchodavalos.com.mx/services-detail-5.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://ponchodavalos.com.mx/es/services-detail-5.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ponchodavalos.com.mx/services-detail-5.html"/>
+    <lastmod>2025-12-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- SERVICIO 6: Market Analysis -->
+  <url>
+    <loc>https://ponchodavalos.com.mx/services-detail-6.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ponchodavalos.com.mx/services-detail-6.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://ponchodavalos.com.mx/es/services-detail-6.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ponchodavalos.com.mx/services-detail-6.html"/>
+    <lastmod>2025-12-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- 404 ERROR PAGE -->
+  <url>
+    <loc>https://ponchodavalos.com.mx/404-error.html</loc>
+    <lastmod>2025-12-14</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.1</priority>
+  </url>
+
+</urlset>

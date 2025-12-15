@@ -1,0 +1,81 @@
+# robots.txt para Poncho Dávalos Real Estate
+# https://ponchodavalos.com.mx
+# Actualizado: Diciembre 2025
+
+User-agent: *
+
+# Permitir indexación general
+Allow: /
+
+# Bloquear archivos basura en carpetas de assets
+Disallow: /css/*.html
+Disallow: /images/*.html
+Disallow: /img/*.html
+Disallow: /plugins/
+
+# Bloquear parámetros de URL
+Disallow: /*?*
+Disallow: /*.json$
+
+# Bloquear páginas de desarrollo/template no usadas
+Disallow: /elements.html
+Disallow: /hidden-1.html
+Disallow: /hidden-2.html
+Disallow: /hidden-overlay-info.html
+Disallow: /image-scale.html
+Disallow: /index-dark.html
+Disallow: /index-html.html
+Disallow: /portfolio-detail-slider.html
+Disallow: /portfolio-five-column-wide.html
+Disallow: /portfolio-details-1.html
+Disallow: /portfolio-details-2.html
+Disallow: /portfolio-details-3.html
+Disallow: /portfolio-details-4.html
+
+# Permitir explícitamente páginas importantes
+Allow: /index.html
+Allow: /about-us.html
+Allow: /contact.html
+Allow: /portfolio-four-column-wide.html
+Allow: /property-1.html
+Allow: /property-2.html
+Allow: /property-3.html
+Allow: /property-4.html
+Allow: /property-5.html
+Allow: /property-6.html
+Allow: /property-7.html
+Allow: /property-8.html
+Allow: /property-9.html
+Allow: /property-10.html
+Allow: /property-11.html
+Allow: /property-12.html
+Allow: /property-13.html
+Allow: /services-detail-1.html
+Allow: /services-detail-2.html
+Allow: /services-detail-3.html
+Allow: /services-detail-4.html
+Allow: /services-detail-5.html
+Allow: /services-detail-6.html
+Allow: /404-error.html
+
+# Permitir assets necesarios para renderizado
+Allow: /css/
+Allow: /js/
+Allow: /images/
+Allow: /fonts/
+
+# Crawl-delay
+Crawl-delay: 1
+
+# Sitemap
+Sitemap: https://ponchodavalos.com.mx/sitemap.xml
+
+# Googlebot específico
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 0
+
+# Bingbot
+User-agent: Bingbot
+Allow: /
+Crawl-delay: 2

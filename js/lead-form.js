@@ -272,7 +272,7 @@
         await sendToGoogleSheets(formData);
       } else {
         // Demo mode - simulate network delay
-        console.log('Demo mode - Form data:', formData);
+        //console.log('Demo mode - Form data:', formData);
         await new Promise(resolve => setTimeout(resolve, 1000));
       }
 
