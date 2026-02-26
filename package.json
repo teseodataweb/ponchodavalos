@@ -1,0 +1,20 @@
+{
+  "name": "ponchodavalos-mls",
+  "version": "1.0.0",
+  "description": "MLS build system for Poncho Dávalos Real Estate",
+  "private": true,
+  "scripts": {
+    "build": "node src/build/index.js",
+    "build:live": "USE_MOCK_DATA=false node src/build/index.js",
+    "clean": "node -e \"const fs=require('fs-extra'); fs.removeSync('mls'); fs.removeSync('images/mls'); console.log('Cleaned mls/ and images/mls/');\""
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "handlebars": "^4.7.8",
+    "fs-extra": "^11.2.0",
+    "sharp": "^0.33.0",
+    "node-fetch": "^2.7.0"
+  }
+}

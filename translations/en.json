@@ -444,6 +444,54 @@
     "property13": {
       "tagline": "Exclusive boutique development in the heart of Puerto Vallarta.",
       "description": "Welcome to La Perla, an exclusive boutique development featuring thoughtfully designed 1- and 2-bedroom residences, each with private terraces showcasing stunning mountain and city views. Located just a few blocks from the beach and minutes from Puerto Vallarta's bustling downtown, La Perla invites you to experience true coastal living at its finest. Exceptional amenities in a thriving community. At La Perla, residents enjoy premium rooftop amenities, including a beautiful pool with panoramic bay views, a barbecue area, and a multipurpose space for gatherings and relaxation. With reserved parking for each unit, La Perla is ideal for those who love to explore on foot and those who enjoy the flexibility of having a vehicle."
+    },
+    "mls_mlv-10001": {
+      "tagline": "Condominium in Puerto Vallarta — 3 bed, 3 bath, 185 m²",
+      "description": "Stunning penthouse in Marina Vallarta with breathtaking ocean and marina views. This 3-bedroom gem features floor-to-ceiling windows, Italian marble floors, gourmet kitchen with Wolf appliances, and a private rooftop terrace with jacuzzi. Building amenities include infinity pool, fitness center, concierge, and 24/7 security. Steps from the Marina boardwalk with world-class dining and shopping."
+    },
+    "mls_mlv-10002": {
+      "tagline": "Condominium in Puerto Vallarta — 2 bed, 2 bath, 110 m²",
+      "description": "Modern 2-bedroom condo in the heart of Zona Romántica, Puerto Vallarta's most sought-after neighborhood. Open-concept living with contemporary finishes, quartz countertops, and a spacious balcony overlooking the vibrant street life below. Walking distance to Los Muertos Beach, galleries, restaurants, and nightlife. Ideal for vacation rental with proven income history."
+    },
+    "mls_mlv-10003": {
+      "tagline": "Single Family Residence in Puerto Vallarta — 4 bed, 4 bath, 320 m²",
+      "description": "Magnificent hillside villa in prestigious Conchas Chinas with panoramic Banderas Bay views. This 4-bedroom residence features an infinity pool, lush tropical gardens, chef's kitchen, home theater, and multiple terraces for entertaining. The master suite includes a spa bathroom and private balcony. Smart home technology throughout. Gated community with 24-hour security."
+    },
+    "mls_mlv-10004": {
+      "tagline": "Condominium in Puerto Vallarta — 1 bed, 1 bath, 65 m²",
+      "description": "Efficient 1-bedroom condo in the Hotel Zone, perfect for investors seeking strong rental returns. Features modern finishes, air conditioning, and a balcony with city views. Building offers pool, gym, and rooftop common area. Excellent location near major hotels, restaurants, and Walmart. Low maintenance fees."
+    },
+    "mls_mlv-10005": {
+      "tagline": "Condominium in Puerto Vallarta — 3 bed, 3 bath, 195 m²",
+      "description": "Luxurious 3-bedroom penthouse in the exclusive Amapas neighborhood with unobstructed views of Banderas Bay. Features include an open floor plan, designer finishes, private plunge pool on the terrace, wine cellar, and smart home system. The building offers a rooftop infinity pool, gym, and concierge service. Prime location above Los Muertos Beach."
+    },
+    "mls_mlv-10006": {
+      "tagline": "Condominium in Puerto Vallarta — 1 bed, 1 bath, 52 m²",
+      "description": "Brand new studio-style 1-bedroom in the booming 5 de Diciembre neighborhood. Modern design with high ceilings, polished concrete floors, and a compact but functional kitchen. Perfect entry-level investment in PV's fastest-growing area. Minutes from the Malecón and downtown. Building features rooftop pool and common area."
+    },
+    "mls_mlv-10007": {
+      "tagline": "Single Family Residence in Puerto Vallarta — 5 bed, 5 bath, 480 m²",
+      "description": "Spectacular estate in Sierra del Mar with 180-degree ocean views. This 5-bedroom luxury home features a dramatic double-height living room, custom woodwork, infinity pool with swim-up bar, outdoor kitchen, and landscaped gardens. Separate guest casita. Full smart home automation. Located in a prestigious gated community with tennis courts and clubhouse."
+    },
+    "mls_mlv-10008": {
+      "tagline": "Condominium in Puerto Vallarta — 2 bed, 2 bath, 130 m²",
+      "description": "Bright penthouse in the modern Fluvial Vallarta district. This 2-bedroom unit features a private rooftop with BBQ area, open-concept living and dining, floor-to-ceiling windows, and high-end finishes. Close to shopping centers, international restaurants, and the Hotel Zone. Great for families or remote workers seeking a comfortable urban lifestyle."
+    },
+    "mls_mlv-10009": {
+      "tagline": "Condominium in Puerto Vallarta — 1 bed, 2 bath, 78 m²",
+      "description": "Charming 1-bedroom condo on the famous Basilio Badillo street in Emiliano Zapata. Features a modern open layout, custom closets, and a terrace perfect for morning coffee. The neighborhood is known for its art galleries, boutique shops, and weekend art walk. Pool and common terrace on the rooftop. Excellent rental potential."
+    },
+    "mls_mlv-10010": {
+      "tagline": "Condominium in Nuevo Vallarta — 3 bed, 3 bath, 210 m²",
+      "description": "Beachfront 3-bedroom luxury condo in Nuevo Vallarta's premier tower. Direct beach access, resort-style amenities including multiple pools, spa, restaurant, and kids club. Spacious layout with marble floors, granite counters, and floor-to-ceiling ocean views from every room. Includes deeded beach club membership. HOA includes all utilities."
+    },
+    "mls_mlv-10011": {
+      "tagline": "Condominium in Puerto Vallarta — 2 bed, 1 bath, 85 m²",
+      "description": "Well-maintained 2-bedroom condo in Versalles, a popular residential neighborhood among locals and expats. Practical layout with ample storage, covered parking, and a shared garden area. Close to Costco, Sam's Club, hospitals, and schools. Great value for full-time residents or long-term rental. Quiet, family-friendly building."
+    },
+    "mls_mlv-10012": {
+      "tagline": "Condominium in Puerto Vallarta — 2 bed, 2 bath, 145 m²",
+      "description": "Brand new penthouse on Calle Pulpito in the heart of Zona Romántica. This 2-bedroom unit features a stunning private rooftop with plunge pool and 360-degree views of the mountains and ocean. Modern industrial design with exposed brick, designer lighting, and premium appliances. Steps from the Pier of Los Muertos and the best restaurants in town."
     }
   },
   "servicesDetail": {

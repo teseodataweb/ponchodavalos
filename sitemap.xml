@@ -263,4 +263,139 @@
     <priority>0.1</priority>
   </url>
 
+
+  <!-- MLS-SITEMAP-START -->
+  <!-- MLS: 1500 Av Paseo de la Marina PH-A -->
+  <url>
+    <loc>https://ponchodavalos.com.mx/mls/property-mlv-10001.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ponchodavalos.com.mx/mls/property-mlv-10001.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://ponchodavalos.com.mx/es/mls/property-mlv-10001.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ponchodavalos.com.mx/mls/property-mlv-10001.html"/>
+    <lastmod>2026-02-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- MLS: 289 Calle Olas Altas 501 -->
+  <url>
+    <loc>https://ponchodavalos.com.mx/mls/property-mlv-10002.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ponchodavalos.com.mx/mls/property-mlv-10002.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://ponchodavalos.com.mx/es/mls/property-mlv-10002.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ponchodavalos.com.mx/mls/property-mlv-10002.html"/>
+    <lastmod>2026-02-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- MLS: 45 Calle Garza Blanca -->
+  <url>
+    <loc>https://ponchodavalos.com.mx/mls/property-mlv-10003.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ponchodavalos.com.mx/mls/property-mlv-10003.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://ponchodavalos.com.mx/es/mls/property-mlv-10003.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ponchodavalos.com.mx/mls/property-mlv-10003.html"/>
+    <lastmod>2026-02-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- MLS: 800 Blvd Francisco Medina Ascencio 304 -->
+  <url>
+    <loc>https://ponchodavalos.com.mx/mls/property-mlv-10004.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ponchodavalos.com.mx/mls/property-mlv-10004.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://ponchodavalos.com.mx/es/mls/property-mlv-10004.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ponchodavalos.com.mx/mls/property-mlv-10004.html"/>
+    <lastmod>2026-02-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- MLS: 100 Calle Amapas 702 -->
+  <url>
+    <loc>https://ponchodavalos.com.mx/mls/property-mlv-10005.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ponchodavalos.com.mx/mls/property-mlv-10005.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://ponchodavalos.com.mx/es/mls/property-mlv-10005.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ponchodavalos.com.mx/mls/property-mlv-10005.html"/>
+    <lastmod>2026-02-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- MLS: 450 Av Mexico 2B -->
+  <url>
+    <loc>https://ponchodavalos.com.mx/mls/property-mlv-10006.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ponchodavalos.com.mx/mls/property-mlv-10006.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://ponchodavalos.com.mx/es/mls/property-mlv-10006.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ponchodavalos.com.mx/mls/property-mlv-10006.html"/>
+    <lastmod>2026-02-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- MLS: 22 Calle Punta Esmeralda -->
+  <url>
+    <loc>https://ponchodavalos.com.mx/mls/property-mlv-10007.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ponchodavalos.com.mx/mls/property-mlv-10007.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://ponchodavalos.com.mx/es/mls/property-mlv-10007.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ponchodavalos.com.mx/mls/property-mlv-10007.html"/>
+    <lastmod>2026-02-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- MLS: 330 Av Fluvial Vallarta PH-2 -->
+  <url>
+    <loc>https://ponchodavalos.com.mx/mls/property-mlv-10008.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ponchodavalos.com.mx/mls/property-mlv-10008.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://ponchodavalos.com.mx/es/mls/property-mlv-10008.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ponchodavalos.com.mx/mls/property-mlv-10008.html"/>
+    <lastmod>2026-02-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- MLS: 200 Calle Basilio Badillo 8A -->
+  <url>
+    <loc>https://ponchodavalos.com.mx/mls/property-mlv-10009.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ponchodavalos.com.mx/mls/property-mlv-10009.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://ponchodavalos.com.mx/es/mls/property-mlv-10009.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ponchodavalos.com.mx/mls/property-mlv-10009.html"/>
+    <lastmod>2026-02-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- MLS: 500 Paseo de los Cocoteros 1201 -->
+  <url>
+    <loc>https://ponchodavalos.com.mx/mls/property-mlv-10010.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ponchodavalos.com.mx/mls/property-mlv-10010.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://ponchodavalos.com.mx/es/mls/property-mlv-10010.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ponchodavalos.com.mx/mls/property-mlv-10010.html"/>
+    <lastmod>2026-02-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- MLS: 1100 Av de los Tules B-5 -->
+  <url>
+    <loc>https://ponchodavalos.com.mx/mls/property-mlv-10011.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ponchodavalos.com.mx/mls/property-mlv-10011.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://ponchodavalos.com.mx/es/mls/property-mlv-10011.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ponchodavalos.com.mx/mls/property-mlv-10011.html"/>
+    <lastmod>2026-02-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- MLS: 75 Calle Pulpito PH-3 -->
+  <url>
+    <loc>https://ponchodavalos.com.mx/mls/property-mlv-10012.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ponchodavalos.com.mx/mls/property-mlv-10012.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://ponchodavalos.com.mx/es/mls/property-mlv-10012.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ponchodavalos.com.mx/mls/property-mlv-10012.html"/>
+    <lastmod>2026-02-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <!-- MLS-SITEMAP-END -->
+
 </urlset>

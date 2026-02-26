@@ -1,0 +1,49 @@
+name: Update MLS Listings
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'  # Every 6 hours
+  workflow_dispatch:        # Manual trigger
+
+jobs:
+  update-listings:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Run MLS build
+        env:
+          USE_MOCK_DATA: ${{ secrets.SPARK_API_KEY && 'false' || 'true' }}
+          SPARK_API_KEY: ${{ secrets.SPARK_API_KEY }}
+          SPARK_API_SECRET: ${{ secrets.SPARK_API_SECRET }}
+          SPARK_AGENT_ID: ${{ secrets.SPARK_AGENT_ID }}
+        run: node src/build/index.js
+
+      - name: Check for changes
+        id: changes
+        run: |
+          git add -A
+          if git diff --cached --quiet; then
+            echo "changed=false" >> $GITHUB_OUTPUT
+          else
+            echo "changed=true" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Commit and push changes
+        if: steps.changes.outputs.changed == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git commit -m "Update MLS listings $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git push

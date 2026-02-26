@@ -1,0 +1,25 @@
+                        <!-- MLS: {{name}} -->
+                        <div class="project-item {{isotopeCategory}}">
+                            <div class="projects-box">
+                                <div class="projects-thumbnail">
+                                    <a href="mls/{{fileName}}">
+                                        <img src="{{thumbImage}}" loading="lazy" alt="{{name}}">
+                                    </a>
+                                    <div class="overlay">
+                                        <h5>{{name}}</h5>
+                                        <i class="ot-flaticon-add"></i>
+                                    </div>
+                                </div>
+                                <div class="portfolio-info">
+                                    <div class="portfolio-info-inner">
+                                        <h5><a class="title-link" href="mls/{{fileName}}">{{name}}</a></h5>
+                                        <ul style="color:#ffffff; list-style:none; padding-left:0; margin-bottom:0;">
+                                            <li><strong data-i18n="propertiesPage.card.price">Price:</strong> <span data-price-mxn="{{priceMxn}}" data-price-usd="{{priceUsd}}">{{priceMxnFormatted}}</span></li>
+                                            <li><strong data-i18n="propertiesPage.card.location">Location:</strong> {{shortLocation}}</li>
+                                            <li><strong data-i18n="propertiesPage.card.surface">Surface:</strong> {{surface}} m²</li>
+                                        </ul>
+                                    </div>
+                                    <a class="overlay" href="mls/{{fileName}}"></a>
+                                </div>
+                            </div>
+                        </div>

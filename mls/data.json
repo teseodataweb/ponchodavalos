@@ -1,0 +1,1211 @@
+[
+  {
+    "listingId": "MLV-10001",
+    "slug": "mlv-10001",
+    "name": "1500 Av Paseo de la Marina PH-A",
+    "fileName": "property-mlv-10001.html",
+    "url": "mls/property-mlv-10001.html",
+    "fullUrl": "https://ponchodavalos.com.mx/mls/property-mlv-10001.html",
+    "priceUsd": 285000,
+    "priceMxn": 5272500,
+    "priceUsdFormatted": "$285,000 USD",
+    "priceMxnFormatted": "$5,272,500 MXN",
+    "beds": 3,
+    "baths": 3,
+    "surface": 185,
+    "parking": 2,
+    "yearBuilt": 2023,
+    "furnished": "Fully",
+    "view": "Ocean, Marina",
+    "propertyType": "Condominium",
+    "city": "Puerto Vallarta",
+    "state": "Jalisco",
+    "address": "1500 Av Paseo de la Marina PH-A, Marina Vallarta, Puerto Vallarta, Jalisco 48335",
+    "shortLocation": "JA, Puerto Vallarta",
+    "lat": 20.658,
+    "lng": -105.246,
+    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d500!2d-105.246!3d20.658!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e1!3m2!1ses-419!2smx",
+    "descriptionEn": "Stunning penthouse in Marina Vallarta with breathtaking ocean and marina views. This 3-bedroom gem features floor-to-ceiling windows, Italian marble floors, gourmet kitchen with Wolf appliances, and a private rooftop terrace with jacuzzi. Building amenities include infinity pool, fitness center, concierge, and 24/7 security. Steps from the Marina boardwalk with world-class dining and shopping.",
+    "descriptionEs": "Impresionante penthouse en Marina Vallarta con vistas espectaculares al océano y la marina. Esta joya de 3 recámaras cuenta con ventanales de piso a techo, pisos de mármol italiano, cocina gourmet con electrodomésticos Wolf y terraza privada en la azotea con jacuzzi. Las amenidades del edificio incluyen alberca infinita, gimnasio, concierge y seguridad 24/7. A pasos del malecón de la Marina con restaurantes y tiendas de clase mundial.",
+    "amenities": [
+      "Pool",
+      "Gym",
+      "Concierge",
+      "Security 24/7",
+      "Elevator",
+      "Rooftop Terrace"
+    ],
+    "appliances": [
+      "Air Conditioning: Central",
+      "Washer/Dryer"
+    ],
+    "utilities": [
+      "CFE",
+      "Municipal Water"
+    ],
+    "locationFeatures": [
+      "Marina",
+      "Walking Distance to Beach"
+    ],
+    "headerImage": "../images/mls/mlv-10001/header.jpg",
+    "thumbImage": "images/mls/mlv-10001/thumb.jpg",
+    "images": [
+      {
+        "src": "../images/mls/mlv-10001/1.jpg",
+        "alt": "1500 Av Paseo de la Marina PH-A - Image 1",
+        "remoteSrc": "https://placehold.co/1024x683/2c3e50/ffffff?text=Marina+PH-A+Living",
+        "order": 1
+      },
+      {
+        "src": "../images/mls/mlv-10001/2.jpg",
+        "alt": "1500 Av Paseo de la Marina PH-A - Image 2",
+        "remoteSrc": "https://placehold.co/1024x683/34495e/ffffff?text=Marina+PH-A+Kitchen",
+        "order": 2
+      },
+      {
+        "src": "../images/mls/mlv-10001/3.jpg",
+        "alt": "1500 Av Paseo de la Marina PH-A - Image 3",
+        "remoteSrc": "https://placehold.co/1024x683/2c3e50/ffffff?text=Marina+PH-A+Master",
+        "order": 3
+      },
+      {
+        "src": "../images/mls/mlv-10001/4.jpg",
+        "alt": "1500 Av Paseo de la Marina PH-A - Image 4",
+        "remoteSrc": "https://placehold.co/1024x683/1abc9c/ffffff?text=Marina+PH-A+Terrace",
+        "order": 4
+      },
+      {
+        "src": "../images/mls/mlv-10001/5.jpg",
+        "alt": "1500 Av Paseo de la Marina PH-A - Image 5",
+        "remoteSrc": "https://placehold.co/1024x683/3498db/ffffff?text=Marina+PH-A+View",
+        "order": 5
+      }
+    ],
+    "primaryPhotoUrl": "https://placehold.co/1024x683/2c3e50/ffffff?text=Marina+PH-A+Living",
+    "allPhotoUrls": [
+      "https://placehold.co/1024x683/2c3e50/ffffff?text=Marina+PH-A+Living",
+      "https://placehold.co/1024x683/34495e/ffffff?text=Marina+PH-A+Kitchen",
+      "https://placehold.co/1024x683/2c3e50/ffffff?text=Marina+PH-A+Master",
+      "https://placehold.co/1024x683/1abc9c/ffffff?text=Marina+PH-A+Terrace",
+      "https://placehold.co/1024x683/3498db/ffffff?text=Marina+PH-A+View"
+    ],
+    "isotopeCategory": "category-19",
+    "schemaOrg": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"RealEstateListing\",\n      \"name\": \"1500 Av Paseo de la Marina PH-A\",\n      \"description\": \"Stunning penthouse in Marina Vallarta with breathtaking ocean and marina views. This 3-bedroom gem features floor-to-ceiling windows, Italian marble floors, gourmet kitchen with Wolf appliances, and a private rooftop terrace with jacuzzi. Building amenities include infinity pool, fitness center, concierge, and 24/7 security. Steps from the Marina boardwalk with world-class dining and shopping.\",\n      \"url\": \"https://ponchodavalos.com.mx/mls/property-mlv-10001.html\",\n      \"image\": [\n            \"https://ponchodavalos.com.mx/images/mls/mlv-10001/header.jpg\"\n      ],\n      \"datePosted\": \"2025-06-15\",\n      \"address\": {\n            \"@type\": \"PostalAddress\",\n            \"addressLocality\": \"Puerto Vallarta\",\n            \"addressRegion\": \"Jalisco\",\n            \"addressCountry\": \"MX\"\n      },\n      \"geo\": {\n            \"@type\": \"GeoCoordinates\",\n            \"latitude\": \"20.658\",\n            \"longitude\": \"-105.246\"\n      },\n      \"offers\": {\n            \"@type\": \"Offer\",\n            \"price\": \"285000\",\n            \"priceCurrency\": \"USD\",\n            \"availability\": \"https://schema.org/InStock\"\n      },\n      \"numberOfRooms\": 3,\n      \"numberOfBathroomsTotal\": 3,\n      \"floorSize\": {\n            \"@type\": \"QuantitativeValue\",\n            \"value\": 185,\n            \"unitCode\": \"MTK\"\n      },\n      \"amenityFeature\": [\n            {\n                  \"@type\": \"LocationFeatureSpecification\",\n                  \"name\": \"Pool\"\n            },\n            {\n                  \"@type\": \"LocationFeatureSpecification\",\n                  \"name\": \"Gym\"\n            },\n            {\n                  \"@type\": \"LocationFeatureSpecification\",\n                  \"name\": \"Concierge\"\n            },\n            {\n                  \"@type\": \"LocationFeatureSpecification\",\n                  \"name\": \"Security 24/7\"\n            },\n            {\n                  \"@type\": \"LocationFeatureSpecification\",\n                  \"name\": \"Elevator\"\n            },\n            {\n                  \"@type\": \"LocationFeatureSpecification\",\n                  \"name\": \"Rooftop Terrace\"\n            }\n      ],\n      \"broker\": {\n            \"@type\": \"RealEstateAgent\",\n            \"name\": \"Poncho Davalos Real Estate\",\n            \"telephone\": \"+52-322-292-2312\",\n            \"email\": \"hello@ponchodavalos.com.mx\",\n            \"url\": \"https://ponchodavalos.com.mx\"\n      }\n}",
+    "metaDescription": "Stunning penthouse in Marina Vallarta with breathtaking ocean and marina views. This 3-bedroom gem features floor-to-ceiling windows, Italian marble floors, gou",
+    "ogImage": "https://ponchodavalos.com.mx/images/mls/mlv-10001/header.jpg",
+    "i18nKey": "property.mls_mlv-10001",
+    "prevProperty": null,
+    "nextProperty": {
+      "name": "289 Calle Olas Altas 501",
+      "url": "property-mlv-10002.html",
+      "thumb": "../images/mls/mlv-10002/thumb.jpg"
+    },
+    "parkingText": "2 spaces"
+  },
+  {
+    "listingId": "MLV-10002",
+    "slug": "mlv-10002",
+    "name": "289 Calle Olas Altas 501",
+    "fileName": "property-mlv-10002.html",
+    "url": "mls/property-mlv-10002.html",
+    "fullUrl": "https://ponchodavalos.com.mx/mls/property-mlv-10002.html",
+    "priceUsd": 189000,
+    "priceMxn": 3496500,
+    "priceUsdFormatted": "$189,000 USD",
+    "priceMxnFormatted": "$3,496,500 MXN",
+    "beds": 2,
+    "baths": 2,
+    "surface": 110,
+    "parking": 0,
+    "yearBuilt": 2021,
+    "furnished": "Fully",
+    "view": "City, Partial Ocean",
+    "propertyType": "Condominium",
+    "city": "Puerto Vallarta",
+    "state": "Jalisco",
+    "address": "289 Calle Olas Altas 501, Zona Romántica, Puerto Vallarta, Jalisco 48380",
+    "shortLocation": "JA, Puerto Vallarta",
+    "lat": 20.608,
+    "lng": -105.232,
+    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d500!2d-105.232!3d20.608!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e1!3m2!1ses-419!2smx",
+    "descriptionEn": "Modern 2-bedroom condo in the heart of Zona Romántica, Puerto Vallarta's most sought-after neighborhood. Open-concept living with contemporary finishes, quartz countertops, and a spacious balcony overlooking the vibrant street life below. Walking distance to Los Muertos Beach, galleries, restaurants, and nightlife. Ideal for vacation rental with proven income history.",
+    "descriptionEs": "Moderno condominio de 2 recámaras en el corazón de la Zona Romántica, el barrio más buscado de Puerto Vallarta. Concepto abierto con acabados contemporáneos, cubiertas de cuarzo y un amplio balcón con vista a la vibrante vida callejera. A distancia caminable de Playa Los Muertos, galerías, restaurantes y vida nocturna. Ideal para renta vacacional con historial comprobado de ingresos.",
+    "amenities": [
+      "Pool",
+      "Elevator",
+      "Security"
+    ],
+    "appliances": [
+      "Air Conditioning: Mini-Split"
+    ],
+    "utilities": [
+      "CFE"
+    ],
+    "locationFeatures": [
+      "City Center",
+      "Walking Distance to Beach"
+    ],
+    "headerImage": "../images/mls/mlv-10002/header.jpg",
+    "thumbImage": "images/mls/mlv-10002/thumb.jpg",
+    "images": [
+      {
+        "src": "../images/mls/mlv-10002/1.jpg",
+        "alt": "289 Calle Olas Altas 501 - Image 1",
+        "remoteSrc": "https://placehold.co/1024x683/e74c3c/ffffff?text=Olas+Altas+501+Living",
+        "order": 1
+      },
+      {
+        "src": "../images/mls/mlv-10002/2.jpg",
+        "alt": "289 Calle Olas Altas 501 - Image 2",
+        "remoteSrc": "https://placehold.co/1024x683/c0392b/ffffff?text=Olas+Altas+501+Kitchen",
+        "order": 2
+      },
+      {
+        "src": "../images/mls/mlv-10002/3.jpg",
+        "alt": "289 Calle Olas Altas 501 - Image 3",
+        "remoteSrc": "https://placehold.co/1024x683/e74c3c/ffffff?text=Olas+Altas+501+Bedroom",
+        "order": 3
+      },
+      {
+        "src": "../images/mls/mlv-10002/4.jpg",
+        "alt": "289 Calle Olas Altas 501 - Image 4",
+        "remoteSrc": "https://placehold.co/1024x683/e67e22/ffffff?text=Olas+Altas+501+Balcony",
+        "order": 4
+      }
+    ],
+    "primaryPhotoUrl": "https://placehold.co/1024x683/e74c3c/ffffff?text=Olas+Altas+501+Living",
+    "allPhotoUrls": [
+      "https://placehold.co/1024x683/e74c3c/ffffff?text=Olas+Altas+501+Living",
+      "https://placehold.co/1024x683/c0392b/ffffff?text=Olas+Altas+501+Kitchen",
+      "https://placehold.co/1024x683/e74c3c/ffffff?text=Olas+Altas+501+Bedroom",
+      "https://placehold.co/1024x683/e67e22/ffffff?text=Olas+Altas+501+Balcony"
+    ],
+    "isotopeCategory": "category-19",
+    "schemaOrg": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"RealEstateListing\",\n      \"name\": \"289 Calle Olas Altas 501\",\n      \"description\": \"Modern 2-bedroom condo in the heart of Zona Romántica, Puerto Vallarta's most sought-after neighborhood. Open-concept living with contemporary finishes, quartz countertops, and a spacious balcony overlooking the vibrant street life below. Walking distance to Los Muertos Beach, galleries, restaurants, and nightlife. Ideal for vacation rental with proven income history.\",\n      \"url\": \"https://ponchodavalos.com.mx/mls/property-mlv-10002.html\",\n      \"image\": [\n            \"https://ponchodavalos.com.mx/images/mls/mlv-10002/header.jpg\"\n      ],\n      \"datePosted\": \"2025-05-20\",\n      \"address\": {\n            \"@type\": \"PostalAddress\",\n            \"addressLocality\": \"Puerto Vallarta\",\n            \"addressRegion\": \"Jalisco\",\n            \"addressCountry\": \"MX\"\n      },\n      \"geo\": {\n            \"@type\": \"GeoCoordinates\",\n            \"latitude\": \"20.608\",\n            \"longitude\": \"-105.232\"\n      },\n      \"offers\": {\n            \"@type\": \"Offer\",\n            \"price\": \"189000\",\n            \"priceCurrency\": \"USD\",\n            \"availability\": \"https://schema.org/InStock\"\n      },\n      \"numberOfRooms\": 2,\n      \"numberOfBathroomsTotal\": 2,\n      \"floorSize\": {\n            \"@type\": \"QuantitativeValue\",\n            \"value\": 110,\n            \"unitCode\": \"MTK\"\n      },\n      \"amenityFeature\": [\n            {\n                  \"@type\": \"LocationFeatureSpecification\",\n                  \"name\": \"Pool\"\n            },\n            {\n                  \"@type\": \"LocationFeatureSpecification\",\n                  \"name\": \"Elevator\"\n            },\n            {\n                  \"@type\": \"LocationFeatureSpecification\",\n                  \"name\": \"Security\"\n            }\n      ],\n      \"broker\": {\n            \"@type\": \"RealEstateAgent\",\n            \"name\": \"Poncho Davalos Real Estate\",\n            \"telephone\": \"+52-322-292-2312\",\n            \"email\": \"hello@ponchodavalos.com.mx\",\n            \"url\": \"https://ponchodavalos.com.mx\"\n      }\n}",
+    "metaDescription": "Modern 2-bedroom condo in the heart of Zona Romántica, Puerto Vallarta's most sought-after neighborhood. Open-concept living with contemporary finishes, quartz ",
+    "ogImage": "https://ponchodavalos.com.mx/images/mls/mlv-10002/header.jpg",
+    "i18nKey": "property.mls_mlv-10002",
+    "prevProperty": {
+      "name": "1500 Av Paseo de la Marina PH-A",
+      "url": "property-mlv-10001.html",
+      "thumb": "../images/mls/mlv-10001/thumb.jpg"
+    },
+    "nextProperty": {
+      "name": "45 Calle Garza Blanca",
+      "url": "property-mlv-10003.html",
+      "thumb": "../images/mls/mlv-10003/thumb.jpg"
+    },
+    "parkingText": "None"
+  },
+  {
+    "listingId": "MLV-10003",
+    "slug": "mlv-10003",
+    "name": "45 Calle Garza Blanca",
+    "fileName": "property-mlv-10003.html",
+    "url": "mls/property-mlv-10003.html",
+    "fullUrl": "https://ponchodavalos.com.mx/mls/property-mlv-10003.html",
+    "priceUsd": 520000,
+    "priceMxn": 9620000,
+    "priceUsdFormatted": "$520,000 USD",
+    "priceMxnFormatted": "$9,620,000 MXN",
+    "beds": 4,
+    "baths": 4,
+    "surface": 320,
+    "parking": 3,
+    "yearBuilt": 2019,
+    "furnished": "Partially",
+    "view": "Ocean, Bay, Mountain",
+    "propertyType": "Single Family Residence",
+    "city": "Puerto Vallarta",
+    "state": "Jalisco",
+    "address": "45 Calle Garza Blanca, Conchas Chinas, Puerto Vallarta, Jalisco 48399",
+    "shortLocation": "JA, Puerto Vallarta",
+    "lat": 20.598,
+    "lng": -105.238,
+    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d500!2d-105.238!3d20.598!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e1!3m2!1ses-419!2smx",
+    "descriptionEn": "Magnificent hillside villa in prestigious Conchas Chinas with panoramic Banderas Bay views. This 4-bedroom residence features an infinity pool, lush tropical gardens, chef's kitchen, home theater, and multiple terraces for entertaining. The master suite includes a spa bathroom and private balcony. Smart home technology throughout. Gated community with 24-hour security.",
+    "descriptionEs": "Magnífica villa en la ladera del prestigioso Conchas Chinas con vistas panorámicas a la Bahía de Banderas. Esta residencia de 4 recámaras cuenta con alberca infinita, exuberantes jardines tropicales, cocina de chef, cine en casa y múltiples terrazas para entretenimiento. La suite principal incluye baño tipo spa y balcón privado. Tecnología de hogar inteligente en toda la propiedad. Comunidad cerrada con seguridad 24 horas.",
+    "amenities": [
+      "Pool",
+      "Garden",
+      "Home Theater",
+      "Smart Home",
+      "Security 24/7",
+      "Gated Community"
+    ],
+    "appliances": [
+      "Air Conditioning: Central",
+      "Washer/Dryer",
+      "Dishwasher"
+    ],
+    "utilities": [
+      "CFE",
+      "Solar Panels",
+      "Municipal Water",
+      "Septic"
+    ],
+    "locationFeatures": [
+      "Hillside",
+      "Ocean View",
+      "Gated"
+    ],
+    "headerImage": "../images/mls/mlv-10003/header.jpg",
+    "thumbImage": "images/mls/mlv-10003/thumb.jpg",
+    "images": [
+      {
+        "src": "../images/mls/mlv-10003/1.jpg",
+        "alt": "45 Calle Garza Blanca - Image 1",
+        "remoteSrc": "https://placehold.co/1024x683/27ae60/ffffff?text=Conchas+Villa+Exterior",
+        "order": 1
+      },
+      {
+        "src": "../images/mls/mlv-10003/2.jpg",
+        "alt": "45 Calle Garza Blanca - Image 2",
+        "remoteSrc": "https://placehold.co/1024x683/2ecc71/ffffff?text=Conchas+Villa+Pool",
+        "order": 2
+      },
+      {
+        "src": "../images/mls/mlv-10003/3.jpg",
+        "alt": "45 Calle Garza Blanca - Image 3",
+        "remoteSrc": "https://placehold.co/1024x683/27ae60/ffffff?text=Conchas+Villa+Living",
+        "order": 3
+      },
+      {
+        "src": "../images/mls/mlv-10003/4.jpg",
+        "alt": "45 Calle Garza Blanca - Image 4",
+        "remoteSrc": "https://placehold.co/1024x683/16a085/ffffff?text=Conchas+Villa+Kitchen",
+        "order": 4
+      },
+      {
+        "src": "../images/mls/mlv-10003/5.jpg",
+        "alt": "45 Calle Garza Blanca - Image 5",
+        "remoteSrc": "https://placehold.co/1024x683/1abc9c/ffffff?text=Conchas+Villa+Master",
+        "order": 5
+      },
+      {
+        "src": "../images/mls/mlv-10003/6.jpg",
+        "alt": "45 Calle Garza Blanca - Image 6",
+        "remoteSrc": "https://placehold.co/1024x683/3498db/ffffff?text=Conchas+Villa+View",
+        "order": 6
+      }
+    ],
+    "primaryPhotoUrl": "https://placehold.co/1024x683/27ae60/ffffff?text=Conchas+Villa+Exterior",
+    "allPhotoUrls": [
+      "https://placehold.co/1024x683/27ae60/ffffff?text=Conchas+Villa+Exterior",
+      "https://placehold.co/1024x683/2ecc71/ffffff?text=Conchas+Villa+Pool",
+      "https://placehold.co/1024x683/27ae60/ffffff?text=Conchas+Villa+Living",
+      "https://placehold.co/1024x683/16a085/ffffff?text=Conchas+Villa+Kitchen",
+      "https://placehold.co/1024x683/1abc9c/ffffff?text=Conchas+Villa+Master",
+      "https://placehold.co/1024x683/3498db/ffffff?text=Conchas+Villa+View"
+    ],
+    "isotopeCategory": "category-20",
+    "schemaOrg": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"RealEstateListing\",\n      \"name\": \"45 Calle Garza Blanca\",\n      \"description\": \"Magnificent hillside villa in prestigious Conchas Chinas with panoramic Banderas Bay views. This 4-bedroom residence features an infinity pool, lush tropical gardens, chef's kitchen, home theater, and multiple terraces for entertaining. The master suite includes a spa bathroom and private balcony. Smart home technology throughout. Gated community with 24-hour security.\",\n      \"url\": \"https://ponchodavalos.com.mx/mls/property-mlv-10003.html\",\n      \"image\": [\n            \"https://ponchodavalos.com.mx/images/mls/mlv-10003/header.jpg\"\n      ],\n      \"datePosted\": \"2025-07-01\",\n      \"address\": {\n            \"@type\": \"PostalAddress\",\n            \"addressLocality\": \"Puerto Vallarta\",\n            \"addressRegion\": \"Jalisco\",\n            \"addressCountry\": \"MX\"\n      },\n      \"geo\": {\n            \"@type\": \"GeoCoordinates\",\n            \"latitude\": \"20.598\",\n            \"longitude\": \"-105.238\"\n      },\n      \"offers\": {\n            \"@type\": \"Offer\",\n            \"price\": \"520000\",\n            \"priceCurrency\": \"USD\",\n            \"availability\": \"https://schema.org/InStock\"\n      },\n      \"numberOfRooms\": 4,\n      \"numberOfBathroomsTotal\": 4,\n      \"floorSize\": {\n            \"@type\": \"QuantitativeValue\",\n            \"value\": 320,\n            \"unitCode\": \"MTK\"\n      },\n      \"amenityFeature\": [\n            {\n                  \"@type\": \"LocationFeatureSpecification\",\n                  \"name\": \"Pool\"\n            },\n            {\n                  \"@type\": \"LocationFeatureSpecification\",\n                  \"name\": \"Garden\"\n            },\n            {\n                  \"@type\": \"LocationFeatureSpecification\",\n                  \"name\": \"Home Theater\"\n            },\n            {\n                  \"@type\": \"LocationFeatureSpecification\",\n                  \"name\": \"Smart Home\"\n            },\n            {\n                  \"@type\": \"LocationFeatureSpecification\",\n                  \"name\": \"Security 24/7\"\n            },\n            {\n                  \"@type\": \"LocationFeatureSpecification\",\n                  \"name\": \"Gated Community\"\n            }\n      ],\n      \"broker\": {\n            \"@type\": \"RealEstateAgent\",\n            \"name\": \"Poncho Davalos Real Estate\",\n            \"telephone\": \"+52-322-292-2312\",\n            \"email\": \"hello@ponchodavalos.com.mx\",\n            \"url\": \"https://ponchodavalos.com.mx\"\n      }\n}",
+    "metaDescription": "Magnificent hillside villa in prestigious Conchas Chinas with panoramic Banderas Bay views. This 4-bedroom residence features an infinity pool, lush tropical ga",
+    "ogImage": "https://ponchodavalos.com.mx/images/mls/mlv-10003/header.jpg",
+    "i18nKey": "property.mls_mlv-10003",
+    "prevProperty": {
+      "name": "289 Calle Olas Altas 501",
+      "url": "property-mlv-10002.html",
+      "thumb": "../images/mls/mlv-10002/thumb.jpg"
+    },
+    "nextProperty": {
+      "name": "800 Blvd Francisco Medina Ascencio 304",
+      "url": "property-mlv-10004.html",
+      "thumb": "../images/mls/mlv-10004/thumb.jpg"
+    },
+    "parkingText": "3 spaces"
+  },
+  {
+    "listingId": "MLV-10004",
+    "slug": "mlv-10004",
+    "name": "800 Blvd Francisco Medina Ascencio 304",
+    "fileName": "property-mlv-10004.html",
+    "url": "mls/property-mlv-10004.html",
+    "fullUrl": "https://ponchodavalos.com.mx/mls/property-mlv-10004.html",
+    "priceUsd": 145000,
+    "priceMxn": 2682500,
+    "priceUsdFormatted": "$145,000 USD",
+    "priceMxnFormatted": "$2,682,500 MXN",
+    "beds": 1,
+    "baths": 1,
+    "surface": 65,
+    "parking": 1,
+    "yearBuilt": 2020,
+    "furnished": "Unfurnished",
+    "view": "City",
+    "propertyType": "Condominium",
+    "city": "Puerto Vallarta",
+    "state": "Jalisco",
+    "address": "800 Blvd Francisco Medina Ascencio 304, Hotel Zone, Puerto Vallarta, Jalisco 48333",
+    "shortLocation": "JA, Puerto Vallarta",
+    "lat": 20.635,
+    "lng": -105.238,
+    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d500!2d-105.238!3d20.635!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e1!3m2!1ses-419!2smx",
+    "descriptionEn": "Efficient 1-bedroom condo in the Hotel Zone, perfect for investors seeking strong rental returns. Features modern finishes, air conditioning, and a balcony with city views. Building offers pool, gym, and rooftop common area. Excellent location near major hotels, restaurants, and Walmart. Low maintenance fees.",
+    "descriptionEs": "Eficiente condominio de 1 recámara en la Zona Hotelera, perfecto para inversionistas que buscan fuertes rendimientos de renta. Cuenta con acabados modernos, aire acondicionado y balcón con vistas a la ciudad. El edificio ofrece alberca, gimnasio y área común en la azotea. Excelente ubicación cerca de los principales hoteles, restaurantes y Walmart. Bajas cuotas de mantenimiento.",
+    "amenities": [
+      "Pool",
+      "Gym",
+      "Rooftop",
+      "Security"
+    ],
+    "appliances": [
+      "Air Conditioning: Mini-Split"
+    ],
+    "utilities": [
+      "CFE"
+    ],
+    "locationFeatures": [
+      "Hotel Zone",
+      "Near Shopping"
+    ],
+    "headerImage": "../images/mls/mlv-10004/header.jpg",
+    "thumbImage": "images/mls/mlv-10004/thumb.jpg",
+    "images": [
+      {
+        "src": "../images/mls/mlv-10004/1.jpg",
+        "alt": "800 Blvd Francisco Medina Ascencio 304 - Image 1",
+        "remoteSrc": "https://placehold.co/1024x683/9b59b6/ffffff?text=Hotel+Zone+304+Living",
+        "order": 1
+      },
+      {
+        "src": "../images/mls/mlv-10004/2.jpg",
+        "alt": "800 Blvd Francisco Medina Ascencio 304 - Image 2",
+        "remoteSrc": "https://placehold.co/1024x683/8e44ad/ffffff?text=Hotel+Zone+304+Bedroom",
+        "order": 2
+      },
+      {
+        "src": "../images/mls/mlv-10004/3.jpg",
+        "alt": "800 Blvd Francisco Medina Ascencio 304 - Image 3",
+        "remoteSrc": "https://placehold.co/1024x683/9b59b6/ffffff?text=Hotel+Zone+304+Kitchen",
+        "order": 3
+      }
+    ],
+    "primaryPhotoUrl": "https://placehold.co/1024x683/9b59b6/ffffff?text=Hotel+Zone+304+Living",
+    "allPhotoUrls": [
+      "https://placehold.co/1024x683/9b59b6/ffffff?text=Hotel+Zone+304+Living",
+      "https://placehold.co/1024x683/8e44ad/ffffff?text=Hotel+Zone+304+Bedroom",
+      "https://placehold.co/1024x683/9b59b6/ffffff?text=Hotel+Zone+304+Kitchen"
+    ],
+    "isotopeCategory": "category-19",
+    "schemaOrg": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"RealEstateListing\",\n      \"name\": \"800 Blvd Francisco Medina Ascencio 304\",\n      \"description\": \"Efficient 1-bedroom condo in the Hotel Zone, perfect for investors seeking strong rental returns. Features modern finishes, air conditioning, and a balcony with city views. Building offers pool, gym, and rooftop common area. Excellent location near major hotels, restaurants, and Walmart. Low maintenance fees.\",\n      \"url\": \"https://ponchodavalos.com.mx/mls/property-mlv-10004.html\",\n      \"image\": [\n            \"https://ponchodavalos.com.mx/images/mls/mlv-10004/header.jpg\"\n      ],\n      \"datePosted\": \"2025-04-10\",\n      \"address\": {\n            \"@type\": \"PostalAddress\",\n            \"addressLocality\": \"Puerto Vallarta\",\n            \"addressRegion\": \"Jalisco\",\n            \"addressCountry\": \"MX\"\n      },\n      \"geo\": {\n            \"@type\": \"GeoCoordinates\",\n            \"latitude\": \"20.635\",\n            \"longitude\": \"-105.238\"\n      },\n      \"offers\": {\n            \"@type\": \"Offer\",\n            \"price\": \"145000\",\n            \"priceCurrency\": \"USD\",\n            \"availability\": \"https://schema.org/InStock\"\n      },\n      \"numberOfRooms\": 1,\n      \"numberOfBathroomsTotal\": 1,\n      \"floorSize\": {\n            \"@type\": \"QuantitativeValue\",\n            \"value\": 65,\n            \"unitCode\": \"MTK\"\n      },\n      \"amenityFeature\": [\n            {\n                  \"@type\": \"LocationFeatureSpecification\",\n                  \"name\": \"Pool\"\n            },\n            {\n                  \"@type\": \"LocationFeatureSpecification\",\n                  \"name\": \"Gym\"\n            },\n            {\n                  \"@type\": \"LocationFeatureSpecification\",\n                  \"name\": \"Rooftop\"\n            },\n            {\n                  \"@type\": \"LocationFeatureSpecification\",\n                  \"name\": \"Security\"\n            }\n      ],\n      \"broker\": {\n            \"@type\": \"RealEstateAgent\",\n            \"name\": \"Poncho Davalos Real Estate\",\n            \"telephone\": \"+52-322-292-2312\",\n            \"email\": \"hello@ponchodavalos.com.mx\",\n            \"url\": \"https://ponchodavalos.com.mx\"\n      }\n}",
+    "metaDescription": "Efficient 1-bedroom condo in the Hotel Zone, perfect for investors seeking strong rental returns. Features modern finishes, air conditioning, and a balcony with",
+    "ogImage": "https://ponchodavalos.com.mx/images/mls/mlv-10004/header.jpg",
+    "i18nKey": "property.mls_mlv-10004",
+    "prevProperty": {
+      "name": "45 Calle Garza Blanca",
+      "url": "property-mlv-10003.html",
+      "thumb": "../images/mls/mlv-10003/thumb.jpg"
+    },
+    "nextProperty": {
+      "name": "100 Calle Amapas 702",
+      "url": "property-mlv-10005.html",
+      "thumb": "../images/mls/mlv-10005/thumb.jpg"
+    },
+    "parkingText": "1 space"
+  },
+  {
+    "listingId": "MLV-10005",
+    "slug": "mlv-10005",
+    "name": "100 Calle Amapas 702",
+    "fileName": "property-mlv-10005.html",
+    "url": "mls/property-mlv-10005.html",
+    "fullUrl": "https://ponchodavalos.com.mx/mls/property-mlv-10005.html",
+    "priceUsd": 375000,
+    "priceMxn": 6937500,
+    "priceUsdFormatted": "$375,000 USD",
+    "priceMxnFormatted": "$6,937,500 MXN",
+    "beds": 3,
+    "baths": 3,
+    "surface": 195,
+    "parking": 2,
+    "yearBuilt": 2022,
+    "furnished": "Fully",
+    "view": "Ocean, Bay",
+    "propertyType": "Condominium",
+    "city": "Puerto Vallarta",
+    "state": "Jalisco",
+    "address": "100 Calle Amapas 702, Amapas, Puerto Vallarta, Jalisco 48380",
+    "shortLocation": "JA, Puerto Vallarta",
+    "lat": 20.605,
+    "lng": -105.229,
+    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d500!2d-105.229!3d20.605!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e1!3m2!1ses-419!2smx",
+    "descriptionEn": "Luxurious 3-bedroom penthouse in the exclusive Amapas neighborhood with unobstructed views of Banderas Bay. Features include an open floor plan, designer finishes, private plunge pool on the terrace, wine cellar, and smart home system. The building offers a rooftop infinity pool, gym, and concierge service. Prime location above Los Muertos Beach.",
+    "descriptionEs": "Lujoso penthouse de 3 recámaras en el exclusivo barrio de Amapas con vistas sin obstrucción a la Bahía de Banderas. Incluye planta abierta, acabados de diseñador, alberca privada en la terraza, cava de vinos y sistema de hogar inteligente. El edificio ofrece alberca infinita en la azotea, gimnasio y servicio de concierge. Ubicación privilegiada sobre Playa Los Muertos.",
+    "amenities": [
+      "Pool",
+      "Gym",
+      "Concierge",
+      "Elevator",
+      "Wine Cellar",
+      "Smart Home"
+    ],
+    "appliances": [
+      "Air Conditioning: Central",
+      "Washer/Dryer",
+      "Dishwasher"
+    ],
+    "utilities": [
+      "CFE",
+      "Municipal Water"
+    ],
+    "locationFeatures": [
+      "Hillside",
+      "Ocean View",
+      "Above Beach"
+    ],
+    "headerImage": "../images/mls/mlv-10005/header.jpg",
+    "thumbImage": "images/mls/mlv-10005/thumb.jpg",
+    "images": [
+      {
+        "src": "../images/mls/mlv-10005/1.jpg",
+        "alt": "100 Calle Amapas 702 - Image 1",
+        "remoteSrc": "https://placehold.co/1024x683/f39c12/ffffff?text=Amapas+702+Living",
+        "order": 1
+      },
+      {
+        "src": "../images/mls/mlv-10005/2.jpg",
+        "alt": "100 Calle Amapas 702 - Image 2",
+        "remoteSrc": "https://placehold.co/1024x683/e67e22/ffffff?text=Amapas+702+Terrace",
+        "order": 2
+      },
+      {
+        "src": "../images/mls/mlv-10005/3.jpg",
+        "alt": "100 Calle Amapas 702 - Image 3",
+        "remoteSrc": "https://placehold.co/1024x683/f39c12/ffffff?text=Amapas+702+Kitchen",
+        "order": 3
+      },
+      {
+        "src": "../images/mls/mlv-10005/4.jpg",
+        "alt": "100 Calle Amapas 702 - Image 4",
+        "remoteSrc": "https://placehold.co/1024x683/d35400/ffffff?text=Amapas+702+Master",
+        "order": 4
+      },
+      {
+        "src": "../images/mls/mlv-10005/5.jpg",
+        "alt": "100 Calle Amapas 702 - Image 5",
+        "remoteSrc": "https://placehold.co/1024x683/3498db/ffffff?text=Amapas+702+View",
+        "order": 5
+      }
+    ],
+    "primaryPhotoUrl": "https://placehold.co/1024x683/f39c12/ffffff?text=Amapas+702+Living",
+    "allPhotoUrls": [
+      "https://placehold.co/1024x683/f39c12/ffffff?text=Amapas+702+Living",
+      "https://placehold.co/1024x683/e67e22/ffffff?text=Amapas+702+Terrace",
+      "https://placehold.co/1024x683/f39c12/ffffff?text=Amapas+702+Kitchen",
+      "https://placehold.co/1024x683/d35400/ffffff?text=Amapas+702+Master",
+      "https://placehold.co/1024x683/3498db/ffffff?text=Amapas+702+View"
+    ],
+    "isotopeCategory": "category-19",
+    "schemaOrg": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"RealEstateListing\",\n      \"name\": \"100 Calle Amapas 702\",\n      \"description\": \"Luxurious 3-bedroom penthouse in the exclusive Amapas neighborhood with unobstructed views of Banderas Bay. Features include an open floor plan, designer finishes, private plunge pool on the terrace, wine cellar, and smart home system. The building offers a rooftop infinity pool, gym, and concierge service. Prime location above Los Muertos Beach.\",\n      \"url\": \"https://ponchodavalos.com.mx/mls/property-mlv-10005.html\",\n      \"image\": [\n            \"https://ponchodavalos.com.mx/images/mls/mlv-10005/header.jpg\"\n      ],\n      \"datePosted\": \"2025-06-20\",\n      \"address\": {\n            \"@type\": \"PostalAddress\",\n            \"addressLocality\": \"Puerto Vallarta\",\n            \"addressRegion\": \"Jalisco\",\n            \"addressCountry\": \"MX\"\n      },\n      \"geo\": {\n            \"@type\": \"GeoCoordinates\",\n            \"latitude\": \"20.605\",\n            \"longitude\": \"-105.229\"\n      },\n      \"offers\": {\n            \"@type\": \"Offer\",\n            \"price\": \"375000\",\n            \"priceCurrency\": \"USD\",\n            \"availability\": \"https://schema.org/InStock\"\n      },\n      \"numberOfRooms\": 3,\n      \"numberOfBathroomsTotal\": 3,\n      \"floorSize\": {\n            \"@type\": \"QuantitativeValue\",\n            \"value\": 195,\n            \"unitCode\": \"MTK\"\n      },\n      \"amenityFeature\": [\n            {\n                  \"@type\": \"LocationFeatureSpecification\",\n                  \"name\": \"Pool\"\n            },\n            {\n                  \"@type\": \"LocationFeatureSpecification\",\n                  \"name\": \"Gym\"\n            },\n            {\n                  \"@type\": \"LocationFeatureSpecification\",\n                  \"name\": \"Concierge\"\n            },\n            {\n                  \"@type\": \"LocationFeatureSpecification\",\n                  \"name\": \"Elevator\"\n            },\n            {\n                  \"@type\": \"LocationFeatureSpecification\",\n                  \"name\": \"Wine Cellar\"\n            },\n            {\n                  \"@type\": \"LocationFeatureSpecification\",\n                  \"name\": \"Smart Home\"\n            }\n      ],\n      \"broker\": {\n            \"@type\": \"RealEstateAgent\",\n            \"name\": \"Poncho Davalos Real Estate\",\n            \"telephone\": \"+52-322-292-2312\",\n            \"email\": \"hello@ponchodavalos.com.mx\",\n            \"url\": \"https://ponchodavalos.com.mx\"\n      }\n}",
+    "metaDescription": "Luxurious 3-bedroom penthouse in the exclusive Amapas neighborhood with unobstructed views of Banderas Bay. Features include an open floor plan, designer finish",
+    "ogImage": "https://ponchodavalos.com.mx/images/mls/mlv-10005/header.jpg",
+    "i18nKey": "property.mls_mlv-10005",
+    "prevProperty": {
+      "name": "800 Blvd Francisco Medina Ascencio 304",
+      "url": "property-mlv-10004.html",
+      "thumb": "../images/mls/mlv-10004/thumb.jpg"
+    },
+    "nextProperty": {
+      "name": "450 Av Mexico 2B",
+      "url": "property-mlv-10006.html",
+      "thumb": "../images/mls/mlv-10006/thumb.jpg"
+    },
+    "parkingText": "2 spaces"
+  },
+  {
+    "listingId": "MLV-10006",
+    "slug": "mlv-10006",
+    "name": "450 Av Mexico 2B",
+    "fileName": "property-mlv-10006.html",
+    "url": "mls/property-mlv-10006.html",
+    "fullUrl": "https://ponchodavalos.com.mx/mls/property-mlv-10006.html",
+    "priceUsd": 98000,
+    "priceMxn": 1813000,
+    "priceUsdFormatted": "$98,000 USD",
+    "priceMxnFormatted": "$1,813,000 MXN",
+    "beds": 1,
+    "baths": 1,
+    "surface": 52,
+    "parking": 0,
+    "yearBuilt": 2024,
+    "furnished": "Unfurnished",
+    "view": "City",
+    "propertyType": "Condominium",
+    "city": "Puerto Vallarta",
+    "state": "Jalisco",
+    "address": "450 Av Mexico 2B, 5 de Diciembre, Puerto Vallarta, Jalisco 48350",
+    "shortLocation": "JA, Puerto Vallarta",
+    "lat": 20.62,
+    "lng": -105.228,
+    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d500!2d-105.228!3d20.62!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e1!3m2!1ses-419!2smx",
+    "descriptionEn": "Brand new studio-style 1-bedroom in the booming 5 de Diciembre neighborhood. Modern design with high ceilings, polished concrete floors, and a compact but functional kitchen. Perfect entry-level investment in PV's fastest-growing area. Minutes from the Malecón and downtown. Building features rooftop pool and common area.",
+    "descriptionEs": "Nuevo departamento estilo estudio de 1 recámara en el creciente barrio de 5 de Diciembre. Diseño moderno con techos altos, pisos de concreto pulido y cocina compacta pero funcional. Inversión ideal de nivel de entrada en la zona de mayor crecimiento de PV. A minutos del Malecón y el centro. El edificio cuenta con alberca en la azotea y área común.",
+    "amenities": [
+      "Rooftop Pool",
+      "Security"
+    ],
+    "appliances": [
+      "Air Conditioning: Mini-Split"
+    ],
+    "utilities": [
+      "CFE"
+    ],
+    "locationFeatures": [
+      "City Center",
+      "Near Malecón"
+    ],
+    "headerImage": "../images/mls/mlv-10006/header.jpg",
+    "thumbImage": "images/mls/mlv-10006/thumb.jpg",
+    "images": [
+      {
+        "src": "../images/mls/mlv-10006/1.jpg",
+        "alt": "450 Av Mexico 2B - Image 1",
+        "remoteSrc": "https://placehold.co/1024x683/1abc9c/ffffff?text=5+Dic+2B+Living",
+        "order": 1
+      },
+      {
+        "src": "../images/mls/mlv-10006/2.jpg",
+        "alt": "450 Av Mexico 2B - Image 2",
+        "remoteSrc": "https://placehold.co/1024x683/16a085/ffffff?text=5+Dic+2B+Kitchen",
+        "order": 2
+      },
+      {
+        "src": "../images/mls/mlv-10006/3.jpg",
+        "alt": "450 Av Mexico 2B - Image 3",
+        "remoteSrc": "https://placehold.co/1024x683/1abc9c/ffffff?text=5+Dic+2B+Bedroom",
+        "order": 3
+      }
+    ],
+    "primaryPhotoUrl": "https://placehold.co/1024x683/1abc9c/ffffff?text=5+Dic+2B+Living",
+    "allPhotoUrls": [
+      "https://placehold.co/1024x683/1abc9c/ffffff?text=5+Dic+2B+Living",
+      "https://placehold.co/1024x683/16a085/ffffff?text=5+Dic+2B+Kitchen",
+      "https://placehold.co/1024x683/1abc9c/ffffff?text=5+Dic+2B+Bedroom"
+    ],
+    "isotopeCategory": "category-19",
+    "schemaOrg": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"RealEstateListing\",\n      \"name\": \"450 Av Mexico 2B\",\n      \"description\": \"Brand new studio-style 1-bedroom in the booming 5 de Diciembre neighborhood. Modern design with high ceilings, polished concrete floors, and a compact but functional kitchen. Perfect entry-level investment in PV's fastest-growing area. Minutes from the Malecón and downtown. Building features rooftop pool and common area.\",\n      \"url\": \"https://ponchodavalos.com.mx/mls/property-mlv-10006.html\",\n      \"image\": [\n            \"https://ponchodavalos.com.mx/images/mls/mlv-10006/header.jpg\"\n      ],\n      \"datePosted\": \"2025-08-01\",\n      \"address\": {\n            \"@type\": \"PostalAddress\",\n            \"addressLocality\": \"Puerto Vallarta\",\n            \"addressRegion\": \"Jalisco\",\n            \"addressCountry\": \"MX\"\n      },\n      \"geo\": {\n            \"@type\": \"GeoCoordinates\",\n            \"latitude\": \"20.62\",\n            \"longitude\": \"-105.228\"\n      },\n      \"offers\": {\n            \"@type\": \"Offer\",\n            \"price\": \"98000\",\n            \"priceCurrency\": \"USD\",\n            \"availability\": \"https://schema.org/InStock\"\n      },\n      \"numberOfRooms\": 1,\n      \"numberOfBathroomsTotal\": 1,\n      \"floorSize\": {\n            \"@type\": \"QuantitativeValue\",\n            \"value\": 52,\n            \"unitCode\": \"MTK\"\n      },\n      \"amenityFeature\": [\n            {\n                  \"@type\": \"LocationFeatureSpecification\",\n                  \"name\": \"Rooftop Pool\"\n            },\n            {\n                  \"@type\": \"LocationFeatureSpecification\",\n                  \"name\": \"Security\"\n            }\n      ],\n      \"broker\": {\n            \"@type\": \"RealEstateAgent\",\n            \"name\": \"Poncho Davalos Real Estate\",\n            \"telephone\": \"+52-322-292-2312\",\n            \"email\": \"hello@ponchodavalos.com.mx\",\n            \"url\": \"https://ponchodavalos.com.mx\"\n      }\n}",
+    "metaDescription": "Brand new studio-style 1-bedroom in the booming 5 de Diciembre neighborhood. Modern design with high ceilings, polished concrete floors, and a compact but funct",
+    "ogImage": "https://ponchodavalos.com.mx/images/mls/mlv-10006/header.jpg",
+    "i18nKey": "property.mls_mlv-10006",
+    "prevProperty": {
+      "name": "100 Calle Amapas 702",
+      "url": "property-mlv-10005.html",
+      "thumb": "../images/mls/mlv-10005/thumb.jpg"
+    },
+    "nextProperty": {
+      "name": "22 Calle Punta Esmeralda",
+      "url": "property-mlv-10007.html",
+      "thumb": "../images/mls/mlv-10007/thumb.jpg"
+    },
+    "parkingText": "None"
+  },
+  {
+    "listingId": "MLV-10007",
+    "slug": "mlv-10007",
+    "name": "22 Calle Punta Esmeralda",
+    "fileName": "property-mlv-10007.html",
+    "url": "mls/property-mlv-10007.html",
+    "fullUrl": "https://ponchodavalos.com.mx/mls/property-mlv-10007.html",
+    "priceUsd": 750000,
+    "priceMxn": 13875000,
+    "priceUsdFormatted": "$750,000 USD",
+    "priceMxnFormatted": "$13,875,000 MXN",
+    "beds": 5,
+    "baths": 5,
+    "surface": 480,
+    "parking": 4,
+    "yearBuilt": 2018,
+    "furnished": "Partially",
+    "view": "Ocean, Bay, Jungle",
+    "propertyType": "Single Family Residence",
+    "city": "Puerto Vallarta",
+    "state": "Jalisco",
+    "address": "22 Calle Punta Esmeralda, Sierra del Mar, Puerto Vallarta, Jalisco 48390",
+    "shortLocation": "JA, Puerto Vallarta",
+    "lat": 20.585,
+    "lng": -105.245,
+    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d500!2d-105.245!3d20.585!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e1!3m2!1ses-419!2smx",
+    "descriptionEn": "Spectacular estate in Sierra del Mar with 180-degree ocean views. This 5-bedroom luxury home features a dramatic double-height living room, custom woodwork, infinity pool with swim-up bar, outdoor kitchen, and landscaped gardens. Separate guest casita. Full smart home automation. Located in a prestigious gated community with tennis courts and clubhouse.",
+    "descriptionEs": "Espectacular propiedad en Sierra del Mar con vistas al océano de 180 grados. Esta lujosa casa de 5 recámaras cuenta con una dramática sala de doble altura, carpintería personalizada, alberca infinita con bar acuático, cocina exterior y jardines paisajísticos. Casita de huéspedes separada. Automatización completa de hogar inteligente. Ubicada en una prestigiosa comunidad cerrada con canchas de tenis y club house.",
+    "amenities": [
+      "Pool",
+      "Garden",
+      "Outdoor Kitchen",
+      "Smart Home",
+      "Tennis Courts",
+      "Clubhouse",
+      "Security 24/7",
+      "Guest Casita"
+    ],
+    "appliances": [
+      "Air Conditioning: Central",
+      "Washer/Dryer",
+      "Dishwasher",
+      "Wine Cooler"
+    ],
+    "utilities": [
+      "CFE",
+      "Solar Panels",
+      "Well Water",
+      "Septic"
+    ],
+    "locationFeatures": [
+      "Gated Community",
+      "Hillside",
+      "Ocean View"
+    ],
+    "headerImage": "../images/mls/mlv-10007/header.jpg",
+    "thumbImage": "images/mls/mlv-10007/thumb.jpg",
+    "images": [
+      {
+        "src": "../images/mls/mlv-10007/1.jpg",
+        "alt": "22 Calle Punta Esmeralda - Image 1",
+        "remoteSrc": "https://placehold.co/1024x683/2c3e50/ffffff?text=Sierra+Estate+Exterior",
+        "order": 1
+      },
+      {
+        "src": "../images/mls/mlv-10007/2.jpg",
+        "alt": "22 Calle Punta Esmeralda - Image 2",
+        "remoteSrc": "https://placehold.co/1024x683/34495e/ffffff?text=Sierra+Estate+Pool",
+        "order": 2
+      },
+      {
+        "src": "../images/mls/mlv-10007/3.jpg",
+        "alt": "22 Calle Punta Esmeralda - Image 3",
+        "remoteSrc": "https://placehold.co/1024x683/2c3e50/ffffff?text=Sierra+Estate+Living",
+        "order": 3
+      },
+      {
+        "src": "../images/mls/mlv-10007/4.jpg",
+        "alt": "22 Calle Punta Esmeralda - Image 4",
+        "remoteSrc": "https://placehold.co/1024x683/1a252f/ffffff?text=Sierra+Estate+Kitchen",
+        "order": 4
+      },
+      {
+        "src": "../images/mls/mlv-10007/5.jpg",
+        "alt": "22 Calle Punta Esmeralda - Image 5",
+        "remoteSrc": "https://placehold.co/1024x683/3498db/ffffff?text=Sierra+Estate+View",
+        "order": 5
+      },
+      {
+        "src": "../images/mls/mlv-10007/6.jpg",
+        "alt": "22 Calle Punta Esmeralda - Image 6",
+        "remoteSrc": "https://placehold.co/1024x683/27ae60/ffffff?text=Sierra+Estate+Garden",
+        "order": 6
+      }
+    ],
+    "primaryPhotoUrl": "https://placehold.co/1024x683/2c3e50/ffffff?text=Sierra+Estate+Exterior",
+    "allPhotoUrls": [
+      "https://placehold.co/1024x683/2c3e50/ffffff?text=Sierra+Estate+Exterior",
+      "https://placehold.co/1024x683/34495e/ffffff?text=Sierra+Estate+Pool",
+      "https://placehold.co/1024x683/2c3e50/ffffff?text=Sierra+Estate+Living",
+      "https://placehold.co/1024x683/1a252f/ffffff?text=Sierra+Estate+Kitchen",
+      "https://placehold.co/1024x683/3498db/ffffff?text=Sierra+Estate+View",
+      "https://placehold.co/1024x683/27ae60/ffffff?text=Sierra+Estate+Garden"
+    ],
+    "isotopeCategory": "category-20",
+    "schemaOrg": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"RealEstateListing\",\n      \"name\": \"22 Calle Punta Esmeralda\",\n      \"description\": \"Spectacular estate in Sierra del Mar with 180-degree ocean views. This 5-bedroom luxury home features a dramatic double-height living room, custom woodwork, infinity pool with swim-up bar, outdoor kitchen, and landscaped gardens. Separate guest casita. Full smart home automation. Located in a prestigious gated community with tennis courts and clubhouse.\",\n      \"url\": \"https://ponchodavalos.com.mx/mls/property-mlv-10007.html\",\n      \"image\": [\n            \"https://ponchodavalos.com.mx/images/mls/mlv-10007/header.jpg\"\n      ],\n      \"datePosted\": \"2025-05-05\",\n      \"address\": {\n            \"@type\": \"PostalAddress\",\n            \"addressLocality\": \"Puerto Vallarta\",\n            \"addressRegion\": \"Jalisco\",\n            \"addressCountry\": \"MX\"\n      },\n      \"geo\": {\n            \"@type\": \"GeoCoordinates\",\n            \"latitude\": \"20.585\",\n            \"longitude\": \"-105.245\"\n      },\n      \"offers\": {\n            \"@type\": \"Offer\",\n            \"price\": \"750000\",\n            \"priceCurrency\": \"USD\",\n            \"availability\": \"https://schema.org/InStock\"\n      },\n      \"numberOfRooms\": 5,\n      \"numberOfBathroomsTotal\": 5,\n      \"floorSize\": {\n            \"@type\": \"QuantitativeValue\",\n            \"value\": 480,\n            \"unitCode\": \"MTK\"\n      },\n      \"amenityFeature\": [\n            {\n                  \"@type\": \"LocationFeatureSpecification\",\n                  \"name\": \"Pool\"\n            },\n            {\n                  \"@type\": \"LocationFeatureSpecification\",\n                  \"name\": \"Garden\"\n            },\n            {\n                  \"@type\": \"LocationFeatureSpecification\",\n                  \"name\": \"Outdoor Kitchen\"\n            },\n            {\n                  \"@type\": \"LocationFeatureSpecification\",\n                  \"name\": \"Smart Home\"\n            },\n            {\n                  \"@type\": \"LocationFeatureSpecification\",\n                  \"name\": \"Tennis Courts\"\n            },\n            {\n                  \"@type\": \"LocationFeatureSpecification\",\n                  \"name\": \"Clubhouse\"\n            },\n            {\n                  \"@type\": \"LocationFeatureSpecification\",\n                  \"name\": \"Security 24/7\"\n            },\n            {\n                  \"@type\": \"LocationFeatureSpecification\",\n                  \"name\": \"Guest Casita\"\n            }\n      ],\n      \"broker\": {\n            \"@type\": \"RealEstateAgent\",\n            \"name\": \"Poncho Davalos Real Estate\",\n            \"telephone\": \"+52-322-292-2312\",\n            \"email\": \"hello@ponchodavalos.com.mx\",\n            \"url\": \"https://ponchodavalos.com.mx\"\n      }\n}",
+    "metaDescription": "Spectacular estate in Sierra del Mar with 180-degree ocean views. This 5-bedroom luxury home features a dramatic double-height living room, custom woodwork, inf",
+    "ogImage": "https://ponchodavalos.com.mx/images/mls/mlv-10007/header.jpg",
+    "i18nKey": "property.mls_mlv-10007",
+    "prevProperty": {
+      "name": "450 Av Mexico 2B",
+      "url": "property-mlv-10006.html",
+      "thumb": "../images/mls/mlv-10006/thumb.jpg"
+    },
+    "nextProperty": {
+      "name": "330 Av Fluvial Vallarta PH-2",
+      "url": "property-mlv-10008.html",
+      "thumb": "../images/mls/mlv-10008/thumb.jpg"
+    },
+    "parkingText": "4 spaces"
+  },
+  {
+    "listingId": "MLV-10008",
+    "slug": "mlv-10008",
+    "name": "330 Av Fluvial Vallarta PH-2",
+    "fileName": "property-mlv-10008.html",
+    "url": "mls/property-mlv-10008.html",
+    "fullUrl": "https://ponchodavalos.com.mx/mls/property-mlv-10008.html",
+    "priceUsd": 210000,
+    "priceMxn": 3885000,
+    "priceUsdFormatted": "$210,000 USD",
+    "priceMxnFormatted": "$3,885,000 MXN",
+    "beds": 2,
+    "baths": 2,
+    "surface": 130,
+    "parking": 1,
+    "yearBuilt": 2023,
+    "furnished": "Fully",
+    "view": "City, Mountain",
+    "propertyType": "Condominium",
+    "city": "Puerto Vallarta",
+    "state": "Jalisco",
+    "address": "330 Av Fluvial Vallarta PH-2, Fluvial Vallarta, Puerto Vallarta, Jalisco 48312",
+    "shortLocation": "JA, Puerto Vallarta",
+    "lat": 20.648,
+    "lng": -105.228,
+    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d500!2d-105.228!3d20.648!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e1!3m2!1ses-419!2smx",
+    "descriptionEn": "Bright penthouse in the modern Fluvial Vallarta district. This 2-bedroom unit features a private rooftop with BBQ area, open-concept living and dining, floor-to-ceiling windows, and high-end finishes. Close to shopping centers, international restaurants, and the Hotel Zone. Great for families or remote workers seeking a comfortable urban lifestyle.",
+    "descriptionEs": "Luminoso penthouse en el moderno distrito de Fluvial Vallarta. Esta unidad de 2 recámaras cuenta con azotea privada con área de BBQ, sala-comedor de concepto abierto, ventanales de piso a techo y acabados de alta gama. Cerca de centros comerciales, restaurantes internacionales y la Zona Hotelera. Ideal para familias o trabajadores remotos que buscan un estilo de vida urbano cómodo.",
+    "amenities": [
+      "Rooftop BBQ",
+      "Elevator",
+      "Security",
+      "Gym"
+    ],
+    "appliances": [
+      "Air Conditioning: Mini-Split",
+      "Washer/Dryer"
+    ],
+    "utilities": [
+      "CFE",
+      "Municipal Water"
+    ],
+    "locationFeatures": [
+      "Urban",
+      "Near Shopping"
+    ],
+    "headerImage": "../images/mls/mlv-10008/header.jpg",
+    "thumbImage": "images/mls/mlv-10008/thumb.jpg",
+    "images": [
+      {
+        "src": "../images/mls/mlv-10008/1.jpg",
+        "alt": "330 Av Fluvial Vallarta PH-2 - Image 1",
+        "remoteSrc": "https://placehold.co/1024x683/e74c3c/ffffff?text=Fluvial+PH2+Living",
+        "order": 1
+      },
+      {
+        "src": "../images/mls/mlv-10008/2.jpg",
+        "alt": "330 Av Fluvial Vallarta PH-2 - Image 2",
+        "remoteSrc": "https://placehold.co/1024x683/c0392b/ffffff?text=Fluvial+PH2+Kitchen",
+        "order": 2
+      },
+      {
+        "src": "../images/mls/mlv-10008/3.jpg",
+        "alt": "330 Av Fluvial Vallarta PH-2 - Image 3",
+        "remoteSrc": "https://placehold.co/1024x683/e74c3c/ffffff?text=Fluvial+PH2+Rooftop",
+        "order": 3
+      },
+      {
+        "src": "../images/mls/mlv-10008/4.jpg",
+        "alt": "330 Av Fluvial Vallarta PH-2 - Image 4",
+        "remoteSrc": "https://placehold.co/1024x683/d35400/ffffff?text=Fluvial+PH2+Bedroom",
+        "order": 4
+      }
+    ],
+    "primaryPhotoUrl": "https://placehold.co/1024x683/e74c3c/ffffff?text=Fluvial+PH2+Living",
+    "allPhotoUrls": [
+      "https://placehold.co/1024x683/e74c3c/ffffff?text=Fluvial+PH2+Living",
+      "https://placehold.co/1024x683/c0392b/ffffff?text=Fluvial+PH2+Kitchen",
+      "https://placehold.co/1024x683/e74c3c/ffffff?text=Fluvial+PH2+Rooftop",
+      "https://placehold.co/1024x683/d35400/ffffff?text=Fluvial+PH2+Bedroom"
+    ],
+    "isotopeCategory": "category-19",
+    "schemaOrg": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"RealEstateListing\",\n      \"name\": \"330 Av Fluvial Vallarta PH-2\",\n      \"description\": \"Bright penthouse in the modern Fluvial Vallarta district. This 2-bedroom unit features a private rooftop with BBQ area, open-concept living and dining, floor-to-ceiling windows, and high-end finishes. Close to shopping centers, international restaurants, and the Hotel Zone. Great for families or remote workers seeking a comfortable urban lifestyle.\",\n      \"url\": \"https://ponchodavalos.com.mx/mls/property-mlv-10008.html\",\n      \"image\": [\n            \"https://ponchodavalos.com.mx/images/mls/mlv-10008/header.jpg\"\n      ],\n      \"datePosted\": \"2025-07-15\",\n      \"address\": {\n            \"@type\": \"PostalAddress\",\n            \"addressLocality\": \"Puerto Vallarta\",\n            \"addressRegion\": \"Jalisco\",\n            \"addressCountry\": \"MX\"\n      },\n      \"geo\": {\n            \"@type\": \"GeoCoordinates\",\n            \"latitude\": \"20.648\",\n            \"longitude\": \"-105.228\"\n      },\n      \"offers\": {\n            \"@type\": \"Offer\",\n            \"price\": \"210000\",\n            \"priceCurrency\": \"USD\",\n            \"availability\": \"https://schema.org/InStock\"\n      },\n      \"numberOfRooms\": 2,\n      \"numberOfBathroomsTotal\": 2,\n      \"floorSize\": {\n            \"@type\": \"QuantitativeValue\",\n            \"value\": 130,\n            \"unitCode\": \"MTK\"\n      },\n      \"amenityFeature\": [\n            {\n                  \"@type\": \"LocationFeatureSpecification\",\n                  \"name\": \"Rooftop BBQ\"\n            },\n            {\n                  \"@type\": \"LocationFeatureSpecification\",\n                  \"name\": \"Elevator\"\n            },\n            {\n                  \"@type\": \"LocationFeatureSpecification\",\n                  \"name\": \"Security\"\n            },\n            {\n                  \"@type\": \"LocationFeatureSpecification\",\n                  \"name\": \"Gym\"\n            }\n      ],\n      \"broker\": {\n            \"@type\": \"RealEstateAgent\",\n            \"name\": \"Poncho Davalos Real Estate\",\n            \"telephone\": \"+52-322-292-2312\",\n            \"email\": \"hello@ponchodavalos.com.mx\",\n            \"url\": \"https://ponchodavalos.com.mx\"\n      }\n}",
+    "metaDescription": "Bright penthouse in the modern Fluvial Vallarta district. This 2-bedroom unit features a private rooftop with BBQ area, open-concept living and dining, floor-to",
+    "ogImage": "https://ponchodavalos.com.mx/images/mls/mlv-10008/header.jpg",
+    "i18nKey": "property.mls_mlv-10008",
+    "prevProperty": {
+      "name": "22 Calle Punta Esmeralda",
+      "url": "property-mlv-10007.html",
+      "thumb": "../images/mls/mlv-10007/thumb.jpg"
+    },
+    "nextProperty": {
+      "name": "200 Calle Basilio Badillo 8A",
+      "url": "property-mlv-10009.html",
+      "thumb": "../images/mls/mlv-10009/thumb.jpg"
+    },
+    "parkingText": "1 space"
+  },
+  {
+    "listingId": "MLV-10009",
+    "slug": "mlv-10009",
+    "name": "200 Calle Basilio Badillo 8A",
+    "fileName": "property-mlv-10009.html",
+    "url": "mls/property-mlv-10009.html",
+    "fullUrl": "https://ponchodavalos.com.mx/mls/property-mlv-10009.html",
+    "priceUsd": 165000,
+    "priceMxn": 3052500,
+    "priceUsdFormatted": "$165,000 USD",
+    "priceMxnFormatted": "$3,052,500 MXN",
+    "beds": 1,
+    "baths": 2,
+    "surface": 78,
+    "parking": 0,
+    "yearBuilt": 2022,
+    "furnished": "Fully",
+    "view": "City",
+    "propertyType": "Condominium",
+    "city": "Puerto Vallarta",
+    "state": "Jalisco",
+    "address": "200 Calle Basilio Badillo 8A, Emiliano Zapata, Puerto Vallarta, Jalisco 48380",
+    "shortLocation": "JA, Puerto Vallarta",
+    "lat": 20.61,
+    "lng": -105.231,
+    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d500!2d-105.231!3d20.61!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e1!3m2!1ses-419!2smx",
+    "descriptionEn": "Charming 1-bedroom condo on the famous Basilio Badillo street in Emiliano Zapata. Features a modern open layout, custom closets, and a terrace perfect for morning coffee. The neighborhood is known for its art galleries, boutique shops, and weekend art walk. Pool and common terrace on the rooftop. Excellent rental potential.",
+    "descriptionEs": "Encantador condominio de 1 recámara en la famosa calle Basilio Badillo en Emiliano Zapata. Cuenta con un diseño moderno abierto, closets a medida y una terraza perfecta para el café de la mañana. El barrio es conocido por sus galerías de arte, boutiques y paseo del arte de fin de semana. Alberca y terraza común en la azotea. Excelente potencial de renta.",
+    "amenities": [
+      "Rooftop Pool",
+      "Common Terrace",
+      "Security"
+    ],
+    "appliances": [
+      "Air Conditioning: Mini-Split"
+    ],
+    "utilities": [
+      "CFE"
+    ],
+    "locationFeatures": [
+      "Art District",
+      "Walking Distance to Beach"
+    ],
+    "headerImage": "../images/mls/mlv-10009/header.jpg",
+    "thumbImage": "images/mls/mlv-10009/thumb.jpg",
+    "images": [
+      {
+        "src": "../images/mls/mlv-10009/1.jpg",
+        "alt": "200 Calle Basilio Badillo 8A - Image 1",
+        "remoteSrc": "https://placehold.co/1024x683/8e44ad/ffffff?text=Badillo+8A+Living",
+        "order": 1
+      },
+      {
+        "src": "../images/mls/mlv-10009/2.jpg",
+        "alt": "200 Calle Basilio Badillo 8A - Image 2",
+        "remoteSrc": "https://placehold.co/1024x683/9b59b6/ffffff?text=Badillo+8A+Terrace",
+        "order": 2
+      },
+      {
+        "src": "../images/mls/mlv-10009/3.jpg",
+        "alt": "200 Calle Basilio Badillo 8A - Image 3",
+        "remoteSrc": "https://placehold.co/1024x683/8e44ad/ffffff?text=Badillo+8A+Bedroom",
+        "order": 3
+      }
+    ],
+    "primaryPhotoUrl": "https://placehold.co/1024x683/8e44ad/ffffff?text=Badillo+8A+Living",
+    "allPhotoUrls": [
+      "https://placehold.co/1024x683/8e44ad/ffffff?text=Badillo+8A+Living",
+      "https://placehold.co/1024x683/9b59b6/ffffff?text=Badillo+8A+Terrace",
+      "https://placehold.co/1024x683/8e44ad/ffffff?text=Badillo+8A+Bedroom"
+    ],
+    "isotopeCategory": "category-19",
+    "schemaOrg": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"RealEstateListing\",\n      \"name\": \"200 Calle Basilio Badillo 8A\",\n      \"description\": \"Charming 1-bedroom condo on the famous Basilio Badillo street in Emiliano Zapata. Features a modern open layout, custom closets, and a terrace perfect for morning coffee. The neighborhood is known for its art galleries, boutique shops, and weekend art walk. Pool and common terrace on the rooftop. Excellent rental potential.\",\n      \"url\": \"https://ponchodavalos.com.mx/mls/property-mlv-10009.html\",\n      \"image\": [\n            \"https://ponchodavalos.com.mx/images/mls/mlv-10009/header.jpg\"\n      ],\n      \"datePosted\": \"2025-06-10\",\n      \"address\": {\n            \"@type\": \"PostalAddress\",\n            \"addressLocality\": \"Puerto Vallarta\",\n            \"addressRegion\": \"Jalisco\",\n            \"addressCountry\": \"MX\"\n      },\n      \"geo\": {\n            \"@type\": \"GeoCoordinates\",\n            \"latitude\": \"20.61\",\n            \"longitude\": \"-105.231\"\n      },\n      \"offers\": {\n            \"@type\": \"Offer\",\n            \"price\": \"165000\",\n            \"priceCurrency\": \"USD\",\n            \"availability\": \"https://schema.org/InStock\"\n      },\n      \"numberOfRooms\": 1,\n      \"numberOfBathroomsTotal\": 2,\n      \"floorSize\": {\n            \"@type\": \"QuantitativeValue\",\n            \"value\": 78,\n            \"unitCode\": \"MTK\"\n      },\n      \"amenityFeature\": [\n            {\n                  \"@type\": \"LocationFeatureSpecification\",\n                  \"name\": \"Rooftop Pool\"\n            },\n            {\n                  \"@type\": \"LocationFeatureSpecification\",\n                  \"name\": \"Common Terrace\"\n            },\n            {\n                  \"@type\": \"LocationFeatureSpecification\",\n                  \"name\": \"Security\"\n            }\n      ],\n      \"broker\": {\n            \"@type\": \"RealEstateAgent\",\n            \"name\": \"Poncho Davalos Real Estate\",\n            \"telephone\": \"+52-322-292-2312\",\n            \"email\": \"hello@ponchodavalos.com.mx\",\n            \"url\": \"https://ponchodavalos.com.mx\"\n      }\n}",
+    "metaDescription": "Charming 1-bedroom condo on the famous Basilio Badillo street in Emiliano Zapata. Features a modern open layout, custom closets, and a terrace perfect for morni",
+    "ogImage": "https://ponchodavalos.com.mx/images/mls/mlv-10009/header.jpg",
+    "i18nKey": "property.mls_mlv-10009",
+    "prevProperty": {
+      "name": "330 Av Fluvial Vallarta PH-2",
+      "url": "property-mlv-10008.html",
+      "thumb": "../images/mls/mlv-10008/thumb.jpg"
+    },
+    "nextProperty": {
+      "name": "500 Paseo de los Cocoteros 1201",
+      "url": "property-mlv-10010.html",
+      "thumb": "../images/mls/mlv-10010/thumb.jpg"
+    },
+    "parkingText": "None"
+  },
+  {
+    "listingId": "MLV-10010",
+    "slug": "mlv-10010",
+    "name": "500 Paseo de los Cocoteros 1201",
+    "fileName": "property-mlv-10010.html",
+    "url": "mls/property-mlv-10010.html",
+    "fullUrl": "https://ponchodavalos.com.mx/mls/property-mlv-10010.html",
+    "priceUsd": 430000,
+    "priceMxn": 7955000,
+    "priceUsdFormatted": "$430,000 USD",
+    "priceMxnFormatted": "$7,955,000 MXN",
+    "beds": 3,
+    "baths": 3,
+    "surface": 210,
+    "parking": 2,
+    "yearBuilt": 2021,
+    "furnished": "Fully",
+    "view": "Ocean, Beachfront",
+    "propertyType": "Condominium",
+    "city": "Nuevo Vallarta",
+    "state": "Nayarit",
+    "address": "500 Paseo de los Cocoteros 1201, Nuevo Vallarta, Nayarit 63735",
+    "shortLocation": "NA, Nuevo Vallarta",
+    "lat": 20.701,
+    "lng": -105.295,
+    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d500!2d-105.295!3d20.701!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e1!3m2!1ses-419!2smx",
+    "descriptionEn": "Beachfront 3-bedroom luxury condo in Nuevo Vallarta's premier tower. Direct beach access, resort-style amenities including multiple pools, spa, restaurant, and kids club. Spacious layout with marble floors, granite counters, and floor-to-ceiling ocean views from every room. Includes deeded beach club membership. HOA includes all utilities.",
+    "descriptionEs": "Condominio de lujo de 3 recámaras frente al mar en la torre premier de Nuevo Vallarta. Acceso directo a la playa, amenidades estilo resort incluyendo múltiples albercas, spa, restaurante y club infantil. Amplia distribución con pisos de mármol, cubiertas de granito y vistas al océano de piso a techo desde cada habitación. Incluye membresía de club de playa. HOA incluye todos los servicios.",
+    "amenities": [
+      "Pool",
+      "Spa",
+      "Restaurant",
+      "Kids Club",
+      "Beach Club",
+      "Gym",
+      "Security 24/7",
+      "Concierge"
+    ],
+    "appliances": [
+      "Air Conditioning: Central",
+      "Washer/Dryer",
+      "Dishwasher"
+    ],
+    "utilities": [
+      "CFE",
+      "Municipal Water"
+    ],
+    "locationFeatures": [
+      "Beachfront",
+      "Resort"
+    ],
+    "headerImage": "../images/mls/mlv-10010/header.jpg",
+    "thumbImage": "images/mls/mlv-10010/thumb.jpg",
+    "images": [
+      {
+        "src": "../images/mls/mlv-10010/1.jpg",
+        "alt": "500 Paseo de los Cocoteros 1201 - Image 1",
+        "remoteSrc": "https://placehold.co/1024x683/3498db/ffffff?text=NV+1201+Living",
+        "order": 1
+      },
+      {
+        "src": "../images/mls/mlv-10010/2.jpg",
+        "alt": "500 Paseo de los Cocoteros 1201 - Image 2",
+        "remoteSrc": "https://placehold.co/1024x683/2980b9/ffffff?text=NV+1201+Ocean+View",
+        "order": 2
+      },
+      {
+        "src": "../images/mls/mlv-10010/3.jpg",
+        "alt": "500 Paseo de los Cocoteros 1201 - Image 3",
+        "remoteSrc": "https://placehold.co/1024x683/3498db/ffffff?text=NV+1201+Kitchen",
+        "order": 3
+      },
+      {
+        "src": "../images/mls/mlv-10010/4.jpg",
+        "alt": "500 Paseo de los Cocoteros 1201 - Image 4",
+        "remoteSrc": "https://placehold.co/1024x683/2471a3/ffffff?text=NV+1201+Master",
+        "order": 4
+      },
+      {
+        "src": "../images/mls/mlv-10010/5.jpg",
+        "alt": "500 Paseo de los Cocoteros 1201 - Image 5",
+        "remoteSrc": "https://placehold.co/1024x683/1abc9c/ffffff?text=NV+1201+Pool",
+        "order": 5
+      }
+    ],
+    "primaryPhotoUrl": "https://placehold.co/1024x683/3498db/ffffff?text=NV+1201+Living",
+    "allPhotoUrls": [
+      "https://placehold.co/1024x683/3498db/ffffff?text=NV+1201+Living",
+      "https://placehold.co/1024x683/2980b9/ffffff?text=NV+1201+Ocean+View",
+      "https://placehold.co/1024x683/3498db/ffffff?text=NV+1201+Kitchen",
+      "https://placehold.co/1024x683/2471a3/ffffff?text=NV+1201+Master",
+      "https://placehold.co/1024x683/1abc9c/ffffff?text=NV+1201+Pool"
+    ],
+    "isotopeCategory": "category-19",
+    "schemaOrg": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"RealEstateListing\",\n      \"name\": \"500 Paseo de los Cocoteros 1201\",\n      \"description\": \"Beachfront 3-bedroom luxury condo in Nuevo Vallarta's premier tower. Direct beach access, resort-style amenities including multiple pools, spa, restaurant, and kids club. Spacious layout with marble floors, granite counters, and floor-to-ceiling ocean views from every room. Includes deeded beach club membership. HOA includes all utilities.\",\n      \"url\": \"https://ponchodavalos.com.mx/mls/property-mlv-10010.html\",\n      \"image\": [\n            \"https://ponchodavalos.com.mx/images/mls/mlv-10010/header.jpg\"\n      ],\n      \"datePosted\": \"2025-08-10\",\n      \"address\": {\n            \"@type\": \"PostalAddress\",\n            \"addressLocality\": \"Nuevo Vallarta\",\n            \"addressRegion\": \"Nayarit\",\n            \"addressCountry\": \"MX\"\n      },\n      \"geo\": {\n            \"@type\": \"GeoCoordinates\",\n            \"latitude\": \"20.701\",\n            \"longitude\": \"-105.295\"\n      },\n      \"offers\": {\n            \"@type\": \"Offer\",\n            \"price\": \"430000\",\n            \"priceCurrency\": \"USD\",\n            \"availability\": \"https://schema.org/InStock\"\n      },\n      \"numberOfRooms\": 3,\n      \"numberOfBathroomsTotal\": 3,\n      \"floorSize\": {\n            \"@type\": \"QuantitativeValue\",\n            \"value\": 210,\n            \"unitCode\": \"MTK\"\n      },\n      \"amenityFeature\": [\n            {\n                  \"@type\": \"LocationFeatureSpecification\",\n                  \"name\": \"Pool\"\n            },\n            {\n                  \"@type\": \"LocationFeatureSpecification\",\n                  \"name\": \"Spa\"\n            },\n            {\n                  \"@type\": \"LocationFeatureSpecification\",\n                  \"name\": \"Restaurant\"\n            },\n            {\n                  \"@type\": \"LocationFeatureSpecification\",\n                  \"name\": \"Kids Club\"\n            },\n            {\n                  \"@type\": \"LocationFeatureSpecification\",\n                  \"name\": \"Beach Club\"\n            },\n            {\n                  \"@type\": \"LocationFeatureSpecification\",\n                  \"name\": \"Gym\"\n            },\n            {\n                  \"@type\": \"LocationFeatureSpecification\",\n                  \"name\": \"Security 24/7\"\n            },\n            {\n                  \"@type\": \"LocationFeatureSpecification\",\n                  \"name\": \"Concierge\"\n            }\n      ],\n      \"broker\": {\n            \"@type\": \"RealEstateAgent\",\n            \"name\": \"Poncho Davalos Real Estate\",\n            \"telephone\": \"+52-322-292-2312\",\n            \"email\": \"hello@ponchodavalos.com.mx\",\n            \"url\": \"https://ponchodavalos.com.mx\"\n      }\n}",
+    "metaDescription": "Beachfront 3-bedroom luxury condo in Nuevo Vallarta's premier tower. Direct beach access, resort-style amenities including multiple pools, spa, restaurant, and ",
+    "ogImage": "https://ponchodavalos.com.mx/images/mls/mlv-10010/header.jpg",
+    "i18nKey": "property.mls_mlv-10010",
+    "prevProperty": {
+      "name": "200 Calle Basilio Badillo 8A",
+      "url": "property-mlv-10009.html",
+      "thumb": "../images/mls/mlv-10009/thumb.jpg"
+    },
+    "nextProperty": {
+      "name": "1100 Av de los Tules B-5",
+      "url": "property-mlv-10011.html",
+      "thumb": "../images/mls/mlv-10011/thumb.jpg"
+    },
+    "parkingText": "2 spaces"
+  },
+  {
+    "listingId": "MLV-10011",
+    "slug": "mlv-10011",
+    "name": "1100 Av de los Tules B-5",
+    "fileName": "property-mlv-10011.html",
+    "url": "mls/property-mlv-10011.html",
+    "fullUrl": "https://ponchodavalos.com.mx/mls/property-mlv-10011.html",
+    "priceUsd": 125000,
+    "priceMxn": 2312500,
+    "priceUsdFormatted": "$125,000 USD",
+    "priceMxnFormatted": "$2,312,500 MXN",
+    "beds": 2,
+    "baths": 1,
+    "surface": 85,
+    "parking": 1,
+    "yearBuilt": 2019,
+    "furnished": "Unfurnished",
+    "view": "Garden",
+    "propertyType": "Condominium",
+    "city": "Puerto Vallarta",
+    "state": "Jalisco",
+    "address": "1100 Av de los Tules B-5, Versalles, Puerto Vallarta, Jalisco 48325",
+    "shortLocation": "JA, Puerto Vallarta",
+    "lat": 20.643,
+    "lng": -105.22,
+    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d500!2d-105.22!3d20.643!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e1!3m2!1ses-419!2smx",
+    "descriptionEn": "Well-maintained 2-bedroom condo in Versalles, a popular residential neighborhood among locals and expats. Practical layout with ample storage, covered parking, and a shared garden area. Close to Costco, Sam's Club, hospitals, and schools. Great value for full-time residents or long-term rental. Quiet, family-friendly building.",
+    "descriptionEs": "Condominio bien mantenido de 2 recámaras en Versalles, un popular barrio residencial entre locales y expatriados. Distribución práctica con amplio almacenamiento, estacionamiento cubierto y área de jardín compartida. Cerca de Costco, Sam's Club, hospitales y escuelas. Gran valor para residentes de tiempo completo o renta a largo plazo. Edificio tranquilo y familiar.",
+    "amenities": [
+      "Garden",
+      "Security",
+      "Covered Parking"
+    ],
+    "appliances": [
+      "Air Conditioning: Mini-Split"
+    ],
+    "utilities": [
+      "CFE",
+      "Municipal Water"
+    ],
+    "locationFeatures": [
+      "Residential",
+      "Near Shopping",
+      "Near Schools"
+    ],
+    "headerImage": "../images/mls/mlv-10011/header.jpg",
+    "thumbImage": "images/mls/mlv-10011/thumb.jpg",
+    "images": [
+      {
+        "src": "../images/mls/mlv-10011/1.jpg",
+        "alt": "1100 Av de los Tules B-5 - Image 1",
+        "remoteSrc": "https://placehold.co/1024x683/2ecc71/ffffff?text=Versalles+B5+Living",
+        "order": 1
+      },
+      {
+        "src": "../images/mls/mlv-10011/2.jpg",
+        "alt": "1100 Av de los Tules B-5 - Image 2",
+        "remoteSrc": "https://placehold.co/1024x683/27ae60/ffffff?text=Versalles+B5+Kitchen",
+        "order": 2
+      },
+      {
+        "src": "../images/mls/mlv-10011/3.jpg",
+        "alt": "1100 Av de los Tules B-5 - Image 3",
+        "remoteSrc": "https://placehold.co/1024x683/2ecc71/ffffff?text=Versalles+B5+Bedroom",
+        "order": 3
+      }
+    ],
+    "primaryPhotoUrl": "https://placehold.co/1024x683/2ecc71/ffffff?text=Versalles+B5+Living",
+    "allPhotoUrls": [
+      "https://placehold.co/1024x683/2ecc71/ffffff?text=Versalles+B5+Living",
+      "https://placehold.co/1024x683/27ae60/ffffff?text=Versalles+B5+Kitchen",
+      "https://placehold.co/1024x683/2ecc71/ffffff?text=Versalles+B5+Bedroom"
+    ],
+    "isotopeCategory": "category-19",
+    "schemaOrg": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"RealEstateListing\",\n      \"name\": \"1100 Av de los Tules B-5\",\n      \"description\": \"Well-maintained 2-bedroom condo in Versalles, a popular residential neighborhood among locals and expats. Practical layout with ample storage, covered parking, and a shared garden area. Close to Costco, Sam's Club, hospitals, and schools. Great value for full-time residents or long-term rental. Quiet, family-friendly building.\",\n      \"url\": \"https://ponchodavalos.com.mx/mls/property-mlv-10011.html\",\n      \"image\": [\n            \"https://ponchodavalos.com.mx/images/mls/mlv-10011/header.jpg\"\n      ],\n      \"datePosted\": \"2025-03-25\",\n      \"address\": {\n            \"@type\": \"PostalAddress\",\n            \"addressLocality\": \"Puerto Vallarta\",\n            \"addressRegion\": \"Jalisco\",\n            \"addressCountry\": \"MX\"\n      },\n      \"geo\": {\n            \"@type\": \"GeoCoordinates\",\n            \"latitude\": \"20.643\",\n            \"longitude\": \"-105.22\"\n      },\n      \"offers\": {\n            \"@type\": \"Offer\",\n            \"price\": \"125000\",\n            \"priceCurrency\": \"USD\",\n            \"availability\": \"https://schema.org/InStock\"\n      },\n      \"numberOfRooms\": 2,\n      \"numberOfBathroomsTotal\": 1,\n      \"floorSize\": {\n            \"@type\": \"QuantitativeValue\",\n            \"value\": 85,\n            \"unitCode\": \"MTK\"\n      },\n      \"amenityFeature\": [\n            {\n                  \"@type\": \"LocationFeatureSpecification\",\n                  \"name\": \"Garden\"\n            },\n            {\n                  \"@type\": \"LocationFeatureSpecification\",\n                  \"name\": \"Security\"\n            },\n            {\n                  \"@type\": \"LocationFeatureSpecification\",\n                  \"name\": \"Covered Parking\"\n            }\n      ],\n      \"broker\": {\n            \"@type\": \"RealEstateAgent\",\n            \"name\": \"Poncho Davalos Real Estate\",\n            \"telephone\": \"+52-322-292-2312\",\n            \"email\": \"hello@ponchodavalos.com.mx\",\n            \"url\": \"https://ponchodavalos.com.mx\"\n      }\n}",
+    "metaDescription": "Well-maintained 2-bedroom condo in Versalles, a popular residential neighborhood among locals and expats. Practical layout with ample storage, covered parking, ",
+    "ogImage": "https://ponchodavalos.com.mx/images/mls/mlv-10011/header.jpg",
+    "i18nKey": "property.mls_mlv-10011",
+    "prevProperty": {
+      "name": "500 Paseo de los Cocoteros 1201",
+      "url": "property-mlv-10010.html",
+      "thumb": "../images/mls/mlv-10010/thumb.jpg"
+    },
+    "nextProperty": {
+      "name": "75 Calle Pulpito PH-3",
+      "url": "property-mlv-10012.html",
+      "thumb": "../images/mls/mlv-10012/thumb.jpg"
+    },
+    "parkingText": "1 space"
+  },
+  {
+    "listingId": "MLV-10012",
+    "slug": "mlv-10012",
+    "name": "75 Calle Pulpito PH-3",
+    "fileName": "property-mlv-10012.html",
+    "url": "mls/property-mlv-10012.html",
+    "fullUrl": "https://ponchodavalos.com.mx/mls/property-mlv-10012.html",
+    "priceUsd": 310000,
+    "priceMxn": 5735000,
+    "priceUsdFormatted": "$310,000 USD",
+    "priceMxnFormatted": "$5,735,000 MXN",
+    "beds": 2,
+    "baths": 2,
+    "surface": 145,
+    "parking": 0,
+    "yearBuilt": 2024,
+    "furnished": "Fully",
+    "view": "Ocean, Mountain, City",
+    "propertyType": "Condominium",
+    "city": "Puerto Vallarta",
+    "state": "Jalisco",
+    "address": "75 Calle Pulpito PH-3, Zona Romántica, Puerto Vallarta, Jalisco 48380",
+    "shortLocation": "JA, Puerto Vallarta",
+    "lat": 20.609,
+    "lng": -105.233,
+    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d500!2d-105.233!3d20.609!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e1!3m2!1ses-419!2smx",
+    "descriptionEn": "Brand new penthouse on Calle Pulpito in the heart of Zona Romántica. This 2-bedroom unit features a stunning private rooftop with plunge pool and 360-degree views of the mountains and ocean. Modern industrial design with exposed brick, designer lighting, and premium appliances. Steps from the Pier of Los Muertos and the best restaurants in town.",
+    "descriptionEs": "Penthouse nuevo en Calle Pulpito en el corazón de la Zona Romántica. Esta unidad de 2 recámaras cuenta con una impresionante azotea privada con alberca y vistas de 360 grados a las montañas y el océano. Diseño industrial moderno con ladrillo expuesto, iluminación de diseñador y electrodomésticos premium. A pasos del Muelle de Los Muertos y los mejores restaurantes de la ciudad.",
+    "amenities": [
+      "Private Rooftop",
+      "Plunge Pool",
+      "Elevator",
+      "Security"
+    ],
+    "appliances": [
+      "Air Conditioning: Mini-Split",
+      "Washer/Dryer"
+    ],
+    "utilities": [
+      "CFE"
+    ],
+    "locationFeatures": [
+      "City Center",
+      "Walking Distance to Beach",
+      "Restaurant District"
+    ],
+    "headerImage": "../images/mls/mlv-10012/header.jpg",
+    "thumbImage": "images/mls/mlv-10012/thumb.jpg",
+    "images": [
+      {
+        "src": "../images/mls/mlv-10012/1.jpg",
+        "alt": "75 Calle Pulpito PH-3 - Image 1",
+        "remoteSrc": "https://placehold.co/1024x683/e67e22/ffffff?text=Pulpito+PH3+Living",
+        "order": 1
+      },
+      {
+        "src": "../images/mls/mlv-10012/2.jpg",
+        "alt": "75 Calle Pulpito PH-3 - Image 2",
+        "remoteSrc": "https://placehold.co/1024x683/d35400/ffffff?text=Pulpito+PH3+Rooftop",
+        "order": 2
+      },
+      {
+        "src": "../images/mls/mlv-10012/3.jpg",
+        "alt": "75 Calle Pulpito PH-3 - Image 3",
+        "remoteSrc": "https://placehold.co/1024x683/e67e22/ffffff?text=Pulpito+PH3+Kitchen",
+        "order": 3
+      },
+      {
+        "src": "../images/mls/mlv-10012/4.jpg",
+        "alt": "75 Calle Pulpito PH-3 - Image 4",
+        "remoteSrc": "https://placehold.co/1024x683/f39c12/ffffff?text=Pulpito+PH3+Bedroom",
+        "order": 4
+      },
+      {
+        "src": "../images/mls/mlv-10012/5.jpg",
+        "alt": "75 Calle Pulpito PH-3 - Image 5",
+        "remoteSrc": "https://placehold.co/1024x683/3498db/ffffff?text=Pulpito+PH3+View",
+        "order": 5
+      }
+    ],
+    "primaryPhotoUrl": "https://placehold.co/1024x683/e67e22/ffffff?text=Pulpito+PH3+Living",
+    "allPhotoUrls": [
+      "https://placehold.co/1024x683/e67e22/ffffff?text=Pulpito+PH3+Living",
+      "https://placehold.co/1024x683/d35400/ffffff?text=Pulpito+PH3+Rooftop",
+      "https://placehold.co/1024x683/e67e22/ffffff?text=Pulpito+PH3+Kitchen",
+      "https://placehold.co/1024x683/f39c12/ffffff?text=Pulpito+PH3+Bedroom",
+      "https://placehold.co/1024x683/3498db/ffffff?text=Pulpito+PH3+View"
+    ],
+    "isotopeCategory": "category-19",
+    "schemaOrg": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"RealEstateListing\",\n      \"name\": \"75 Calle Pulpito PH-3\",\n      \"description\": \"Brand new penthouse on Calle Pulpito in the heart of Zona Romántica. This 2-bedroom unit features a stunning private rooftop with plunge pool and 360-degree views of the mountains and ocean. Modern industrial design with exposed brick, designer lighting, and premium appliances. Steps from the Pier of Los Muertos and the best restaurants in town.\",\n      \"url\": \"https://ponchodavalos.com.mx/mls/property-mlv-10012.html\",\n      \"image\": [\n            \"https://ponchodavalos.com.mx/images/mls/mlv-10012/header.jpg\"\n      ],\n      \"datePosted\": \"2025-09-01\",\n      \"address\": {\n            \"@type\": \"PostalAddress\",\n            \"addressLocality\": \"Puerto Vallarta\",\n            \"addressRegion\": \"Jalisco\",\n            \"addressCountry\": \"MX\"\n      },\n      \"geo\": {\n            \"@type\": \"GeoCoordinates\",\n            \"latitude\": \"20.609\",\n            \"longitude\": \"-105.233\"\n      },\n      \"offers\": {\n            \"@type\": \"Offer\",\n            \"price\": \"310000\",\n            \"priceCurrency\": \"USD\",\n            \"availability\": \"https://schema.org/InStock\"\n      },\n      \"numberOfRooms\": 2,\n      \"numberOfBathroomsTotal\": 2,\n      \"floorSize\": {\n            \"@type\": \"QuantitativeValue\",\n            \"value\": 145,\n            \"unitCode\": \"MTK\"\n      },\n      \"amenityFeature\": [\n            {\n                  \"@type\": \"LocationFeatureSpecification\",\n                  \"name\": \"Private Rooftop\"\n            },\n            {\n                  \"@type\": \"LocationFeatureSpecification\",\n                  \"name\": \"Plunge Pool\"\n            },\n            {\n                  \"@type\": \"LocationFeatureSpecification\",\n                  \"name\": \"Elevator\"\n            },\n            {\n                  \"@type\": \"LocationFeatureSpecification\",\n                  \"name\": \"Security\"\n            }\n      ],\n      \"broker\": {\n            \"@type\": \"RealEstateAgent\",\n            \"name\": \"Poncho Davalos Real Estate\",\n            \"telephone\": \"+52-322-292-2312\",\n            \"email\": \"hello@ponchodavalos.com.mx\",\n            \"url\": \"https://ponchodavalos.com.mx\"\n      }\n}",
+    "metaDescription": "Brand new penthouse on Calle Pulpito in the heart of Zona Romántica. This 2-bedroom unit features a stunning private rooftop with plunge pool and 360-degree vie",
+    "ogImage": "https://ponchodavalos.com.mx/images/mls/mlv-10012/header.jpg",
+    "i18nKey": "property.mls_mlv-10012",
+    "prevProperty": {
+      "name": "1100 Av de los Tules B-5",
+      "url": "property-mlv-10011.html",
+      "thumb": "../images/mls/mlv-10011/thumb.jpg"
+    },
+    "nextProperty": null,
+    "parkingText": "None"
+  }
+]

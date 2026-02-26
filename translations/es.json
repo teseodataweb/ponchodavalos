@@ -9,7 +9,7 @@
     "services1": "Servicios",
     "blog": "Blog",
     "contact": "Contacto",
-    "meet":"Nuestro equipo",
+    "meet": "Nuestro equipo",
     "services": {
       "comprehensive": "Asesoría Integral",
       "investment": "Inversión para Compradores Extranjeros",
@@ -62,7 +62,7 @@
     "role": "Fundador de la Empresa"
   },
   "portfolio": {
-    "propiedad":"Propiedad",
+    "propiedad": "Propiedad",
     "subtitle": "[ Algunos de Nuestros Trabajos y Casos de Éxito ]",
     "title": "Descubre Nuestros Listados Recientes y Destacados en Bienes Raíces",
     "description": "Descubre casas y condominios cuidadosamente seleccionados que combinan estilo de vida, comodidad y oportunidades de inversión.",
@@ -445,8 +445,55 @@
     "property13": {
       "tagline": "Tu estilo de vida soñado con vistas panorámicas al mar.",
       "description": "Bienvenido a La Perla, un exclusivo desarrollo boutique que ofrece residencias cuidadosamente diseñadas de 1 y 2 recámaras, cada una con terrazas privadas que muestran impresionantes vistas a la montaña y a la ciudad. Ubicado a solo unas cuadras de la playa y a minutos del bullicioso centro de Puerto Vallarta, La Perla te invita a experimentar la verdadera vida costera en su máxima expresión. Los residentes disfrutan de amenidades premium en la azotea, incluyendo una hermosa piscina con vistas panorámicas de la bahía, un área de parrilla y un espacio multipropósito para reuniones y relajación. Con estacionamiento reservado para cada unidad, La Perla es ideal tanto para quienes disfrutan explorar a pie como para aquellos que valoran la flexibilidad de tener un vehículo."
+    },
+    "mls_mlv-10001": {
+      "tagline": "Condominium en Puerto Vallarta — 3 rec, 3 baños, 185 m²",
+      "description": "Impresionante penthouse en Marina Vallarta con vistas espectaculares al océano y la marina. Esta joya de 3 recámaras cuenta con ventanales de piso a techo, pisos de mármol italiano, cocina gourmet con electrodomésticos Wolf y terraza privada en la azotea con jacuzzi. Las amenidades del edificio incluyen alberca infinita, gimnasio, concierge y seguridad 24/7. A pasos del malecón de la Marina con restaurantes y tiendas de clase mundial."
+    },
+    "mls_mlv-10002": {
+      "tagline": "Condominium en Puerto Vallarta — 2 rec, 2 baños, 110 m²",
+      "description": "Moderno condominio de 2 recámaras en el corazón de la Zona Romántica, el barrio más buscado de Puerto Vallarta. Concepto abierto con acabados contemporáneos, cubiertas de cuarzo y un amplio balcón con vista a la vibrante vida callejera. A distancia caminable de Playa Los Muertos, galerías, restaurantes y vida nocturna. Ideal para renta vacacional con historial comprobado de ingresos."
+    },
+    "mls_mlv-10003": {
+      "tagline": "Single Family Residence en Puerto Vallarta — 4 rec, 4 baños, 320 m²",
+      "description": "Magnífica villa en la ladera del prestigioso Conchas Chinas con vistas panorámicas a la Bahía de Banderas. Esta residencia de 4 recámaras cuenta con alberca infinita, exuberantes jardines tropicales, cocina de chef, cine en casa y múltiples terrazas para entretenimiento. La suite principal incluye baño tipo spa y balcón privado. Tecnología de hogar inteligente en toda la propiedad. Comunidad cerrada con seguridad 24 horas."
+    },
+    "mls_mlv-10004": {
+      "tagline": "Condominium en Puerto Vallarta — 1 rec, 1 baño, 65 m²",
+      "description": "Eficiente condominio de 1 recámara en la Zona Hotelera, perfecto para inversionistas que buscan fuertes rendimientos de renta. Cuenta con acabados modernos, aire acondicionado y balcón con vistas a la ciudad. El edificio ofrece alberca, gimnasio y área común en la azotea. Excelente ubicación cerca de los principales hoteles, restaurantes y Walmart. Bajas cuotas de mantenimiento."
+    },
+    "mls_mlv-10005": {
+      "tagline": "Condominium en Puerto Vallarta — 3 rec, 3 baños, 195 m²",
+      "description": "Lujoso penthouse de 3 recámaras en el exclusivo barrio de Amapas con vistas sin obstrucción a la Bahía de Banderas. Incluye planta abierta, acabados de diseñador, alberca privada en la terraza, cava de vinos y sistema de hogar inteligente. El edificio ofrece alberca infinita en la azotea, gimnasio y servicio de concierge. Ubicación privilegiada sobre Playa Los Muertos."
+    },
+    "mls_mlv-10006": {
+      "tagline": "Condominium en Puerto Vallarta — 1 rec, 1 baño, 52 m²",
+      "description": "Nuevo departamento estilo estudio de 1 recámara en el creciente barrio de 5 de Diciembre. Diseño moderno con techos altos, pisos de concreto pulido y cocina compacta pero funcional. Inversión ideal de nivel de entrada en la zona de mayor crecimiento de PV. A minutos del Malecón y el centro. El edificio cuenta con alberca en la azotea y área común."
+    },
+    "mls_mlv-10007": {
+      "tagline": "Single Family Residence en Puerto Vallarta — 5 rec, 5 baños, 480 m²",
+      "description": "Espectacular propiedad en Sierra del Mar con vistas al océano de 180 grados. Esta lujosa casa de 5 recámaras cuenta con una dramática sala de doble altura, carpintería personalizada, alberca infinita con bar acuático, cocina exterior y jardines paisajísticos. Casita de huéspedes separada. Automatización completa de hogar inteligente. Ubicada en una prestigiosa comunidad cerrada con canchas de tenis y club house."
+    },
+    "mls_mlv-10008": {
+      "tagline": "Condominium en Puerto Vallarta — 2 rec, 2 baños, 130 m²",
+      "description": "Luminoso penthouse en el moderno distrito de Fluvial Vallarta. Esta unidad de 2 recámaras cuenta con azotea privada con área de BBQ, sala-comedor de concepto abierto, ventanales de piso a techo y acabados de alta gama. Cerca de centros comerciales, restaurantes internacionales y la Zona Hotelera. Ideal para familias o trabajadores remotos que buscan un estilo de vida urbano cómodo."
+    },
+    "mls_mlv-10009": {
+      "tagline": "Condominium en Puerto Vallarta — 1 rec, 2 baños, 78 m²",
+      "description": "Encantador condominio de 1 recámara en la famosa calle Basilio Badillo en Emiliano Zapata. Cuenta con un diseño moderno abierto, closets a medida y una terraza perfecta para el café de la mañana. El barrio es conocido por sus galerías de arte, boutiques y paseo del arte de fin de semana. Alberca y terraza común en la azotea. Excelente potencial de renta."
+    },
+    "mls_mlv-10010": {
+      "tagline": "Condominium en Nuevo Vallarta — 3 rec, 3 baños, 210 m²",
+      "description": "Condominio de lujo de 3 recámaras frente al mar en la torre premier de Nuevo Vallarta. Acceso directo a la playa, amenidades estilo resort incluyendo múltiples albercas, spa, restaurante y club infantil. Amplia distribución con pisos de mármol, cubiertas de granito y vistas al océano de piso a techo desde cada habitación. Incluye membresía de club de playa. HOA incluye todos los servicios."
+    },
+    "mls_mlv-10011": {
+      "tagline": "Condominium en Puerto Vallarta — 2 rec, 1 baño, 85 m²",
+      "description": "Condominio bien mantenido de 2 recámaras en Versalles, un popular barrio residencial entre locales y expatriados. Distribución práctica con amplio almacenamiento, estacionamiento cubierto y área de jardín compartida. Cerca de Costco, Sam's Club, hospitales y escuelas. Gran valor para residentes de tiempo completo o renta a largo plazo. Edificio tranquilo y familiar."
+    },
+    "mls_mlv-10012": {
+      "tagline": "Condominium en Puerto Vallarta — 2 rec, 2 baños, 145 m²",
+      "description": "Penthouse nuevo en Calle Pulpito en el corazón de la Zona Romántica. Esta unidad de 2 recámaras cuenta con una impresionante azotea privada con alberca y vistas de 360 grados a las montañas y el océano. Diseño industrial moderno con ladrillo expuesto, iluminación de diseñador y electrodomésticos premium. A pasos del Muelle de Los Muertos y los mejores restaurantes de la ciudad."
     }
-
   },
   "servicesDetail": {
     "service1": {
