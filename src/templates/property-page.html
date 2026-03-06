@@ -14,6 +14,7 @@
 <meta content="IE=edge" http-equiv="X-UA-Compatible">
 <meta content="width=device-width, initial-scale=1, maximum-scale=1" name="viewport"/>
 <meta name="description" content="{{metaDescription}}">
+<meta name="keywords" content="{{name}} puerto vallarta, condos for sale puerto vallarta, property for sale vallarta, real estate puerto vallarta, bienes raices puerto vallarta">
     <!-- Open Graph -->
     <meta property="og:type" content="website" />
     <meta property="og:title" content="{{name}} | Puerto Vallarta | Poncho Davalos" />
@@ -94,13 +95,26 @@
 }
 </style>
 <link href="../style.css" rel="stylesheet"/>
-</meta>    <link rel="canonical" href="{{fullUrl}}" />
+    <link rel="canonical" href="{{fullUrl}}" />
 
     <!-- Schema.org RealEstateListing -->
     <script type="application/ld+json">
     {{{schemaOrg}}}
     </script>
 
+
+    <!-- BreadcrumbList Schema -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://ponchodavalos.com.mx/"},
+        {"@type": "ListItem", "position": 2, "name": "Properties", "item": "https://ponchodavalos.com.mx/portfolio-four-column-wide.html"},
+        {"@type": "ListItem", "position": 3, "name": "{{name}}"}
+      ]
+    }
+    </script>
 
     <!-- Hreflang -->
     <link rel="alternate" hreflang="en" href="{{fullUrl}}" />

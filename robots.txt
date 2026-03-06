@@ -1,6 +1,6 @@
 # robots.txt para Poncho Dávalos Real Estate
 # https://ponchodavalos.com.mx
-# Actualizado: Diciembre 2025
+# Actualizado: Marzo 2026
 
 User-agent: *
 
@@ -56,7 +56,10 @@ Allow: /services-detail-3.html
 Allow: /services-detail-4.html
 Allow: /services-detail-5.html
 Allow: /services-detail-6.html
-Allow: /404-error.html
+# 404 page excluded - noindex applied
+
+# Permitir MLS property pages
+Allow: /mls/
 
 # Permitir assets necesarios para renderizado
 Allow: /css/
@@ -79,3 +82,19 @@ Crawl-delay: 0
 User-agent: Bingbot
 Allow: /
 Crawl-delay: 2
+
+# LLM Crawlers - Allow for visibility in AI search
+User-agent: GPTBot
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Bytespider
+Allow: /
