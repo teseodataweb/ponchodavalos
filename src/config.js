@@ -28,7 +28,7 @@ module.exports = {
   // Site config
   siteUrl: 'https://ponchodavalos.com.mx',
   agentName: 'Poncho Davalos Real Estate',
-  agentPhone: '+52-322-292-2312',
+  agentPhone: '+52 (322) 292-2312',
   agentEmail: 'hello@ponchodavalos.com.mx',
   whatsappUrl: 'https://wa.me/523222922312',
 
