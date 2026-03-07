@@ -680,7 +680,7 @@ Agregar a TODAS las páginas en `<head>`:
   "broker": {
     "@type": "RealEstateAgent",
     "name": "Poncho Dávalos Real Estate",
-    "telephone": "+52-322-292-2312",
+    "telephone": "+52 (322) 292-2312",
     "url": "https://ponchodavalos.com.mx"
   }
 }

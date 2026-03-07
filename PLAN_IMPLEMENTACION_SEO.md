@@ -658,7 +658,7 @@ Eliminar líneas 40-43:
   "broker": {
     "@type": "RealEstateAgent",
     "name": "Poncho Dávalos Real Estate",
-    "telephone": "+52-322-292-2312",
+    "telephone": "+52 (322) 292-2312",
     "email": "hello@ponchodavalos.com.mx",
     "url": "https://ponchodavalos.com.mx"
   }
@@ -704,7 +704,7 @@ Eliminar líneas 40-43:
   "provider": {
     "@type": "RealEstateAgent",
     "name": "Poncho Dávalos Real Estate",
-    "telephone": "+52-322-292-2312",
+    "telephone": "+52 (322) 292-2312",
     "url": "https://ponchodavalos.com.mx"
   },
   "areaServed": {
