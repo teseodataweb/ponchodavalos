@@ -1,1209 +1,2064 @@
 [
   {
-    "listingId": "MLV-10001",
-    "slug": "mlv-10001",
-    "name": "1500 Av Paseo de la Marina PH-A",
-    "fileName": "property-mlv-10001.html",
-    "url": "mls/property-mlv-10001.html",
-    "fullUrl": "https://ponchodavalos.com.mx/mls/property-mlv-10001.html",
-    "priceUsd": 285000,
-    "priceMxn": 5272500,
-    "priceUsdFormatted": "$285,000 USD",
-    "priceMxnFormatted": "$5,272,500 MXN",
-    "beds": 3,
-    "baths": 3,
-    "surface": 185,
-    "parking": 2,
-    "yearBuilt": 2023,
-    "furnished": "Fully",
-    "view": "Ocean, Marina",
+    "listingId": "FLX-41264",
+    "slug": "flx-41264",
+    "name": "7 Batallon de San Blas 1",
+    "fileName": "property-flx-41264.html",
+    "url": "mls/property-flx-41264.html",
+    "fullUrl": "https://ponchodavalos.com.mx/mls/property-flx-41264.html",
+    "priceUsd": 168000,
+    "priceMxn": 3108000,
+    "priceUsdFormatted": "$168,000 USD",
+    "priceMxnFormatted": "$3,108,000 MXN",
+    "beds": 1,
+    "baths": 1,
+    "surface": 62.79,
+    "parking": 0,
+    "yearBuilt": "",
+    "furnished": "",
+    "view": "",
     "propertyType": "Condominium",
     "city": "Puerto Vallarta",
     "state": "Jalisco",
-    "address": "1500 Av Paseo de la Marina PH-A, Marina Vallarta, Puerto Vallarta, Jalisco 48335",
+    "address": "7 Batallon de San Blas 1, Condo San Blas, Puerto Vallarta, JA",
     "shortLocation": "JA, Puerto Vallarta",
-    "lat": 20.658,
-    "lng": -105.246,
-    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d500!2d-105.246!3d20.658!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e1!3m2!1ses-419!2smx",
-    "descriptionEn": "Stunning penthouse in Marina Vallarta with breathtaking ocean and marina views. This 3-bedroom gem features floor-to-ceiling windows, Italian marble floors, gourmet kitchen with Wolf appliances, and a private rooftop terrace with jacuzzi. Building amenities include infinity pool, fitness center, concierge, and 24/7 security. Steps from the Marina boardwalk with world-class dining and shopping.",
-    "descriptionEs": "Impresionante penthouse en Marina Vallarta con vistas espectaculares al océano y la marina. Esta joya de 3 recámaras cuenta con ventanales de piso a techo, pisos de mármol italiano, cocina gourmet con electrodomésticos Wolf y terraza privada en la azotea con jacuzzi. Las amenidades del edificio incluyen alberca infinita, gimnasio, concierge y seguridad 24/7. A pasos del malecón de la Marina con restaurantes y tiendas de clase mundial.",
-    "amenities": [
-      "Pool",
-      "Gym",
-      "Concierge",
-      "Security 24/7",
-      "Elevator",
-      "Rooftop Terrace"
-    ],
-    "appliances": [
-      "Air Conditioning: Central",
-      "Washer/Dryer"
-    ],
-    "utilities": [
-      "CFE",
-      "Municipal Water"
-    ],
-    "locationFeatures": [
-      "Marina",
-      "Walking Distance to Beach"
-    ],
-    "headerImage": "../images/mls/mlv-10001/header.jpg",
-    "thumbImage": "images/mls/mlv-10001/thumb.jpg",
+    "lat": null,
+    "lng": null,
+    "mapEmbedUrl": "",
+    "descriptionEn": "Condo San Blas — 1 bed, 1 bath, 675.83 sqft condos in Puerto Vallarta.",
+    "descriptionEs": "Condo San Blas — 1 rec, 1 baños, 675.83 pies² condominio en Puerto Vallarta.",
+    "amenities": [],
+    "appliances": [],
+    "utilities": [],
+    "locationFeatures": [],
+    "headerImage": "../images/mls/flx-41264/header.jpg",
+    "thumbImage": "images/mls/flx-41264/thumb.jpg",
     "images": [
       {
-        "src": "../images/mls/mlv-10001/1.jpg",
-        "alt": "1500 Av Paseo de la Marina PH-A - Image 1",
-        "remoteSrc": "https://placehold.co/1024x683/2c3e50/ffffff?text=Marina+PH-A+Living",
+        "src": "../images/mls/flx-41264/1.jpg",
+        "alt": "7 Batallon de San Blas 1 - Image 1",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251215001856777247000000-o.jpg",
         "order": 1
       },
       {
-        "src": "../images/mls/mlv-10001/2.jpg",
-        "alt": "1500 Av Paseo de la Marina PH-A - Image 2",
-        "remoteSrc": "https://placehold.co/1024x683/34495e/ffffff?text=Marina+PH-A+Kitchen",
+        "src": "../images/mls/flx-41264/2.jpg",
+        "alt": "7 Batallon de San Blas 1 - Image 2",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251215001900347896000000-o.jpg",
         "order": 2
       },
       {
-        "src": "../images/mls/mlv-10001/3.jpg",
-        "alt": "1500 Av Paseo de la Marina PH-A - Image 3",
-        "remoteSrc": "https://placehold.co/1024x683/2c3e50/ffffff?text=Marina+PH-A+Master",
+        "src": "../images/mls/flx-41264/3.jpg",
+        "alt": "7 Batallon de San Blas 1 - Image 3",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251215001903212682000000-o.jpg",
         "order": 3
       },
       {
-        "src": "../images/mls/mlv-10001/4.jpg",
-        "alt": "1500 Av Paseo de la Marina PH-A - Image 4",
-        "remoteSrc": "https://placehold.co/1024x683/1abc9c/ffffff?text=Marina+PH-A+Terrace",
+        "src": "../images/mls/flx-41264/4.jpg",
+        "alt": "7 Batallon de San Blas 1 - Image 4",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251215001906350047000000-o.jpg",
         "order": 4
       },
       {
-        "src": "../images/mls/mlv-10001/5.jpg",
-        "alt": "1500 Av Paseo de la Marina PH-A - Image 5",
-        "remoteSrc": "https://placehold.co/1024x683/3498db/ffffff?text=Marina+PH-A+View",
+        "src": "../images/mls/flx-41264/5.jpg",
+        "alt": "7 Batallon de San Blas 1 - Image 5",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251215001909590567000000-o.jpg",
         "order": 5
+      },
+      {
+        "src": "../images/mls/flx-41264/6.jpg",
+        "alt": "7 Batallon de San Blas 1 - Image 6",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251215001912483637000000-o.jpg",
+        "order": 6
+      },
+      {
+        "src": "../images/mls/flx-41264/7.jpg",
+        "alt": "7 Batallon de San Blas 1 - Image 7",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251215001915224226000000-o.jpg",
+        "order": 7
+      },
+      {
+        "src": "../images/mls/flx-41264/8.jpg",
+        "alt": "7 Batallon de San Blas 1 - Image 8",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251215001918457254000000-o.jpg",
+        "order": 8
+      },
+      {
+        "src": "../images/mls/flx-41264/9.jpg",
+        "alt": "7 Batallon de San Blas 1 - Image 9",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251215001921591525000000-o.jpg",
+        "order": 9
+      },
+      {
+        "src": "../images/mls/flx-41264/10.jpg",
+        "alt": "7 Batallon de San Blas 1 - Image 10",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251215001924776515000000-o.jpg",
+        "order": 10
+      },
+      {
+        "src": "../images/mls/flx-41264/11.jpg",
+        "alt": "7 Batallon de San Blas 1 - Image 11",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251215001927882636000000-o.jpg",
+        "order": 11
+      },
+      {
+        "src": "../images/mls/flx-41264/12.jpg",
+        "alt": "7 Batallon de San Blas 1 - Image 12",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251215001930990945000000-o.jpg",
+        "order": 12
+      },
+      {
+        "src": "../images/mls/flx-41264/13.jpg",
+        "alt": "7 Batallon de San Blas 1 - Image 13",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251215001934067574000000-o.jpg",
+        "order": 13
+      },
+      {
+        "src": "../images/mls/flx-41264/14.jpg",
+        "alt": "7 Batallon de San Blas 1 - Image 14",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251215001937476515000000-o.jpg",
+        "order": 14
+      },
+      {
+        "src": "../images/mls/flx-41264/15.jpg",
+        "alt": "7 Batallon de San Blas 1 - Image 15",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251215001940105270000000-o.jpg",
+        "order": 15
+      },
+      {
+        "src": "../images/mls/flx-41264/16.jpg",
+        "alt": "7 Batallon de San Blas 1 - Image 16",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251215001943055437000000-o.jpg",
+        "order": 16
+      },
+      {
+        "src": "../images/mls/flx-41264/17.jpg",
+        "alt": "7 Batallon de San Blas 1 - Image 17",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251215001947245923000000-o.jpg",
+        "order": 17
+      },
+      {
+        "src": "../images/mls/flx-41264/18.jpg",
+        "alt": "7 Batallon de San Blas 1 - Image 18",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251215001950833323000000-o.jpg",
+        "order": 18
+      },
+      {
+        "src": "../images/mls/flx-41264/19.jpg",
+        "alt": "7 Batallon de San Blas 1 - Image 19",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251215001954062362000000-o.jpg",
+        "order": 19
+      },
+      {
+        "src": "../images/mls/flx-41264/20.jpg",
+        "alt": "7 Batallon de San Blas 1 - Image 20",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251215001957776219000000-o.jpg",
+        "order": 20
+      },
+      {
+        "src": "../images/mls/flx-41264/21.jpg",
+        "alt": "7 Batallon de San Blas 1 - Image 21",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251215002001408294000000-o.jpg",
+        "order": 21
+      },
+      {
+        "src": "../images/mls/flx-41264/22.jpg",
+        "alt": "7 Batallon de San Blas 1 - Image 22",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251215002005233989000000-o.jpg",
+        "order": 22
       }
     ],
-    "primaryPhotoUrl": "https://placehold.co/1024x683/2c3e50/ffffff?text=Marina+PH-A+Living",
+    "primaryPhotoUrl": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251215001856777247000000-o.jpg",
     "allPhotoUrls": [
-      "https://placehold.co/1024x683/2c3e50/ffffff?text=Marina+PH-A+Living",
-      "https://placehold.co/1024x683/34495e/ffffff?text=Marina+PH-A+Kitchen",
-      "https://placehold.co/1024x683/2c3e50/ffffff?text=Marina+PH-A+Master",
-      "https://placehold.co/1024x683/1abc9c/ffffff?text=Marina+PH-A+Terrace",
-      "https://placehold.co/1024x683/3498db/ffffff?text=Marina+PH-A+View"
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251215001856777247000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251215001900347896000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251215001903212682000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251215001906350047000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251215001909590567000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251215001912483637000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251215001915224226000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251215001918457254000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251215001921591525000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251215001924776515000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251215001927882636000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251215001930990945000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251215001934067574000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251215001937476515000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251215001940105270000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251215001943055437000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251215001947245923000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251215001950833323000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251215001954062362000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251215001957776219000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251215002001408294000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251215002005233989000000-o.jpg"
     ],
     "isotopeCategory": "category-19",
-    "schemaOrg": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"RealEstateListing\",\n      \"name\": \"1500 Av Paseo de la Marina PH-A\",\n      \"description\": \"Stunning penthouse in Marina Vallarta with breathtaking ocean and marina views. This 3-bedroom gem features floor-to-ceiling windows, Italian marble floors, gourmet kitchen with Wolf appliances, and a private rooftop terrace with jacuzzi. Building amenities include infinity pool, fitness center, concierge, and 24/7 security. Steps from the Marina boardwalk with world-class dining and shopping.\",\n      \"url\": \"https://ponchodavalos.com.mx/mls/property-mlv-10001.html\",\n      \"image\": [\n            \"https://ponchodavalos.com.mx/images/mls/mlv-10001/header.jpg\"\n      ],\n      \"datePosted\": \"2025-06-15\",\n      \"address\": {\n            \"@type\": \"PostalAddress\",\n            \"addressLocality\": \"Puerto Vallarta\",\n            \"addressRegion\": \"Jalisco\",\n            \"addressCountry\": \"MX\"\n      },\n      \"geo\": {\n            \"@type\": \"GeoCoordinates\",\n            \"latitude\": \"20.658\",\n            \"longitude\": \"-105.246\"\n      },\n      \"offers\": {\n            \"@type\": \"Offer\",\n            \"price\": \"285000\",\n            \"priceCurrency\": \"USD\",\n            \"availability\": \"https://schema.org/InStock\"\n      },\n      \"numberOfRooms\": 3,\n      \"numberOfBathroomsTotal\": 3,\n      \"floorSize\": {\n            \"@type\": \"QuantitativeValue\",\n            \"value\": 185,\n            \"unitCode\": \"MTK\"\n      },\n      \"amenityFeature\": [\n            {\n                  \"@type\": \"LocationFeatureSpecification\",\n                  \"name\": \"Pool\"\n            },\n            {\n                  \"@type\": \"LocationFeatureSpecification\",\n                  \"name\": \"Gym\"\n            },\n            {\n                  \"@type\": \"LocationFeatureSpecification\",\n                  \"name\": \"Concierge\"\n            },\n            {\n                  \"@type\": \"LocationFeatureSpecification\",\n                  \"name\": \"Security 24/7\"\n            },\n            {\n                  \"@type\": \"LocationFeatureSpecification\",\n                  \"name\": \"Elevator\"\n            },\n            {\n                  \"@type\": \"LocationFeatureSpecification\",\n                  \"name\": \"Rooftop Terrace\"\n            }\n      ],\n      \"broker\": {\n            \"@type\": \"RealEstateAgent\",\n            \"name\": \"Poncho Davalos Real Estate\",\n            \"telephone\": \"+52 (322) 292-2312\",\n            \"email\": \"hello@ponchodavalos.com.mx\",\n            \"url\": \"https://ponchodavalos.com.mx\"\n      }\n}",
-    "metaDescription": "Stunning penthouse in Marina Vallarta with breathtaking ocean and marina views. This 3-bedroom gem features floor-to-ceiling windows, Italian marble floors, gou",
-    "ogImage": "https://ponchodavalos.com.mx/images/mls/mlv-10001/header.jpg",
-    "i18nKey": "property.mls_mlv-10001",
+    "schemaOrg": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"RealEstateListing\",\n      \"name\": \"7 Batallon de San Blas 1\",\n      \"description\": \"Condo San Blas — 1 bed, 1 bath, 675.83 sqft condos in Puerto Vallarta.\",\n      \"url\": \"https://ponchodavalos.com.mx/mls/property-flx-41264.html\",\n      \"image\": [\n            \"https://ponchodavalos.com.mx/images/mls/flx-41264/header.jpg\"\n      ],\n      \"datePosted\": \"2026-03-30\",\n      \"address\": {\n            \"@type\": \"PostalAddress\",\n            \"addressLocality\": \"Puerto Vallarta\",\n            \"addressRegion\": \"Jalisco\",\n            \"addressCountry\": \"MX\"\n      },\n      \"offers\": {\n            \"@type\": \"Offer\",\n            \"price\": \"168000\",\n            \"priceCurrency\": \"USD\",\n            \"availability\": \"https://schema.org/InStock\"\n      },\n      \"numberOfRooms\": 1,\n      \"numberOfBathroomsTotal\": 1,\n      \"floorSize\": {\n            \"@type\": \"QuantitativeValue\",\n            \"value\": 62.79,\n            \"unitCode\": \"MTK\"\n      },\n      \"amenityFeature\": [],\n      \"broker\": {\n            \"@type\": \"RealEstateAgent\",\n            \"name\": \"Poncho Davalos Real Estate\",\n            \"telephone\": \"+52 (322) 292-2312\",\n            \"email\": \"hello@ponchodavalos.com.mx\",\n            \"url\": \"https://ponchodavalos.com.mx\"\n      }\n}",
+    "metaDescription": "Condo San Blas — 1 bed, 1 bath, 675.83 sqft condos in Puerto Vallarta.",
+    "ogImage": "https://ponchodavalos.com.mx/images/mls/flx-41264/header.jpg",
+    "i18nKey": "property.mls_flx-41264",
     "prevProperty": null,
     "nextProperty": {
-      "name": "289 Calle Olas Altas 501",
-      "url": "property-mlv-10002.html",
-      "thumb": "../images/mls/mlv-10002/thumb.jpg"
-    },
-    "parkingText": "2 spaces"
-  },
-  {
-    "listingId": "MLV-10002",
-    "slug": "mlv-10002",
-    "name": "289 Calle Olas Altas 501",
-    "fileName": "property-mlv-10002.html",
-    "url": "mls/property-mlv-10002.html",
-    "fullUrl": "https://ponchodavalos.com.mx/mls/property-mlv-10002.html",
-    "priceUsd": 189000,
-    "priceMxn": 3496500,
-    "priceUsdFormatted": "$189,000 USD",
-    "priceMxnFormatted": "$3,496,500 MXN",
-    "beds": 2,
-    "baths": 2,
-    "surface": 110,
-    "parking": 0,
-    "yearBuilt": 2021,
-    "furnished": "Fully",
-    "view": "City, Partial Ocean",
-    "propertyType": "Condominium",
-    "city": "Puerto Vallarta",
-    "state": "Jalisco",
-    "address": "289 Calle Olas Altas 501, Zona Romántica, Puerto Vallarta, Jalisco 48380",
-    "shortLocation": "JA, Puerto Vallarta",
-    "lat": 20.608,
-    "lng": -105.232,
-    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d500!2d-105.232!3d20.608!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e1!3m2!1ses-419!2smx",
-    "descriptionEn": "Modern 2-bedroom condo in the heart of Zona Romántica, Puerto Vallarta's most sought-after neighborhood. Open-concept living with contemporary finishes, quartz countertops, and a spacious balcony overlooking the vibrant street life below. Walking distance to Los Muertos Beach, galleries, restaurants, and nightlife. Ideal for vacation rental with proven income history.",
-    "descriptionEs": "Moderno condominio de 2 recámaras en el corazón de la Zona Romántica, el barrio más buscado de Puerto Vallarta. Concepto abierto con acabados contemporáneos, cubiertas de cuarzo y un amplio balcón con vista a la vibrante vida callejera. A distancia caminable de Playa Los Muertos, galerías, restaurantes y vida nocturna. Ideal para renta vacacional con historial comprobado de ingresos.",
-    "amenities": [
-      "Pool",
-      "Elevator",
-      "Security"
-    ],
-    "appliances": [
-      "Air Conditioning: Mini-Split"
-    ],
-    "utilities": [
-      "CFE"
-    ],
-    "locationFeatures": [
-      "City Center",
-      "Walking Distance to Beach"
-    ],
-    "headerImage": "../images/mls/mlv-10002/header.jpg",
-    "thumbImage": "images/mls/mlv-10002/thumb.jpg",
-    "images": [
-      {
-        "src": "../images/mls/mlv-10002/1.jpg",
-        "alt": "289 Calle Olas Altas 501 - Image 1",
-        "remoteSrc": "https://placehold.co/1024x683/e74c3c/ffffff?text=Olas+Altas+501+Living",
-        "order": 1
-      },
-      {
-        "src": "../images/mls/mlv-10002/2.jpg",
-        "alt": "289 Calle Olas Altas 501 - Image 2",
-        "remoteSrc": "https://placehold.co/1024x683/c0392b/ffffff?text=Olas+Altas+501+Kitchen",
-        "order": 2
-      },
-      {
-        "src": "../images/mls/mlv-10002/3.jpg",
-        "alt": "289 Calle Olas Altas 501 - Image 3",
-        "remoteSrc": "https://placehold.co/1024x683/e74c3c/ffffff?text=Olas+Altas+501+Bedroom",
-        "order": 3
-      },
-      {
-        "src": "../images/mls/mlv-10002/4.jpg",
-        "alt": "289 Calle Olas Altas 501 - Image 4",
-        "remoteSrc": "https://placehold.co/1024x683/e67e22/ffffff?text=Olas+Altas+501+Balcony",
-        "order": 4
-      }
-    ],
-    "primaryPhotoUrl": "https://placehold.co/1024x683/e74c3c/ffffff?text=Olas+Altas+501+Living",
-    "allPhotoUrls": [
-      "https://placehold.co/1024x683/e74c3c/ffffff?text=Olas+Altas+501+Living",
-      "https://placehold.co/1024x683/c0392b/ffffff?text=Olas+Altas+501+Kitchen",
-      "https://placehold.co/1024x683/e74c3c/ffffff?text=Olas+Altas+501+Bedroom",
-      "https://placehold.co/1024x683/e67e22/ffffff?text=Olas+Altas+501+Balcony"
-    ],
-    "isotopeCategory": "category-19",
-    "schemaOrg": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"RealEstateListing\",\n      \"name\": \"289 Calle Olas Altas 501\",\n      \"description\": \"Modern 2-bedroom condo in the heart of Zona Romántica, Puerto Vallarta's most sought-after neighborhood. Open-concept living with contemporary finishes, quartz countertops, and a spacious balcony overlooking the vibrant street life below. Walking distance to Los Muertos Beach, galleries, restaurants, and nightlife. Ideal for vacation rental with proven income history.\",\n      \"url\": \"https://ponchodavalos.com.mx/mls/property-mlv-10002.html\",\n      \"image\": [\n            \"https://ponchodavalos.com.mx/images/mls/mlv-10002/header.jpg\"\n      ],\n      \"datePosted\": \"2025-05-20\",\n      \"address\": {\n            \"@type\": \"PostalAddress\",\n            \"addressLocality\": \"Puerto Vallarta\",\n            \"addressRegion\": \"Jalisco\",\n            \"addressCountry\": \"MX\"\n      },\n      \"geo\": {\n            \"@type\": \"GeoCoordinates\",\n            \"latitude\": \"20.608\",\n            \"longitude\": \"-105.232\"\n      },\n      \"offers\": {\n            \"@type\": \"Offer\",\n            \"price\": \"189000\",\n            \"priceCurrency\": \"USD\",\n            \"availability\": \"https://schema.org/InStock\"\n      },\n      \"numberOfRooms\": 2,\n      \"numberOfBathroomsTotal\": 2,\n      \"floorSize\": {\n            \"@type\": \"QuantitativeValue\",\n            \"value\": 110,\n            \"unitCode\": \"MTK\"\n      },\n      \"amenityFeature\": [\n            {\n                  \"@type\": \"LocationFeatureSpecification\",\n                  \"name\": \"Pool\"\n            },\n            {\n                  \"@type\": \"LocationFeatureSpecification\",\n                  \"name\": \"Elevator\"\n            },\n            {\n                  \"@type\": \"LocationFeatureSpecification\",\n                  \"name\": \"Security\"\n            }\n      ],\n      \"broker\": {\n            \"@type\": \"RealEstateAgent\",\n            \"name\": \"Poncho Davalos Real Estate\",\n            \"telephone\": \"+52 (322) 292-2312\",\n            \"email\": \"hello@ponchodavalos.com.mx\",\n            \"url\": \"https://ponchodavalos.com.mx\"\n      }\n}",
-    "metaDescription": "Modern 2-bedroom condo in the heart of Zona Romántica, Puerto Vallarta's most sought-after neighborhood. Open-concept living with contemporary finishes, quartz ",
-    "ogImage": "https://ponchodavalos.com.mx/images/mls/mlv-10002/header.jpg",
-    "i18nKey": "property.mls_mlv-10002",
-    "prevProperty": {
-      "name": "1500 Av Paseo de la Marina PH-A",
-      "url": "property-mlv-10001.html",
-      "thumb": "../images/mls/mlv-10001/thumb.jpg"
-    },
-    "nextProperty": {
-      "name": "45 Calle Garza Blanca",
-      "url": "property-mlv-10003.html",
-      "thumb": "../images/mls/mlv-10003/thumb.jpg"
+      "name": "105 Pulpito 202",
+      "url": "property-flx-41284.html",
+      "thumb": "../images/mls/flx-41284/thumb.jpg"
     },
     "parkingText": "None"
   },
   {
-    "listingId": "MLV-10003",
-    "slug": "mlv-10003",
-    "name": "45 Calle Garza Blanca",
-    "fileName": "property-mlv-10003.html",
-    "url": "mls/property-mlv-10003.html",
-    "fullUrl": "https://ponchodavalos.com.mx/mls/property-mlv-10003.html",
-    "priceUsd": 520000,
-    "priceMxn": 9620000,
-    "priceUsdFormatted": "$520,000 USD",
-    "priceMxnFormatted": "$9,620,000 MXN",
-    "beds": 4,
-    "baths": 4,
-    "surface": 320,
-    "parking": 3,
-    "yearBuilt": 2019,
-    "furnished": "Partially",
-    "view": "Ocean, Bay, Mountain",
-    "propertyType": "Single Family Residence",
-    "city": "Puerto Vallarta",
-    "state": "Jalisco",
-    "address": "45 Calle Garza Blanca, Conchas Chinas, Puerto Vallarta, Jalisco 48399",
-    "shortLocation": "JA, Puerto Vallarta",
-    "lat": 20.598,
-    "lng": -105.238,
-    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d500!2d-105.238!3d20.598!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e1!3m2!1ses-419!2smx",
-    "descriptionEn": "Magnificent hillside villa in prestigious Conchas Chinas with panoramic Banderas Bay views. This 4-bedroom residence features an infinity pool, lush tropical gardens, chef's kitchen, home theater, and multiple terraces for entertaining. The master suite includes a spa bathroom and private balcony. Smart home technology throughout. Gated community with 24-hour security.",
-    "descriptionEs": "Magnífica villa en la ladera del prestigioso Conchas Chinas con vistas panorámicas a la Bahía de Banderas. Esta residencia de 4 recámaras cuenta con alberca infinita, exuberantes jardines tropicales, cocina de chef, cine en casa y múltiples terrazas para entretenimiento. La suite principal incluye baño tipo spa y balcón privado. Tecnología de hogar inteligente en toda la propiedad. Comunidad cerrada con seguridad 24 horas.",
-    "amenities": [
-      "Pool",
-      "Garden",
-      "Home Theater",
-      "Smart Home",
-      "Security 24/7",
-      "Gated Community"
-    ],
-    "appliances": [
-      "Air Conditioning: Central",
-      "Washer/Dryer",
-      "Dishwasher"
-    ],
-    "utilities": [
-      "CFE",
-      "Solar Panels",
-      "Municipal Water",
-      "Septic"
-    ],
-    "locationFeatures": [
-      "Hillside",
-      "Ocean View",
-      "Gated"
-    ],
-    "headerImage": "../images/mls/mlv-10003/header.jpg",
-    "thumbImage": "images/mls/mlv-10003/thumb.jpg",
-    "images": [
-      {
-        "src": "../images/mls/mlv-10003/1.jpg",
-        "alt": "45 Calle Garza Blanca - Image 1",
-        "remoteSrc": "https://placehold.co/1024x683/27ae60/ffffff?text=Conchas+Villa+Exterior",
-        "order": 1
-      },
-      {
-        "src": "../images/mls/mlv-10003/2.jpg",
-        "alt": "45 Calle Garza Blanca - Image 2",
-        "remoteSrc": "https://placehold.co/1024x683/2ecc71/ffffff?text=Conchas+Villa+Pool",
-        "order": 2
-      },
-      {
-        "src": "../images/mls/mlv-10003/3.jpg",
-        "alt": "45 Calle Garza Blanca - Image 3",
-        "remoteSrc": "https://placehold.co/1024x683/27ae60/ffffff?text=Conchas+Villa+Living",
-        "order": 3
-      },
-      {
-        "src": "../images/mls/mlv-10003/4.jpg",
-        "alt": "45 Calle Garza Blanca - Image 4",
-        "remoteSrc": "https://placehold.co/1024x683/16a085/ffffff?text=Conchas+Villa+Kitchen",
-        "order": 4
-      },
-      {
-        "src": "../images/mls/mlv-10003/5.jpg",
-        "alt": "45 Calle Garza Blanca - Image 5",
-        "remoteSrc": "https://placehold.co/1024x683/1abc9c/ffffff?text=Conchas+Villa+Master",
-        "order": 5
-      },
-      {
-        "src": "../images/mls/mlv-10003/6.jpg",
-        "alt": "45 Calle Garza Blanca - Image 6",
-        "remoteSrc": "https://placehold.co/1024x683/3498db/ffffff?text=Conchas+Villa+View",
-        "order": 6
-      }
-    ],
-    "primaryPhotoUrl": "https://placehold.co/1024x683/27ae60/ffffff?text=Conchas+Villa+Exterior",
-    "allPhotoUrls": [
-      "https://placehold.co/1024x683/27ae60/ffffff?text=Conchas+Villa+Exterior",
-      "https://placehold.co/1024x683/2ecc71/ffffff?text=Conchas+Villa+Pool",
-      "https://placehold.co/1024x683/27ae60/ffffff?text=Conchas+Villa+Living",
-      "https://placehold.co/1024x683/16a085/ffffff?text=Conchas+Villa+Kitchen",
-      "https://placehold.co/1024x683/1abc9c/ffffff?text=Conchas+Villa+Master",
-      "https://placehold.co/1024x683/3498db/ffffff?text=Conchas+Villa+View"
-    ],
-    "isotopeCategory": "category-20",
-    "schemaOrg": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"RealEstateListing\",\n      \"name\": \"45 Calle Garza Blanca\",\n      \"description\": \"Magnificent hillside villa in prestigious Conchas Chinas with panoramic Banderas Bay views. This 4-bedroom residence features an infinity pool, lush tropical gardens, chef's kitchen, home theater, and multiple terraces for entertaining. The master suite includes a spa bathroom and private balcony. Smart home technology throughout. Gated community with 24-hour security.\",\n      \"url\": \"https://ponchodavalos.com.mx/mls/property-mlv-10003.html\",\n      \"image\": [\n            \"https://ponchodavalos.com.mx/images/mls/mlv-10003/header.jpg\"\n      ],\n      \"datePosted\": \"2025-07-01\",\n      \"address\": {\n            \"@type\": \"PostalAddress\",\n            \"addressLocality\": \"Puerto Vallarta\",\n            \"addressRegion\": \"Jalisco\",\n            \"addressCountry\": \"MX\"\n      },\n      \"geo\": {\n            \"@type\": \"GeoCoordinates\",\n            \"latitude\": \"20.598\",\n            \"longitude\": \"-105.238\"\n      },\n      \"offers\": {\n            \"@type\": \"Offer\",\n            \"price\": \"520000\",\n            \"priceCurrency\": \"USD\",\n            \"availability\": \"https://schema.org/InStock\"\n      },\n      \"numberOfRooms\": 4,\n      \"numberOfBathroomsTotal\": 4,\n      \"floorSize\": {\n            \"@type\": \"QuantitativeValue\",\n            \"value\": 320,\n            \"unitCode\": \"MTK\"\n      },\n      \"amenityFeature\": [\n            {\n                  \"@type\": \"LocationFeatureSpecification\",\n                  \"name\": \"Pool\"\n            },\n            {\n                  \"@type\": \"LocationFeatureSpecification\",\n                  \"name\": \"Garden\"\n            },\n            {\n                  \"@type\": \"LocationFeatureSpecification\",\n                  \"name\": \"Home Theater\"\n            },\n            {\n                  \"@type\": \"LocationFeatureSpecification\",\n                  \"name\": \"Smart Home\"\n            },\n            {\n                  \"@type\": \"LocationFeatureSpecification\",\n                  \"name\": \"Security 24/7\"\n            },\n            {\n                  \"@type\": \"LocationFeatureSpecification\",\n                  \"name\": \"Gated Community\"\n            }\n      ],\n      \"broker\": {\n            \"@type\": \"RealEstateAgent\",\n            \"name\": \"Poncho Davalos Real Estate\",\n            \"telephone\": \"+52 (322) 292-2312\",\n            \"email\": \"hello@ponchodavalos.com.mx\",\n            \"url\": \"https://ponchodavalos.com.mx\"\n      }\n}",
-    "metaDescription": "Magnificent hillside villa in prestigious Conchas Chinas with panoramic Banderas Bay views. This 4-bedroom residence features an infinity pool, lush tropical ga",
-    "ogImage": "https://ponchodavalos.com.mx/images/mls/mlv-10003/header.jpg",
-    "i18nKey": "property.mls_mlv-10003",
-    "prevProperty": {
-      "name": "289 Calle Olas Altas 501",
-      "url": "property-mlv-10002.html",
-      "thumb": "../images/mls/mlv-10002/thumb.jpg"
-    },
-    "nextProperty": {
-      "name": "800 Blvd Francisco Medina Ascencio 304",
-      "url": "property-mlv-10004.html",
-      "thumb": "../images/mls/mlv-10004/thumb.jpg"
-    },
-    "parkingText": "3 spaces"
-  },
-  {
-    "listingId": "MLV-10004",
-    "slug": "mlv-10004",
-    "name": "800 Blvd Francisco Medina Ascencio 304",
-    "fileName": "property-mlv-10004.html",
-    "url": "mls/property-mlv-10004.html",
-    "fullUrl": "https://ponchodavalos.com.mx/mls/property-mlv-10004.html",
-    "priceUsd": 145000,
-    "priceMxn": 2682500,
-    "priceUsdFormatted": "$145,000 USD",
-    "priceMxnFormatted": "$2,682,500 MXN",
+    "listingId": "FLX-41284",
+    "slug": "flx-41284",
+    "name": "105 Pulpito 202",
+    "fileName": "property-flx-41284.html",
+    "url": "mls/property-flx-41284.html",
+    "fullUrl": "https://ponchodavalos.com.mx/mls/property-flx-41284.html",
+    "priceUsd": 329000,
+    "priceMxn": 6086500,
+    "priceUsdFormatted": "$329,000 USD",
+    "priceMxnFormatted": "$6,086,500 MXN",
     "beds": 1,
     "baths": 1,
-    "surface": 65,
-    "parking": 1,
-    "yearBuilt": 2020,
-    "furnished": "Unfurnished",
-    "view": "City",
+    "surface": 86.19,
+    "parking": 0,
+    "yearBuilt": "",
+    "furnished": "",
+    "view": "",
     "propertyType": "Condominium",
     "city": "Puerto Vallarta",
     "state": "Jalisco",
-    "address": "800 Blvd Francisco Medina Ascencio 304, Hotel Zone, Puerto Vallarta, Jalisco 48333",
+    "address": "105 Pulpito 202, Scala 202, Puerto Vallarta, JA",
     "shortLocation": "JA, Puerto Vallarta",
-    "lat": 20.635,
-    "lng": -105.238,
-    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d500!2d-105.238!3d20.635!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e1!3m2!1ses-419!2smx",
-    "descriptionEn": "Efficient 1-bedroom condo in the Hotel Zone, perfect for investors seeking strong rental returns. Features modern finishes, air conditioning, and a balcony with city views. Building offers pool, gym, and rooftop common area. Excellent location near major hotels, restaurants, and Walmart. Low maintenance fees.",
-    "descriptionEs": "Eficiente condominio de 1 recámara en la Zona Hotelera, perfecto para inversionistas que buscan fuertes rendimientos de renta. Cuenta con acabados modernos, aire acondicionado y balcón con vistas a la ciudad. El edificio ofrece alberca, gimnasio y área común en la azotea. Excelente ubicación cerca de los principales hoteles, restaurantes y Walmart. Bajas cuotas de mantenimiento.",
-    "amenities": [
-      "Pool",
-      "Gym",
-      "Rooftop",
-      "Security"
-    ],
-    "appliances": [
-      "Air Conditioning: Mini-Split"
-    ],
-    "utilities": [
-      "CFE"
-    ],
-    "locationFeatures": [
-      "Hotel Zone",
-      "Near Shopping"
-    ],
-    "headerImage": "../images/mls/mlv-10004/header.jpg",
-    "thumbImage": "images/mls/mlv-10004/thumb.jpg",
+    "lat": null,
+    "lng": null,
+    "mapEmbedUrl": "",
+    "descriptionEn": "Scala 202 — 1 bed, 1 bath, 927.72 sqft condos in Puerto Vallarta.",
+    "descriptionEs": "Scala 202 — 1 rec, 1 baños, 927.72 pies² condominio en Puerto Vallarta.",
+    "amenities": [],
+    "appliances": [],
+    "utilities": [],
+    "locationFeatures": [],
+    "headerImage": "../images/mls/flx-41284/header.jpg",
+    "thumbImage": "images/mls/flx-41284/thumb.jpg",
     "images": [
       {
-        "src": "../images/mls/mlv-10004/1.jpg",
-        "alt": "800 Blvd Francisco Medina Ascencio 304 - Image 1",
-        "remoteSrc": "https://placehold.co/1024x683/9b59b6/ffffff?text=Hotel+Zone+304+Living",
+        "src": "../images/mls/flx-41284/1.jpg",
+        "alt": "105 Pulpito 202 - Image 1",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251222144015384673000000-o.jpg",
         "order": 1
       },
       {
-        "src": "../images/mls/mlv-10004/2.jpg",
-        "alt": "800 Blvd Francisco Medina Ascencio 304 - Image 2",
-        "remoteSrc": "https://placehold.co/1024x683/8e44ad/ffffff?text=Hotel+Zone+304+Bedroom",
+        "src": "../images/mls/flx-41284/2.jpg",
+        "alt": "105 Pulpito 202 - Image 2",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251222143936860649000000-o.jpg",
         "order": 2
       },
       {
-        "src": "../images/mls/mlv-10004/3.jpg",
-        "alt": "800 Blvd Francisco Medina Ascencio 304 - Image 3",
-        "remoteSrc": "https://placehold.co/1024x683/9b59b6/ffffff?text=Hotel+Zone+304+Kitchen",
-        "order": 3
-      }
-    ],
-    "primaryPhotoUrl": "https://placehold.co/1024x683/9b59b6/ffffff?text=Hotel+Zone+304+Living",
-    "allPhotoUrls": [
-      "https://placehold.co/1024x683/9b59b6/ffffff?text=Hotel+Zone+304+Living",
-      "https://placehold.co/1024x683/8e44ad/ffffff?text=Hotel+Zone+304+Bedroom",
-      "https://placehold.co/1024x683/9b59b6/ffffff?text=Hotel+Zone+304+Kitchen"
-    ],
-    "isotopeCategory": "category-19",
-    "schemaOrg": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"RealEstateListing\",\n      \"name\": \"800 Blvd Francisco Medina Ascencio 304\",\n      \"description\": \"Efficient 1-bedroom condo in the Hotel Zone, perfect for investors seeking strong rental returns. Features modern finishes, air conditioning, and a balcony with city views. Building offers pool, gym, and rooftop common area. Excellent location near major hotels, restaurants, and Walmart. Low maintenance fees.\",\n      \"url\": \"https://ponchodavalos.com.mx/mls/property-mlv-10004.html\",\n      \"image\": [\n            \"https://ponchodavalos.com.mx/images/mls/mlv-10004/header.jpg\"\n      ],\n      \"datePosted\": \"2025-04-10\",\n      \"address\": {\n            \"@type\": \"PostalAddress\",\n            \"addressLocality\": \"Puerto Vallarta\",\n            \"addressRegion\": \"Jalisco\",\n            \"addressCountry\": \"MX\"\n      },\n      \"geo\": {\n            \"@type\": \"GeoCoordinates\",\n            \"latitude\": \"20.635\",\n            \"longitude\": \"-105.238\"\n      },\n      \"offers\": {\n            \"@type\": \"Offer\",\n            \"price\": \"145000\",\n            \"priceCurrency\": \"USD\",\n            \"availability\": \"https://schema.org/InStock\"\n      },\n      \"numberOfRooms\": 1,\n      \"numberOfBathroomsTotal\": 1,\n      \"floorSize\": {\n            \"@type\": \"QuantitativeValue\",\n            \"value\": 65,\n            \"unitCode\": \"MTK\"\n      },\n      \"amenityFeature\": [\n            {\n                  \"@type\": \"LocationFeatureSpecification\",\n                  \"name\": \"Pool\"\n            },\n            {\n                  \"@type\": \"LocationFeatureSpecification\",\n                  \"name\": \"Gym\"\n            },\n            {\n                  \"@type\": \"LocationFeatureSpecification\",\n                  \"name\": \"Rooftop\"\n            },\n            {\n                  \"@type\": \"LocationFeatureSpecification\",\n                  \"name\": \"Security\"\n            }\n      ],\n      \"broker\": {\n            \"@type\": \"RealEstateAgent\",\n            \"name\": \"Poncho Davalos Real Estate\",\n            \"telephone\": \"+52 (322) 292-2312\",\n            \"email\": \"hello@ponchodavalos.com.mx\",\n            \"url\": \"https://ponchodavalos.com.mx\"\n      }\n}",
-    "metaDescription": "Efficient 1-bedroom condo in the Hotel Zone, perfect for investors seeking strong rental returns. Features modern finishes, air conditioning, and a balcony with",
-    "ogImage": "https://ponchodavalos.com.mx/images/mls/mlv-10004/header.jpg",
-    "i18nKey": "property.mls_mlv-10004",
-    "prevProperty": {
-      "name": "45 Calle Garza Blanca",
-      "url": "property-mlv-10003.html",
-      "thumb": "../images/mls/mlv-10003/thumb.jpg"
-    },
-    "nextProperty": {
-      "name": "100 Calle Amapas 702",
-      "url": "property-mlv-10005.html",
-      "thumb": "../images/mls/mlv-10005/thumb.jpg"
-    },
-    "parkingText": "1 space"
-  },
-  {
-    "listingId": "MLV-10005",
-    "slug": "mlv-10005",
-    "name": "100 Calle Amapas 702",
-    "fileName": "property-mlv-10005.html",
-    "url": "mls/property-mlv-10005.html",
-    "fullUrl": "https://ponchodavalos.com.mx/mls/property-mlv-10005.html",
-    "priceUsd": 375000,
-    "priceMxn": 6937500,
-    "priceUsdFormatted": "$375,000 USD",
-    "priceMxnFormatted": "$6,937,500 MXN",
-    "beds": 3,
-    "baths": 3,
-    "surface": 195,
-    "parking": 2,
-    "yearBuilt": 2022,
-    "furnished": "Fully",
-    "view": "Ocean, Bay",
-    "propertyType": "Condominium",
-    "city": "Puerto Vallarta",
-    "state": "Jalisco",
-    "address": "100 Calle Amapas 702, Amapas, Puerto Vallarta, Jalisco 48380",
-    "shortLocation": "JA, Puerto Vallarta",
-    "lat": 20.605,
-    "lng": -105.229,
-    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d500!2d-105.229!3d20.605!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e1!3m2!1ses-419!2smx",
-    "descriptionEn": "Luxurious 3-bedroom penthouse in the exclusive Amapas neighborhood with unobstructed views of Banderas Bay. Features include an open floor plan, designer finishes, private plunge pool on the terrace, wine cellar, and smart home system. The building offers a rooftop infinity pool, gym, and concierge service. Prime location above Los Muertos Beach.",
-    "descriptionEs": "Lujoso penthouse de 3 recámaras en el exclusivo barrio de Amapas con vistas sin obstrucción a la Bahía de Banderas. Incluye planta abierta, acabados de diseñador, alberca privada en la terraza, cava de vinos y sistema de hogar inteligente. El edificio ofrece alberca infinita en la azotea, gimnasio y servicio de concierge. Ubicación privilegiada sobre Playa Los Muertos.",
-    "amenities": [
-      "Pool",
-      "Gym",
-      "Concierge",
-      "Elevator",
-      "Wine Cellar",
-      "Smart Home"
-    ],
-    "appliances": [
-      "Air Conditioning: Central",
-      "Washer/Dryer",
-      "Dishwasher"
-    ],
-    "utilities": [
-      "CFE",
-      "Municipal Water"
-    ],
-    "locationFeatures": [
-      "Hillside",
-      "Ocean View",
-      "Above Beach"
-    ],
-    "headerImage": "../images/mls/mlv-10005/header.jpg",
-    "thumbImage": "images/mls/mlv-10005/thumb.jpg",
-    "images": [
-      {
-        "src": "../images/mls/mlv-10005/1.jpg",
-        "alt": "100 Calle Amapas 702 - Image 1",
-        "remoteSrc": "https://placehold.co/1024x683/f39c12/ffffff?text=Amapas+702+Living",
-        "order": 1
-      },
-      {
-        "src": "../images/mls/mlv-10005/2.jpg",
-        "alt": "100 Calle Amapas 702 - Image 2",
-        "remoteSrc": "https://placehold.co/1024x683/e67e22/ffffff?text=Amapas+702+Terrace",
-        "order": 2
-      },
-      {
-        "src": "../images/mls/mlv-10005/3.jpg",
-        "alt": "100 Calle Amapas 702 - Image 3",
-        "remoteSrc": "https://placehold.co/1024x683/f39c12/ffffff?text=Amapas+702+Kitchen",
+        "src": "../images/mls/flx-41284/3.jpg",
+        "alt": "105 Pulpito 202 - Image 3",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251222143945578260000000-o.jpg",
         "order": 3
       },
       {
-        "src": "../images/mls/mlv-10005/4.jpg",
-        "alt": "100 Calle Amapas 702 - Image 4",
-        "remoteSrc": "https://placehold.co/1024x683/d35400/ffffff?text=Amapas+702+Master",
+        "src": "../images/mls/flx-41284/4.jpg",
+        "alt": "105 Pulpito 202 - Image 4",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251222143949975071000000-o.jpg",
         "order": 4
       },
       {
-        "src": "../images/mls/mlv-10005/5.jpg",
-        "alt": "100 Calle Amapas 702 - Image 5",
-        "remoteSrc": "https://placehold.co/1024x683/3498db/ffffff?text=Amapas+702+View",
+        "src": "../images/mls/flx-41284/5.jpg",
+        "alt": "105 Pulpito 202 - Image 5",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251222143954852965000000-o.jpg",
         "order": 5
-      }
-    ],
-    "primaryPhotoUrl": "https://placehold.co/1024x683/f39c12/ffffff?text=Amapas+702+Living",
-    "allPhotoUrls": [
-      "https://placehold.co/1024x683/f39c12/ffffff?text=Amapas+702+Living",
-      "https://placehold.co/1024x683/e67e22/ffffff?text=Amapas+702+Terrace",
-      "https://placehold.co/1024x683/f39c12/ffffff?text=Amapas+702+Kitchen",
-      "https://placehold.co/1024x683/d35400/ffffff?text=Amapas+702+Master",
-      "https://placehold.co/1024x683/3498db/ffffff?text=Amapas+702+View"
-    ],
-    "isotopeCategory": "category-19",
-    "schemaOrg": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"RealEstateListing\",\n      \"name\": \"100 Calle Amapas 702\",\n      \"description\": \"Luxurious 3-bedroom penthouse in the exclusive Amapas neighborhood with unobstructed views of Banderas Bay. Features include an open floor plan, designer finishes, private plunge pool on the terrace, wine cellar, and smart home system. The building offers a rooftop infinity pool, gym, and concierge service. Prime location above Los Muertos Beach.\",\n      \"url\": \"https://ponchodavalos.com.mx/mls/property-mlv-10005.html\",\n      \"image\": [\n            \"https://ponchodavalos.com.mx/images/mls/mlv-10005/header.jpg\"\n      ],\n      \"datePosted\": \"2025-06-20\",\n      \"address\": {\n            \"@type\": \"PostalAddress\",\n            \"addressLocality\": \"Puerto Vallarta\",\n            \"addressRegion\": \"Jalisco\",\n            \"addressCountry\": \"MX\"\n      },\n      \"geo\": {\n            \"@type\": \"GeoCoordinates\",\n            \"latitude\": \"20.605\",\n            \"longitude\": \"-105.229\"\n      },\n      \"offers\": {\n            \"@type\": \"Offer\",\n            \"price\": \"375000\",\n            \"priceCurrency\": \"USD\",\n            \"availability\": \"https://schema.org/InStock\"\n      },\n      \"numberOfRooms\": 3,\n      \"numberOfBathroomsTotal\": 3,\n      \"floorSize\": {\n            \"@type\": \"QuantitativeValue\",\n            \"value\": 195,\n            \"unitCode\": \"MTK\"\n      },\n      \"amenityFeature\": [\n            {\n                  \"@type\": \"LocationFeatureSpecification\",\n                  \"name\": \"Pool\"\n            },\n            {\n                  \"@type\": \"LocationFeatureSpecification\",\n                  \"name\": \"Gym\"\n            },\n            {\n                  \"@type\": \"LocationFeatureSpecification\",\n                  \"name\": \"Concierge\"\n            },\n            {\n                  \"@type\": \"LocationFeatureSpecification\",\n                  \"name\": \"Elevator\"\n            },\n            {\n                  \"@type\": \"LocationFeatureSpecification\",\n                  \"name\": \"Wine Cellar\"\n            },\n            {\n                  \"@type\": \"LocationFeatureSpecification\",\n                  \"name\": \"Smart Home\"\n            }\n      ],\n      \"broker\": {\n            \"@type\": \"RealEstateAgent\",\n            \"name\": \"Poncho Davalos Real Estate\",\n            \"telephone\": \"+52 (322) 292-2312\",\n            \"email\": \"hello@ponchodavalos.com.mx\",\n            \"url\": \"https://ponchodavalos.com.mx\"\n      }\n}",
-    "metaDescription": "Luxurious 3-bedroom penthouse in the exclusive Amapas neighborhood with unobstructed views of Banderas Bay. Features include an open floor plan, designer finish",
-    "ogImage": "https://ponchodavalos.com.mx/images/mls/mlv-10005/header.jpg",
-    "i18nKey": "property.mls_mlv-10005",
-    "prevProperty": {
-      "name": "800 Blvd Francisco Medina Ascencio 304",
-      "url": "property-mlv-10004.html",
-      "thumb": "../images/mls/mlv-10004/thumb.jpg"
-    },
-    "nextProperty": {
-      "name": "450 Av Mexico 2B",
-      "url": "property-mlv-10006.html",
-      "thumb": "../images/mls/mlv-10006/thumb.jpg"
-    },
-    "parkingText": "2 spaces"
-  },
-  {
-    "listingId": "MLV-10006",
-    "slug": "mlv-10006",
-    "name": "450 Av Mexico 2B",
-    "fileName": "property-mlv-10006.html",
-    "url": "mls/property-mlv-10006.html",
-    "fullUrl": "https://ponchodavalos.com.mx/mls/property-mlv-10006.html",
-    "priceUsd": 98000,
-    "priceMxn": 1813000,
-    "priceUsdFormatted": "$98,000 USD",
-    "priceMxnFormatted": "$1,813,000 MXN",
-    "beds": 1,
-    "baths": 1,
-    "surface": 52,
-    "parking": 0,
-    "yearBuilt": 2024,
-    "furnished": "Unfurnished",
-    "view": "City",
-    "propertyType": "Condominium",
-    "city": "Puerto Vallarta",
-    "state": "Jalisco",
-    "address": "450 Av Mexico 2B, 5 de Diciembre, Puerto Vallarta, Jalisco 48350",
-    "shortLocation": "JA, Puerto Vallarta",
-    "lat": 20.62,
-    "lng": -105.228,
-    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d500!2d-105.228!3d20.62!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e1!3m2!1ses-419!2smx",
-    "descriptionEn": "Brand new studio-style 1-bedroom in the booming 5 de Diciembre neighborhood. Modern design with high ceilings, polished concrete floors, and a compact but functional kitchen. Perfect entry-level investment in PV's fastest-growing area. Minutes from the Malecón and downtown. Building features rooftop pool and common area.",
-    "descriptionEs": "Nuevo departamento estilo estudio de 1 recámara en el creciente barrio de 5 de Diciembre. Diseño moderno con techos altos, pisos de concreto pulido y cocina compacta pero funcional. Inversión ideal de nivel de entrada en la zona de mayor crecimiento de PV. A minutos del Malecón y el centro. El edificio cuenta con alberca en la azotea y área común.",
-    "amenities": [
-      "Rooftop Pool",
-      "Security"
-    ],
-    "appliances": [
-      "Air Conditioning: Mini-Split"
-    ],
-    "utilities": [
-      "CFE"
-    ],
-    "locationFeatures": [
-      "City Center",
-      "Near Malecón"
-    ],
-    "headerImage": "../images/mls/mlv-10006/header.jpg",
-    "thumbImage": "images/mls/mlv-10006/thumb.jpg",
-    "images": [
-      {
-        "src": "../images/mls/mlv-10006/1.jpg",
-        "alt": "450 Av Mexico 2B - Image 1",
-        "remoteSrc": "https://placehold.co/1024x683/1abc9c/ffffff?text=5+Dic+2B+Living",
-        "order": 1
       },
       {
-        "src": "../images/mls/mlv-10006/2.jpg",
-        "alt": "450 Av Mexico 2B - Image 2",
-        "remoteSrc": "https://placehold.co/1024x683/16a085/ffffff?text=5+Dic+2B+Kitchen",
-        "order": 2
+        "src": "../images/mls/flx-41284/6.jpg",
+        "alt": "105 Pulpito 202 - Image 6",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251222143941724691000000-o.jpg",
+        "order": 6
       },
       {
-        "src": "../images/mls/mlv-10006/3.jpg",
-        "alt": "450 Av Mexico 2B - Image 3",
-        "remoteSrc": "https://placehold.co/1024x683/1abc9c/ffffff?text=5+Dic+2B+Bedroom",
-        "order": 3
+        "src": "../images/mls/flx-41284/7.jpg",
+        "alt": "105 Pulpito 202 - Image 7",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251222143928065441000000-o.jpg",
+        "order": 7
+      },
+      {
+        "src": "../images/mls/flx-41284/8.jpg",
+        "alt": "105 Pulpito 202 - Image 8",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251222151223053803000000-o.jpg",
+        "order": 8
+      },
+      {
+        "src": "../images/mls/flx-41284/9.jpg",
+        "alt": "105 Pulpito 202 - Image 9",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251222143931683631000000-o.jpg",
+        "order": 9
+      },
+      {
+        "src": "../images/mls/flx-41284/10.jpg",
+        "alt": "105 Pulpito 202 - Image 10",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251222143958962311000000-o.jpg",
+        "order": 10
+      },
+      {
+        "src": "../images/mls/flx-41284/11.jpg",
+        "alt": "105 Pulpito 202 - Image 11",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251222151204731062000000-o.jpg",
+        "order": 11
+      },
+      {
+        "src": "../images/mls/flx-41284/12.jpg",
+        "alt": "105 Pulpito 202 - Image 12",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251222151357929660000000-o.jpg",
+        "order": 12
+      },
+      {
+        "src": "../images/mls/flx-41284/13.jpg",
+        "alt": "105 Pulpito 202 - Image 13",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251222151409057085000000-o.jpg",
+        "order": 13
+      },
+      {
+        "src": "../images/mls/flx-41284/14.jpg",
+        "alt": "105 Pulpito 202 - Image 14",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251222151420417011000000-o.jpg",
+        "order": 14
+      },
+      {
+        "src": "../images/mls/flx-41284/15.jpg",
+        "alt": "105 Pulpito 202 - Image 15",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251222151429494984000000-o.jpg",
+        "order": 15
+      },
+      {
+        "src": "../images/mls/flx-41284/16.jpg",
+        "alt": "105 Pulpito 202 - Image 16",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251222151438410391000000-o.jpg",
+        "order": 16
+      },
+      {
+        "src": "../images/mls/flx-41284/17.jpg",
+        "alt": "105 Pulpito 202 - Image 17",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251222151446248835000000-o.jpg",
+        "order": 17
+      },
+      {
+        "src": "../images/mls/flx-41284/18.jpg",
+        "alt": "105 Pulpito 202 - Image 18",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251222151454319642000000-o.jpg",
+        "order": 18
+      },
+      {
+        "src": "../images/mls/flx-41284/19.jpg",
+        "alt": "105 Pulpito 202 - Image 19",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251222151201139256000000-o.jpg",
+        "order": 19
       }
     ],
-    "primaryPhotoUrl": "https://placehold.co/1024x683/1abc9c/ffffff?text=5+Dic+2B+Living",
+    "primaryPhotoUrl": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251222144015384673000000-o.jpg",
     "allPhotoUrls": [
-      "https://placehold.co/1024x683/1abc9c/ffffff?text=5+Dic+2B+Living",
-      "https://placehold.co/1024x683/16a085/ffffff?text=5+Dic+2B+Kitchen",
-      "https://placehold.co/1024x683/1abc9c/ffffff?text=5+Dic+2B+Bedroom"
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251222144015384673000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251222143936860649000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251222143945578260000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251222143949975071000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251222143954852965000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251222143941724691000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251222143928065441000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251222151223053803000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251222143931683631000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251222143958962311000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251222151204731062000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251222151357929660000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251222151409057085000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251222151420417011000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251222151429494984000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251222151438410391000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251222151446248835000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251222151454319642000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251222151201139256000000-o.jpg"
     ],
     "isotopeCategory": "category-19",
-    "schemaOrg": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"RealEstateListing\",\n      \"name\": \"450 Av Mexico 2B\",\n      \"description\": \"Brand new studio-style 1-bedroom in the booming 5 de Diciembre neighborhood. Modern design with high ceilings, polished concrete floors, and a compact but functional kitchen. Perfect entry-level investment in PV's fastest-growing area. Minutes from the Malecón and downtown. Building features rooftop pool and common area.\",\n      \"url\": \"https://ponchodavalos.com.mx/mls/property-mlv-10006.html\",\n      \"image\": [\n            \"https://ponchodavalos.com.mx/images/mls/mlv-10006/header.jpg\"\n      ],\n      \"datePosted\": \"2025-08-01\",\n      \"address\": {\n            \"@type\": \"PostalAddress\",\n            \"addressLocality\": \"Puerto Vallarta\",\n            \"addressRegion\": \"Jalisco\",\n            \"addressCountry\": \"MX\"\n      },\n      \"geo\": {\n            \"@type\": \"GeoCoordinates\",\n            \"latitude\": \"20.62\",\n            \"longitude\": \"-105.228\"\n      },\n      \"offers\": {\n            \"@type\": \"Offer\",\n            \"price\": \"98000\",\n            \"priceCurrency\": \"USD\",\n            \"availability\": \"https://schema.org/InStock\"\n      },\n      \"numberOfRooms\": 1,\n      \"numberOfBathroomsTotal\": 1,\n      \"floorSize\": {\n            \"@type\": \"QuantitativeValue\",\n            \"value\": 52,\n            \"unitCode\": \"MTK\"\n      },\n      \"amenityFeature\": [\n            {\n                  \"@type\": \"LocationFeatureSpecification\",\n                  \"name\": \"Rooftop Pool\"\n            },\n            {\n                  \"@type\": \"LocationFeatureSpecification\",\n                  \"name\": \"Security\"\n            }\n      ],\n      \"broker\": {\n            \"@type\": \"RealEstateAgent\",\n            \"name\": \"Poncho Davalos Real Estate\",\n            \"telephone\": \"+52 (322) 292-2312\",\n            \"email\": \"hello@ponchodavalos.com.mx\",\n            \"url\": \"https://ponchodavalos.com.mx\"\n      }\n}",
-    "metaDescription": "Brand new studio-style 1-bedroom in the booming 5 de Diciembre neighborhood. Modern design with high ceilings, polished concrete floors, and a compact but funct",
-    "ogImage": "https://ponchodavalos.com.mx/images/mls/mlv-10006/header.jpg",
-    "i18nKey": "property.mls_mlv-10006",
+    "schemaOrg": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"RealEstateListing\",\n      \"name\": \"105 Pulpito 202\",\n      \"description\": \"Scala 202 — 1 bed, 1 bath, 927.72 sqft condos in Puerto Vallarta.\",\n      \"url\": \"https://ponchodavalos.com.mx/mls/property-flx-41284.html\",\n      \"image\": [\n            \"https://ponchodavalos.com.mx/images/mls/flx-41284/header.jpg\"\n      ],\n      \"datePosted\": \"2026-03-30\",\n      \"address\": {\n            \"@type\": \"PostalAddress\",\n            \"addressLocality\": \"Puerto Vallarta\",\n            \"addressRegion\": \"Jalisco\",\n            \"addressCountry\": \"MX\"\n      },\n      \"offers\": {\n            \"@type\": \"Offer\",\n            \"price\": \"329000\",\n            \"priceCurrency\": \"USD\",\n            \"availability\": \"https://schema.org/InStock\"\n      },\n      \"numberOfRooms\": 1,\n      \"numberOfBathroomsTotal\": 1,\n      \"floorSize\": {\n            \"@type\": \"QuantitativeValue\",\n            \"value\": 86.19,\n            \"unitCode\": \"MTK\"\n      },\n      \"amenityFeature\": [],\n      \"broker\": {\n            \"@type\": \"RealEstateAgent\",\n            \"name\": \"Poncho Davalos Real Estate\",\n            \"telephone\": \"+52 (322) 292-2312\",\n            \"email\": \"hello@ponchodavalos.com.mx\",\n            \"url\": \"https://ponchodavalos.com.mx\"\n      }\n}",
+    "metaDescription": "Scala 202 — 1 bed, 1 bath, 927.72 sqft condos in Puerto Vallarta.",
+    "ogImage": "https://ponchodavalos.com.mx/images/mls/flx-41284/header.jpg",
+    "i18nKey": "property.mls_flx-41284",
     "prevProperty": {
-      "name": "100 Calle Amapas 702",
-      "url": "property-mlv-10005.html",
-      "thumb": "../images/mls/mlv-10005/thumb.jpg"
+      "name": "7 Batallon de San Blas 1",
+      "url": "property-flx-41264.html",
+      "thumb": "../images/mls/flx-41264/thumb.jpg"
     },
     "nextProperty": {
-      "name": "22 Calle Punta Esmeralda",
-      "url": "property-mlv-10007.html",
-      "thumb": "../images/mls/mlv-10007/thumb.jpg"
+      "name": "147 P.º De Las Palmas",
+      "url": "property-flx-42712.html",
+      "thumb": "../images/mls/flx-42712/thumb.jpg"
     },
     "parkingText": "None"
   },
   {
-    "listingId": "MLV-10007",
-    "slug": "mlv-10007",
-    "name": "22 Calle Punta Esmeralda",
-    "fileName": "property-mlv-10007.html",
-    "url": "mls/property-mlv-10007.html",
-    "fullUrl": "https://ponchodavalos.com.mx/mls/property-mlv-10007.html",
-    "priceUsd": 750000,
-    "priceMxn": 13875000,
-    "priceUsdFormatted": "$750,000 USD",
-    "priceMxnFormatted": "$13,875,000 MXN",
-    "beds": 5,
-    "baths": 5,
-    "surface": 480,
-    "parking": 4,
-    "yearBuilt": 2018,
-    "furnished": "Partially",
-    "view": "Ocean, Bay, Jungle",
-    "propertyType": "Single Family Residence",
+    "listingId": "FLX-42712",
+    "slug": "flx-42712",
+    "name": "147 P.º De Las Palmas",
+    "fileName": "property-flx-42712.html",
+    "url": "mls/property-flx-42712.html",
+    "fullUrl": "https://ponchodavalos.com.mx/mls/property-flx-42712.html",
+    "priceUsd": 348000,
+    "priceMxn": 6438000,
+    "priceUsdFormatted": "$348,000 USD",
+    "priceMxnFormatted": "$6,438,000 MXN",
+    "beds": 2,
+    "baths": 1,
+    "surface": 80.71,
+    "parking": 0,
+    "yearBuilt": "",
+    "furnished": "",
+    "view": "",
+    "propertyType": "Single Family",
     "city": "Puerto Vallarta",
     "state": "Jalisco",
-    "address": "22 Calle Punta Esmeralda, Sierra del Mar, Puerto Vallarta, Jalisco 48390",
+    "address": "147 P.º De Las Palmas, Casa Frida, Puerto Vallarta, JA",
     "shortLocation": "JA, Puerto Vallarta",
-    "lat": 20.585,
-    "lng": -105.245,
-    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d500!2d-105.245!3d20.585!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e1!3m2!1ses-419!2smx",
-    "descriptionEn": "Spectacular estate in Sierra del Mar with 180-degree ocean views. This 5-bedroom luxury home features a dramatic double-height living room, custom woodwork, infinity pool with swim-up bar, outdoor kitchen, and landscaped gardens. Separate guest casita. Full smart home automation. Located in a prestigious gated community with tennis courts and clubhouse.",
-    "descriptionEs": "Espectacular propiedad en Sierra del Mar con vistas al océano de 180 grados. Esta lujosa casa de 5 recámaras cuenta con una dramática sala de doble altura, carpintería personalizada, alberca infinita con bar acuático, cocina exterior y jardines paisajísticos. Casita de huéspedes separada. Automatización completa de hogar inteligente. Ubicada en una prestigiosa comunidad cerrada con canchas de tenis y club house.",
-    "amenities": [
-      "Pool",
-      "Garden",
-      "Outdoor Kitchen",
-      "Smart Home",
-      "Tennis Courts",
-      "Clubhouse",
-      "Security 24/7",
-      "Guest Casita"
-    ],
-    "appliances": [
-      "Air Conditioning: Central",
-      "Washer/Dryer",
-      "Dishwasher",
-      "Wine Cooler"
-    ],
-    "utilities": [
-      "CFE",
-      "Solar Panels",
-      "Well Water",
-      "Septic"
-    ],
-    "locationFeatures": [
-      "Gated Community",
-      "Hillside",
-      "Ocean View"
-    ],
-    "headerImage": "../images/mls/mlv-10007/header.jpg",
-    "thumbImage": "images/mls/mlv-10007/thumb.jpg",
+    "lat": null,
+    "lng": null,
+    "mapEmbedUrl": "",
+    "descriptionEn": "Casa Frida — 2 bed, 1 bath, 868.76 sqft houses in Puerto Vallarta.",
+    "descriptionEs": "Casa Frida — 2 rec, 1 baños, 868.76 pies² casa en Puerto Vallarta.",
+    "amenities": [],
+    "appliances": [],
+    "utilities": [],
+    "locationFeatures": [],
+    "headerImage": "../images/mls/flx-42712/header.jpg",
+    "thumbImage": "images/mls/flx-42712/thumb.jpg",
     "images": [
       {
-        "src": "../images/mls/mlv-10007/1.jpg",
-        "alt": "22 Calle Punta Esmeralda - Image 1",
-        "remoteSrc": "https://placehold.co/1024x683/2c3e50/ffffff?text=Sierra+Estate+Exterior",
+        "src": "../images/mls/flx-42712/1.jpg",
+        "alt": "147 P.º De Las Palmas - Image 1",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260319165024343180000000-o.jpg",
         "order": 1
       },
       {
-        "src": "../images/mls/mlv-10007/2.jpg",
-        "alt": "22 Calle Punta Esmeralda - Image 2",
-        "remoteSrc": "https://placehold.co/1024x683/34495e/ffffff?text=Sierra+Estate+Pool",
+        "src": "../images/mls/flx-42712/2.jpg",
+        "alt": "147 P.º De Las Palmas - Image 2",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260319165026046887000000-o.jpg",
         "order": 2
       },
       {
-        "src": "../images/mls/mlv-10007/3.jpg",
-        "alt": "22 Calle Punta Esmeralda - Image 3",
-        "remoteSrc": "https://placehold.co/1024x683/2c3e50/ffffff?text=Sierra+Estate+Living",
+        "src": "../images/mls/flx-42712/3.jpg",
+        "alt": "147 P.º De Las Palmas - Image 3",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260319165023766570000000-o.jpg",
         "order": 3
       },
       {
-        "src": "../images/mls/mlv-10007/4.jpg",
-        "alt": "22 Calle Punta Esmeralda - Image 4",
-        "remoteSrc": "https://placehold.co/1024x683/1a252f/ffffff?text=Sierra+Estate+Kitchen",
+        "src": "../images/mls/flx-42712/4.jpg",
+        "alt": "147 P.º De Las Palmas - Image 4",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260319165028818072000000-o.jpg",
         "order": 4
       },
       {
-        "src": "../images/mls/mlv-10007/5.jpg",
-        "alt": "22 Calle Punta Esmeralda - Image 5",
-        "remoteSrc": "https://placehold.co/1024x683/3498db/ffffff?text=Sierra+Estate+View",
+        "src": "../images/mls/flx-42712/5.jpg",
+        "alt": "147 P.º De Las Palmas - Image 5",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260319164959052170000000-o.jpg",
         "order": 5
       },
       {
-        "src": "../images/mls/mlv-10007/6.jpg",
-        "alt": "22 Calle Punta Esmeralda - Image 6",
-        "remoteSrc": "https://placehold.co/1024x683/27ae60/ffffff?text=Sierra+Estate+Garden",
+        "src": "../images/mls/flx-42712/6.jpg",
+        "alt": "147 P.º De Las Palmas - Image 6",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260319164958524394000000-o.jpg",
         "order": 6
+      },
+      {
+        "src": "../images/mls/flx-42712/7.jpg",
+        "alt": "147 P.º De Las Palmas - Image 7",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260319165000931851000000-o.jpg",
+        "order": 7
+      },
+      {
+        "src": "../images/mls/flx-42712/8.jpg",
+        "alt": "147 P.º De Las Palmas - Image 8",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260319165007654246000000-o.jpg",
+        "order": 8
+      },
+      {
+        "src": "../images/mls/flx-42712/9.jpg",
+        "alt": "147 P.º De Las Palmas - Image 9",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260319164959522657000000-o.jpg",
+        "order": 9
+      },
+      {
+        "src": "../images/mls/flx-42712/10.jpg",
+        "alt": "147 P.º De Las Palmas - Image 10",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260319165011285168000000-o.jpg",
+        "order": 10
+      },
+      {
+        "src": "../images/mls/flx-42712/11.jpg",
+        "alt": "147 P.º De Las Palmas - Image 11",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260319165022740229000000-o.jpg",
+        "order": 11
+      },
+      {
+        "src": "../images/mls/flx-42712/12.jpg",
+        "alt": "147 P.º De Las Palmas - Image 12",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260319164948187958000000-o.jpg",
+        "order": 12
+      },
+      {
+        "src": "../images/mls/flx-42712/13.jpg",
+        "alt": "147 P.º De Las Palmas - Image 13",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260319165023271054000000-o.jpg",
+        "order": 13
+      },
+      {
+        "src": "../images/mls/flx-42712/14.jpg",
+        "alt": "147 P.º De Las Palmas - Image 14",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260319164948591308000000-o.jpg",
+        "order": 14
+      },
+      {
+        "src": "../images/mls/flx-42712/15.jpg",
+        "alt": "147 P.º De Las Palmas - Image 15",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260319164947024332000000-o.jpg",
+        "order": 15
+      },
+      {
+        "src": "../images/mls/flx-42712/16.jpg",
+        "alt": "147 P.º De Las Palmas - Image 16",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260319164958017605000000-o.jpg",
+        "order": 16
+      },
+      {
+        "src": "../images/mls/flx-42712/17.jpg",
+        "alt": "147 P.º De Las Palmas - Image 17",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260319164952012172000000-o.jpg",
+        "order": 17
+      },
+      {
+        "src": "../images/mls/flx-42712/18.jpg",
+        "alt": "147 P.º De Las Palmas - Image 18",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260319164952944687000000-o.jpg",
+        "order": 18
+      },
+      {
+        "src": "../images/mls/flx-42712/19.jpg",
+        "alt": "147 P.º De Las Palmas - Image 19",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260319164953494681000000-o.jpg",
+        "order": 19
+      },
+      {
+        "src": "../images/mls/flx-42712/20.jpg",
+        "alt": "147 P.º De Las Palmas - Image 20",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260319164954002573000000-o.jpg",
+        "order": 20
+      },
+      {
+        "src": "../images/mls/flx-42712/21.jpg",
+        "alt": "147 P.º De Las Palmas - Image 21",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260319164954501682000000-o.jpg",
+        "order": 21
+      },
+      {
+        "src": "../images/mls/flx-42712/22.jpg",
+        "alt": "147 P.º De Las Palmas - Image 22",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260319164947432194000000-o.jpg",
+        "order": 22
+      },
+      {
+        "src": "../images/mls/flx-42712/23.jpg",
+        "alt": "147 P.º De Las Palmas - Image 23",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260319164947834143000000-o.jpg",
+        "order": 23
+      },
+      {
+        "src": "../images/mls/flx-42712/24.jpg",
+        "alt": "147 P.º De Las Palmas - Image 24",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260319164955012330000000-o.jpg",
+        "order": 24
+      },
+      {
+        "src": "../images/mls/flx-42712/25.jpg",
+        "alt": "147 P.º De Las Palmas - Image 25",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260319164955484694000000-o.jpg",
+        "order": 25
+      },
+      {
+        "src": "../images/mls/flx-42712/26.jpg",
+        "alt": "147 P.º De Las Palmas - Image 26",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260319164955952351000000-o.jpg",
+        "order": 26
+      },
+      {
+        "src": "../images/mls/flx-42712/27.jpg",
+        "alt": "147 P.º De Las Palmas - Image 27",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260319164956535790000000-o.jpg",
+        "order": 27
+      },
+      {
+        "src": "../images/mls/flx-42712/28.jpg",
+        "alt": "147 P.º De Las Palmas - Image 28",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260319164957030935000000-o.jpg",
+        "order": 28
+      },
+      {
+        "src": "../images/mls/flx-42712/29.jpg",
+        "alt": "147 P.º De Las Palmas - Image 29",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260319164957537363000000-o.jpg",
+        "order": 29
+      },
+      {
+        "src": "../images/mls/flx-42712/30.jpg",
+        "alt": "147 P.º De Las Palmas - Image 30",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260319164951389867000000-o.jpg",
+        "order": 30
+      },
+      {
+        "src": "../images/mls/flx-42712/31.jpg",
+        "alt": "147 P.º De Las Palmas - Image 31",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260319164949445393000000-o.jpg",
+        "order": 31
+      },
+      {
+        "src": "../images/mls/flx-42712/32.jpg",
+        "alt": "147 P.º De Las Palmas - Image 32",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260319164949919787000000-o.jpg",
+        "order": 32
+      },
+      {
+        "src": "../images/mls/flx-42712/33.jpg",
+        "alt": "147 P.º De Las Palmas - Image 33",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260319164950378905000000-o.jpg",
+        "order": 33
+      },
+      {
+        "src": "../images/mls/flx-42712/34.jpg",
+        "alt": "147 P.º De Las Palmas - Image 34",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260319164948996694000000-o.jpg",
+        "order": 34
+      },
+      {
+        "src": "../images/mls/flx-42712/35.jpg",
+        "alt": "147 P.º De Las Palmas - Image 35",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260319164950840330000000-o.jpg",
+        "order": 35
       }
     ],
-    "primaryPhotoUrl": "https://placehold.co/1024x683/2c3e50/ffffff?text=Sierra+Estate+Exterior",
+    "primaryPhotoUrl": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260319165024343180000000-o.jpg",
     "allPhotoUrls": [
-      "https://placehold.co/1024x683/2c3e50/ffffff?text=Sierra+Estate+Exterior",
-      "https://placehold.co/1024x683/34495e/ffffff?text=Sierra+Estate+Pool",
-      "https://placehold.co/1024x683/2c3e50/ffffff?text=Sierra+Estate+Living",
-      "https://placehold.co/1024x683/1a252f/ffffff?text=Sierra+Estate+Kitchen",
-      "https://placehold.co/1024x683/3498db/ffffff?text=Sierra+Estate+View",
-      "https://placehold.co/1024x683/27ae60/ffffff?text=Sierra+Estate+Garden"
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260319165024343180000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260319165026046887000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260319165023766570000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260319165028818072000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260319164959052170000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260319164958524394000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260319165000931851000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260319165007654246000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260319164959522657000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260319165011285168000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260319165022740229000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260319164948187958000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260319165023271054000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260319164948591308000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260319164947024332000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260319164958017605000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260319164952012172000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260319164952944687000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260319164953494681000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260319164954002573000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260319164954501682000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260319164947432194000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260319164947834143000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260319164955012330000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260319164955484694000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260319164955952351000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260319164956535790000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260319164957030935000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260319164957537363000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260319164951389867000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260319164949445393000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260319164949919787000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260319164950378905000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260319164948996694000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260319164950840330000000-o.jpg"
     ],
     "isotopeCategory": "category-20",
-    "schemaOrg": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"RealEstateListing\",\n      \"name\": \"22 Calle Punta Esmeralda\",\n      \"description\": \"Spectacular estate in Sierra del Mar with 180-degree ocean views. This 5-bedroom luxury home features a dramatic double-height living room, custom woodwork, infinity pool with swim-up bar, outdoor kitchen, and landscaped gardens. Separate guest casita. Full smart home automation. Located in a prestigious gated community with tennis courts and clubhouse.\",\n      \"url\": \"https://ponchodavalos.com.mx/mls/property-mlv-10007.html\",\n      \"image\": [\n            \"https://ponchodavalos.com.mx/images/mls/mlv-10007/header.jpg\"\n      ],\n      \"datePosted\": \"2025-05-05\",\n      \"address\": {\n            \"@type\": \"PostalAddress\",\n            \"addressLocality\": \"Puerto Vallarta\",\n            \"addressRegion\": \"Jalisco\",\n            \"addressCountry\": \"MX\"\n      },\n      \"geo\": {\n            \"@type\": \"GeoCoordinates\",\n            \"latitude\": \"20.585\",\n            \"longitude\": \"-105.245\"\n      },\n      \"offers\": {\n            \"@type\": \"Offer\",\n            \"price\": \"750000\",\n            \"priceCurrency\": \"USD\",\n            \"availability\": \"https://schema.org/InStock\"\n      },\n      \"numberOfRooms\": 5,\n      \"numberOfBathroomsTotal\": 5,\n      \"floorSize\": {\n            \"@type\": \"QuantitativeValue\",\n            \"value\": 480,\n            \"unitCode\": \"MTK\"\n      },\n      \"amenityFeature\": [\n            {\n                  \"@type\": \"LocationFeatureSpecification\",\n                  \"name\": \"Pool\"\n            },\n            {\n                  \"@type\": \"LocationFeatureSpecification\",\n                  \"name\": \"Garden\"\n            },\n            {\n                  \"@type\": \"LocationFeatureSpecification\",\n                  \"name\": \"Outdoor Kitchen\"\n            },\n            {\n                  \"@type\": \"LocationFeatureSpecification\",\n                  \"name\": \"Smart Home\"\n            },\n            {\n                  \"@type\": \"LocationFeatureSpecification\",\n                  \"name\": \"Tennis Courts\"\n            },\n            {\n                  \"@type\": \"LocationFeatureSpecification\",\n                  \"name\": \"Clubhouse\"\n            },\n            {\n                  \"@type\": \"LocationFeatureSpecification\",\n                  \"name\": \"Security 24/7\"\n            },\n            {\n                  \"@type\": \"LocationFeatureSpecification\",\n                  \"name\": \"Guest Casita\"\n            }\n      ],\n      \"broker\": {\n            \"@type\": \"RealEstateAgent\",\n            \"name\": \"Poncho Davalos Real Estate\",\n            \"telephone\": \"+52 (322) 292-2312\",\n            \"email\": \"hello@ponchodavalos.com.mx\",\n            \"url\": \"https://ponchodavalos.com.mx\"\n      }\n}",
-    "metaDescription": "Spectacular estate in Sierra del Mar with 180-degree ocean views. This 5-bedroom luxury home features a dramatic double-height living room, custom woodwork, inf",
-    "ogImage": "https://ponchodavalos.com.mx/images/mls/mlv-10007/header.jpg",
-    "i18nKey": "property.mls_mlv-10007",
+    "schemaOrg": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"RealEstateListing\",\n      \"name\": \"147 P.º De Las Palmas\",\n      \"description\": \"Casa Frida — 2 bed, 1 bath, 868.76 sqft houses in Puerto Vallarta.\",\n      \"url\": \"https://ponchodavalos.com.mx/mls/property-flx-42712.html\",\n      \"image\": [\n            \"https://ponchodavalos.com.mx/images/mls/flx-42712/header.jpg\"\n      ],\n      \"datePosted\": \"2026-03-30\",\n      \"address\": {\n            \"@type\": \"PostalAddress\",\n            \"addressLocality\": \"Puerto Vallarta\",\n            \"addressRegion\": \"Jalisco\",\n            \"addressCountry\": \"MX\"\n      },\n      \"offers\": {\n            \"@type\": \"Offer\",\n            \"price\": \"348000\",\n            \"priceCurrency\": \"USD\",\n            \"availability\": \"https://schema.org/InStock\"\n      },\n      \"numberOfRooms\": 2,\n      \"numberOfBathroomsTotal\": 1,\n      \"floorSize\": {\n            \"@type\": \"QuantitativeValue\",\n            \"value\": 80.71,\n            \"unitCode\": \"MTK\"\n      },\n      \"amenityFeature\": [],\n      \"broker\": {\n            \"@type\": \"RealEstateAgent\",\n            \"name\": \"Poncho Davalos Real Estate\",\n            \"telephone\": \"+52 (322) 292-2312\",\n            \"email\": \"hello@ponchodavalos.com.mx\",\n            \"url\": \"https://ponchodavalos.com.mx\"\n      }\n}",
+    "metaDescription": "Casa Frida — 2 bed, 1 bath, 868.76 sqft houses in Puerto Vallarta.",
+    "ogImage": "https://ponchodavalos.com.mx/images/mls/flx-42712/header.jpg",
+    "i18nKey": "property.mls_flx-42712",
     "prevProperty": {
-      "name": "450 Av Mexico 2B",
-      "url": "property-mlv-10006.html",
-      "thumb": "../images/mls/mlv-10006/thumb.jpg"
+      "name": "105 Pulpito 202",
+      "url": "property-flx-41284.html",
+      "thumb": "../images/mls/flx-41284/thumb.jpg"
     },
     "nextProperty": {
-      "name": "330 Av Fluvial Vallarta PH-2",
-      "url": "property-mlv-10008.html",
-      "thumb": "../images/mls/mlv-10008/thumb.jpg"
-    },
-    "parkingText": "4 spaces"
-  },
-  {
-    "listingId": "MLV-10008",
-    "slug": "mlv-10008",
-    "name": "330 Av Fluvial Vallarta PH-2",
-    "fileName": "property-mlv-10008.html",
-    "url": "mls/property-mlv-10008.html",
-    "fullUrl": "https://ponchodavalos.com.mx/mls/property-mlv-10008.html",
-    "priceUsd": 210000,
-    "priceMxn": 3885000,
-    "priceUsdFormatted": "$210,000 USD",
-    "priceMxnFormatted": "$3,885,000 MXN",
-    "beds": 2,
-    "baths": 2,
-    "surface": 130,
-    "parking": 1,
-    "yearBuilt": 2023,
-    "furnished": "Fully",
-    "view": "City, Mountain",
-    "propertyType": "Condominium",
-    "city": "Puerto Vallarta",
-    "state": "Jalisco",
-    "address": "330 Av Fluvial Vallarta PH-2, Fluvial Vallarta, Puerto Vallarta, Jalisco 48312",
-    "shortLocation": "JA, Puerto Vallarta",
-    "lat": 20.648,
-    "lng": -105.228,
-    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d500!2d-105.228!3d20.648!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e1!3m2!1ses-419!2smx",
-    "descriptionEn": "Bright penthouse in the modern Fluvial Vallarta district. This 2-bedroom unit features a private rooftop with BBQ area, open-concept living and dining, floor-to-ceiling windows, and high-end finishes. Close to shopping centers, international restaurants, and the Hotel Zone. Great for families or remote workers seeking a comfortable urban lifestyle.",
-    "descriptionEs": "Luminoso penthouse en el moderno distrito de Fluvial Vallarta. Esta unidad de 2 recámaras cuenta con azotea privada con área de BBQ, sala-comedor de concepto abierto, ventanales de piso a techo y acabados de alta gama. Cerca de centros comerciales, restaurantes internacionales y la Zona Hotelera. Ideal para familias o trabajadores remotos que buscan un estilo de vida urbano cómodo.",
-    "amenities": [
-      "Rooftop BBQ",
-      "Elevator",
-      "Security",
-      "Gym"
-    ],
-    "appliances": [
-      "Air Conditioning: Mini-Split",
-      "Washer/Dryer"
-    ],
-    "utilities": [
-      "CFE",
-      "Municipal Water"
-    ],
-    "locationFeatures": [
-      "Urban",
-      "Near Shopping"
-    ],
-    "headerImage": "../images/mls/mlv-10008/header.jpg",
-    "thumbImage": "images/mls/mlv-10008/thumb.jpg",
-    "images": [
-      {
-        "src": "../images/mls/mlv-10008/1.jpg",
-        "alt": "330 Av Fluvial Vallarta PH-2 - Image 1",
-        "remoteSrc": "https://placehold.co/1024x683/e74c3c/ffffff?text=Fluvial+PH2+Living",
-        "order": 1
-      },
-      {
-        "src": "../images/mls/mlv-10008/2.jpg",
-        "alt": "330 Av Fluvial Vallarta PH-2 - Image 2",
-        "remoteSrc": "https://placehold.co/1024x683/c0392b/ffffff?text=Fluvial+PH2+Kitchen",
-        "order": 2
-      },
-      {
-        "src": "../images/mls/mlv-10008/3.jpg",
-        "alt": "330 Av Fluvial Vallarta PH-2 - Image 3",
-        "remoteSrc": "https://placehold.co/1024x683/e74c3c/ffffff?text=Fluvial+PH2+Rooftop",
-        "order": 3
-      },
-      {
-        "src": "../images/mls/mlv-10008/4.jpg",
-        "alt": "330 Av Fluvial Vallarta PH-2 - Image 4",
-        "remoteSrc": "https://placehold.co/1024x683/d35400/ffffff?text=Fluvial+PH2+Bedroom",
-        "order": 4
-      }
-    ],
-    "primaryPhotoUrl": "https://placehold.co/1024x683/e74c3c/ffffff?text=Fluvial+PH2+Living",
-    "allPhotoUrls": [
-      "https://placehold.co/1024x683/e74c3c/ffffff?text=Fluvial+PH2+Living",
-      "https://placehold.co/1024x683/c0392b/ffffff?text=Fluvial+PH2+Kitchen",
-      "https://placehold.co/1024x683/e74c3c/ffffff?text=Fluvial+PH2+Rooftop",
-      "https://placehold.co/1024x683/d35400/ffffff?text=Fluvial+PH2+Bedroom"
-    ],
-    "isotopeCategory": "category-19",
-    "schemaOrg": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"RealEstateListing\",\n      \"name\": \"330 Av Fluvial Vallarta PH-2\",\n      \"description\": \"Bright penthouse in the modern Fluvial Vallarta district. This 2-bedroom unit features a private rooftop with BBQ area, open-concept living and dining, floor-to-ceiling windows, and high-end finishes. Close to shopping centers, international restaurants, and the Hotel Zone. Great for families or remote workers seeking a comfortable urban lifestyle.\",\n      \"url\": \"https://ponchodavalos.com.mx/mls/property-mlv-10008.html\",\n      \"image\": [\n            \"https://ponchodavalos.com.mx/images/mls/mlv-10008/header.jpg\"\n      ],\n      \"datePosted\": \"2025-07-15\",\n      \"address\": {\n            \"@type\": \"PostalAddress\",\n            \"addressLocality\": \"Puerto Vallarta\",\n            \"addressRegion\": \"Jalisco\",\n            \"addressCountry\": \"MX\"\n      },\n      \"geo\": {\n            \"@type\": \"GeoCoordinates\",\n            \"latitude\": \"20.648\",\n            \"longitude\": \"-105.228\"\n      },\n      \"offers\": {\n            \"@type\": \"Offer\",\n            \"price\": \"210000\",\n            \"priceCurrency\": \"USD\",\n            \"availability\": \"https://schema.org/InStock\"\n      },\n      \"numberOfRooms\": 2,\n      \"numberOfBathroomsTotal\": 2,\n      \"floorSize\": {\n            \"@type\": \"QuantitativeValue\",\n            \"value\": 130,\n            \"unitCode\": \"MTK\"\n      },\n      \"amenityFeature\": [\n            {\n                  \"@type\": \"LocationFeatureSpecification\",\n                  \"name\": \"Rooftop BBQ\"\n            },\n            {\n                  \"@type\": \"LocationFeatureSpecification\",\n                  \"name\": \"Elevator\"\n            },\n            {\n                  \"@type\": \"LocationFeatureSpecification\",\n                  \"name\": \"Security\"\n            },\n            {\n                  \"@type\": \"LocationFeatureSpecification\",\n                  \"name\": \"Gym\"\n            }\n      ],\n      \"broker\": {\n            \"@type\": \"RealEstateAgent\",\n            \"name\": \"Poncho Davalos Real Estate\",\n            \"telephone\": \"+52 (322) 292-2312\",\n            \"email\": \"hello@ponchodavalos.com.mx\",\n            \"url\": \"https://ponchodavalos.com.mx\"\n      }\n}",
-    "metaDescription": "Bright penthouse in the modern Fluvial Vallarta district. This 2-bedroom unit features a private rooftop with BBQ area, open-concept living and dining, floor-to",
-    "ogImage": "https://ponchodavalos.com.mx/images/mls/mlv-10008/header.jpg",
-    "i18nKey": "property.mls_mlv-10008",
-    "prevProperty": {
-      "name": "22 Calle Punta Esmeralda",
-      "url": "property-mlv-10007.html",
-      "thumb": "../images/mls/mlv-10007/thumb.jpg"
-    },
-    "nextProperty": {
-      "name": "200 Calle Basilio Badillo 8A",
-      "url": "property-mlv-10009.html",
-      "thumb": "../images/mls/mlv-10009/thumb.jpg"
-    },
-    "parkingText": "1 space"
-  },
-  {
-    "listingId": "MLV-10009",
-    "slug": "mlv-10009",
-    "name": "200 Calle Basilio Badillo 8A",
-    "fileName": "property-mlv-10009.html",
-    "url": "mls/property-mlv-10009.html",
-    "fullUrl": "https://ponchodavalos.com.mx/mls/property-mlv-10009.html",
-    "priceUsd": 165000,
-    "priceMxn": 3052500,
-    "priceUsdFormatted": "$165,000 USD",
-    "priceMxnFormatted": "$3,052,500 MXN",
-    "beds": 1,
-    "baths": 2,
-    "surface": 78,
-    "parking": 0,
-    "yearBuilt": 2022,
-    "furnished": "Fully",
-    "view": "City",
-    "propertyType": "Condominium",
-    "city": "Puerto Vallarta",
-    "state": "Jalisco",
-    "address": "200 Calle Basilio Badillo 8A, Emiliano Zapata, Puerto Vallarta, Jalisco 48380",
-    "shortLocation": "JA, Puerto Vallarta",
-    "lat": 20.61,
-    "lng": -105.231,
-    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d500!2d-105.231!3d20.61!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e1!3m2!1ses-419!2smx",
-    "descriptionEn": "Charming 1-bedroom condo on the famous Basilio Badillo street in Emiliano Zapata. Features a modern open layout, custom closets, and a terrace perfect for morning coffee. The neighborhood is known for its art galleries, boutique shops, and weekend art walk. Pool and common terrace on the rooftop. Excellent rental potential.",
-    "descriptionEs": "Encantador condominio de 1 recámara en la famosa calle Basilio Badillo en Emiliano Zapata. Cuenta con un diseño moderno abierto, closets a medida y una terraza perfecta para el café de la mañana. El barrio es conocido por sus galerías de arte, boutiques y paseo del arte de fin de semana. Alberca y terraza común en la azotea. Excelente potencial de renta.",
-    "amenities": [
-      "Rooftop Pool",
-      "Common Terrace",
-      "Security"
-    ],
-    "appliances": [
-      "Air Conditioning: Mini-Split"
-    ],
-    "utilities": [
-      "CFE"
-    ],
-    "locationFeatures": [
-      "Art District",
-      "Walking Distance to Beach"
-    ],
-    "headerImage": "../images/mls/mlv-10009/header.jpg",
-    "thumbImage": "images/mls/mlv-10009/thumb.jpg",
-    "images": [
-      {
-        "src": "../images/mls/mlv-10009/1.jpg",
-        "alt": "200 Calle Basilio Badillo 8A - Image 1",
-        "remoteSrc": "https://placehold.co/1024x683/8e44ad/ffffff?text=Badillo+8A+Living",
-        "order": 1
-      },
-      {
-        "src": "../images/mls/mlv-10009/2.jpg",
-        "alt": "200 Calle Basilio Badillo 8A - Image 2",
-        "remoteSrc": "https://placehold.co/1024x683/9b59b6/ffffff?text=Badillo+8A+Terrace",
-        "order": 2
-      },
-      {
-        "src": "../images/mls/mlv-10009/3.jpg",
-        "alt": "200 Calle Basilio Badillo 8A - Image 3",
-        "remoteSrc": "https://placehold.co/1024x683/8e44ad/ffffff?text=Badillo+8A+Bedroom",
-        "order": 3
-      }
-    ],
-    "primaryPhotoUrl": "https://placehold.co/1024x683/8e44ad/ffffff?text=Badillo+8A+Living",
-    "allPhotoUrls": [
-      "https://placehold.co/1024x683/8e44ad/ffffff?text=Badillo+8A+Living",
-      "https://placehold.co/1024x683/9b59b6/ffffff?text=Badillo+8A+Terrace",
-      "https://placehold.co/1024x683/8e44ad/ffffff?text=Badillo+8A+Bedroom"
-    ],
-    "isotopeCategory": "category-19",
-    "schemaOrg": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"RealEstateListing\",\n      \"name\": \"200 Calle Basilio Badillo 8A\",\n      \"description\": \"Charming 1-bedroom condo on the famous Basilio Badillo street in Emiliano Zapata. Features a modern open layout, custom closets, and a terrace perfect for morning coffee. The neighborhood is known for its art galleries, boutique shops, and weekend art walk. Pool and common terrace on the rooftop. Excellent rental potential.\",\n      \"url\": \"https://ponchodavalos.com.mx/mls/property-mlv-10009.html\",\n      \"image\": [\n            \"https://ponchodavalos.com.mx/images/mls/mlv-10009/header.jpg\"\n      ],\n      \"datePosted\": \"2025-06-10\",\n      \"address\": {\n            \"@type\": \"PostalAddress\",\n            \"addressLocality\": \"Puerto Vallarta\",\n            \"addressRegion\": \"Jalisco\",\n            \"addressCountry\": \"MX\"\n      },\n      \"geo\": {\n            \"@type\": \"GeoCoordinates\",\n            \"latitude\": \"20.61\",\n            \"longitude\": \"-105.231\"\n      },\n      \"offers\": {\n            \"@type\": \"Offer\",\n            \"price\": \"165000\",\n            \"priceCurrency\": \"USD\",\n            \"availability\": \"https://schema.org/InStock\"\n      },\n      \"numberOfRooms\": 1,\n      \"numberOfBathroomsTotal\": 2,\n      \"floorSize\": {\n            \"@type\": \"QuantitativeValue\",\n            \"value\": 78,\n            \"unitCode\": \"MTK\"\n      },\n      \"amenityFeature\": [\n            {\n                  \"@type\": \"LocationFeatureSpecification\",\n                  \"name\": \"Rooftop Pool\"\n            },\n            {\n                  \"@type\": \"LocationFeatureSpecification\",\n                  \"name\": \"Common Terrace\"\n            },\n            {\n                  \"@type\": \"LocationFeatureSpecification\",\n                  \"name\": \"Security\"\n            }\n      ],\n      \"broker\": {\n            \"@type\": \"RealEstateAgent\",\n            \"name\": \"Poncho Davalos Real Estate\",\n            \"telephone\": \"+52 (322) 292-2312\",\n            \"email\": \"hello@ponchodavalos.com.mx\",\n            \"url\": \"https://ponchodavalos.com.mx\"\n      }\n}",
-    "metaDescription": "Charming 1-bedroom condo on the famous Basilio Badillo street in Emiliano Zapata. Features a modern open layout, custom closets, and a terrace perfect for morni",
-    "ogImage": "https://ponchodavalos.com.mx/images/mls/mlv-10009/header.jpg",
-    "i18nKey": "property.mls_mlv-10009",
-    "prevProperty": {
-      "name": "330 Av Fluvial Vallarta PH-2",
-      "url": "property-mlv-10008.html",
-      "thumb": "../images/mls/mlv-10008/thumb.jpg"
-    },
-    "nextProperty": {
-      "name": "500 Paseo de los Cocoteros 1201",
-      "url": "property-mlv-10010.html",
-      "thumb": "../images/mls/mlv-10010/thumb.jpg"
+      "name": "9 C. Elote",
+      "url": "property-flx-42023.html",
+      "thumb": "../images/mls/flx-42023/thumb.jpg"
     },
     "parkingText": "None"
   },
   {
-    "listingId": "MLV-10010",
-    "slug": "mlv-10010",
-    "name": "500 Paseo de los Cocoteros 1201",
-    "fileName": "property-mlv-10010.html",
-    "url": "mls/property-mlv-10010.html",
-    "fullUrl": "https://ponchodavalos.com.mx/mls/property-mlv-10010.html",
-    "priceUsd": 430000,
-    "priceMxn": 7955000,
-    "priceUsdFormatted": "$430,000 USD",
-    "priceMxnFormatted": "$7,955,000 MXN",
+    "listingId": "FLX-42023",
+    "slug": "flx-42023",
+    "name": "9 C. Elote",
+    "fileName": "property-flx-42023.html",
+    "url": "mls/property-flx-42023.html",
+    "fullUrl": "https://ponchodavalos.com.mx/mls/property-flx-42023.html",
+    "priceUsd": 128800,
+    "priceMxn": 2382800,
+    "priceUsdFormatted": "$128,800 USD",
+    "priceMxnFormatted": "$2,382,800 MXN",
     "beds": 3,
     "baths": 3,
-    "surface": 210,
-    "parking": 2,
-    "yearBuilt": 2021,
-    "furnished": "Fully",
-    "view": "Ocean, Beachfront",
-    "propertyType": "Condominium",
-    "city": "Nuevo Vallarta",
+    "surface": 84.97,
+    "parking": 0,
+    "yearBuilt": "",
+    "furnished": "",
+    "view": "",
+    "propertyType": "Single Family",
+    "city": "Other",
     "state": "Nayarit",
-    "address": "500 Paseo de los Cocoteros 1201, Nuevo Vallarta, Nayarit 63735",
-    "shortLocation": "NA, Nuevo Vallarta",
-    "lat": 20.701,
-    "lng": -105.295,
-    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d500!2d-105.295!3d20.701!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e1!3m2!1ses-419!2smx",
-    "descriptionEn": "Beachfront 3-bedroom luxury condo in Nuevo Vallarta's premier tower. Direct beach access, resort-style amenities including multiple pools, spa, restaurant, and kids club. Spacious layout with marble floors, granite counters, and floor-to-ceiling ocean views from every room. Includes deeded beach club membership. HOA includes all utilities.",
-    "descriptionEs": "Condominio de lujo de 3 recámaras frente al mar en la torre premier de Nuevo Vallarta. Acceso directo a la playa, amenidades estilo resort incluyendo múltiples albercas, spa, restaurante y club infantil. Amplia distribución con pisos de mármol, cubiertas de granito y vistas al océano de piso a techo desde cada habitación. Incluye membresía de club de playa. HOA incluye todos los servicios.",
-    "amenities": [
-      "Pool",
-      "Spa",
-      "Restaurant",
-      "Kids Club",
-      "Beach Club",
-      "Gym",
-      "Security 24/7",
-      "Concierge"
-    ],
-    "appliances": [
-      "Air Conditioning: Central",
-      "Washer/Dryer",
-      "Dishwasher"
-    ],
-    "utilities": [
-      "CFE",
-      "Municipal Water"
-    ],
-    "locationFeatures": [
-      "Beachfront",
-      "Resort"
-    ],
-    "headerImage": "../images/mls/mlv-10010/header.jpg",
-    "thumbImage": "images/mls/mlv-10010/thumb.jpg",
+    "address": "9 C. Elote, Vista Los Mangos, Other, NA",
+    "shortLocation": "NA, Other",
+    "lat": null,
+    "lng": null,
+    "mapEmbedUrl": "",
+    "descriptionEn": "Vista Los Mangos — 3 bed, 3 bath, 914.6 sqft houses in Other.",
+    "descriptionEs": "Vista Los Mangos — 3 rec, 3 baños, 914.6 pies² casa en Other.",
+    "amenities": [],
+    "appliances": [],
+    "utilities": [],
+    "locationFeatures": [],
+    "headerImage": "../images/mls/flx-42023/header.jpg",
+    "thumbImage": "images/mls/flx-42023/thumb.jpg",
     "images": [
       {
-        "src": "../images/mls/mlv-10010/1.jpg",
-        "alt": "500 Paseo de los Cocoteros 1201 - Image 1",
-        "remoteSrc": "https://placehold.co/1024x683/3498db/ffffff?text=NV+1201+Living",
+        "src": "../images/mls/flx-42023/1.jpg",
+        "alt": "9 C. Elote - Image 1",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260201204159425907000000-o.jpg",
         "order": 1
       },
       {
-        "src": "../images/mls/mlv-10010/2.jpg",
-        "alt": "500 Paseo de los Cocoteros 1201 - Image 2",
-        "remoteSrc": "https://placehold.co/1024x683/2980b9/ffffff?text=NV+1201+Ocean+View",
+        "src": "../images/mls/flx-42023/2.jpg",
+        "alt": "9 C. Elote - Image 2",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260201204147214607000000-o.jpg",
         "order": 2
       },
       {
-        "src": "../images/mls/mlv-10010/3.jpg",
-        "alt": "500 Paseo de los Cocoteros 1201 - Image 3",
-        "remoteSrc": "https://placehold.co/1024x683/3498db/ffffff?text=NV+1201+Kitchen",
+        "src": "../images/mls/flx-42023/3.jpg",
+        "alt": "9 C. Elote - Image 3",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260201204212932943000000-o.jpg",
         "order": 3
       },
       {
-        "src": "../images/mls/mlv-10010/4.jpg",
-        "alt": "500 Paseo de los Cocoteros 1201 - Image 4",
-        "remoteSrc": "https://placehold.co/1024x683/2471a3/ffffff?text=NV+1201+Master",
+        "src": "../images/mls/flx-42023/4.jpg",
+        "alt": "9 C. Elote - Image 4",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260201204220242976000000-o.jpg",
         "order": 4
       },
       {
-        "src": "../images/mls/mlv-10010/5.jpg",
-        "alt": "500 Paseo de los Cocoteros 1201 - Image 5",
-        "remoteSrc": "https://placehold.co/1024x683/1abc9c/ffffff?text=NV+1201+Pool",
+        "src": "../images/mls/flx-42023/5.jpg",
+        "alt": "9 C. Elote - Image 5",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260201204140083069000000-o.jpg",
         "order": 5
-      }
-    ],
-    "primaryPhotoUrl": "https://placehold.co/1024x683/3498db/ffffff?text=NV+1201+Living",
-    "allPhotoUrls": [
-      "https://placehold.co/1024x683/3498db/ffffff?text=NV+1201+Living",
-      "https://placehold.co/1024x683/2980b9/ffffff?text=NV+1201+Ocean+View",
-      "https://placehold.co/1024x683/3498db/ffffff?text=NV+1201+Kitchen",
-      "https://placehold.co/1024x683/2471a3/ffffff?text=NV+1201+Master",
-      "https://placehold.co/1024x683/1abc9c/ffffff?text=NV+1201+Pool"
-    ],
-    "isotopeCategory": "category-19",
-    "schemaOrg": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"RealEstateListing\",\n      \"name\": \"500 Paseo de los Cocoteros 1201\",\n      \"description\": \"Beachfront 3-bedroom luxury condo in Nuevo Vallarta's premier tower. Direct beach access, resort-style amenities including multiple pools, spa, restaurant, and kids club. Spacious layout with marble floors, granite counters, and floor-to-ceiling ocean views from every room. Includes deeded beach club membership. HOA includes all utilities.\",\n      \"url\": \"https://ponchodavalos.com.mx/mls/property-mlv-10010.html\",\n      \"image\": [\n            \"https://ponchodavalos.com.mx/images/mls/mlv-10010/header.jpg\"\n      ],\n      \"datePosted\": \"2025-08-10\",\n      \"address\": {\n            \"@type\": \"PostalAddress\",\n            \"addressLocality\": \"Nuevo Vallarta\",\n            \"addressRegion\": \"Nayarit\",\n            \"addressCountry\": \"MX\"\n      },\n      \"geo\": {\n            \"@type\": \"GeoCoordinates\",\n            \"latitude\": \"20.701\",\n            \"longitude\": \"-105.295\"\n      },\n      \"offers\": {\n            \"@type\": \"Offer\",\n            \"price\": \"430000\",\n            \"priceCurrency\": \"USD\",\n            \"availability\": \"https://schema.org/InStock\"\n      },\n      \"numberOfRooms\": 3,\n      \"numberOfBathroomsTotal\": 3,\n      \"floorSize\": {\n            \"@type\": \"QuantitativeValue\",\n            \"value\": 210,\n            \"unitCode\": \"MTK\"\n      },\n      \"amenityFeature\": [\n            {\n                  \"@type\": \"LocationFeatureSpecification\",\n                  \"name\": \"Pool\"\n            },\n            {\n                  \"@type\": \"LocationFeatureSpecification\",\n                  \"name\": \"Spa\"\n            },\n            {\n                  \"@type\": \"LocationFeatureSpecification\",\n                  \"name\": \"Restaurant\"\n            },\n            {\n                  \"@type\": \"LocationFeatureSpecification\",\n                  \"name\": \"Kids Club\"\n            },\n            {\n                  \"@type\": \"LocationFeatureSpecification\",\n                  \"name\": \"Beach Club\"\n            },\n            {\n                  \"@type\": \"LocationFeatureSpecification\",\n                  \"name\": \"Gym\"\n            },\n            {\n                  \"@type\": \"LocationFeatureSpecification\",\n                  \"name\": \"Security 24/7\"\n            },\n            {\n                  \"@type\": \"LocationFeatureSpecification\",\n                  \"name\": \"Concierge\"\n            }\n      ],\n      \"broker\": {\n            \"@type\": \"RealEstateAgent\",\n            \"name\": \"Poncho Davalos Real Estate\",\n            \"telephone\": \"+52 (322) 292-2312\",\n            \"email\": \"hello@ponchodavalos.com.mx\",\n            \"url\": \"https://ponchodavalos.com.mx\"\n      }\n}",
-    "metaDescription": "Beachfront 3-bedroom luxury condo in Nuevo Vallarta's premier tower. Direct beach access, resort-style amenities including multiple pools, spa, restaurant, and ",
-    "ogImage": "https://ponchodavalos.com.mx/images/mls/mlv-10010/header.jpg",
-    "i18nKey": "property.mls_mlv-10010",
-    "prevProperty": {
-      "name": "200 Calle Basilio Badillo 8A",
-      "url": "property-mlv-10009.html",
-      "thumb": "../images/mls/mlv-10009/thumb.jpg"
-    },
-    "nextProperty": {
-      "name": "1100 Av de los Tules B-5",
-      "url": "property-mlv-10011.html",
-      "thumb": "../images/mls/mlv-10011/thumb.jpg"
-    },
-    "parkingText": "2 spaces"
-  },
-  {
-    "listingId": "MLV-10011",
-    "slug": "mlv-10011",
-    "name": "1100 Av de los Tules B-5",
-    "fileName": "property-mlv-10011.html",
-    "url": "mls/property-mlv-10011.html",
-    "fullUrl": "https://ponchodavalos.com.mx/mls/property-mlv-10011.html",
-    "priceUsd": 125000,
-    "priceMxn": 2312500,
-    "priceUsdFormatted": "$125,000 USD",
-    "priceMxnFormatted": "$2,312,500 MXN",
-    "beds": 2,
-    "baths": 1,
-    "surface": 85,
-    "parking": 1,
-    "yearBuilt": 2019,
-    "furnished": "Unfurnished",
-    "view": "Garden",
-    "propertyType": "Condominium",
-    "city": "Puerto Vallarta",
-    "state": "Jalisco",
-    "address": "1100 Av de los Tules B-5, Versalles, Puerto Vallarta, Jalisco 48325",
-    "shortLocation": "JA, Puerto Vallarta",
-    "lat": 20.643,
-    "lng": -105.22,
-    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d500!2d-105.22!3d20.643!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e1!3m2!1ses-419!2smx",
-    "descriptionEn": "Well-maintained 2-bedroom condo in Versalles, a popular residential neighborhood among locals and expats. Practical layout with ample storage, covered parking, and a shared garden area. Close to Costco, Sam's Club, hospitals, and schools. Great value for full-time residents or long-term rental. Quiet, family-friendly building.",
-    "descriptionEs": "Condominio bien mantenido de 2 recámaras en Versalles, un popular barrio residencial entre locales y expatriados. Distribución práctica con amplio almacenamiento, estacionamiento cubierto y área de jardín compartida. Cerca de Costco, Sam's Club, hospitales y escuelas. Gran valor para residentes de tiempo completo o renta a largo plazo. Edificio tranquilo y familiar.",
-    "amenities": [
-      "Garden",
-      "Security",
-      "Covered Parking"
-    ],
-    "appliances": [
-      "Air Conditioning: Mini-Split"
-    ],
-    "utilities": [
-      "CFE",
-      "Municipal Water"
-    ],
-    "locationFeatures": [
-      "Residential",
-      "Near Shopping",
-      "Near Schools"
-    ],
-    "headerImage": "../images/mls/mlv-10011/header.jpg",
-    "thumbImage": "images/mls/mlv-10011/thumb.jpg",
-    "images": [
-      {
-        "src": "../images/mls/mlv-10011/1.jpg",
-        "alt": "1100 Av de los Tules B-5 - Image 1",
-        "remoteSrc": "https://placehold.co/1024x683/2ecc71/ffffff?text=Versalles+B5+Living",
-        "order": 1
       },
       {
-        "src": "../images/mls/mlv-10011/2.jpg",
-        "alt": "1100 Av de los Tules B-5 - Image 2",
-        "remoteSrc": "https://placehold.co/1024x683/27ae60/ffffff?text=Versalles+B5+Kitchen",
-        "order": 2
+        "src": "../images/mls/flx-42023/6.jpg",
+        "alt": "9 C. Elote - Image 6",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260201210654431348000000-o.jpg",
+        "order": 6
       },
       {
-        "src": "../images/mls/mlv-10011/3.jpg",
-        "alt": "1100 Av de los Tules B-5 - Image 3",
-        "remoteSrc": "https://placehold.co/1024x683/2ecc71/ffffff?text=Versalles+B5+Bedroom",
-        "order": 3
+        "src": "../images/mls/flx-42023/7.jpg",
+        "alt": "9 C. Elote - Image 7",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260201204115724550000000-o.jpg",
+        "order": 7
+      },
+      {
+        "src": "../images/mls/flx-42023/8.jpg",
+        "alt": "9 C. Elote - Image 8",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260201204120403278000000-o.jpg",
+        "order": 8
+      },
+      {
+        "src": "../images/mls/flx-42023/9.jpg",
+        "alt": "9 C. Elote - Image 9",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260201204110965567000000-o.jpg",
+        "order": 9
+      },
+      {
+        "src": "../images/mls/flx-42023/10.jpg",
+        "alt": "9 C. Elote - Image 10",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260201204104632289000000-o.jpg",
+        "order": 10
+      },
+      {
+        "src": "../images/mls/flx-42023/11.jpg",
+        "alt": "9 C. Elote - Image 11",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260201204057580486000000-o.jpg",
+        "order": 11
+      },
+      {
+        "src": "../images/mls/flx-42023/12.jpg",
+        "alt": "9 C. Elote - Image 12",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260201204126863400000000-o.jpg",
+        "order": 12
       }
     ],
-    "primaryPhotoUrl": "https://placehold.co/1024x683/2ecc71/ffffff?text=Versalles+B5+Living",
+    "primaryPhotoUrl": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260201204159425907000000-o.jpg",
     "allPhotoUrls": [
-      "https://placehold.co/1024x683/2ecc71/ffffff?text=Versalles+B5+Living",
-      "https://placehold.co/1024x683/27ae60/ffffff?text=Versalles+B5+Kitchen",
-      "https://placehold.co/1024x683/2ecc71/ffffff?text=Versalles+B5+Bedroom"
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260201204159425907000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260201204147214607000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260201204212932943000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260201204220242976000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260201204140083069000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260201210654431348000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260201204115724550000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260201204120403278000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260201204110965567000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260201204104632289000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260201204057580486000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260201204126863400000000-o.jpg"
     ],
-    "isotopeCategory": "category-19",
-    "schemaOrg": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"RealEstateListing\",\n      \"name\": \"1100 Av de los Tules B-5\",\n      \"description\": \"Well-maintained 2-bedroom condo in Versalles, a popular residential neighborhood among locals and expats. Practical layout with ample storage, covered parking, and a shared garden area. Close to Costco, Sam's Club, hospitals, and schools. Great value for full-time residents or long-term rental. Quiet, family-friendly building.\",\n      \"url\": \"https://ponchodavalos.com.mx/mls/property-mlv-10011.html\",\n      \"image\": [\n            \"https://ponchodavalos.com.mx/images/mls/mlv-10011/header.jpg\"\n      ],\n      \"datePosted\": \"2025-03-25\",\n      \"address\": {\n            \"@type\": \"PostalAddress\",\n            \"addressLocality\": \"Puerto Vallarta\",\n            \"addressRegion\": \"Jalisco\",\n            \"addressCountry\": \"MX\"\n      },\n      \"geo\": {\n            \"@type\": \"GeoCoordinates\",\n            \"latitude\": \"20.643\",\n            \"longitude\": \"-105.22\"\n      },\n      \"offers\": {\n            \"@type\": \"Offer\",\n            \"price\": \"125000\",\n            \"priceCurrency\": \"USD\",\n            \"availability\": \"https://schema.org/InStock\"\n      },\n      \"numberOfRooms\": 2,\n      \"numberOfBathroomsTotal\": 1,\n      \"floorSize\": {\n            \"@type\": \"QuantitativeValue\",\n            \"value\": 85,\n            \"unitCode\": \"MTK\"\n      },\n      \"amenityFeature\": [\n            {\n                  \"@type\": \"LocationFeatureSpecification\",\n                  \"name\": \"Garden\"\n            },\n            {\n                  \"@type\": \"LocationFeatureSpecification\",\n                  \"name\": \"Security\"\n            },\n            {\n                  \"@type\": \"LocationFeatureSpecification\",\n                  \"name\": \"Covered Parking\"\n            }\n      ],\n      \"broker\": {\n            \"@type\": \"RealEstateAgent\",\n            \"name\": \"Poncho Davalos Real Estate\",\n            \"telephone\": \"+52 (322) 292-2312\",\n            \"email\": \"hello@ponchodavalos.com.mx\",\n            \"url\": \"https://ponchodavalos.com.mx\"\n      }\n}",
-    "metaDescription": "Well-maintained 2-bedroom condo in Versalles, a popular residential neighborhood among locals and expats. Practical layout with ample storage, covered parking, ",
-    "ogImage": "https://ponchodavalos.com.mx/images/mls/mlv-10011/header.jpg",
-    "i18nKey": "property.mls_mlv-10011",
+    "isotopeCategory": "category-20",
+    "schemaOrg": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"RealEstateListing\",\n      \"name\": \"9 C. Elote\",\n      \"description\": \"Vista Los Mangos — 3 bed, 3 bath, 914.6 sqft houses in Other.\",\n      \"url\": \"https://ponchodavalos.com.mx/mls/property-flx-42023.html\",\n      \"image\": [\n            \"https://ponchodavalos.com.mx/images/mls/flx-42023/header.jpg\"\n      ],\n      \"datePosted\": \"2026-03-30\",\n      \"address\": {\n            \"@type\": \"PostalAddress\",\n            \"addressLocality\": \"Other\",\n            \"addressRegion\": \"Nayarit\",\n            \"addressCountry\": \"MX\"\n      },\n      \"offers\": {\n            \"@type\": \"Offer\",\n            \"price\": \"128800\",\n            \"priceCurrency\": \"USD\",\n            \"availability\": \"https://schema.org/InStock\"\n      },\n      \"numberOfRooms\": 3,\n      \"numberOfBathroomsTotal\": 3,\n      \"floorSize\": {\n            \"@type\": \"QuantitativeValue\",\n            \"value\": 84.97,\n            \"unitCode\": \"MTK\"\n      },\n      \"amenityFeature\": [],\n      \"broker\": {\n            \"@type\": \"RealEstateAgent\",\n            \"name\": \"Poncho Davalos Real Estate\",\n            \"telephone\": \"+52 (322) 292-2312\",\n            \"email\": \"hello@ponchodavalos.com.mx\",\n            \"url\": \"https://ponchodavalos.com.mx\"\n      }\n}",
+    "metaDescription": "Vista Los Mangos — 3 bed, 3 bath, 914.6 sqft houses in Other.",
+    "ogImage": "https://ponchodavalos.com.mx/images/mls/flx-42023/header.jpg",
+    "i18nKey": "property.mls_flx-42023",
     "prevProperty": {
-      "name": "500 Paseo de los Cocoteros 1201",
-      "url": "property-mlv-10010.html",
-      "thumb": "../images/mls/mlv-10010/thumb.jpg"
+      "name": "147 P.º De Las Palmas",
+      "url": "property-flx-42712.html",
+      "thumb": "../images/mls/flx-42712/thumb.jpg"
     },
     "nextProperty": {
-      "name": "75 Calle Pulpito PH-3",
-      "url": "property-mlv-10012.html",
-      "thumb": "../images/mls/mlv-10012/thumb.jpg"
+      "name": "353 Amapas 303",
+      "url": "property-flx-41386.html",
+      "thumb": "../images/mls/flx-41386/thumb.jpg"
     },
-    "parkingText": "1 space"
+    "parkingText": "None"
   },
   {
-    "listingId": "MLV-10012",
-    "slug": "mlv-10012",
-    "name": "75 Calle Pulpito PH-3",
-    "fileName": "property-mlv-10012.html",
-    "url": "mls/property-mlv-10012.html",
-    "fullUrl": "https://ponchodavalos.com.mx/mls/property-mlv-10012.html",
-    "priceUsd": 310000,
-    "priceMxn": 5735000,
-    "priceUsdFormatted": "$310,000 USD",
-    "priceMxnFormatted": "$5,735,000 MXN",
+    "listingId": "FLX-41386",
+    "slug": "flx-41386",
+    "name": "353 Amapas 303",
+    "fileName": "property-flx-41386.html",
+    "url": "mls/property-flx-41386.html",
+    "fullUrl": "https://ponchodavalos.com.mx/mls/property-flx-41386.html",
+    "priceUsd": 749000,
+    "priceMxn": 13856500,
+    "priceUsdFormatted": "$749,000 USD",
+    "priceMxnFormatted": "$13,856,500 MXN",
     "beds": 2,
     "baths": 2,
-    "surface": 145,
+    "surface": 105.62,
     "parking": 0,
-    "yearBuilt": 2024,
-    "furnished": "Fully",
-    "view": "Ocean, Mountain, City",
+    "yearBuilt": "",
+    "furnished": "",
+    "view": "",
     "propertyType": "Condominium",
     "city": "Puerto Vallarta",
     "state": "Jalisco",
-    "address": "75 Calle Pulpito PH-3, Zona Romántica, Puerto Vallarta, Jalisco 48380",
+    "address": "353 Amapas 303, Amapas 353, Puerto Vallarta, JA",
     "shortLocation": "JA, Puerto Vallarta",
-    "lat": 20.609,
-    "lng": -105.233,
-    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d500!2d-105.233!3d20.609!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e1!3m2!1ses-419!2smx",
-    "descriptionEn": "Brand new penthouse on Calle Pulpito in the heart of Zona Romántica. This 2-bedroom unit features a stunning private rooftop with plunge pool and 360-degree views of the mountains and ocean. Modern industrial design with exposed brick, designer lighting, and premium appliances. Steps from the Pier of Los Muertos and the best restaurants in town.",
-    "descriptionEs": "Penthouse nuevo en Calle Pulpito en el corazón de la Zona Romántica. Esta unidad de 2 recámaras cuenta con una impresionante azotea privada con alberca y vistas de 360 grados a las montañas y el océano. Diseño industrial moderno con ladrillo expuesto, iluminación de diseñador y electrodomésticos premium. A pasos del Muelle de Los Muertos y los mejores restaurantes de la ciudad.",
-    "amenities": [
-      "Private Rooftop",
-      "Plunge Pool",
-      "Elevator",
-      "Security"
-    ],
-    "appliances": [
-      "Air Conditioning: Mini-Split",
-      "Washer/Dryer"
-    ],
-    "utilities": [
-      "CFE"
-    ],
-    "locationFeatures": [
-      "City Center",
-      "Walking Distance to Beach",
-      "Restaurant District"
-    ],
-    "headerImage": "../images/mls/mlv-10012/header.jpg",
-    "thumbImage": "images/mls/mlv-10012/thumb.jpg",
+    "lat": null,
+    "lng": null,
+    "mapEmbedUrl": "",
+    "descriptionEn": "Amapas 353 — 2 bed, 2 bath, 1,136.9 sqft condos in Puerto Vallarta.",
+    "descriptionEs": "Amapas 353 — 2 rec, 2 baños, 1,136.9 pies² condominio en Puerto Vallarta.",
+    "amenities": [],
+    "appliances": [],
+    "utilities": [],
+    "locationFeatures": [],
+    "headerImage": "../images/mls/flx-41386/header.jpg",
+    "thumbImage": "images/mls/flx-41386/thumb.jpg",
     "images": [
       {
-        "src": "../images/mls/mlv-10012/1.jpg",
-        "alt": "75 Calle Pulpito PH-3 - Image 1",
-        "remoteSrc": "https://placehold.co/1024x683/e67e22/ffffff?text=Pulpito+PH3+Living",
+        "src": "../images/mls/flx-41386/1.jpg",
+        "alt": "353 Amapas 303 - Image 1",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251220123835126978000000-o.jpg",
         "order": 1
       },
       {
-        "src": "../images/mls/mlv-10012/2.jpg",
-        "alt": "75 Calle Pulpito PH-3 - Image 2",
-        "remoteSrc": "https://placehold.co/1024x683/d35400/ffffff?text=Pulpito+PH3+Rooftop",
+        "src": "../images/mls/flx-41386/2.jpg",
+        "alt": "353 Amapas 303 - Image 2",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251220123833435241000000-o.jpg",
         "order": 2
       },
       {
-        "src": "../images/mls/mlv-10012/3.jpg",
-        "alt": "75 Calle Pulpito PH-3 - Image 3",
-        "remoteSrc": "https://placehold.co/1024x683/e67e22/ffffff?text=Pulpito+PH3+Kitchen",
+        "src": "../images/mls/flx-41386/3.jpg",
+        "alt": "353 Amapas 303 - Image 3",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251220123836672765000000-o.jpg",
         "order": 3
       },
       {
-        "src": "../images/mls/mlv-10012/4.jpg",
-        "alt": "75 Calle Pulpito PH-3 - Image 4",
-        "remoteSrc": "https://placehold.co/1024x683/f39c12/ffffff?text=Pulpito+PH3+Bedroom",
+        "src": "../images/mls/flx-41386/4.jpg",
+        "alt": "353 Amapas 303 - Image 4",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251220123836044214000000-o.jpg",
         "order": 4
       },
       {
-        "src": "../images/mls/mlv-10012/5.jpg",
-        "alt": "75 Calle Pulpito PH-3 - Image 5",
-        "remoteSrc": "https://placehold.co/1024x683/3498db/ffffff?text=Pulpito+PH3+View",
+        "src": "../images/mls/flx-41386/5.jpg",
+        "alt": "353 Amapas 303 - Image 5",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251220123834255734000000-o.jpg",
         "order": 5
+      },
+      {
+        "src": "../images/mls/flx-41386/6.jpg",
+        "alt": "353 Amapas 303 - Image 6",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251220123838322321000000-o.jpg",
+        "order": 6
+      },
+      {
+        "src": "../images/mls/flx-41386/7.jpg",
+        "alt": "353 Amapas 303 - Image 7",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251220123839278754000000-o.jpg",
+        "order": 7
+      },
+      {
+        "src": "../images/mls/flx-41386/8.jpg",
+        "alt": "353 Amapas 303 - Image 8",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251220123832591232000000-o.jpg",
+        "order": 8
+      },
+      {
+        "src": "../images/mls/flx-41386/9.jpg",
+        "alt": "353 Amapas 303 - Image 9",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251220123841340888000000-o.jpg",
+        "order": 9
+      },
+      {
+        "src": "../images/mls/flx-41386/10.jpg",
+        "alt": "353 Amapas 303 - Image 10",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251220123842073504000000-o.jpg",
+        "order": 10
+      },
+      {
+        "src": "../images/mls/flx-41386/11.jpg",
+        "alt": "353 Amapas 303 - Image 11",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251220123842972890000000-o.jpg",
+        "order": 11
+      },
+      {
+        "src": "../images/mls/flx-41386/12.jpg",
+        "alt": "353 Amapas 303 - Image 12",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251220123843636445000000-o.jpg",
+        "order": 12
+      },
+      {
+        "src": "../images/mls/flx-41386/13.jpg",
+        "alt": "353 Amapas 303 - Image 13",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251220123845062526000000-o.jpg",
+        "order": 13
+      },
+      {
+        "src": "../images/mls/flx-41386/14.jpg",
+        "alt": "353 Amapas 303 - Image 14",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251220123845753159000000-o.jpg",
+        "order": 14
+      },
+      {
+        "src": "../images/mls/flx-41386/15.jpg",
+        "alt": "353 Amapas 303 - Image 15",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251220123846472823000000-o.jpg",
+        "order": 15
+      },
+      {
+        "src": "../images/mls/flx-41386/16.jpg",
+        "alt": "353 Amapas 303 - Image 16",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251220123847285482000000-o.jpg",
+        "order": 16
+      },
+      {
+        "src": "../images/mls/flx-41386/17.jpg",
+        "alt": "353 Amapas 303 - Image 17",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251220123847943725000000-o.jpg",
+        "order": 17
       }
     ],
-    "primaryPhotoUrl": "https://placehold.co/1024x683/e67e22/ffffff?text=Pulpito+PH3+Living",
+    "primaryPhotoUrl": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251220123835126978000000-o.jpg",
     "allPhotoUrls": [
-      "https://placehold.co/1024x683/e67e22/ffffff?text=Pulpito+PH3+Living",
-      "https://placehold.co/1024x683/d35400/ffffff?text=Pulpito+PH3+Rooftop",
-      "https://placehold.co/1024x683/e67e22/ffffff?text=Pulpito+PH3+Kitchen",
-      "https://placehold.co/1024x683/f39c12/ffffff?text=Pulpito+PH3+Bedroom",
-      "https://placehold.co/1024x683/3498db/ffffff?text=Pulpito+PH3+View"
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251220123835126978000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251220123833435241000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251220123836672765000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251220123836044214000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251220123834255734000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251220123838322321000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251220123839278754000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251220123832591232000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251220123841340888000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251220123842073504000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251220123842972890000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251220123843636445000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251220123845062526000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251220123845753159000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251220123846472823000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251220123847285482000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251220123847943725000000-o.jpg"
     ],
     "isotopeCategory": "category-19",
-    "schemaOrg": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"RealEstateListing\",\n      \"name\": \"75 Calle Pulpito PH-3\",\n      \"description\": \"Brand new penthouse on Calle Pulpito in the heart of Zona Romántica. This 2-bedroom unit features a stunning private rooftop with plunge pool and 360-degree views of the mountains and ocean. Modern industrial design with exposed brick, designer lighting, and premium appliances. Steps from the Pier of Los Muertos and the best restaurants in town.\",\n      \"url\": \"https://ponchodavalos.com.mx/mls/property-mlv-10012.html\",\n      \"image\": [\n            \"https://ponchodavalos.com.mx/images/mls/mlv-10012/header.jpg\"\n      ],\n      \"datePosted\": \"2025-09-01\",\n      \"address\": {\n            \"@type\": \"PostalAddress\",\n            \"addressLocality\": \"Puerto Vallarta\",\n            \"addressRegion\": \"Jalisco\",\n            \"addressCountry\": \"MX\"\n      },\n      \"geo\": {\n            \"@type\": \"GeoCoordinates\",\n            \"latitude\": \"20.609\",\n            \"longitude\": \"-105.233\"\n      },\n      \"offers\": {\n            \"@type\": \"Offer\",\n            \"price\": \"310000\",\n            \"priceCurrency\": \"USD\",\n            \"availability\": \"https://schema.org/InStock\"\n      },\n      \"numberOfRooms\": 2,\n      \"numberOfBathroomsTotal\": 2,\n      \"floorSize\": {\n            \"@type\": \"QuantitativeValue\",\n            \"value\": 145,\n            \"unitCode\": \"MTK\"\n      },\n      \"amenityFeature\": [\n            {\n                  \"@type\": \"LocationFeatureSpecification\",\n                  \"name\": \"Private Rooftop\"\n            },\n            {\n                  \"@type\": \"LocationFeatureSpecification\",\n                  \"name\": \"Plunge Pool\"\n            },\n            {\n                  \"@type\": \"LocationFeatureSpecification\",\n                  \"name\": \"Elevator\"\n            },\n            {\n                  \"@type\": \"LocationFeatureSpecification\",\n                  \"name\": \"Security\"\n            }\n      ],\n      \"broker\": {\n            \"@type\": \"RealEstateAgent\",\n            \"name\": \"Poncho Davalos Real Estate\",\n            \"telephone\": \"+52 (322) 292-2312\",\n            \"email\": \"hello@ponchodavalos.com.mx\",\n            \"url\": \"https://ponchodavalos.com.mx\"\n      }\n}",
-    "metaDescription": "Brand new penthouse on Calle Pulpito in the heart of Zona Romántica. This 2-bedroom unit features a stunning private rooftop with plunge pool and 360-degree vie",
-    "ogImage": "https://ponchodavalos.com.mx/images/mls/mlv-10012/header.jpg",
-    "i18nKey": "property.mls_mlv-10012",
+    "schemaOrg": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"RealEstateListing\",\n      \"name\": \"353 Amapas 303\",\n      \"description\": \"Amapas 353 — 2 bed, 2 bath, 1,136.9 sqft condos in Puerto Vallarta.\",\n      \"url\": \"https://ponchodavalos.com.mx/mls/property-flx-41386.html\",\n      \"image\": [\n            \"https://ponchodavalos.com.mx/images/mls/flx-41386/header.jpg\"\n      ],\n      \"datePosted\": \"2026-03-30\",\n      \"address\": {\n            \"@type\": \"PostalAddress\",\n            \"addressLocality\": \"Puerto Vallarta\",\n            \"addressRegion\": \"Jalisco\",\n            \"addressCountry\": \"MX\"\n      },\n      \"offers\": {\n            \"@type\": \"Offer\",\n            \"price\": \"749000\",\n            \"priceCurrency\": \"USD\",\n            \"availability\": \"https://schema.org/InStock\"\n      },\n      \"numberOfRooms\": 2,\n      \"numberOfBathroomsTotal\": 2,\n      \"floorSize\": {\n            \"@type\": \"QuantitativeValue\",\n            \"value\": 105.62,\n            \"unitCode\": \"MTK\"\n      },\n      \"amenityFeature\": [],\n      \"broker\": {\n            \"@type\": \"RealEstateAgent\",\n            \"name\": \"Poncho Davalos Real Estate\",\n            \"telephone\": \"+52 (322) 292-2312\",\n            \"email\": \"hello@ponchodavalos.com.mx\",\n            \"url\": \"https://ponchodavalos.com.mx\"\n      }\n}",
+    "metaDescription": "Amapas 353 — 2 bed, 2 bath, 1,136.9 sqft condos in Puerto Vallarta.",
+    "ogImage": "https://ponchodavalos.com.mx/images/mls/flx-41386/header.jpg",
+    "i18nKey": "property.mls_flx-41386",
     "prevProperty": {
-      "name": "1100 Av de los Tules B-5",
-      "url": "property-mlv-10011.html",
-      "thumb": "../images/mls/mlv-10011/thumb.jpg"
+      "name": "9 C. Elote",
+      "url": "property-flx-42023.html",
+      "thumb": "../images/mls/flx-42023/thumb.jpg"
+    },
+    "nextProperty": {
+      "name": "49 Coral UP 103",
+      "url": "property-flx-41871.html",
+      "thumb": "../images/mls/flx-41871/thumb.jpg"
+    },
+    "parkingText": "None"
+  },
+  {
+    "listingId": "FLX-41871",
+    "slug": "flx-41871",
+    "name": "49 Coral UP 103",
+    "fileName": "property-flx-41871.html",
+    "url": "mls/property-flx-41871.html",
+    "fullUrl": "https://ponchodavalos.com.mx/mls/property-flx-41871.html",
+    "priceUsd": 526158,
+    "priceMxn": 9733923,
+    "priceUsdFormatted": "$526,158 USD",
+    "priceMxnFormatted": "$9,733,923 MXN",
+    "beds": 2,
+    "baths": 2,
+    "surface": 93.7,
+    "parking": 0,
+    "yearBuilt": "",
+    "furnished": "",
+    "view": "",
+    "propertyType": "Condominium",
+    "city": "Riviera Nayarit",
+    "state": "Nayarit",
+    "address": "49 Coral UP 103, Zantamar 1, Riviera Nayarit, NA",
+    "shortLocation": "NA, Riviera Nayarit",
+    "lat": null,
+    "lng": null,
+    "mapEmbedUrl": "",
+    "descriptionEn": "Zantamar 1 — 2 bed, 2 bath, 1,008.53 sqft condos in Riviera Nayarit.",
+    "descriptionEs": "Zantamar 1 — 2 rec, 2 baños, 1,008.53 pies² condominio en Riviera Nayarit.",
+    "amenities": [],
+    "appliances": [],
+    "utilities": [],
+    "locationFeatures": [],
+    "headerImage": "../images/mls/flx-41871/header.jpg",
+    "thumbImage": "images/mls/flx-41871/thumb.jpg",
+    "images": [
+      {
+        "src": "../images/mls/flx-41871/1.jpg",
+        "alt": "49 Coral UP 103 - Image 1",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260127173913069086000000-o.jpg",
+        "order": 1
+      },
+      {
+        "src": "../images/mls/flx-41871/2.jpg",
+        "alt": "49 Coral UP 103 - Image 2",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260127173915174892000000-o.jpg",
+        "order": 2
+      },
+      {
+        "src": "../images/mls/flx-41871/3.jpg",
+        "alt": "49 Coral UP 103 - Image 3",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260127173917889056000000-o.jpg",
+        "order": 3
+      },
+      {
+        "src": "../images/mls/flx-41871/4.jpg",
+        "alt": "49 Coral UP 103 - Image 4",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260127173759882096000000-o.jpg",
+        "order": 4
+      },
+      {
+        "src": "../images/mls/flx-41871/5.jpg",
+        "alt": "49 Coral UP 103 - Image 5",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260127173924780913000000-o.jpg",
+        "order": 5
+      },
+      {
+        "src": "../images/mls/flx-41871/6.jpg",
+        "alt": "49 Coral UP 103 - Image 6",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260127175820499701000000-o.jpg",
+        "order": 6
+      },
+      {
+        "src": "../images/mls/flx-41871/7.jpg",
+        "alt": "49 Coral UP 103 - Image 7",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260127173757778846000000-o.jpg",
+        "order": 7
+      },
+      {
+        "src": "../images/mls/flx-41871/8.jpg",
+        "alt": "49 Coral UP 103 - Image 8",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260127173841328269000000-o.jpg",
+        "order": 8
+      },
+      {
+        "src": "../images/mls/flx-41871/9.jpg",
+        "alt": "49 Coral UP 103 - Image 9",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260127175934859257000000-o.jpg",
+        "order": 9
+      },
+      {
+        "src": "../images/mls/flx-41871/10.jpg",
+        "alt": "49 Coral UP 103 - Image 10",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260127173843475995000000-o.jpg",
+        "order": 10
+      },
+      {
+        "src": "../images/mls/flx-41871/11.jpg",
+        "alt": "49 Coral UP 103 - Image 11",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260127173851322513000000-o.jpg",
+        "order": 11
+      },
+      {
+        "src": "../images/mls/flx-41871/12.jpg",
+        "alt": "49 Coral UP 103 - Image 12",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260127173839352590000000-o.jpg",
+        "order": 12
+      },
+      {
+        "src": "../images/mls/flx-41871/13.jpg",
+        "alt": "49 Coral UP 103 - Image 13",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260127174447962869000000-o.jpg",
+        "order": 13
+      },
+      {
+        "src": "../images/mls/flx-41871/14.jpg",
+        "alt": "49 Coral UP 103 - Image 14",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260127173825618447000000-o.jpg",
+        "order": 14
+      },
+      {
+        "src": "../images/mls/flx-41871/15.jpg",
+        "alt": "49 Coral UP 103 - Image 15",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260127173827529457000000-o.jpg",
+        "order": 15
+      },
+      {
+        "src": "../images/mls/flx-41871/16.jpg",
+        "alt": "49 Coral UP 103 - Image 16",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260127173813196823000000-o.jpg",
+        "order": 16
+      },
+      {
+        "src": "../images/mls/flx-41871/17.jpg",
+        "alt": "49 Coral UP 103 - Image 17",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260127173815091194000000-o.jpg",
+        "order": 17
+      },
+      {
+        "src": "../images/mls/flx-41871/18.jpg",
+        "alt": "49 Coral UP 103 - Image 18",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260127173806359101000000-o.jpg",
+        "order": 18
+      },
+      {
+        "src": "../images/mls/flx-41871/19.jpg",
+        "alt": "49 Coral UP 103 - Image 19",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260127173803723934000000-o.jpg",
+        "order": 19
+      },
+      {
+        "src": "../images/mls/flx-41871/20.jpg",
+        "alt": "49 Coral UP 103 - Image 20",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260127173801718252000000-o.jpg",
+        "order": 20
+      },
+      {
+        "src": "../images/mls/flx-41871/21.jpg",
+        "alt": "49 Coral UP 103 - Image 21",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260127173811206431000000-o.jpg",
+        "order": 21
+      },
+      {
+        "src": "../images/mls/flx-41871/22.jpg",
+        "alt": "49 Coral UP 103 - Image 22",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260127173818936869000000-o.jpg",
+        "order": 22
+      },
+      {
+        "src": "../images/mls/flx-41871/23.jpg",
+        "alt": "49 Coral UP 103 - Image 23",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260127173823385848000000-o.jpg",
+        "order": 23
+      }
+    ],
+    "primaryPhotoUrl": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260127173913069086000000-o.jpg",
+    "allPhotoUrls": [
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260127173913069086000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260127173915174892000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260127173917889056000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260127173759882096000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260127173924780913000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260127175820499701000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260127173757778846000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260127173841328269000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260127175934859257000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260127173843475995000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260127173851322513000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260127173839352590000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260127174447962869000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260127173825618447000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260127173827529457000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260127173813196823000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260127173815091194000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260127173806359101000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260127173803723934000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260127173801718252000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260127173811206431000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260127173818936869000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260127173823385848000000-o.jpg"
+    ],
+    "isotopeCategory": "category-19",
+    "schemaOrg": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"RealEstateListing\",\n      \"name\": \"49 Coral UP 103\",\n      \"description\": \"Zantamar 1 — 2 bed, 2 bath, 1,008.53 sqft condos in Riviera Nayarit.\",\n      \"url\": \"https://ponchodavalos.com.mx/mls/property-flx-41871.html\",\n      \"image\": [\n            \"https://ponchodavalos.com.mx/images/mls/flx-41871/header.jpg\"\n      ],\n      \"datePosted\": \"2026-03-30\",\n      \"address\": {\n            \"@type\": \"PostalAddress\",\n            \"addressLocality\": \"Riviera Nayarit\",\n            \"addressRegion\": \"Nayarit\",\n            \"addressCountry\": \"MX\"\n      },\n      \"offers\": {\n            \"@type\": \"Offer\",\n            \"price\": \"526158\",\n            \"priceCurrency\": \"USD\",\n            \"availability\": \"https://schema.org/InStock\"\n      },\n      \"numberOfRooms\": 2,\n      \"numberOfBathroomsTotal\": 2,\n      \"floorSize\": {\n            \"@type\": \"QuantitativeValue\",\n            \"value\": 93.7,\n            \"unitCode\": \"MTK\"\n      },\n      \"amenityFeature\": [],\n      \"broker\": {\n            \"@type\": \"RealEstateAgent\",\n            \"name\": \"Poncho Davalos Real Estate\",\n            \"telephone\": \"+52 (322) 292-2312\",\n            \"email\": \"hello@ponchodavalos.com.mx\",\n            \"url\": \"https://ponchodavalos.com.mx\"\n      }\n}",
+    "metaDescription": "Zantamar 1 — 2 bed, 2 bath, 1,008.53 sqft condos in Riviera Nayarit.",
+    "ogImage": "https://ponchodavalos.com.mx/images/mls/flx-41871/header.jpg",
+    "i18nKey": "property.mls_flx-41871",
+    "prevProperty": {
+      "name": "353 Amapas 303",
+      "url": "property-flx-41386.html",
+      "thumb": "../images/mls/flx-41386/thumb.jpg"
+    },
+    "nextProperty": {
+      "name": "263 Venustiano Carranza 309",
+      "url": "property-flx-39522.html",
+      "thumb": "../images/mls/flx-39522/thumb.jpg"
+    },
+    "parkingText": "None"
+  },
+  {
+    "listingId": "FLX-39522",
+    "slug": "flx-39522",
+    "name": "263 Venustiano Carranza 309",
+    "fileName": "property-flx-39522.html",
+    "url": "mls/property-flx-39522.html",
+    "fullUrl": "https://ponchodavalos.com.mx/mls/property-flx-39522.html",
+    "priceUsd": 465000,
+    "priceMxn": 8602500,
+    "priceUsdFormatted": "$465,000 USD",
+    "priceMxnFormatted": "$8,602,500 MXN",
+    "beds": 1,
+    "baths": 2,
+    "surface": 75.93,
+    "parking": 0,
+    "yearBuilt": "",
+    "furnished": "",
+    "view": "",
+    "propertyType": "Condominium",
+    "city": "Puerto Vallarta",
+    "state": "Jalisco",
+    "address": "263 Venustiano Carranza 309, Pavilion 309, Puerto Vallarta, JA",
+    "shortLocation": "JA, Puerto Vallarta",
+    "lat": null,
+    "lng": null,
+    "mapEmbedUrl": "",
+    "descriptionEn": "Pavilion 309 — 1 bed, 2 bath, 817.32 sqft condos in Puerto Vallarta.",
+    "descriptionEs": "Pavilion 309 — 1 rec, 2 baños, 817.32 pies² condominio en Puerto Vallarta.",
+    "amenities": [],
+    "appliances": [],
+    "utilities": [],
+    "locationFeatures": [],
+    "headerImage": "../images/mls/flx-39522/header.jpg",
+    "thumbImage": "images/mls/flx-39522/thumb.jpg",
+    "images": [
+      {
+        "src": "../images/mls/flx-39522/1.jpg",
+        "alt": "263 Venustiano Carranza 309 - Image 1",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250820040952111015000000-o.jpg",
+        "order": 1
+      },
+      {
+        "src": "../images/mls/flx-39522/2.jpg",
+        "alt": "263 Venustiano Carranza 309 - Image 2",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250820043235246394000000-o.jpg",
+        "order": 2
+      },
+      {
+        "src": "../images/mls/flx-39522/3.jpg",
+        "alt": "263 Venustiano Carranza 309 - Image 3",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250820043235874096000000-o.jpg",
+        "order": 3
+      },
+      {
+        "src": "../images/mls/flx-39522/4.jpg",
+        "alt": "263 Venustiano Carranza 309 - Image 4",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250820040955040907000000-o.jpg",
+        "order": 4
+      },
+      {
+        "src": "../images/mls/flx-39522/5.jpg",
+        "alt": "263 Venustiano Carranza 309 - Image 5",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250820040955645941000000-o.jpg",
+        "order": 5
+      },
+      {
+        "src": "../images/mls/flx-39522/6.jpg",
+        "alt": "263 Venustiano Carranza 309 - Image 6",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250820040956304562000000-o.jpg",
+        "order": 6
+      },
+      {
+        "src": "../images/mls/flx-39522/7.jpg",
+        "alt": "263 Venustiano Carranza 309 - Image 7",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250820041004384841000000-o.jpg",
+        "order": 7
+      },
+      {
+        "src": "../images/mls/flx-39522/8.jpg",
+        "alt": "263 Venustiano Carranza 309 - Image 8",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250820041004948666000000-o.jpg",
+        "order": 8
+      },
+      {
+        "src": "../images/mls/flx-39522/9.jpg",
+        "alt": "263 Venustiano Carranza 309 - Image 9",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250820041002152828000000-o.jpg",
+        "order": 9
+      },
+      {
+        "src": "../images/mls/flx-39522/10.jpg",
+        "alt": "263 Venustiano Carranza 309 - Image 10",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250820041002714609000000-o.jpg",
+        "order": 10
+      },
+      {
+        "src": "../images/mls/flx-39522/11.jpg",
+        "alt": "263 Venustiano Carranza 309 - Image 11",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250820041003296387000000-o.jpg",
+        "order": 11
+      },
+      {
+        "src": "../images/mls/flx-39522/12.jpg",
+        "alt": "263 Venustiano Carranza 309 - Image 12",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250820041003817825000000-o.jpg",
+        "order": 12
+      },
+      {
+        "src": "../images/mls/flx-39522/13.jpg",
+        "alt": "263 Venustiano Carranza 309 - Image 13",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250820040952681734000000-o.jpg",
+        "order": 13
+      },
+      {
+        "src": "../images/mls/flx-39522/14.jpg",
+        "alt": "263 Venustiano Carranza 309 - Image 14",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250820040953310401000000-o.jpg",
+        "order": 14
+      },
+      {
+        "src": "../images/mls/flx-39522/15.jpg",
+        "alt": "263 Venustiano Carranza 309 - Image 15",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250820040954010939000000-o.jpg",
+        "order": 15
+      },
+      {
+        "src": "../images/mls/flx-39522/16.jpg",
+        "alt": "263 Venustiano Carranza 309 - Image 16",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250820040954533178000000-o.jpg",
+        "order": 16
+      },
+      {
+        "src": "../images/mls/flx-39522/17.jpg",
+        "alt": "263 Venustiano Carranza 309 - Image 17",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250820040956857526000000-o.jpg",
+        "order": 17
+      },
+      {
+        "src": "../images/mls/flx-39522/18.jpg",
+        "alt": "263 Venustiano Carranza 309 - Image 18",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250820043822578515000000-o.jpg",
+        "order": 18
+      },
+      {
+        "src": "../images/mls/flx-39522/19.jpg",
+        "alt": "263 Venustiano Carranza 309 - Image 19",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250820043823227664000000-o.jpg",
+        "order": 19
+      },
+      {
+        "src": "../images/mls/flx-39522/20.jpg",
+        "alt": "263 Venustiano Carranza 309 - Image 20",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250820040957480628000000-o.jpg",
+        "order": 20
+      },
+      {
+        "src": "../images/mls/flx-39522/21.jpg",
+        "alt": "263 Venustiano Carranza 309 - Image 21",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250820040958129223000000-o.jpg",
+        "order": 21
+      },
+      {
+        "src": "../images/mls/flx-39522/22.jpg",
+        "alt": "263 Venustiano Carranza 309 - Image 22",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250820040958699134000000-o.jpg",
+        "order": 22
+      },
+      {
+        "src": "../images/mls/flx-39522/23.jpg",
+        "alt": "263 Venustiano Carranza 309 - Image 23",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250820040959242405000000-o.jpg",
+        "order": 23
+      },
+      {
+        "src": "../images/mls/flx-39522/24.jpg",
+        "alt": "263 Venustiano Carranza 309 - Image 24",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250820040959757026000000-o.jpg",
+        "order": 24
+      },
+      {
+        "src": "../images/mls/flx-39522/25.jpg",
+        "alt": "263 Venustiano Carranza 309 - Image 25",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250820041000909090000000-o.jpg",
+        "order": 25
+      },
+      {
+        "src": "../images/mls/flx-39522/26.jpg",
+        "alt": "263 Venustiano Carranza 309 - Image 26",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250820041000335627000000-o.jpg",
+        "order": 26
+      },
+      {
+        "src": "../images/mls/flx-39522/27.jpg",
+        "alt": "263 Venustiano Carranza 309 - Image 27",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250820041001552822000000-o.jpg",
+        "order": 27
+      },
+      {
+        "src": "../images/mls/flx-39522/28.jpg",
+        "alt": "263 Venustiano Carranza 309 - Image 28",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250820041005506259000000-o.jpg",
+        "order": 28
+      },
+      {
+        "src": "../images/mls/flx-39522/29.jpg",
+        "alt": "263 Venustiano Carranza 309 - Image 29",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250820041006094422000000-o.jpg",
+        "order": 29
+      }
+    ],
+    "primaryPhotoUrl": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250820040952111015000000-o.jpg",
+    "allPhotoUrls": [
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250820040952111015000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250820043235246394000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250820043235874096000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250820040955040907000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250820040955645941000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250820040956304562000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250820041004384841000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250820041004948666000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250820041002152828000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250820041002714609000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250820041003296387000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250820041003817825000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250820040952681734000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250820040953310401000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250820040954010939000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250820040954533178000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250820040956857526000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250820043822578515000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250820043823227664000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250820040957480628000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250820040958129223000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250820040958699134000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250820040959242405000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250820040959757026000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250820041000909090000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250820041000335627000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250820041001552822000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250820041005506259000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250820041006094422000000-o.jpg"
+    ],
+    "isotopeCategory": "category-19",
+    "schemaOrg": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"RealEstateListing\",\n      \"name\": \"263 Venustiano Carranza 309\",\n      \"description\": \"Pavilion 309 — 1 bed, 2 bath, 817.32 sqft condos in Puerto Vallarta.\",\n      \"url\": \"https://ponchodavalos.com.mx/mls/property-flx-39522.html\",\n      \"image\": [\n            \"https://ponchodavalos.com.mx/images/mls/flx-39522/header.jpg\"\n      ],\n      \"datePosted\": \"2026-03-30\",\n      \"address\": {\n            \"@type\": \"PostalAddress\",\n            \"addressLocality\": \"Puerto Vallarta\",\n            \"addressRegion\": \"Jalisco\",\n            \"addressCountry\": \"MX\"\n      },\n      \"offers\": {\n            \"@type\": \"Offer\",\n            \"price\": \"465000\",\n            \"priceCurrency\": \"USD\",\n            \"availability\": \"https://schema.org/InStock\"\n      },\n      \"numberOfRooms\": 1,\n      \"numberOfBathroomsTotal\": 2,\n      \"floorSize\": {\n            \"@type\": \"QuantitativeValue\",\n            \"value\": 75.93,\n            \"unitCode\": \"MTK\"\n      },\n      \"amenityFeature\": [],\n      \"broker\": {\n            \"@type\": \"RealEstateAgent\",\n            \"name\": \"Poncho Davalos Real Estate\",\n            \"telephone\": \"+52 (322) 292-2312\",\n            \"email\": \"hello@ponchodavalos.com.mx\",\n            \"url\": \"https://ponchodavalos.com.mx\"\n      }\n}",
+    "metaDescription": "Pavilion 309 — 1 bed, 2 bath, 817.32 sqft condos in Puerto Vallarta.",
+    "ogImage": "https://ponchodavalos.com.mx/images/mls/flx-39522/header.jpg",
+    "i18nKey": "property.mls_flx-39522",
+    "prevProperty": {
+      "name": "49 Coral UP 103",
+      "url": "property-flx-41871.html",
+      "thumb": "../images/mls/flx-41871/thumb.jpg"
+    },
+    "nextProperty": {
+      "name": "478 Santa Barbara 3B",
+      "url": "property-flx-38582.html",
+      "thumb": "../images/mls/flx-38582/thumb.jpg"
+    },
+    "parkingText": "None"
+  },
+  {
+    "listingId": "FLX-38582",
+    "slug": "flx-38582",
+    "name": "478 Santa Barbara 3B",
+    "fileName": "property-flx-38582.html",
+    "url": "mls/property-flx-38582.html",
+    "fullUrl": "https://ponchodavalos.com.mx/mls/property-flx-38582.html",
+    "priceUsd": 1375000,
+    "priceMxn": 25437500,
+    "priceUsdFormatted": "$1,375,000 USD",
+    "priceMxnFormatted": "$25,437,500 MXN",
+    "beds": 3,
+    "baths": 3.5,
+    "surface": 221.92,
+    "parking": 0,
+    "yearBuilt": "",
+    "furnished": "",
+    "view": "",
+    "propertyType": "Condominium",
+    "city": "Puerto Vallarta",
+    "state": "Jalisco",
+    "address": "478 Santa Barbara 3B, Indah 3B, Puerto Vallarta, JA",
+    "shortLocation": "JA, Puerto Vallarta",
+    "lat": null,
+    "lng": null,
+    "mapEmbedUrl": "",
+    "descriptionEn": "Indah 3B — 3 bed, 3.5 bath, 2,388.72 sqft condos in Puerto Vallarta.",
+    "descriptionEs": "Indah 3B — 3 rec, 3.5 baños, 2,388.72 pies² condominio en Puerto Vallarta.",
+    "amenities": [],
+    "appliances": [],
+    "utilities": [],
+    "locationFeatures": [],
+    "headerImage": "../images/mls/flx-38582/header.jpg",
+    "thumbImage": "images/mls/flx-38582/thumb.jpg",
+    "images": [
+      {
+        "src": "../images/mls/flx-38582/1.jpg",
+        "alt": "478 Santa Barbara 3B - Image 1",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250605023155228985000000-o.jpg",
+        "order": 1
+      },
+      {
+        "src": "../images/mls/flx-38582/2.jpg",
+        "alt": "478 Santa Barbara 3B - Image 2",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250605023158232566000000-o.jpg",
+        "order": 2
+      },
+      {
+        "src": "../images/mls/flx-38582/3.jpg",
+        "alt": "478 Santa Barbara 3B - Image 3",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250605023005645478000000-o.jpg",
+        "order": 3
+      },
+      {
+        "src": "../images/mls/flx-38582/4.jpg",
+        "alt": "478 Santa Barbara 3B - Image 4",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250605023001847981000000-o.jpg",
+        "order": 4
+      },
+      {
+        "src": "../images/mls/flx-38582/5.jpg",
+        "alt": "478 Santa Barbara 3B - Image 5",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250605023012919107000000-o.jpg",
+        "order": 5
+      },
+      {
+        "src": "../images/mls/flx-38582/6.jpg",
+        "alt": "478 Santa Barbara 3B - Image 6",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250605023009415959000000-o.jpg",
+        "order": 6
+      },
+      {
+        "src": "../images/mls/flx-38582/7.jpg",
+        "alt": "478 Santa Barbara 3B - Image 7",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250605023016314883000000-o.jpg",
+        "order": 7
+      },
+      {
+        "src": "../images/mls/flx-38582/8.jpg",
+        "alt": "478 Santa Barbara 3B - Image 8",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250605023019531199000000-o.jpg",
+        "order": 8
+      },
+      {
+        "src": "../images/mls/flx-38582/9.jpg",
+        "alt": "478 Santa Barbara 3B - Image 9",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250605023023180889000000-o.jpg",
+        "order": 9
+      },
+      {
+        "src": "../images/mls/flx-38582/10.jpg",
+        "alt": "478 Santa Barbara 3B - Image 10",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250605023026502770000000-o.jpg",
+        "order": 10
+      },
+      {
+        "src": "../images/mls/flx-38582/11.jpg",
+        "alt": "478 Santa Barbara 3B - Image 11",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250605023030079886000000-o.jpg",
+        "order": 11
+      },
+      {
+        "src": "../images/mls/flx-38582/12.jpg",
+        "alt": "478 Santa Barbara 3B - Image 12",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250605023033700785000000-o.jpg",
+        "order": 12
+      },
+      {
+        "src": "../images/mls/flx-38582/13.jpg",
+        "alt": "478 Santa Barbara 3B - Image 13",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250605023037058104000000-o.jpg",
+        "order": 13
+      },
+      {
+        "src": "../images/mls/flx-38582/14.jpg",
+        "alt": "478 Santa Barbara 3B - Image 14",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250605023040546194000000-o.jpg",
+        "order": 14
+      },
+      {
+        "src": "../images/mls/flx-38582/15.jpg",
+        "alt": "478 Santa Barbara 3B - Image 15",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250605023044185353000000-o.jpg",
+        "order": 15
+      },
+      {
+        "src": "../images/mls/flx-38582/16.jpg",
+        "alt": "478 Santa Barbara 3B - Image 16",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250605023047853864000000-o.jpg",
+        "order": 16
+      },
+      {
+        "src": "../images/mls/flx-38582/17.jpg",
+        "alt": "478 Santa Barbara 3B - Image 17",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250605023051904461000000-o.jpg",
+        "order": 17
+      },
+      {
+        "src": "../images/mls/flx-38582/18.jpg",
+        "alt": "478 Santa Barbara 3B - Image 18",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250605023055536591000000-o.jpg",
+        "order": 18
+      },
+      {
+        "src": "../images/mls/flx-38582/19.jpg",
+        "alt": "478 Santa Barbara 3B - Image 19",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250605023059667439000000-o.jpg",
+        "order": 19
+      },
+      {
+        "src": "../images/mls/flx-38582/20.jpg",
+        "alt": "478 Santa Barbara 3B - Image 20",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250605023103594864000000-o.jpg",
+        "order": 20
+      },
+      {
+        "src": "../images/mls/flx-38582/21.jpg",
+        "alt": "478 Santa Barbara 3B - Image 21",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250531052020315310000000-o.jpg",
+        "order": 21
+      },
+      {
+        "src": "../images/mls/flx-38582/22.jpg",
+        "alt": "478 Santa Barbara 3B - Image 22",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250605023107356261000000-o.jpg",
+        "order": 22
+      },
+      {
+        "src": "../images/mls/flx-38582/23.jpg",
+        "alt": "478 Santa Barbara 3B - Image 23",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250605023111023144000000-o.jpg",
+        "order": 23
+      },
+      {
+        "src": "../images/mls/flx-38582/24.jpg",
+        "alt": "478 Santa Barbara 3B - Image 24",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250605023113789249000000-o.jpg",
+        "order": 24
+      },
+      {
+        "src": "../images/mls/flx-38582/25.jpg",
+        "alt": "478 Santa Barbara 3B - Image 25",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250605023118025618000000-o.jpg",
+        "order": 25
+      },
+      {
+        "src": "../images/mls/flx-38582/26.jpg",
+        "alt": "478 Santa Barbara 3B - Image 26",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250605023122656998000000-o.jpg",
+        "order": 26
+      },
+      {
+        "src": "../images/mls/flx-38582/27.jpg",
+        "alt": "478 Santa Barbara 3B - Image 27",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250605023126790950000000-o.jpg",
+        "order": 27
+      },
+      {
+        "src": "../images/mls/flx-38582/28.jpg",
+        "alt": "478 Santa Barbara 3B - Image 28",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250605023130414964000000-o.jpg",
+        "order": 28
+      },
+      {
+        "src": "../images/mls/flx-38582/29.jpg",
+        "alt": "478 Santa Barbara 3B - Image 29",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250605023134263389000000-o.jpg",
+        "order": 29
+      },
+      {
+        "src": "../images/mls/flx-38582/30.jpg",
+        "alt": "478 Santa Barbara 3B - Image 30",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250605023138178723000000-o.jpg",
+        "order": 30
+      },
+      {
+        "src": "../images/mls/flx-38582/31.jpg",
+        "alt": "478 Santa Barbara 3B - Image 31",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250605023141789242000000-o.jpg",
+        "order": 31
+      },
+      {
+        "src": "../images/mls/flx-38582/32.jpg",
+        "alt": "478 Santa Barbara 3B - Image 32",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250605023145296165000000-o.jpg",
+        "order": 32
+      },
+      {
+        "src": "../images/mls/flx-38582/33.jpg",
+        "alt": "478 Santa Barbara 3B - Image 33",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250605023204448818000000-o.jpg",
+        "order": 33
+      },
+      {
+        "src": "../images/mls/flx-38582/34.jpg",
+        "alt": "478 Santa Barbara 3B - Image 34",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250605023207398037000000-o.jpg",
+        "order": 34
+      },
+      {
+        "src": "../images/mls/flx-38582/35.jpg",
+        "alt": "478 Santa Barbara 3B - Image 35",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250605023217394975000000-o.jpg",
+        "order": 35
+      },
+      {
+        "src": "../images/mls/flx-38582/36.jpg",
+        "alt": "478 Santa Barbara 3B - Image 36",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250605023221643097000000-o.jpg",
+        "order": 36
+      },
+      {
+        "src": "../images/mls/flx-38582/37.jpg",
+        "alt": "478 Santa Barbara 3B - Image 37",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250605023225659560000000-o.jpg",
+        "order": 37
+      },
+      {
+        "src": "../images/mls/flx-38582/38.jpg",
+        "alt": "478 Santa Barbara 3B - Image 38",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250605023229381483000000-o.jpg",
+        "order": 38
+      },
+      {
+        "src": "../images/mls/flx-38582/39.jpg",
+        "alt": "478 Santa Barbara 3B - Image 39",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250605023232967114000000-o.jpg",
+        "order": 39
+      },
+      {
+        "src": "../images/mls/flx-38582/40.jpg",
+        "alt": "478 Santa Barbara 3B - Image 40",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250605023236522236000000-o.jpg",
+        "order": 40
+      },
+      {
+        "src": "../images/mls/flx-38582/41.jpg",
+        "alt": "478 Santa Barbara 3B - Image 41",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250605023240215913000000-o.jpg",
+        "order": 41
+      },
+      {
+        "src": "../images/mls/flx-38582/42.jpg",
+        "alt": "478 Santa Barbara 3B - Image 42",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250605023243527139000000-o.jpg",
+        "order": 42
+      }
+    ],
+    "primaryPhotoUrl": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250605023155228985000000-o.jpg",
+    "allPhotoUrls": [
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250605023155228985000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250605023158232566000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250605023005645478000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250605023001847981000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250605023012919107000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250605023009415959000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250605023016314883000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250605023019531199000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250605023023180889000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250605023026502770000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250605023030079886000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250605023033700785000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250605023037058104000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250605023040546194000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250605023044185353000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250605023047853864000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250605023051904461000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250605023055536591000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250605023059667439000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250605023103594864000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250531052020315310000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250605023107356261000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250605023111023144000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250605023113789249000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250605023118025618000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250605023122656998000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250605023126790950000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250605023130414964000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250605023134263389000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250605023138178723000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250605023141789242000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250605023145296165000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250605023204448818000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250605023207398037000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250605023217394975000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250605023221643097000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250605023225659560000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250605023229381483000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250605023232967114000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250605023236522236000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250605023240215913000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250605023243527139000000-o.jpg"
+    ],
+    "isotopeCategory": "category-19",
+    "schemaOrg": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"RealEstateListing\",\n      \"name\": \"478 Santa Barbara 3B\",\n      \"description\": \"Indah 3B — 3 bed, 3.5 bath, 2,388.72 sqft condos in Puerto Vallarta.\",\n      \"url\": \"https://ponchodavalos.com.mx/mls/property-flx-38582.html\",\n      \"image\": [\n            \"https://ponchodavalos.com.mx/images/mls/flx-38582/header.jpg\"\n      ],\n      \"datePosted\": \"2026-03-30\",\n      \"address\": {\n            \"@type\": \"PostalAddress\",\n            \"addressLocality\": \"Puerto Vallarta\",\n            \"addressRegion\": \"Jalisco\",\n            \"addressCountry\": \"MX\"\n      },\n      \"offers\": {\n            \"@type\": \"Offer\",\n            \"price\": \"1375000\",\n            \"priceCurrency\": \"USD\",\n            \"availability\": \"https://schema.org/InStock\"\n      },\n      \"numberOfRooms\": 3,\n      \"numberOfBathroomsTotal\": 3.5,\n      \"floorSize\": {\n            \"@type\": \"QuantitativeValue\",\n            \"value\": 221.92,\n            \"unitCode\": \"MTK\"\n      },\n      \"amenityFeature\": [],\n      \"broker\": {\n            \"@type\": \"RealEstateAgent\",\n            \"name\": \"Poncho Davalos Real Estate\",\n            \"telephone\": \"+52 (322) 292-2312\",\n            \"email\": \"hello@ponchodavalos.com.mx\",\n            \"url\": \"https://ponchodavalos.com.mx\"\n      }\n}",
+    "metaDescription": "Indah 3B — 3 bed, 3.5 bath, 2,388.72 sqft condos in Puerto Vallarta.",
+    "ogImage": "https://ponchodavalos.com.mx/images/mls/flx-38582/header.jpg",
+    "i18nKey": "property.mls_flx-38582",
+    "prevProperty": {
+      "name": "263 Venustiano Carranza 309",
+      "url": "property-flx-39522.html",
+      "thumb": "../images/mls/flx-39522/thumb.jpg"
+    },
+    "nextProperty": {
+      "name": "277 Venustiano Carranza 3A",
+      "url": "property-flx-39779.html",
+      "thumb": "../images/mls/flx-39779/thumb.jpg"
+    },
+    "parkingText": "None"
+  },
+  {
+    "listingId": "FLX-39779",
+    "slug": "flx-39779",
+    "name": "277 Venustiano Carranza 3A",
+    "fileName": "property-flx-39779.html",
+    "url": "mls/property-flx-39779.html",
+    "fullUrl": "https://ponchodavalos.com.mx/mls/property-flx-39779.html",
+    "priceUsd": 579000,
+    "priceMxn": 10711500,
+    "priceUsdFormatted": "$579,000 USD",
+    "priceMxnFormatted": "$10,711,500 MXN",
+    "beds": 2,
+    "baths": 2,
+    "surface": 121.96,
+    "parking": 0,
+    "yearBuilt": "",
+    "furnished": "",
+    "view": "",
+    "propertyType": "Condominium",
+    "city": "Puerto Vallarta",
+    "state": "Jalisco",
+    "address": "277 Venustiano Carranza 3A, Urban 3A, Puerto Vallarta, JA",
+    "shortLocation": "JA, Puerto Vallarta",
+    "lat": null,
+    "lng": null,
+    "mapEmbedUrl": "",
+    "descriptionEn": "Urban 3A — 2 bed, 2 bath, 1,312.72 sqft condos in Puerto Vallarta.",
+    "descriptionEs": "Urban 3A — 2 rec, 2 baños, 1,312.72 pies² condominio en Puerto Vallarta.",
+    "amenities": [],
+    "appliances": [],
+    "utilities": [],
+    "locationFeatures": [],
+    "headerImage": "../images/mls/flx-39779/header.jpg",
+    "thumbImage": "images/mls/flx-39779/thumb.jpg",
+    "images": [
+      {
+        "src": "../images/mls/flx-39779/1.jpg",
+        "alt": "277 Venustiano Carranza 3A - Image 1",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250930162047180068000000-o.jpg",
+        "order": 1
+      },
+      {
+        "src": "../images/mls/flx-39779/2.jpg",
+        "alt": "277 Venustiano Carranza 3A - Image 2",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250930162056294028000000-o.jpg",
+        "order": 2
+      },
+      {
+        "src": "../images/mls/flx-39779/3.jpg",
+        "alt": "277 Venustiano Carranza 3A - Image 3",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250930162100950382000000-o.jpg",
+        "order": 3
+      },
+      {
+        "src": "../images/mls/flx-39779/4.jpg",
+        "alt": "277 Venustiano Carranza 3A - Image 4",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250904013707084501000000-o.jpg",
+        "order": 4
+      },
+      {
+        "src": "../images/mls/flx-39779/5.jpg",
+        "alt": "277 Venustiano Carranza 3A - Image 5",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250930161949062226000000-o.jpg",
+        "order": 5
+      },
+      {
+        "src": "../images/mls/flx-39779/6.jpg",
+        "alt": "277 Venustiano Carranza 3A - Image 6",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250930161855964753000000-o.jpg",
+        "order": 6
+      },
+      {
+        "src": "../images/mls/flx-39779/7.jpg",
+        "alt": "277 Venustiano Carranza 3A - Image 7",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250930161953430591000000-o.jpg",
+        "order": 7
+      },
+      {
+        "src": "../images/mls/flx-39779/8.jpg",
+        "alt": "277 Venustiano Carranza 3A - Image 8",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250930161904212623000000-o.jpg",
+        "order": 8
+      },
+      {
+        "src": "../images/mls/flx-39779/9.jpg",
+        "alt": "277 Venustiano Carranza 3A - Image 9",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250930161958424277000000-o.jpg",
+        "order": 9
+      },
+      {
+        "src": "../images/mls/flx-39779/10.jpg",
+        "alt": "277 Venustiano Carranza 3A - Image 10",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250930162002548595000000-o.jpg",
+        "order": 10
+      },
+      {
+        "src": "../images/mls/flx-39779/11.jpg",
+        "alt": "277 Venustiano Carranza 3A - Image 11",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250930161919040173000000-o.jpg",
+        "order": 11
+      },
+      {
+        "src": "../images/mls/flx-39779/12.jpg",
+        "alt": "277 Venustiano Carranza 3A - Image 12",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250930161859817387000000-o.jpg",
+        "order": 12
+      },
+      {
+        "src": "../images/mls/flx-39779/13.jpg",
+        "alt": "277 Venustiano Carranza 3A - Image 13",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250930161915111641000000-o.jpg",
+        "order": 13
+      },
+      {
+        "src": "../images/mls/flx-39779/14.jpg",
+        "alt": "277 Venustiano Carranza 3A - Image 14",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250930162006773888000000-o.jpg",
+        "order": 14
+      },
+      {
+        "src": "../images/mls/flx-39779/15.jpg",
+        "alt": "277 Venustiano Carranza 3A - Image 15",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250930161910177319000000-o.jpg",
+        "order": 15
+      },
+      {
+        "src": "../images/mls/flx-39779/16.jpg",
+        "alt": "277 Venustiano Carranza 3A - Image 16",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250930161923993375000000-o.jpg",
+        "order": 16
+      },
+      {
+        "src": "../images/mls/flx-39779/17.jpg",
+        "alt": "277 Venustiano Carranza 3A - Image 17",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250930162011764240000000-o.jpg",
+        "order": 17
+      },
+      {
+        "src": "../images/mls/flx-39779/18.jpg",
+        "alt": "277 Venustiano Carranza 3A - Image 18",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250930162016983375000000-o.jpg",
+        "order": 18
+      },
+      {
+        "src": "../images/mls/flx-39779/19.jpg",
+        "alt": "277 Venustiano Carranza 3A - Image 19",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250930162021574656000000-o.jpg",
+        "order": 19
+      },
+      {
+        "src": "../images/mls/flx-39779/20.jpg",
+        "alt": "277 Venustiano Carranza 3A - Image 20",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250930162041752123000000-o.jpg",
+        "order": 20
+      },
+      {
+        "src": "../images/mls/flx-39779/21.jpg",
+        "alt": "277 Venustiano Carranza 3A - Image 21",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250930162028408165000000-o.jpg",
+        "order": 21
+      },
+      {
+        "src": "../images/mls/flx-39779/22.jpg",
+        "alt": "277 Venustiano Carranza 3A - Image 22",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250930162036274273000000-o.jpg",
+        "order": 22
+      },
+      {
+        "src": "../images/mls/flx-39779/23.jpg",
+        "alt": "277 Venustiano Carranza 3A - Image 23",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250930161928014109000000-o.jpg",
+        "order": 23
+      },
+      {
+        "src": "../images/mls/flx-39779/24.jpg",
+        "alt": "277 Venustiano Carranza 3A - Image 24",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250930161939655854000000-o.jpg",
+        "order": 24
+      },
+      {
+        "src": "../images/mls/flx-39779/25.jpg",
+        "alt": "277 Venustiano Carranza 3A - Image 25",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250930161946602722000000-o.jpg",
+        "order": 25
+      }
+    ],
+    "primaryPhotoUrl": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250930162047180068000000-o.jpg",
+    "allPhotoUrls": [
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250930162047180068000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250930162056294028000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250930162100950382000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250904013707084501000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250930161949062226000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250930161855964753000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250930161953430591000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250930161904212623000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250930161958424277000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250930162002548595000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250930161919040173000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250930161859817387000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250930161915111641000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250930162006773888000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250930161910177319000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250930161923993375000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250930162011764240000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250930162016983375000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250930162021574656000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250930162041752123000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250930162028408165000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250930162036274273000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250930161928014109000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250930161939655854000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250930161946602722000000-o.jpg"
+    ],
+    "isotopeCategory": "category-19",
+    "schemaOrg": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"RealEstateListing\",\n      \"name\": \"277 Venustiano Carranza 3A\",\n      \"description\": \"Urban 3A — 2 bed, 2 bath, 1,312.72 sqft condos in Puerto Vallarta.\",\n      \"url\": \"https://ponchodavalos.com.mx/mls/property-flx-39779.html\",\n      \"image\": [\n            \"https://ponchodavalos.com.mx/images/mls/flx-39779/header.jpg\"\n      ],\n      \"datePosted\": \"2026-03-30\",\n      \"address\": {\n            \"@type\": \"PostalAddress\",\n            \"addressLocality\": \"Puerto Vallarta\",\n            \"addressRegion\": \"Jalisco\",\n            \"addressCountry\": \"MX\"\n      },\n      \"offers\": {\n            \"@type\": \"Offer\",\n            \"price\": \"579000\",\n            \"priceCurrency\": \"USD\",\n            \"availability\": \"https://schema.org/InStock\"\n      },\n      \"numberOfRooms\": 2,\n      \"numberOfBathroomsTotal\": 2,\n      \"floorSize\": {\n            \"@type\": \"QuantitativeValue\",\n            \"value\": 121.96,\n            \"unitCode\": \"MTK\"\n      },\n      \"amenityFeature\": [],\n      \"broker\": {\n            \"@type\": \"RealEstateAgent\",\n            \"name\": \"Poncho Davalos Real Estate\",\n            \"telephone\": \"+52 (322) 292-2312\",\n            \"email\": \"hello@ponchodavalos.com.mx\",\n            \"url\": \"https://ponchodavalos.com.mx\"\n      }\n}",
+    "metaDescription": "Urban 3A — 2 bed, 2 bath, 1,312.72 sqft condos in Puerto Vallarta.",
+    "ogImage": "https://ponchodavalos.com.mx/images/mls/flx-39779/header.jpg",
+    "i18nKey": "property.mls_flx-39779",
+    "prevProperty": {
+      "name": "478 Santa Barbara 3B",
+      "url": "property-flx-38582.html",
+      "thumb": "../images/mls/flx-38582/thumb.jpg"
     },
     "nextProperty": null,
     "parkingText": "None"

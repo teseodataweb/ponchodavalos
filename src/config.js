@@ -9,8 +9,18 @@ module.exports = {
   sparkAgentId: process.env.SPARK_AGENT_ID || '',
   sparkApiUrl: 'https://sparkapi.com/v1',
 
-  // Build mode
-  useMockData: process.env.USE_MOCK_DATA !== 'false',
+  // Build mode: 'mock' | 'flexmls' | 'spark'
+  // DATA_SOURCE env var takes priority; falls back to legacy USE_MOCK_DATA logic
+  dataSource: process.env.DATA_SOURCE ||
+    (process.env.USE_MOCK_DATA === 'false' ? 'spark' : 'mock'),
+
+  // Legacy flag (kept for backward compat in download-images.js)
+  useMockData: process.env.DATA_SOURCE
+    ? process.env.DATA_SOURCE === 'mock'
+    : process.env.USE_MOCK_DATA !== 'false',
+
+  // FlexMLS public page URL
+  flexmlsUrl: process.env.FLEXMLS_URL || 'https://my.flexmls.com/alfonso_davalos',
 
   // Exchange rate fallback
   exchangeRate: parseFloat(process.env.EXCHANGE_RATE) || 18.5,

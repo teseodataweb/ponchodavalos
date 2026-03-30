@@ -9,11 +9,11 @@ async function downloadImages(properties) {
     const dir = path.join(config.imagesOutputDir, prop.slug);
     await fs.ensureDir(dir);
 
-    if (config.useMockData) {
+    if (config.useMockData && config.dataSource === 'mock') {
       // In mock mode, create placeholder images using sharp
       await createPlaceholderImages(dir, prop);
     } else {
-      // In live mode, download from URLs
+      // In live/flexmls mode, download from URLs
       await downloadPropertyImages(dir, prop);
     }
   }

@@ -43,6 +43,37 @@
 
 
 
+/* Hidden/deactivated items */
+.projects-grid .project-item.desactivado {
+  display: none !important;
+}
+
+/* Section dividers in portfolio grid */
+.projects-grid .project-item.section-divider {
+  width: 100% !important;
+  height: auto !important;
+  min-height: 0 !important;
+  max-height: none !important;
+  overflow: visible;
+  padding: 15px 10px 5px;
+  box-sizing: border-box;
+}
+
+.section-divider .section-divider-title {
+  font-size: 1.4rem;
+  font-weight: 700;
+  color: #333;
+  border-bottom: 3px solid #C9A227;
+  padding-bottom: 8px;
+  margin: 0;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+.dark-mode .section-divider .section-divider-title {
+  color: #e0e0e0;
+}
+
 /* Efecto blanco y negro para mapas */
 .mapa-blanco-negro {
   filter: grayscale(100%) contrast(90%) brightness(110%);

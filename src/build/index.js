@@ -9,7 +9,7 @@ const generateI18n = require('./generate-i18n');
 async function build() {
   const startTime = Date.now();
   console.log('=== MLS Build System ===');
-  console.log(`Mode: ${require('../config').useMockData ? 'MOCK' : 'LIVE'}`);
+  console.log(`Data source: ${require('../config').dataSource.toUpperCase()}`);
   console.log('');
 
   try {

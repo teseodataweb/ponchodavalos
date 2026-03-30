@@ -14,7 +14,13 @@ async function generatePortfolio(properties) {
   // Render all cards
   const cards = properties.map(prop => cardTemplate(prop)).join('\n');
 
-  const mlsBlock = `<!-- MLS-INJECT-START -->\n${cards}\n                        <!-- MLS-INJECT-END -->`;
+  // Section divider before MLS listings (uses project-item so Isotope includes it)
+  const sectionDivider = `
+                        <div class="project-item section-divider category-14 category-19 category-20">
+                            <h3 class="section-divider-title" data-i18n="propertiesPage.sections.mls">MLS Listings</h3>
+                        </div>`;
+
+  const mlsBlock = `<!-- MLS-INJECT-START -->${sectionDivider}\n${cards}\n                        <!-- MLS-INJECT-END -->`;
 
   // Read portfolio file
   let html = await fs.readFile(config.portfolioPath, 'utf-8');

@@ -2,8 +2,11 @@ name: Update MLS Listings
 
 on:
   schedule:
-    - cron: '0 */6 * * *'  # Every 6 hours
+    - cron: '0 0 */2 * *'  # Every 48 hours
   workflow_dispatch:        # Manual trigger
+
+permissions:
+  contents: write
 
 jobs:
   update-listings:
@@ -12,11 +15,13 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: '20'
+          node-version: '22'
           cache: 'npm'
 
       - name: Install dependencies
@@ -24,10 +29,11 @@ jobs:
 
       - name: Run MLS build
         env:
-          USE_MOCK_DATA: ${{ secrets.SPARK_API_KEY && 'false' || 'true' }}
+          DATA_SOURCE: ${{ secrets.SPARK_API_KEY && 'spark' || 'flexmls' }}
           SPARK_API_KEY: ${{ secrets.SPARK_API_KEY }}
           SPARK_API_SECRET: ${{ secrets.SPARK_API_SECRET }}
           SPARK_AGENT_ID: ${{ secrets.SPARK_AGENT_ID }}
+          FLEXMLS_URL: 'https://my.flexmls.com/alfonso_davalos'
         run: node src/build/index.js
 
       - name: Check for changes

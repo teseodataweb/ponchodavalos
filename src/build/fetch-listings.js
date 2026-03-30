@@ -2,13 +2,26 @@ const fs = require('fs-extra');
 const config = require('../config');
 
 async function fetchListings() {
-  if (config.useMockData) {
+  const dataSource = config.dataSource;
+
+  // Source 1: Mock data (development)
+  if (dataSource === 'mock') {
     console.log('[fetch] Using mock data');
     const data = await fs.readJson(config.mockDataPath);
     console.log(`[fetch] Loaded ${data.length} mock listings`);
     return data;
   }
 
+  // Source 2: FlexMLS scraping (no API credentials needed)
+  if (dataSource === 'flexmls') {
+    console.log('[fetch] Scraping FlexMLS public page...');
+    const scrapeFlexMLS = require('./scrape-flexmls');
+    const data = await scrapeFlexMLS();
+    console.log(`[fetch] Scraped ${data.length} listings from FlexMLS`);
+    return data;
+  }
+
+  // Source 3: Spark API (requires credentials)
   console.log('[fetch] Fetching from Spark API...');
   const fetch = require('node-fetch');
 
