@@ -198,23 +198,71 @@ ponchodavalos/
 
 ## Sistema de Build (MLS)
 
-El build system automatiza la generacion de paginas de propiedades desde la API de Spark (MLS).
+El build system automatiza la generacion de paginas de propiedades desde multiples fuentes de datos.
+
+### Fuentes de Datos
+
+El sistema soporta **3 fuentes de datos**, controladas por la variable de entorno `DATA_SOURCE`:
+
+#### 1. FlexMLS Scraper (`DATA_SOURCE=flexmls`) — Recomendado
+
+Scraper que obtiene propiedades directamente de la pagina publica del agente en FlexMLS. **No requiere credenciales API ni costos adicionales.**
+
+- **URL:** [my.flexmls.com/alfonso_davalos](https://my.flexmls.com/alfonso_davalos)
+- **Datos obtenidos:** Precio, direccion, ciudad, estado, MLS #, tipo de propiedad, recamaras, banos, superficie (sqft), todas las fotos del carousel
+- **Datos NO disponibles:** Descripcion detallada, amenidades, coordenadas GPS, estacionamiento, ano de construccion
+- **Archivo:** `src/build/scrape-flexmls.js`
+
+```
+Flujo: Pagina publica FlexMLS → HTML parsing → Datos normalizados → Build pipeline
+```
+
+#### 2. Spark API (`DATA_SOURCE=spark`) — Datos completos
+
+API REST oficial de FlexMLS/FBS con datos completos. Requiere credenciales y tiene un costo de **~$50 USD/mes**.
+
+- **URL:** `https://sparkapi.com/v1`
+- **Autenticacion:** OAuth2 con API Key + Secret
+- **Datos obtenidos:** Todo (descripcion, amenidades, coordenadas, parking, etc.)
+- **Archivo:** `src/build/fetch-listings.js`
+- **Para obtener credenciales:**
+  1. Registrarse en [sparkplatform.com/register/developers](https://sparkplatform.com/register/developers)
+  2. Solicitar aprobacion del MLS de Vallarta-Nayarit
+  3. Configurar secretos en GitHub: `SPARK_API_KEY`, `SPARK_API_SECRET`, `SPARK_AGENT_ID`
+
+#### 3. Mock Data (`DATA_SOURCE=mock`) — Desarrollo
+
+Datos de prueba locales para desarrollo sin conexion a internet.
+
+- **Archivo de datos:** `src/mock/listings.json` (12 propiedades ficticias)
+- **Imagenes:** Genera placeholders SVG con colores via Sharp
+
+#### Comparativa de fuentes
+
+| Caracteristica | Mock | FlexMLS Scraper | Spark API |
+|---|---|---|---|
+| Credenciales | No | No | Si ($50/mes) |
+| Datos reales | No | Si | Si |
+| Fotos reales | No | Si (todas) | Si (todas) |
+| Precio | Si | Si | Si |
+| Direccion | Ficticia | Si | Si |
+| Beds/Baths/SqFt | Si | Si | Si |
+| Descripcion | Si | Basica (auto) | Si (completa) |
+| Amenidades | Si | No | Si |
+| Coordenadas GPS | Si | No | Si |
+| Frecuencia recomendada | N/A | Cada 48h | Cada 6h |
 
 ### Pipeline de 7 Pasos
 
-```
-npm run build
-```
-
-1. **fetch-listings.js** — Autentica con Spark API (OAuth2) y descarga listados activos del agente. En modo desarrollo usa datos mock (`src/mock/listings.json`).
+1. **fetch-listings.js** — Obtiene listados segun la fuente configurada (FlexMLS scraper, Spark API, o mock data).
 
 2. **transform-data.js** — Normaliza datos: slugifica IDs, calcula precios USD/MXN, genera URLs de Google Maps, crea Schema.org JSON-LD, mapea amenidades, construye navegacion prev/next.
 
-3. **download-images.js** — Descarga fotos desde Spark API con concurrencia configurable (5 simultaneas). Genera thumbnails (600x400) via Sharp. En modo mock genera placeholders SVG.
+3. **download-images.js** — Descarga fotos reales (FlexMLS/Spark) o genera placeholders SVG (mock). Thumbnails de 600x400 via Sharp. Concurrencia configurable (5 simultaneas).
 
 4. **generate-pages.js** — Compila template Handlebars (`property-page.html`) con datos de cada propiedad. Escribe HTML individual y `data.json`.
 
-5. **generate-portfolio.js** — Inyecta cards de propiedades en `portfolio-four-column-wide.html` usando marcadores idem potentes (`<!-- MLS-INJECT-START/END -->`).
+5. **generate-portfolio.js** — Inyecta cards en `portfolio-four-column-wide.html` bajo la seccion "MLS Listings", separada de las propiedades exclusivas manuales.
 
 6. **generate-sitemap.js** — Agrega URLs de propiedades MLS al `sitemap.xml` con enlaces hreflang (en/es/x-default).
 
@@ -223,24 +271,40 @@ npm run build
 ### Scripts NPM
 
 ```bash
-npm run build        # Build con datos mock (desarrollo)
-npm run build:live   # Build con datos reales de Spark API
-npm run clean        # Limpia /mls/ e /images/mls/
+npm run build          # Mock data (desarrollo)
+npm run build:flexmls  # Propiedades reales desde FlexMLS (sin credenciales)
+npm run build:live     # Spark API (requiere credenciales)
+npm run clean          # Limpia /mls/ e /images/mls/
 ```
 
 ### Configuracion (`src/config.js`)
 
 ```javascript
-sparkApiKey       // Variable de entorno: SPARK_API_KEY
-sparkApiSecret    // Variable de entorno: SPARK_API_SECRET
-sparkAgentId      // Variable de entorno: SPARK_AGENT_ID
+// Fuente de datos
+dataSource        // 'mock' | 'flexmls' | 'spark' (env: DATA_SOURCE)
+flexmlsUrl        // URL de pagina publica FlexMLS (env: FLEXMLS_URL)
+
+// Spark API (solo para DATA_SOURCE=spark)
+sparkApiKey       // env: SPARK_API_KEY
+sparkApiSecret    // env: SPARK_API_SECRET
+sparkAgentId      // env: SPARK_AGENT_ID
 sparkApiUrl       // https://sparkapi.com/v1
-useMockData       // true (dev) / false (prod)
+
+// General
 exchangeRate      // 18.5 (fallback MXN/USD)
 siteUrl           // https://ponchodavalos.com.mx
 thumbWidth/Height // 600x400
 downloadConcurrency // 5
 ```
+
+### Propiedades en el Portfolio
+
+La pagina de propiedades (`portfolio-four-column-wide.html`) muestra dos secciones:
+
+- **Exclusive Listings** — Propiedades curadas manualmente (`property-1.html` a `property-21.html`). Se editan directamente en el HTML.
+- **MLS Listings** — Propiedades generadas automaticamente desde FlexMLS/Spark API (`mls/property-flx-*.html`). Se actualizan con cada build.
+
+Ambas secciones tienen titulo visible, soportan i18n (EN/ES) y son compatibles con los filtros de Isotope.
 
 ### Templates Handlebars
 
@@ -253,7 +317,8 @@ downloadConcurrency // 5
 
 | Servicio | Proposito | Configuracion |
 |---|---|---|
-| **Spark API** (sparkapi.com) | Datos MLS de propiedades | OAuth2 con API Key/Secret (env vars) |
+| **FlexMLS Scraper** | Datos MLS via scraping (sin credenciales) | URL publica del agente |
+| **Spark API** (sparkapi.com) | Datos MLS completos via API | OAuth2 con API Key/Secret (env vars) |
 | **Google Analytics** (GA4) | Tracking de visitas y eventos | ID: `G-4EQE7MV2F7` |
 | **Google Maps Embed** | Mapas en contacto y propiedades | Embed iframe |
 | **Exchange Rate API** | Tipo de cambio USD/MXN en tiempo real | `api.exchangerate-api.com` (cache 24h) |
