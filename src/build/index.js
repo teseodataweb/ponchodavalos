@@ -41,6 +41,11 @@ async function build() {
     console.log('\n--- Step 7: Update Translations ---');
     await generateI18n(properties);
 
+    // Step 8: Generate PSEO pages
+    console.log('\n--- Step 8: Generate PSEO Pages ---');
+    const generatePseo = require('./generate-pseo');
+    await generatePseo();
+
     const elapsed = ((Date.now() - startTime) / 1000).toFixed(1);
     console.log(`\n=== Build complete in ${elapsed}s ===`);
     console.log(`Generated ${properties.length} property pages in mls/`);

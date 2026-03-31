@@ -1,0 +1,885 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-4EQE7MV2F7"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-4EQE7MV2F7');
+</script>
+<meta charset="utf-8"/>
+<meta content="IE=edge" http-equiv="X-UA-Compatible">
+<meta content="width=device-width, initial-scale=1, maximum-scale=1" name="viewport"/>
+<!-- Preconnect for performance -->
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link rel="preconnect" href="https://www.googletagmanager.com" />
+
+<title>{{metaTitle}}</title>
+<meta name="description" content="{{metaDesc}}">
+<meta name="keywords" content="mercado inmobiliario puerto vallarta, bienes raices riviera nayarit, inversión inmobiliaria vallarta">
+
+<!-- Open Graph -->
+<meta property="og:type" content="website" />
+<meta property="og:title" content="{{metaTitle}}" />
+<meta property="og:description" content="{{metaDesc}}" />
+<meta property="og:image" content="{{ogImage}}" />
+<meta property="og:url" content="{{fullUrl}}" />
+<meta property="og:locale" content="es_MX" />
+<meta property="og:site_name" content="Poncho Davalos Real Estate" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="{{metaTitle}}" />
+<meta name="twitter:description" content="{{metaDesc}}" />
+<meta name="twitter:image" content="{{ogImage}}" />
+
+<link rel="canonical" href="{{fullUrl}}" />
+
+<!-- Hreflang -->
+<link rel="alternate" hreflang="es" href="{{fullUrl}}" />
+<link rel="alternate" hreflang="x-default" href="{{fullUrl}}" />
+
+<!-- Schema.org -->
+<script type="application/ld+json">
+{{{schemaOrg}}}
+</script>
+
+<!-- BreadcrumbList Schema -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://ponchodavalos.com.mx/"},
+    {"@type": "ListItem", "position": 2, "name": "Mercado Inmobiliario"}
+  ]
+}
+</script>
+
+<link href="../images/favicon.png" rel="shortcut icon" type="image/x-icon"/>
+<link href="../css/bootstrap.min.css" rel="stylesheet"/>
+<link href="../css/font-awesome.min.css" rel="stylesheet"/>
+<link href="../css/flaticon.min.css" rel="stylesheet"/>
+<link href="../css/owl.carousel.min.css" rel="stylesheet"/>
+<link href="../css/owl.theme.min.css" rel="stylesheet"/>
+<link rel="stylesheet" href="../css/dark-mode.min.css">
+<link href="../css/magnific-popup.min.css" rel="stylesheet"/>
+<link href="../css/lightgallery.min.css" rel="stylesheet"/>
+<link href="../css/royal-preload.min.css" rel="stylesheet"/>
+<link rel="stylesheet" href="../css/i18n.min.css" />
+<link rel="stylesheet" href="../css/currency-switcher.min.css" />
+<style>
+/* Hub Page Styles */
+.pseo-hub-hero {
+    background: #1a1a1a;
+    color: #fff;
+    padding: 80px 0 60px;
+    text-align: center;
+}
+.pseo-hub-hero h1 {
+    font-size: 2.4rem;
+    font-weight: 700;
+    margin-bottom: 15px;
+}
+.pseo-hub-hero .hero-subtitle {
+    font-size: 17px;
+    color: #ccc;
+    max-width: 700px;
+    margin: 0 auto 25px;
+    line-height: 1.6;
+}
+.badge-stat {
+    display: inline-block;
+    background: #C9A227;
+    color: #fff;
+    padding: 6px 16px;
+    border-radius: 4px;
+    font-size: 14px;
+    font-weight: 600;
+    margin: 5px 4px;
+}
+.badge-ampi {
+    display: inline-block;
+    background: #1a1a1a;
+    border: 1px solid #C9A227;
+    color: #C9A227;
+    padding: 6px 16px;
+    border-radius: 4px;
+    font-size: 13px;
+    font-weight: 600;
+    margin: 5px 4px;
+}
+.hub-section { padding: 50px 0; }
+.hub-section-dark { background: #1a1a1a; color: #fff; }
+.hub-section-light { background: #f8f8f8; }
+.hub-section-white { background: #fff; }
+
+.hub-card {
+    background: #fff;
+    border: 1px solid #e8e8e8;
+    border-radius: 8px;
+    padding: 25px 20px;
+    margin-bottom: 20px;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+.hub-card:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 8px 25px rgba(0,0,0,0.12);
+}
+.hub-card-dark {
+    background: #222;
+    border-color: #333;
+    color: #fff;
+}
+.hub-card-dark:hover {
+    box-shadow: 0 8px 25px rgba(0,0,0,0.4);
+}
+.hub-card .card-zona {
+    font-size: 1.15rem;
+    font-weight: 700;
+    margin-bottom: 10px;
+    color: #1a1a1a;
+}
+.hub-card-dark .card-zona { color: #fff; }
+.hub-card .card-meta {
+    font-size: 13px;
+    color: #888;
+    margin-bottom: 8px;
+}
+.hub-card .card-stat {
+    font-size: 14px;
+    color: #555;
+    margin-bottom: 4px;
+}
+.hub-card-dark .card-stat { color: #ccc; }
+.hub-card .card-stat strong {
+    color: #C9A227;
+    font-weight: 700;
+}
+.hub-card .card-link {
+    margin-top: auto;
+    padding-top: 12px;
+}
+.hub-card .card-link a {
+    color: #C9A227;
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 14px;
+    transition: color 0.2s;
+}
+.hub-card .card-link a:hover {
+    color: #a8841e;
+    text-decoration: underline;
+}
+.hub-editorial-item {
+    padding: 20px 0;
+    border-bottom: 1px solid #e8e8e8;
+}
+.hub-editorial-item:last-child { border-bottom: none; }
+.hub-editorial-item h4 {
+    font-size: 1.1rem;
+    font-weight: 600;
+    margin-bottom: 6px;
+}
+.hub-editorial-item h4 a {
+    color: #1a1a1a;
+    text-decoration: none;
+    transition: color 0.2s;
+}
+.hub-editorial-item h4 a:hover { color: #C9A227; }
+.hub-editorial-item .excerpt {
+    font-size: 14px;
+    color: #666;
+    line-height: 1.6;
+    margin-bottom: 6px;
+}
+.hub-editorial-item .read-more {
+    color: #C9A227;
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 13px;
+}
+.hub-editorial-item .read-more:hover { text-decoration: underline; }
+
+.hub-en-list { list-style: none; padding: 0; }
+.hub-en-list li {
+    padding: 8px 0;
+    border-bottom: 1px solid #333;
+}
+.hub-en-list li:last-child { border-bottom: none; }
+.hub-en-list a {
+    color: #C9A227;
+    text-decoration: none;
+    font-weight: 500;
+}
+.hub-en-list a:hover { text-decoration: underline; color: #fff; }
+
+.cta-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-top: 15px;
+}
+.cta-btn {
+    display: inline-block;
+    padding: 12px 20px;
+    background-color: #2e2e2e;
+    color: #ffffff;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: 600;
+    border-radius: 8px;
+    transition: background-color 0.3s ease, transform 0.3s ease;
+    text-align: center;
+}
+.cta-btn:hover {
+    background-color: #444444;
+    transform: scale(1.05);
+    color: #ffffff;
+    text-decoration: none;
+}
+.cta-principal { background-color: #2e2e2e; }
+.cta-secundario { background-color: #4a4a4a; }
+@media (max-width: 576px) {
+    .cta-container { flex-direction: column; }
+    .cta-btn { width: 100%; text-align: center; }
+    .pseo-hub-hero h1 { font-size: 1.6rem; }
+}
+.section-highlight {
+    display: inline-block;
+    background: rgba(201,162,39,0.15);
+    color: #C9A227;
+    padding: 3px 12px;
+    border-radius: 4px;
+    font-size: 13px;
+    font-weight: 600;
+    margin-bottom: 15px;
+}
+</style>
+<link href="../style.css" rel="stylesheet"/>
+</head>
+<body>
+<!-- Language Switcher -->
+<div class="lang-switcher">
+    <button class="lang-btn active" data-lang="en" aria-label="Switch to English">
+        <span class="sr-only">Switch to</span>EN
+    </button>
+    <button class="lang-btn" data-lang="es" aria-label="Cambiar a Español">
+        <span class="sr-only">Cambiar a</span>ES
+    </button>
+</div>
+    <!-- Currency Switcher -->
+    <div class="currency-switcher">
+        <button class="currency-btn active" data-currency="MXN" aria-label="Show prices in Mexican Pesos">
+            <span class="sr-only">Currency:</span>MXN
+        </button>
+        <button class="currency-btn" data-currency="USD" aria-label="Show prices in US Dollars">
+            <span class="sr-only">Currency:</span>USD
+        </button>
+    </div>
+<div id="royal_preloader"></div>
+<div class="site" id="page">
+<header id="site-header" class="site-header header-transparent">
+            <!-- Main Header start -->
+            <div class="octf-main-header is-fixed">
+                <div class="octf-area-wrap">
+                    <div class="container-fluid octf-mainbar-container">
+                        <div class="octf-mainbar">
+                            <div class="octf-mainbar-row octf-row">
+                                <div class="octf-col logo-col no-padding">
+                                    <div id="site-logo" class="site-logo">
+                                        <a href="../index.html">
+                                            <img src="../images/logo.png" alt="Poncho Davalos Real Estate" class="">
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="octf-col menu-col no-padding">
+                                    <nav id="site-navigation" class="main-navigation">
+                                       <ul class="menu">
+                                            <li class=""><a href="../index.html" data-i18n="nav.home">Home</a></li>
+                                            <li><a href="../portfolio-four-column-wide.html" data-i18n="nav.properties">Properties</a></li>
+                                            <li><a href="../about-us.html" data-i18n="nav.about">About Us</a></li>
+                                            <li class="menu-item-has-children"><a href="../services-detail-1.html" data-i18n="nav.services1">Services</a>
+                                                <ul class="sub-menu">
+                                                    <li><a href="../services-detail-1.html" data-i18n="nav.services.comprehensive">Comprehensive Advisory</a></li>
+                                                    <li><a href="../services-detail-2.html" data-i18n="nav.services.investment">Investment for Foreign Buyers</a></li>
+                                                    <li><a href="../services-detail-3.html" data-i18n="nav.services.secondHome">Second Home Acquisition</a></li>
+                                                    <li><a href="../services-detail-4.html" data-i18n="nav.services.premium">Premium Property Sales</a></li>
+                                                    <li><a href="../services-detail-5.html" data-i18n="nav.services.legal">Legal & Transaction Management</a></li>
+                                                    <li><a href="../services-detail-6.html" data-i18n="nav.services.market">Market & Appreciation Analysis</a></li>
+                                                </ul>
+                                            </li>
+                                            <li><a href="../pseo/" data-i18n="nav.market">Market</a></li>
+                                            <li><a href="https://ponchodavalosrealty.com/blog/" data-i18n="nav.blog">Blog</a></li>
+                                            <li class="menu-item-has-children"><a href="../contact.html" data-i18n="nav.contact">Contact</a>
+                                                <ul>
+                                                    <li>
+                                                        <a href="../about-us.html#team-section" data-i18n="nav.meet">Meet the team</a>
+                                                    </li>
+                                                </ul>
+                                            </li>
+                                        </ul>
+                                    </nav>
+                                </div>
+                                <div class="octf-col cta-col text-right no-padding">
+                                <!-- Call To Action -->
+                                    <div class="octf-btn-cta">
+                                        <div class="octf-sidepanel octf-cta-header">
+                                            <div class="site-overlay panel-overlay"></div>
+                                            <div id="panel-btn" class="panel-btn octf-cta-icons">
+                                                <i class="ot-flaticon-menu"></i>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="header_mobile">
+                <div class="container-fluid">
+                    <div class="octf-mainbar-row octf-row">
+                        <div class="octf-col">
+                            <div class="mlogo_wrapper clearfix">
+                                <div class="mobile_logo">
+                                    <a href="../index.html">
+                                        <img src="../images/logo.png" alt="Poncho Davalos Real Estate">
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="octf-col justify-content-end">
+                            <div class="octf-search octf-cta-header">
+                                <div class="toggle_search octf-cta-icons">
+                                    <i class="ot-flaticon-search"></i>
+                                </div>
+                                <!-- Form Search on Header -->
+                                <div class="h-search-form-field collapse">
+                                    <div class="h-search-form-inner">
+                                        <form role="search" method="get" class="search-form">
+                                            <input type="search" class="search-field" placeholder="SEARCH..." value="" name="s">
+                                            <button type="submit" class="search-submit"><i class="ot-flaticon-search"></i></button>
+                                        </form>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="octf-menu-mobile octf-cta-header">
+                                <div id="mmenu-toggle" class="mmenu-toggle">
+                                    <button><i class="ot-flaticon-menu"></i></button>
+                                </div>
+                                <div class="site-overlay mmenu-overlay"></div>
+                                <div id="mmenu-wrapper" class="mmenu-wrapper on-right">
+                                    <div class="mmenu-inner">
+                                        <a class="mmenu-close" href="#"><i class="ot-flaticon-right-arrow"></i></a>
+                                        <div class="mobile-nav">
+                                            <ul id="menu-main-menu" class="mobile_mainmenu none-style">
+                                                <li class="menu-item-has-children">
+                                                    <a href="../index.html" data-i18n="nav.home">Home</a>
+                                                </li>
+                                                <li class="menu-item-has-children"><a href="../portfolio-four-column-wide.html" data-i18n="nav.properties">Properties</a>
+                                                </li>
+                                                <li class="menu-item-has-children"><a href="../about-us.html" data-i18n="nav.about">About Us</a>
+                                                </li>
+                                                <li class="menu-item-has-children"><a href="../services-detail-1.html" data-i18n="nav.services1">Services</a>
+                                                    <ul class="sub-menu">
+                                                        <li><a href="../services-detail-1.html" data-i18n="nav.services.comprehensive">Comprehensive Advisory</a></li>
+                                                        <li><a href="../services-detail-2.html" data-i18n="nav.services.investment">Investment for Foreign Buyers</a></li>
+                                                        <li><a href="../services-detail-3.html" data-i18n="nav.services.secondHome">Second Home Acquisition</a></li>
+                                                        <li><a href="../services-detail-4.html" data-i18n="nav.services.premium">Premium Property Sales</a></li>
+                                                        <li><a href="../services-detail-5.html" data-i18n="nav.services.legal">Legal & Transaction Management</a></li>
+                                                        <li><a href="../services-detail-6.html" data-i18n="nav.services.market">Market & Appreciation Analysis</a></li>
+                                                    </ul>
+                                                </li>
+                                                <li class="menu-item-has-children"><a href="https://ponchodavalosrealty.com/blog/" data-i18n="nav.blog">Blog</a>
+                                                </li>
+                                                <li><a href="../contact.html" data-i18n="nav.contact">Contact Us</a></li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </header>
+
+        <div id="side-panel" class="side-panel">
+            <a href="#" class="side-panel-close"><i class="ot-flaticon-close-1"></i></a>
+            <div class="side-panel-block">
+                <div class="side-panel-wrap">
+                    <div>
+                        <a href="../index.html">
+                            <img src="../images/logo.png" alt="Poncho Davalos Real Estate" class="" width="200" height="80">
+                        </a>
+                    </div>
+                    <div class="ot-heading">
+                        <a href=""><h2 class="main-heading">Our Gallery</h2></a>
+                    </div>
+                    <div class="image-gallery">
+                        <div id="gallery-1" class="gallery galleryid-102 gallery-columns-3 gallery-size-thumbnail">
+                            <figure class="gallery-item">
+                                <div class="gallery-icon landscape">
+                                    <a href="../images/gallery1.jpg"><img src="../images/gallery-small-1.jpg" loading="lazy" alt="Puerto Vallarta luxury property"></a>
+                                </div>
+                            </figure>
+                            <figure class="gallery-item">
+                                <div class="gallery-icon landscape">
+                                    <a href="../images/gallery2.jpg"><img src="../images/gallery-small-2.jpg" loading="lazy" alt="Riviera Nayarit beachfront home"></a>
+                                </div>
+                            </figure>
+                            <figure class="gallery-item">
+                                <div class="gallery-icon landscape">
+                                    <a href="../images/gallery3.jpg"><img src="../images/gallery-small-3.jpg" loading="lazy" alt="Modern interior design"></a>
+                                </div>
+                            </figure>
+                            <figure class="gallery-item">
+                                <div class="gallery-icon landscape">
+                                    <a href="../images/gallery4.jpg"><img src="../images/gallery-small-4.jpg" loading="lazy" alt="Ocean view penthouse"></a>
+                                </div>
+                            </figure>
+                            <figure class="gallery-item">
+                                <div class="gallery-icon landscape">
+                                    <a href="../images/gallery5.jpg"><img src="../images/gallery-small-5.jpg" loading="lazy" alt="Premium real estate property"></a>
+                                </div>
+                            </figure>
+                            <figure class="gallery-item">
+                                <div class="gallery-icon landscape">
+                                    <a href="../images/gallery6.jpg"><img src="../images/gallery-small-6.jpg" loading="lazy" alt="Exclusive residential development"></a>
+                                </div>
+                            </figure>
+                        </div>
+                    </div>
+                    <button id="darkModeToggle" style="position:fixed; bottom:20px; right:20px; z-index:999; padding:10px 15px; background:#333; color:#fff; border:none; border-radius:5px; cursor:pointer;">
+                        Dark Mode
+                    </button>
+                    <div class="ot-heading">
+                        <h2 class="main-heading">Contact Info</h2>
+                    </div>
+                    <div class="side-panel-cinfo">
+                        <ul class="panel-cinfo">
+                            <li class="panel-list-item">
+                                <span class="panel-list-icon"><i class="ot-flaticon-place"></i></span>
+                                <span class="panel-list-text">Puerto Vallarta, Jal</span>
+                            </li>
+                            <li class="panel-list-item">
+                                <span class="panel-list-icon"><i class="ot-flaticon-mail"></i></span>
+                                <span class="panel-list-text">hello@ponchodavalos.com.mx</span>
+                            </li>
+                            <li class="panel-list-item">
+                                <span class="panel-list-icon"><i class="ot-flaticon-phone-call"></i></span>
+                                <span class="panel-list-text">+52 (322) 292-2312</span>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="side-panel-social">
+                        <ul>
+                            <li><a href="https://www.facebook.com/ponchodavalosre" target="_self"><i class="fab fa-facebook-f"></i></a></li>
+                            <li><a href="https://www.instagram.com/PONCHODAVALOS_RE" target="_self"><i class="fab fa-instagram"></i></a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+<!-- ==================== CONTENT START ==================== -->
+<div class="site-content" id="content">
+
+    <!-- SECTION 1: Hero -->
+    <div class="pseo-hub-hero">
+        <div class="container">
+            <h1>Mercado Inmobiliario de Puerto Vallarta y Riviera Nayarit</h1>
+            <p class="hero-subtitle">Análisis por zonas, tipos de propiedad y guías de inversión. Por Poncho Dávalos, Asociado AMPI Riviera Nayarit.</p>
+            <div>
+                <span class="badge-stat">2,255 propiedades</span>
+                <span class="badge-stat">+10.2% plusvalía</span>
+                <span class="badge-stat">82.7% ocupación</span>
+                <span class="badge-stat">32% seguridad</span>
+            </div>
+            <div style="margin-top: 10px;">
+                <span class="badge-ampi">Asociado AMPI Riviera Nayarit</span>
+            </div>
+        </div>
+    </div>
+
+    <!-- SECTION 2: Zona Centro -->
+    {{#if zonaCentro.length}}
+    <section class="hub-section hub-section-light">
+        <div class="container">
+            <div class="ot-heading text-center">
+                <span>Análisis por Zona</span>
+                <h2 class="main-heading">Zona Centro — Puerto Vallarta</h2>
+            </div>
+            <p class="text-center" style="max-width: 650px; margin: 0 auto 30px; color: #666;">
+                Desde la Zona Romántica hasta el Centro Histórico: las zonas más consolidadas con alta demanda turística y rentas vacacionales.
+            </p>
+            <div class="row">
+                {{#each zonaCentro}}
+                <div class="col-lg-4 col-md-6 mb-4">
+                    <div class="hub-card">
+                        <div class="card-zona">{{this.zona}}</div>
+                        <div class="card-stat"><strong>{{this.precioMin}} — {{this.precioMax}}</strong> rango de precios</div>
+                        {{#if this.roi}}
+                        <div class="card-stat">ROI: <strong>{{this.roi}}%</strong></div>
+                        {{/if}}
+                        {{#if this.plusvalia}}
+                        <div class="card-stat">Plusvalía: <strong>+{{this.plusvalia}}%</strong></div>
+                        {{/if}}
+                        <div class="card-link">
+                            <a href="{{this.slug}}/">Ver análisis completo &rarr;</a>
+                        </div>
+                    </div>
+                </div>
+                {{/each}}
+            </div>
+        </div>
+    </section>
+    {{/if}}
+
+    <!-- SECTION 3: Zona Norte -->
+    {{#if zonaNorte.length}}
+    <section class="hub-section hub-section-white">
+        <div class="container">
+            <div class="ot-heading text-center">
+                <span>Riviera Nayarit</span>
+                <h2 class="main-heading">Zona Norte — Riviera Nayarit / Bahía de Banderas</h2>
+            </div>
+            <p class="text-center" style="max-width: 650px; margin: 0 auto 20px; color: #666;">
+                La zona de mayor crecimiento: nuevos desarrollos, infraestructura en expansión y alta plusvalía.
+            </p>
+            <div class="text-center" style="margin-bottom: 30px;">
+                <span class="section-highlight">ROI 200.2%</span>
+                <span class="section-highlight">+51.1% crecimiento poblacional</span>
+            </div>
+            <div class="row">
+                {{#each zonaNorte}}
+                <div class="col-lg-4 col-md-6 mb-4">
+                    <div class="hub-card">
+                        <div class="card-zona">{{this.zona}}</div>
+                        <div class="card-stat"><strong>{{this.precioMin}} — {{this.precioMax}}</strong> rango de precios</div>
+                        {{#if this.roi}}
+                        <div class="card-stat">ROI: <strong>{{this.roi}}%</strong></div>
+                        {{/if}}
+                        {{#if this.plusvalia}}
+                        <div class="card-stat">Plusvalía: <strong>+{{this.plusvalia}}%</strong></div>
+                        {{/if}}
+                        <div class="card-link">
+                            <a href="{{this.slug}}/">Ver análisis completo &rarr;</a>
+                        </div>
+                    </div>
+                </div>
+                {{/each}}
+            </div>
+        </div>
+    </section>
+    {{/if}}
+
+    <!-- SECTION 4: Zona Sur -->
+    {{#if zonaSur.length}}
+    <section class="hub-section hub-section-light">
+        <div class="container">
+            <div class="ot-heading text-center">
+                <span>Exclusividad</span>
+                <h2 class="main-heading">Zona Sur — Exclusividad</h2>
+            </div>
+            <p class="text-center" style="max-width: 650px; margin: 0 auto 20px; color: #666;">
+                Propiedades premium en las zonas más exclusivas de la bahía, con baja saturación y alto potencial de valorización.
+            </p>
+            <div class="text-center" style="margin-bottom: 30px;">
+                <span class="section-highlight">Saturación 45%</span>
+            </div>
+            <div class="row">
+                {{#each zonaSur}}
+                <div class="col-lg-4 col-md-6 mb-4">
+                    <div class="hub-card">
+                        <div class="card-zona">{{this.zona}}</div>
+                        <div class="card-stat"><strong>{{this.precioMin}} — {{this.precioMax}}</strong> rango de precios</div>
+                        {{#if this.roi}}
+                        <div class="card-stat">ROI: <strong>{{this.roi}}%</strong></div>
+                        {{/if}}
+                        {{#if this.plusvalia}}
+                        <div class="card-stat">Plusvalía: <strong>+{{this.plusvalia}}%</strong></div>
+                        {{/if}}
+                        <div class="card-link">
+                            <a href="{{this.slug}}/">Ver análisis completo &rarr;</a>
+                        </div>
+                    </div>
+                </div>
+                {{/each}}
+            </div>
+        </div>
+    </section>
+    {{/if}}
+
+    <!-- SECTION 5: Property Types -->
+    {{#if tipoPropiedad.length}}
+    <section class="hub-section hub-section-white">
+        <div class="container">
+            <div class="ot-heading text-center">
+                <span>Tipos de Propiedad</span>
+                <h2 class="main-heading">Por Tipo de Propiedad</h2>
+            </div>
+            <div class="space-20"></div>
+            <div class="row">
+                {{#each tipoPropiedad}}
+                <div class="col-lg-4 col-md-6 mb-4">
+                    <div class="hub-card">
+                        <div class="card-meta"><i class="ot-flaticon-buildings"></i> Tipo de propiedad</div>
+                        <div class="card-zona">{{this.h1}}</div>
+                        {{#if this.precioMin}}
+                        <div class="card-stat"><strong>{{this.precioMin}} — {{this.precioMax}}</strong></div>
+                        {{/if}}
+                        <div class="card-link">
+                            <a href="{{this.slug}}/">Ver detalles &rarr;</a>
+                        </div>
+                    </div>
+                </div>
+                {{/each}}
+            </div>
+        </div>
+    </section>
+    {{/if}}
+
+    <!-- SECTION 6: Editorial / Guides -->
+    {{#if editorial.length}}
+    <section class="hub-section hub-section-light">
+        <div class="container">
+            <div class="ot-heading text-center">
+                <span>Contenido Editorial</span>
+                <h2 class="main-heading">Guías y Análisis de Mercado</h2>
+            </div>
+            <div class="space-20"></div>
+            <div class="row">
+                {{#each editorial}}
+                <div class="col-lg-4 col-md-6 mb-4">
+                    <div class="hub-card hub-card-editorial">
+                        <div class="card-meta"><i class="fa fa-file-text-o"></i> Guía de experto</div>
+                        <div class="card-zona">{{this.h1}}</div>
+                        {{#if this.keyword}}
+                        <div class="card-stat" style="font-size: 0.85rem; color: #888;">{{this.keyword}}</div>
+                        {{/if}}
+                        <div class="card-link">
+                            <a href="{{this.slug}}/">Leer artículo &rarr;</a>
+                        </div>
+                    </div>
+                </div>
+                {{/each}}
+            </div>
+        </div>
+    </section>
+    {{/if}}
+
+    <!-- SECTION 7: English Section -->
+    {{#if zonaCentroEn.length}}
+    <section class="hub-section hub-section-dark">
+        <div class="container">
+            <div class="ot-heading text-center">
+                <span style="color: #C9A227;">International Buyers</span>
+                <h2 class="main-heading" style="color: #fff;">For International Buyers</h2>
+            </div>
+            <p class="text-center" style="max-width: 650px; margin: 0 auto 30px; color: #ccc;">
+                Comprehensive market guides and zone analyses available in English for foreign investors looking at Puerto Vallarta and Riviera Nayarit real estate.
+            </p>
+            <div class="row">
+                {{#if zonaCentroEn.length}}
+                <div class="col-lg-4 col-md-6 mb-4">
+                    <div class="hub-card hub-card-dark">
+                        <div class="card-zona">Zone Guides — Centro</div>
+                        <ul class="hub-en-list">
+                            {{#each zonaCentroEn}}
+                            <li><a href="{{this.slug}}/">{{this.h1}}</a></li>
+                            {{/each}}
+                        </ul>
+                    </div>
+                </div>
+                {{/if}}
+                {{#if zonaNorteEn.length}}
+                <div class="col-lg-4 col-md-6 mb-4">
+                    <div class="hub-card hub-card-dark">
+                        <div class="card-zona">Zone Guides — Norte</div>
+                        <ul class="hub-en-list">
+                            {{#each zonaNorteEn}}
+                            <li><a href="{{this.slug}}/">{{this.h1}}</a></li>
+                            {{/each}}
+                        </ul>
+                    </div>
+                </div>
+                {{/if}}
+                {{#if tipoPropiedadEn.length}}
+                <div class="col-lg-4 col-md-6 mb-4">
+                    <div class="hub-card hub-card-dark">
+                        <div class="card-zona">Property Types</div>
+                        <ul class="hub-en-list">
+                            {{#each tipoPropiedadEn}}
+                            <li><a href="{{this.slug}}/">{{this.h1}}</a></li>
+                            {{/each}}
+                        </ul>
+                    </div>
+                </div>
+                {{/if}}
+                {{#if editorialEn.length}}
+                <div class="col-lg-4 col-md-6 mb-4">
+                    <div class="hub-card hub-card-dark">
+                        <div class="card-zona">Guides & Analysis</div>
+                        <ul class="hub-en-list">
+                            {{#each editorialEn}}
+                            <li><a href="{{this.slug}}/">{{this.h1}}</a></li>
+                            {{/each}}
+                        </ul>
+                    </div>
+                </div>
+                {{/if}}
+            </div>
+        </div>
+    </section>
+    {{/if}}
+
+    <!-- SECTION 8: CTA -->
+    <section class="hub-section" style="background: #1a1a1a; color: #fff;">
+        <div class="container">
+            <div class="space-20"></div>
+            <div class="row justify-content-center">
+                <div class="col-lg-8 text-center">
+                    <div class="ot-heading">
+                        <span style="color: #C9A227;">Asesoría Personalizada</span>
+                        <h2 class="main-heading" style="color: #fff;">¿Listo para invertir?</h2>
+                    </div>
+                    <p style="font-size: 16px; color: #ccc; margin-bottom: 25px;">
+                        Contacta a Poncho Dávalos para asesoría personalizada sobre inversión inmobiliaria en Puerto Vallarta y Riviera Nayarit. Certificado AMPI, servicio bilingüe.
+                    </p>
+                    <div class="cta-container" style="justify-content: center;">
+                        <a class="cta-btn cta-principal" href="https://wa.me/523222922312?text=Hola Poncho, me interesa invertir en Puerto Vallarta" target="_blank" onclick="gtag('event', 'click', {'event_category': 'WhatsApp', 'event_label': 'PSEO Hub'})">
+                            <i class="fab fa-whatsapp"></i> WhatsApp
+                        </a>
+                        <a class="cta-btn cta-secundario" href="mailto:hello@ponchodavalos.com.mx?subject=Consulta sobre inversión inmobiliaria">
+                            <i class="ot-flaticon-mail"></i> Email
+                        </a>
+                        <a class="cta-btn cta-secundario" href="../contact.html">
+                            Agendar Consulta
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="space-40"></div>
+        </div>
+    </section>
+
+</div>
+<!-- ==================== CONTENT END ==================== -->
+
+<footer id="site-footer" class="site-footer">
+        <div class="container">
+            <div class="row">
+                <div class="col-xl-3 col-lg-6 col-md-6 col-sm-12 mb-4 mb-xl-0">
+                    <div class="widget-footer">
+                        <img src="../images/logo.png" alt="Poncho Davalos Real Estate" class="">
+                        <p>We specialize in premium real estate services in Puerto Vallarta and Riviera Nayarit.</p>
+                        <div class="footer-social list-social">
+                            <ul>
+                                <li><a href="https://www.facebook.com/ponchodavalosre" target="_self"><i class="fab fa-facebook-f"></i></a></li>
+                                <li><a href="https://www.instagram.com/ponchodavalos_re/" target="_self"><i class="fab fa-instagram"></i></a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xl-3 col-lg-6 col-md-6 col-sm-12 mb-4 mb-xl-0">
+                    <div class="widget-footer">
+                        <h6>Contact</h6>
+                        <ul class="footer-list">
+                            <li class="footer-list-item">
+                                <span class="list-item-icon"><i class="ot-flaticon-place"></i></span>
+                                <span class="list-item-text"> Puerto Vallarta, Jal</span>
+                            </li>
+                            <li class="footer-list-item">
+                                <span class="list-item-icon"><i class="ot-flaticon-mail"></i></span>
+                                <span class="list-item-text"> hello@ponchodavalos.com.mx</span>
+                            </li>
+                            <li class="footer-list-item">
+                                <span class="list-item-icon"><i class="ot-flaticon-phone-call"></i></span>
+                                <span class="list-item-text"> +52 (322) 292-2312</span>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-xl-3 col-lg-6 col-md-6 col-sm-12 mb-4 mb-md-0">
+                    <div class="widget-footer widget-contact">
+                        <h6>Latest Projects</h6>
+                        <ul>
+                            <li><a href="../property-1.html">Altomar C6</a></li>
+                            <li><a href="../property-2.html">Indah 3B</a></li>
+                            <li><a href="../property-3.html">Amapas B11</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-xl-3 col-lg-6 col-md-6 col-sm-12">
+                    <div class="widget-footer footer-widget-subcribe">
+                        <h6>Social Media</h6>
+                        <form class="mc4wp-form" method="post">
+                            <div class="mc4wp-form-fields">
+                                <div class="subscribe-inner-form">
+                                    <ul>
+                                        <li><a href="https://www.facebook.com/ponchodavalosre" target="_self">  Facebook</a></li>
+                                        <li><a href="https://www.youtube.com/@ponchodavalos_re" target="_self">Youtube</a></li>
+                                        <li><a href="https://www.instagram.com/PONCHODAVALOS_RE" target="_self">Instagram</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+    <div class="footer-bottom">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-7 col-md-12 mb-4 mb-lg-0">
+                    <p>Copyright &copy; {{currentYear}} <a class="text-light" href="#">Poncho D&aacute;valos Real State</a>. All Rights Reserved.</p>
+                </div>
+                <div class="col-lg-5 col-md-12 align-self-center">
+                    <ul class="icon-list-items inline-items justify-content-lg-end">
+                        <li class="icon-list-item inline-item">
+                            <a href="#"><span class="icon-list-text">Terms of use</span></a>
+                        </li>
+                        <li class="icon-list-item inline-item">
+                            <a href="#"><span class="icon-list-text">Privacy Environmental Policy</span></a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div><!-- #page -->
+<a class="show" href="#" id="back-to-top"><i class="ot-flaticon-left-arrow"></i></a>
+<!-- jQuery -->
+<script src="../js/jquery.min.js"></script>
+<script src="../js/mousewheel.min.js"></script>
+<script src="../js/lightgallery-all.min.js"></script>
+<script src="../js/jquery.magnific-popup.min.js"></script>
+<script src="../js/jquery.isotope.min.js"></script>
+<script src="../js/owl.carousel.min.js"></script>
+<script src="../js/easypiechart.min.js"></script>
+<script src="../js/jquery.countdown.min.js"></script>
+<script src="../js/scripts.min.js"></script>
+<script src="../js/dark-mode.min.js"></script>
+<script src="../js/royal_preloader.min.js"></script>
+<!-- i18n SCRIPT -->
+<script src="../js/i18n.min.js"></script>
+<script src="../js/currency-switcher.min.js"></script>
+
+<script>
+    window.jQuery = window.$ = jQuery;
+    (function($) { "use strict";
+        Royal_Preloader.config({
+            mode           :   'progress',
+            background     :   '#1a1a1a',
+        });
+    })(jQuery);
+</script>
+</body>
+</html>

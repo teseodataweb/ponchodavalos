@@ -359,4 +359,620 @@
   </url>
   <!-- MLS-SITEMAP-END -->
 
+
+  <!-- PSEO-SITEMAP-START -->
+  <!-- PSEO: Hub Page -->
+  <url>
+    <loc>https://ponchodavalos.com.mx/pseo/</loc>
+    <lastmod>2026-03-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- PSEO: Propiedades en Venta en la Zona Romántica de Puerto Vallarta -->
+  <url>
+    <loc>https://ponchodavalos.com.mx/pseo/zona-romantica-puerto-vallarta/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://ponchodavalos.com.mx/pseo/zona-romantica-puerto-vallarta/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ponchodavalos.com.mx/pseo/zona-romantica-real-estate/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ponchodavalos.com.mx/pseo/zona-romantica-puerto-vallarta/"/>
+    <lastmod>2026-03-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- PSEO: Propiedades en Venta en Marina Vallarta, Puerto Vallarta -->
+  <url>
+    <loc>https://ponchodavalos.com.mx/pseo/marina-vallarta-propiedades/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://ponchodavalos.com.mx/pseo/marina-vallarta-propiedades/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ponchodavalos.com.mx/pseo/marina-vallarta-real-estate/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ponchodavalos.com.mx/pseo/marina-vallarta-propiedades/"/>
+    <lastmod>2026-03-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- PSEO: Propiedades en Venta en Versalles, Puerto Vallarta -->
+  <url>
+    <loc>https://ponchodavalos.com.mx/pseo/versalles-puerto-vallarta/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://ponchodavalos.com.mx/pseo/versalles-puerto-vallarta/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ponchodavalos.com.mx/pseo/versalles-puerto-vallarta/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ponchodavalos.com.mx/pseo/versalles-puerto-vallarta/"/>
+    <lastmod>2026-03-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- PSEO: Propiedades en Venta en Nuevo Vallarta, Riviera Nayarit -->
+  <url>
+    <loc>https://ponchodavalos.com.mx/pseo/nuevo-vallarta-propiedades/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://ponchodavalos.com.mx/pseo/nuevo-vallarta-propiedades/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ponchodavalos.com.mx/pseo/nuevo-vallarta-real-estate/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ponchodavalos.com.mx/pseo/nuevo-vallarta-propiedades/"/>
+    <lastmod>2026-03-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- PSEO: Propiedades en Venta en Bucerías, Riviera Nayarit -->
+  <url>
+    <loc>https://ponchodavalos.com.mx/pseo/bucerias-riviera-nayarit/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://ponchodavalos.com.mx/pseo/bucerias-riviera-nayarit/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ponchodavalos.com.mx/pseo/bucerias-real-estate/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ponchodavalos.com.mx/pseo/bucerias-riviera-nayarit/"/>
+    <lastmod>2026-03-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- PSEO: Propiedades en Venta en La Cruz de Huanacaxtle, Riviera Nayarit -->
+  <url>
+    <loc>https://ponchodavalos.com.mx/pseo/la-cruz-de-huanacaxtle/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://ponchodavalos.com.mx/pseo/la-cruz-de-huanacaxtle/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ponchodavalos.com.mx/pseo/la-cruz-de-huanacaxtle-real-estate/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ponchodavalos.com.mx/pseo/la-cruz-de-huanacaxtle/"/>
+    <lastmod>2026-03-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- PSEO: Propiedades en Venta en Flamingos, Riviera Nayarit -->
+  <url>
+    <loc>https://ponchodavalos.com.mx/pseo/flamingos-riviera-nayarit/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://ponchodavalos.com.mx/pseo/flamingos-riviera-nayarit/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ponchodavalos.com.mx/pseo/flamingos-riviera-nayarit/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ponchodavalos.com.mx/pseo/flamingos-riviera-nayarit/"/>
+    <lastmod>2026-03-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- PSEO: Propiedades de Lujo en Venta en Punta Mita, Riviera Nayarit -->
+  <url>
+    <loc>https://ponchodavalos.com.mx/pseo/punta-mita-propiedades/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://ponchodavalos.com.mx/pseo/punta-mita-propiedades/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ponchodavalos.com.mx/pseo/punta-mita-luxury-real-estate/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ponchodavalos.com.mx/pseo/punta-mita-propiedades/"/>
+    <lastmod>2026-03-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- PSEO: Propiedades en Venta en Sayulita, Riviera Nayarit -->
+  <url>
+    <loc>https://ponchodavalos.com.mx/pseo/sayulita-propiedades/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://ponchodavalos.com.mx/pseo/sayulita-propiedades/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ponchodavalos.com.mx/pseo/sayulita-real-estate/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ponchodavalos.com.mx/pseo/sayulita-propiedades/"/>
+    <lastmod>2026-03-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- PSEO: Propiedades en Venta en Conchas Chinas, Puerto Vallarta -->
+  <url>
+    <loc>https://ponchodavalos.com.mx/pseo/conchas-chinas-puerto-vallarta/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://ponchodavalos.com.mx/pseo/conchas-chinas-puerto-vallarta/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ponchodavalos.com.mx/pseo/conchas-chinas-puerto-vallarta/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ponchodavalos.com.mx/pseo/conchas-chinas-puerto-vallarta/"/>
+    <lastmod>2026-03-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- PSEO: Propiedades en Venta en Garza Blanca, Puerto Vallarta -->
+  <url>
+    <loc>https://ponchodavalos.com.mx/pseo/garza-blanca-propiedades/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://ponchodavalos.com.mx/pseo/garza-blanca-propiedades/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ponchodavalos.com.mx/pseo/garza-blanca-propiedades/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ponchodavalos.com.mx/pseo/garza-blanca-propiedades/"/>
+    <lastmod>2026-03-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- PSEO: Propiedades en Venta en Mismaloya, Puerto Vallarta -->
+  <url>
+    <loc>https://ponchodavalos.com.mx/pseo/mismaloya-puerto-vallarta/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://ponchodavalos.com.mx/pseo/mismaloya-puerto-vallarta/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ponchodavalos.com.mx/pseo/mismaloya-puerto-vallarta/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ponchodavalos.com.mx/pseo/mismaloya-puerto-vallarta/"/>
+    <lastmod>2026-03-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- PSEO: Propiedades en Venta en Bahía de Banderas, Nayarit -->
+  <url>
+    <loc>https://ponchodavalos.com.mx/pseo/bahia-de-banderas-propiedades/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://ponchodavalos.com.mx/pseo/bahia-de-banderas-propiedades/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ponchodavalos.com.mx/pseo/bahia-de-banderas-propiedades/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ponchodavalos.com.mx/pseo/bahia-de-banderas-propiedades/"/>
+    <lastmod>2026-03-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- PSEO: Propiedades en Venta en Mezcales, Bahía de Banderas -->
+  <url>
+    <loc>https://ponchodavalos.com.mx/pseo/mezcales-nayarit/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://ponchodavalos.com.mx/pseo/mezcales-nayarit/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ponchodavalos.com.mx/pseo/mezcales-nayarit/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ponchodavalos.com.mx/pseo/mezcales-nayarit/"/>
+    <lastmod>2026-03-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- PSEO: Propiedades en Venta en Valle de Banderas, Nayarit -->
+  <url>
+    <loc>https://ponchodavalos.com.mx/pseo/valle-de-banderas/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://ponchodavalos.com.mx/pseo/valle-de-banderas/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ponchodavalos.com.mx/pseo/valle-de-banderas/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ponchodavalos.com.mx/pseo/valle-de-banderas/"/>
+    <lastmod>2026-03-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- PSEO: Zona Romántica Real Estate — Properties for Sale in Puerto Vallarta -->
+  <url>
+    <loc>https://ponchodavalos.com.mx/pseo/zona-romantica-real-estate/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ponchodavalos.com.mx/pseo/zona-romantica-real-estate/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://ponchodavalos.com.mx/pseo/zona-romantica-puerto-vallarta/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ponchodavalos.com.mx/pseo/zona-romantica-puerto-vallarta/"/>
+    <lastmod>2026-03-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- PSEO: Marina Vallarta Real Estate — Luxury Properties for Sale -->
+  <url>
+    <loc>https://ponchodavalos.com.mx/pseo/marina-vallarta-real-estate/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ponchodavalos.com.mx/pseo/marina-vallarta-real-estate/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://ponchodavalos.com.mx/pseo/marina-vallarta-propiedades/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ponchodavalos.com.mx/pseo/marina-vallarta-propiedades/"/>
+    <lastmod>2026-03-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- PSEO: Nuevo Vallarta Real Estate — Properties for Sale -->
+  <url>
+    <loc>https://ponchodavalos.com.mx/pseo/nuevo-vallarta-real-estate/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ponchodavalos.com.mx/pseo/nuevo-vallarta-real-estate/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://ponchodavalos.com.mx/pseo/nuevo-vallarta-propiedades/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ponchodavalos.com.mx/pseo/nuevo-vallarta-propiedades/"/>
+    <lastmod>2026-03-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- PSEO: Bucerías Real Estate — Beachfront Properties for Sale -->
+  <url>
+    <loc>https://ponchodavalos.com.mx/pseo/bucerias-real-estate/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ponchodavalos.com.mx/pseo/bucerias-real-estate/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://ponchodavalos.com.mx/pseo/bucerias-riviera-nayarit/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ponchodavalos.com.mx/pseo/bucerias-riviera-nayarit/"/>
+    <lastmod>2026-03-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- PSEO: Punta Mita Luxury Real Estate — Exclusive Properties -->
+  <url>
+    <loc>https://ponchodavalos.com.mx/pseo/punta-mita-luxury-real-estate/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ponchodavalos.com.mx/pseo/punta-mita-luxury-real-estate/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://ponchodavalos.com.mx/pseo/punta-mita-propiedades/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ponchodavalos.com.mx/pseo/punta-mita-propiedades/"/>
+    <lastmod>2026-03-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- PSEO: Sayulita Real Estate — Properties in Mexico's Surf Town -->
+  <url>
+    <loc>https://ponchodavalos.com.mx/pseo/sayulita-real-estate/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ponchodavalos.com.mx/pseo/sayulita-real-estate/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://ponchodavalos.com.mx/pseo/sayulita-propiedades/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ponchodavalos.com.mx/pseo/sayulita-propiedades/"/>
+    <lastmod>2026-03-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- PSEO: La Cruz de Huanacaxtle Real Estate — Marina Living -->
+  <url>
+    <loc>https://ponchodavalos.com.mx/pseo/la-cruz-de-huanacaxtle-real-estate/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ponchodavalos.com.mx/pseo/la-cruz-de-huanacaxtle-real-estate/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://ponchodavalos.com.mx/pseo/la-cruz-de-huanacaxtle/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ponchodavalos.com.mx/pseo/la-cruz-de-huanacaxtle/"/>
+    <lastmod>2026-03-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- PSEO: Condominios en Venta en Puerto Vallarta -->
+  <url>
+    <loc>https://ponchodavalos.com.mx/pseo/condominios-venta-puerto-vallarta/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://ponchodavalos.com.mx/pseo/condominios-venta-puerto-vallarta/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ponchodavalos.com.mx/pseo/condominios-venta-puerto-vallarta/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ponchodavalos.com.mx/pseo/condominios-venta-puerto-vallarta/"/>
+    <lastmod>2026-03-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- PSEO: Condominios Frente al Mar en Puerto Vallarta -->
+  <url>
+    <loc>https://ponchodavalos.com.mx/pseo/condominios-frente-al-mar-puerto-vallarta/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://ponchodavalos.com.mx/pseo/condominios-frente-al-mar-puerto-vallarta/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ponchodavalos.com.mx/pseo/beach-front-condos-puerto-vallarta/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ponchodavalos.com.mx/pseo/condominios-frente-al-mar-puerto-vallarta/"/>
+    <lastmod>2026-03-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- PSEO: Departamentos en Venta en la Zona Romántica, Puerto Vallarta -->
+  <url>
+    <loc>https://ponchodavalos.com.mx/pseo/departamentos-venta-zona-romantica/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://ponchodavalos.com.mx/pseo/departamentos-venta-zona-romantica/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ponchodavalos.com.mx/pseo/departamentos-venta-zona-romantica/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ponchodavalos.com.mx/pseo/departamentos-venta-zona-romantica/"/>
+    <lastmod>2026-03-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- PSEO: Casas en Venta en Puerto Vallarta -->
+  <url>
+    <loc>https://ponchodavalos.com.mx/pseo/casas-venta-puerto-vallarta/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://ponchodavalos.com.mx/pseo/casas-venta-puerto-vallarta/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ponchodavalos.com.mx/pseo/casas-venta-puerto-vallarta/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ponchodavalos.com.mx/pseo/casas-venta-puerto-vallarta/"/>
+    <lastmod>2026-03-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- PSEO: Villas de Lujo en Venta en Puerto Vallarta -->
+  <url>
+    <loc>https://ponchodavalos.com.mx/pseo/villas-lujo-puerto-vallarta/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://ponchodavalos.com.mx/pseo/villas-lujo-puerto-vallarta/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ponchodavalos.com.mx/pseo/luxury-villas-puerto-vallarta/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ponchodavalos.com.mx/pseo/villas-lujo-puerto-vallarta/"/>
+    <lastmod>2026-03-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- PSEO: Penthouses en Venta en Puerto Vallarta -->
+  <url>
+    <loc>https://ponchodavalos.com.mx/pseo/penthouse-venta-puerto-vallarta/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://ponchodavalos.com.mx/pseo/penthouse-venta-puerto-vallarta/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ponchodavalos.com.mx/pseo/penthouse-venta-puerto-vallarta/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ponchodavalos.com.mx/pseo/penthouse-venta-puerto-vallarta/"/>
+    <lastmod>2026-03-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- PSEO: Propiedades de Inversión en Puerto Vallarta -->
+  <url>
+    <loc>https://ponchodavalos.com.mx/pseo/propiedades-inversion-puerto-vallarta/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://ponchodavalos.com.mx/pseo/propiedades-inversion-puerto-vallarta/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ponchodavalos.com.mx/pseo/propiedades-inversion-puerto-vallarta/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ponchodavalos.com.mx/pseo/propiedades-inversion-puerto-vallarta/"/>
+    <lastmod>2026-03-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- PSEO: Propiedades para Renta Vacacional en Puerto Vallarta -->
+  <url>
+    <loc>https://ponchodavalos.com.mx/pseo/propiedades-renta-vacacional-puerto-vallarta/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://ponchodavalos.com.mx/pseo/propiedades-renta-vacacional-puerto-vallarta/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ponchodavalos.com.mx/pseo/vacation-rental-investment-puerto-vallarta/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ponchodavalos.com.mx/pseo/propiedades-renta-vacacional-puerto-vallarta/"/>
+    <lastmod>2026-03-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- PSEO: Condominios para Airbnb en Puerto Vallarta -->
+  <url>
+    <loc>https://ponchodavalos.com.mx/pseo/condominios-airbnb-puerto-vallarta/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://ponchodavalos.com.mx/pseo/condominios-airbnb-puerto-vallarta/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ponchodavalos.com.mx/pseo/condominios-airbnb-puerto-vallarta/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ponchodavalos.com.mx/pseo/condominios-airbnb-puerto-vallarta/"/>
+    <lastmod>2026-03-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- PSEO: Propiedades para Retiro en Puerto Vallarta -->
+  <url>
+    <loc>https://ponchodavalos.com.mx/pseo/propiedades-retiro-puerto-vallarta/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://ponchodavalos.com.mx/pseo/propiedades-retiro-puerto-vallarta/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ponchodavalos.com.mx/pseo/retirement-properties-puerto-vallarta/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ponchodavalos.com.mx/pseo/propiedades-retiro-puerto-vallarta/"/>
+    <lastmod>2026-03-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- PSEO: Condominios en Preventa en Riviera Nayarit -->
+  <url>
+    <loc>https://ponchodavalos.com.mx/pseo/condominios-preventa-riviera-nayarit/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://ponchodavalos.com.mx/pseo/condominios-preventa-riviera-nayarit/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ponchodavalos.com.mx/pseo/condominios-preventa-riviera-nayarit/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ponchodavalos.com.mx/pseo/condominios-preventa-riviera-nayarit/"/>
+    <lastmod>2026-03-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- PSEO: Propiedades de Lujo en Riviera Nayarit -->
+  <url>
+    <loc>https://ponchodavalos.com.mx/pseo/propiedades-lujo-riviera-nayarit/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://ponchodavalos.com.mx/pseo/propiedades-lujo-riviera-nayarit/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ponchodavalos.com.mx/pseo/propiedades-lujo-riviera-nayarit/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ponchodavalos.com.mx/pseo/propiedades-lujo-riviera-nayarit/"/>
+    <lastmod>2026-03-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- PSEO: Beachfront Condos for Sale in Puerto Vallarta -->
+  <url>
+    <loc>https://ponchodavalos.com.mx/pseo/beach-front-condos-puerto-vallarta/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ponchodavalos.com.mx/pseo/beach-front-condos-puerto-vallarta/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://ponchodavalos.com.mx/pseo/condominios-frente-al-mar-puerto-vallarta/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ponchodavalos.com.mx/pseo/condominios-frente-al-mar-puerto-vallarta/"/>
+    <lastmod>2026-03-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- PSEO: Vacation Rental Investment Properties in Puerto Vallarta -->
+  <url>
+    <loc>https://ponchodavalos.com.mx/pseo/vacation-rental-investment-puerto-vallarta/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ponchodavalos.com.mx/pseo/vacation-rental-investment-puerto-vallarta/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://ponchodavalos.com.mx/pseo/propiedades-renta-vacacional-puerto-vallarta/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ponchodavalos.com.mx/pseo/propiedades-renta-vacacional-puerto-vallarta/"/>
+    <lastmod>2026-03-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- PSEO: Luxury Villas for Sale in Puerto Vallarta -->
+  <url>
+    <loc>https://ponchodavalos.com.mx/pseo/luxury-villas-puerto-vallarta/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ponchodavalos.com.mx/pseo/luxury-villas-puerto-vallarta/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://ponchodavalos.com.mx/pseo/villas-lujo-puerto-vallarta/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ponchodavalos.com.mx/pseo/villas-lujo-puerto-vallarta/"/>
+    <lastmod>2026-03-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- PSEO: Retirement Properties in Puerto Vallarta -->
+  <url>
+    <loc>https://ponchodavalos.com.mx/pseo/retirement-properties-puerto-vallarta/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ponchodavalos.com.mx/pseo/retirement-properties-puerto-vallarta/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://ponchodavalos.com.mx/pseo/propiedades-retiro-puerto-vallarta/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ponchodavalos.com.mx/pseo/propiedades-retiro-puerto-vallarta/"/>
+    <lastmod>2026-03-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- PSEO: Mercado Inmobiliario de Puerto Vallarta 2026: Análisis Completo -->
+  <url>
+    <loc>https://ponchodavalos.com.mx/pseo/mercado-inmobiliario-puerto-vallarta-2026/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://ponchodavalos.com.mx/pseo/mercado-inmobiliario-puerto-vallarta-2026/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ponchodavalos.com.mx/pseo/mercado-inmobiliario-puerto-vallarta-2026/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ponchodavalos.com.mx/pseo/mercado-inmobiliario-puerto-vallarta-2026/"/>
+    <lastmod>2026-03-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- PSEO: ¿Por Qué Invertir en Puerto Vallarta en 2026? -->
+  <url>
+    <loc>https://ponchodavalos.com.mx/pseo/invertir-en-puerto-vallarta/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://ponchodavalos.com.mx/pseo/invertir-en-puerto-vallarta/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ponchodavalos.com.mx/pseo/invertir-en-puerto-vallarta/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ponchodavalos.com.mx/pseo/invertir-en-puerto-vallarta/"/>
+    <lastmod>2026-03-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- PSEO: Plusvalía en Puerto Vallarta: Análisis y Proyecciones 2026 -->
+  <url>
+    <loc>https://ponchodavalos.com.mx/pseo/plusvalia-puerto-vallarta/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://ponchodavalos.com.mx/pseo/plusvalia-puerto-vallarta/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ponchodavalos.com.mx/pseo/plusvalia-puerto-vallarta/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ponchodavalos.com.mx/pseo/plusvalia-puerto-vallarta/"/>
+    <lastmod>2026-03-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- PSEO: ROI de Renta Vacacional en Puerto Vallarta -->
+  <url>
+    <loc>https://ponchodavalos.com.mx/pseo/renta-vacacional-puerto-vallarta-roi/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://ponchodavalos.com.mx/pseo/renta-vacacional-puerto-vallarta-roi/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ponchodavalos.com.mx/pseo/renta-vacacional-puerto-vallarta-roi/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ponchodavalos.com.mx/pseo/renta-vacacional-puerto-vallarta-roi/"/>
+    <lastmod>2026-03-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- PSEO: Vivir en Puerto Vallarta: Guía para Extranjeros 2026 -->
+  <url>
+    <loc>https://ponchodavalos.com.mx/pseo/vivir-en-puerto-vallarta-guia-extranjeros/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://ponchodavalos.com.mx/pseo/vivir-en-puerto-vallarta-guia-extranjeros/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ponchodavalos.com.mx/pseo/vivir-en-puerto-vallarta-guia-extranjeros/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ponchodavalos.com.mx/pseo/vivir-en-puerto-vallarta-guia-extranjeros/"/>
+    <lastmod>2026-03-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- PSEO: Bahía de Banderas vs Puerto Vallarta: ¿Dónde Invertir? -->
+  <url>
+    <loc>https://ponchodavalos.com.mx/pseo/bahia-de-banderas-vs-puerto-vallarta/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://ponchodavalos.com.mx/pseo/bahia-de-banderas-vs-puerto-vallarta/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ponchodavalos.com.mx/pseo/bahia-de-banderas-vs-puerto-vallarta/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ponchodavalos.com.mx/pseo/bahia-de-banderas-vs-puerto-vallarta/"/>
+    <lastmod>2026-03-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- PSEO: Zona Romántica vs Marina Vallarta: Comparativa 2026 -->
+  <url>
+    <loc>https://ponchodavalos.com.mx/pseo/zona-romantica-vs-marina-vallarta/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://ponchodavalos.com.mx/pseo/zona-romantica-vs-marina-vallarta/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ponchodavalos.com.mx/pseo/zona-romantica-vs-marina-vallarta/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ponchodavalos.com.mx/pseo/zona-romantica-vs-marina-vallarta/"/>
+    <lastmod>2026-03-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- PSEO: Cómo Comprar Propiedad en México Siendo Extranjero -->
+  <url>
+    <loc>https://ponchodavalos.com.mx/pseo/comprar-propiedad-mexico-extranjeros/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://ponchodavalos.com.mx/pseo/comprar-propiedad-mexico-extranjeros/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ponchodavalos.com.mx/pseo/buying-property-mexico-as-foreigner/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ponchodavalos.com.mx/pseo/comprar-propiedad-mexico-extranjeros/"/>
+    <lastmod>2026-03-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- PSEO: Fideicomiso Inmobiliario en México: Guía Completa -->
+  <url>
+    <loc>https://ponchodavalos.com.mx/pseo/fideicomiso-inmobiliario-mexico-guia/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://ponchodavalos.com.mx/pseo/fideicomiso-inmobiliario-mexico-guia/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ponchodavalos.com.mx/pseo/fideicomiso-inmobiliario-mexico-guia/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ponchodavalos.com.mx/pseo/fideicomiso-inmobiliario-mexico-guia/"/>
+    <lastmod>2026-03-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- PSEO: Mejores Zonas para Invertir en Riviera Nayarit 2026 -->
+  <url>
+    <loc>https://ponchodavalos.com.mx/pseo/mejores-zonas-invertir-riviera-nayarit-2026/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://ponchodavalos.com.mx/pseo/mejores-zonas-invertir-riviera-nayarit-2026/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ponchodavalos.com.mx/pseo/best-areas-invest-puerto-vallarta/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ponchodavalos.com.mx/pseo/mejores-zonas-invertir-riviera-nayarit-2026/"/>
+    <lastmod>2026-03-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- PSEO: Nueva Vallarta: Guía Completa para Compradores 2026 -->
+  <url>
+    <loc>https://ponchodavalos.com.mx/pseo/nueva-vallarta-guia-completa/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://ponchodavalos.com.mx/pseo/nueva-vallarta-guia-completa/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ponchodavalos.com.mx/pseo/nueva-vallarta-guia-completa/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ponchodavalos.com.mx/pseo/nueva-vallarta-guia-completa/"/>
+    <lastmod>2026-03-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- PSEO: Bucerías: Guía para Expatriados y Compradores 2026 -->
+  <url>
+    <loc>https://ponchodavalos.com.mx/pseo/bucerias-guia-expatriados/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://ponchodavalos.com.mx/pseo/bucerias-guia-expatriados/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ponchodavalos.com.mx/pseo/bucerias-guia-expatriados/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ponchodavalos.com.mx/pseo/bucerias-guia-expatriados/"/>
+    <lastmod>2026-03-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- PSEO: Punta Mita: Inversión de Lujo en Riviera Nayarit -->
+  <url>
+    <loc>https://ponchodavalos.com.mx/pseo/punta-mita-inversion-lujo/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://ponchodavalos.com.mx/pseo/punta-mita-inversion-lujo/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ponchodavalos.com.mx/pseo/punta-mita-inversion-lujo/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ponchodavalos.com.mx/pseo/punta-mita-inversion-lujo/"/>
+    <lastmod>2026-03-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- PSEO: Is Puerto Vallarta Safe to Buy Property? A Local Expert's Perspective -->
+  <url>
+    <loc>https://ponchodavalos.com.mx/pseo/puerto-vallarta-safe-to-buy-property/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://ponchodavalos.com.mx/pseo/puerto-vallarta-safe-to-buy-property/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ponchodavalos.com.mx/pseo/puerto-vallarta-safe-to-buy-property/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ponchodavalos.com.mx/pseo/puerto-vallarta-safe-to-buy-property/"/>
+    <lastmod>2026-03-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- PSEO: Buying Property in Mexico as a Foreigner: Complete Guide 2026 -->
+  <url>
+    <loc>https://ponchodavalos.com.mx/pseo/buying-property-mexico-as-foreigner/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ponchodavalos.com.mx/pseo/buying-property-mexico-as-foreigner/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://ponchodavalos.com.mx/pseo/comprar-propiedad-mexico-extranjeros/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ponchodavalos.com.mx/pseo/comprar-propiedad-mexico-extranjeros/"/>
+    <lastmod>2026-03-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- PSEO: Best Areas to Invest in Puerto Vallarta & Riviera Nayarit 2026 -->
+  <url>
+    <loc>https://ponchodavalos.com.mx/pseo/best-areas-invest-puerto-vallarta/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ponchodavalos.com.mx/pseo/best-areas-invest-puerto-vallarta/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://ponchodavalos.com.mx/pseo/mejores-zonas-invertir-riviera-nayarit-2026/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ponchodavalos.com.mx/pseo/mejores-zonas-invertir-riviera-nayarit-2026/"/>
+    <lastmod>2026-03-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- PSEO: Puerto Vallarta vs Cancún: Where Should You Invest in 2026? -->
+  <url>
+    <loc>https://ponchodavalos.com.mx/pseo/puerto-vallarta-vs-cancun-investment/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://ponchodavalos.com.mx/pseo/puerto-vallarta-vs-cancun-investment/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ponchodavalos.com.mx/pseo/puerto-vallarta-vs-cancun-investment/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ponchodavalos.com.mx/pseo/puerto-vallarta-vs-cancun-investment/"/>
+    <lastmod>2026-03-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <!-- PSEO-SITEMAP-END -->
+
 </urlset>

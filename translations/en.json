@@ -7,6 +7,7 @@
     "properties": "Properties",
     "about": "About Us",
     "services1": "Services",
+    "market": "Market",
     "blog": "Blog",
     "contact": "Contacts",
     "meet": "Meet the team",
@@ -462,8 +463,8 @@
       "description": "Casa Frida — 2 bed, 1 bath, 868.76 sqft houses in Puerto Vallarta."
     },
     "mls_flx-42023": {
-      "tagline": "Single Family in Other — 3 bed, 3 bath, 84.97 m²",
-      "description": "Vista Los Mangos — 3 bed, 3 bath, 914.6 sqft houses in Other."
+      "tagline": "Single Family in Puerto Vallarta — 3 bed, 3 bath, 84.97 m²",
+      "description": "Vista Los Mangos — 3 bed, 3 bath, 914.6 sqft houses in Puerto Vallarta."
     },
     "mls_flx-41386": {
       "tagline": "Condominium in Puerto Vallarta — 2 bed, 2 bath, 105.62 m²",
@@ -553,5 +554,227 @@
     "message": "Oops! The page you are looking for does not exist. Please return to the site's homepage.",
     "searchPlaceholder": "SEARCH...",
     "button": "TAKE ME HOME"
+  },
+  "pseo": {
+    "zona-romantica-puerto-vallarta": {
+      "title": "Propiedades en Venta en la Zona Romántica de Puerto Vallarta",
+      "description": ""
+    },
+    "marina-vallarta-propiedades": {
+      "title": "Propiedades en Venta en Marina Vallarta, Puerto Vallarta",
+      "description": ""
+    },
+    "versalles-puerto-vallarta": {
+      "title": "Propiedades en Venta en Versalles, Puerto Vallarta",
+      "description": ""
+    },
+    "nuevo-vallarta-propiedades": {
+      "title": "Propiedades en Venta en Nuevo Vallarta, Riviera Nayarit",
+      "description": ""
+    },
+    "bucerias-riviera-nayarit": {
+      "title": "Propiedades en Venta en Bucerías, Riviera Nayarit",
+      "description": ""
+    },
+    "la-cruz-de-huanacaxtle": {
+      "title": "Propiedades en Venta en La Cruz de Huanacaxtle, Riviera Nayarit",
+      "description": ""
+    },
+    "flamingos-riviera-nayarit": {
+      "title": "Propiedades en Venta en Flamingos, Riviera Nayarit",
+      "description": ""
+    },
+    "punta-mita-propiedades": {
+      "title": "Propiedades de Lujo en Venta en Punta Mita, Riviera Nayarit",
+      "description": ""
+    },
+    "sayulita-propiedades": {
+      "title": "Propiedades en Venta en Sayulita, Riviera Nayarit",
+      "description": ""
+    },
+    "conchas-chinas-puerto-vallarta": {
+      "title": "Propiedades en Venta en Conchas Chinas, Puerto Vallarta",
+      "description": ""
+    },
+    "garza-blanca-propiedades": {
+      "title": "Propiedades en Venta en Garza Blanca, Puerto Vallarta",
+      "description": ""
+    },
+    "mismaloya-puerto-vallarta": {
+      "title": "Propiedades en Venta en Mismaloya, Puerto Vallarta",
+      "description": ""
+    },
+    "bahia-de-banderas-propiedades": {
+      "title": "Propiedades en Venta en Bahía de Banderas, Nayarit",
+      "description": ""
+    },
+    "mezcales-nayarit": {
+      "title": "Propiedades en Venta en Mezcales, Bahía de Banderas",
+      "description": ""
+    },
+    "valle-de-banderas": {
+      "title": "Propiedades en Venta en Valle de Banderas, Nayarit",
+      "description": ""
+    },
+    "zona-romantica-real-estate": {
+      "title": "Zona Romántica Real Estate — Properties for Sale in Puerto Vallarta",
+      "description": ""
+    },
+    "marina-vallarta-real-estate": {
+      "title": "Marina Vallarta Real Estate — Luxury Properties for Sale",
+      "description": ""
+    },
+    "nuevo-vallarta-real-estate": {
+      "title": "Nuevo Vallarta Real Estate — Properties for Sale",
+      "description": ""
+    },
+    "bucerias-real-estate": {
+      "title": "Bucerías Real Estate — Beachfront Properties for Sale",
+      "description": ""
+    },
+    "punta-mita-luxury-real-estate": {
+      "title": "Punta Mita Luxury Real Estate — Exclusive Properties",
+      "description": ""
+    },
+    "sayulita-real-estate": {
+      "title": "Sayulita Real Estate — Properties in Mexico's Surf Town",
+      "description": ""
+    },
+    "la-cruz-de-huanacaxtle-real-estate": {
+      "title": "La Cruz de Huanacaxtle Real Estate — Marina Living",
+      "description": ""
+    },
+    "condominios-venta-puerto-vallarta": {
+      "title": "Condominios en Venta en Puerto Vallarta",
+      "description": ""
+    },
+    "condominios-frente-al-mar-puerto-vallarta": {
+      "title": "Condominios Frente al Mar en Puerto Vallarta",
+      "description": ""
+    },
+    "departamentos-venta-zona-romantica": {
+      "title": "Departamentos en Venta en la Zona Romántica, Puerto Vallarta",
+      "description": ""
+    },
+    "casas-venta-puerto-vallarta": {
+      "title": "Casas en Venta en Puerto Vallarta",
+      "description": ""
+    },
+    "villas-lujo-puerto-vallarta": {
+      "title": "Villas de Lujo en Venta en Puerto Vallarta",
+      "description": ""
+    },
+    "penthouse-venta-puerto-vallarta": {
+      "title": "Penthouses en Venta en Puerto Vallarta",
+      "description": ""
+    },
+    "propiedades-inversion-puerto-vallarta": {
+      "title": "Propiedades de Inversión en Puerto Vallarta",
+      "description": ""
+    },
+    "propiedades-renta-vacacional-puerto-vallarta": {
+      "title": "Propiedades para Renta Vacacional en Puerto Vallarta",
+      "description": ""
+    },
+    "condominios-airbnb-puerto-vallarta": {
+      "title": "Condominios para Airbnb en Puerto Vallarta",
+      "description": ""
+    },
+    "propiedades-retiro-puerto-vallarta": {
+      "title": "Propiedades para Retiro en Puerto Vallarta",
+      "description": ""
+    },
+    "condominios-preventa-riviera-nayarit": {
+      "title": "Condominios en Preventa en Riviera Nayarit",
+      "description": ""
+    },
+    "propiedades-lujo-riviera-nayarit": {
+      "title": "Propiedades de Lujo en Riviera Nayarit",
+      "description": ""
+    },
+    "beach-front-condos-puerto-vallarta": {
+      "title": "Beachfront Condos for Sale in Puerto Vallarta",
+      "description": ""
+    },
+    "vacation-rental-investment-puerto-vallarta": {
+      "title": "Vacation Rental Investment Properties in Puerto Vallarta",
+      "description": ""
+    },
+    "luxury-villas-puerto-vallarta": {
+      "title": "Luxury Villas for Sale in Puerto Vallarta",
+      "description": ""
+    },
+    "retirement-properties-puerto-vallarta": {
+      "title": "Retirement Properties in Puerto Vallarta",
+      "description": ""
+    },
+    "mercado-inmobiliario-puerto-vallarta-2026": {
+      "title": "Mercado Inmobiliario de Puerto Vallarta 2026: Análisis Completo",
+      "description": ""
+    },
+    "invertir-en-puerto-vallarta": {
+      "title": "¿Por Qué Invertir en Puerto Vallarta en 2026?",
+      "description": ""
+    },
+    "plusvalia-puerto-vallarta": {
+      "title": "Plusvalía en Puerto Vallarta: Análisis y Proyecciones 2026",
+      "description": ""
+    },
+    "renta-vacacional-puerto-vallarta-roi": {
+      "title": "ROI de Renta Vacacional en Puerto Vallarta",
+      "description": ""
+    },
+    "vivir-en-puerto-vallarta-guia-extranjeros": {
+      "title": "Vivir en Puerto Vallarta: Guía para Extranjeros 2026",
+      "description": ""
+    },
+    "bahia-de-banderas-vs-puerto-vallarta": {
+      "title": "Bahía de Banderas vs Puerto Vallarta: ¿Dónde Invertir?",
+      "description": ""
+    },
+    "zona-romantica-vs-marina-vallarta": {
+      "title": "Zona Romántica vs Marina Vallarta: Comparativa 2026",
+      "description": ""
+    },
+    "comprar-propiedad-mexico-extranjeros": {
+      "title": "Cómo Comprar Propiedad en México Siendo Extranjero",
+      "description": ""
+    },
+    "fideicomiso-inmobiliario-mexico-guia": {
+      "title": "Fideicomiso Inmobiliario en México: Guía Completa",
+      "description": ""
+    },
+    "mejores-zonas-invertir-riviera-nayarit-2026": {
+      "title": "Mejores Zonas para Invertir en Riviera Nayarit 2026",
+      "description": ""
+    },
+    "nueva-vallarta-guia-completa": {
+      "title": "Nueva Vallarta: Guía Completa para Compradores 2026",
+      "description": ""
+    },
+    "bucerias-guia-expatriados": {
+      "title": "Bucerías: Guía para Expatriados y Compradores 2026",
+      "description": ""
+    },
+    "punta-mita-inversion-lujo": {
+      "title": "Punta Mita: Inversión de Lujo en Riviera Nayarit",
+      "description": ""
+    },
+    "puerto-vallarta-safe-to-buy-property": {
+      "title": "Is Puerto Vallarta Safe to Buy Property? A Local Expert's Perspective",
+      "description": ""
+    },
+    "buying-property-mexico-as-foreigner": {
+      "title": "Buying Property in Mexico as a Foreigner: Complete Guide 2026",
+      "description": ""
+    },
+    "best-areas-invest-puerto-vallarta": {
+      "title": "Best Areas to Invest in Puerto Vallarta & Riviera Nayarit 2026",
+      "description": ""
+    },
+    "puerto-vallarta-vs-cancun-investment": {
+      "title": "Puerto Vallarta vs Cancún: Where Should You Invest in 2026?",
+      "description": ""
+    }
   }
 }
