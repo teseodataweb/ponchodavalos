@@ -1,18 +1,18 @@
 [
   {
-    "listingId": "FLX-41264",
-    "slug": "flx-41264",
-    "name": "7 Batallon de San Blas 1",
-    "fileName": "property-flx-41264.html",
-    "url": "mls/property-flx-41264.html",
-    "fullUrl": "https://ponchodavalos.com.mx/mls/property-flx-41264.html",
-    "priceUsd": 168000,
-    "priceMxn": 3108000,
-    "priceUsdFormatted": "$168,000 USD",
-    "priceMxnFormatted": "$3,108,000 MXN",
-    "beds": 1,
-    "baths": 1,
-    "surface": 62.79,
+    "listingId": "FLX-40145",
+    "slug": "flx-40145",
+    "name": "900 Circunvalacion del Robalo A7",
+    "fileName": "property-flx-40145.html",
+    "url": "mls/property-flx-40145.html",
+    "fullUrl": "https://ponchodavalos.com.mx/mls/property-flx-40145.html",
+    "priceUsd": 185000,
+    "priceMxn": 3422500,
+    "priceUsdFormatted": "$185,000 USD",
+    "priceMxnFormatted": "$3,422,500 MXN",
+    "beds": 2,
+    "baths": 2,
+    "surface": 74.94,
     "parking": 0,
     "yearBuilt": "",
     "furnished": "",
@@ -20,373 +20,135 @@
     "propertyType": "Condominium",
     "city": "Puerto Vallarta",
     "state": "Jalisco",
-    "address": "7 Batallon de San Blas 1, Condo San Blas, Puerto Vallarta, JA",
+    "address": "900 Circunvalacion del Robalo A7, Condominio Las Perlas, Puerto Vallarta, JA",
     "shortLocation": "JA, Puerto Vallarta",
     "lat": null,
     "lng": null,
     "mapEmbedUrl": "",
-    "descriptionEn": "Condo San Blas — 1 bed, 1 bath, 675.83 sqft condos in Puerto Vallarta.",
-    "descriptionEs": "Condo San Blas — 1 rec, 1 baños, 675.83 pies² condominio en Puerto Vallarta.",
+    "descriptionEn": "Condominio Las Perlas — 2 bed, 2 bath, 806.67 sqft condos in Puerto Vallarta.",
+    "descriptionEs": "Condominio Las Perlas — 2 rec, 2 baños, 806.67 pies² condominio en Puerto Vallarta.",
     "amenities": [],
     "appliances": [],
     "utilities": [],
     "locationFeatures": [],
-    "headerImage": "../images/mls/flx-41264/header.jpg",
-    "thumbImage": "images/mls/flx-41264/thumb.jpg",
+    "headerImage": "../images/mls/flx-40145/header.jpg",
+    "thumbImage": "images/mls/flx-40145/thumb.jpg",
     "images": [
       {
-        "src": "../images/mls/flx-41264/1.jpg",
-        "alt": "7 Batallon de San Blas 1 - Image 1",
-        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251215001856777247000000-o.jpg",
+        "src": "../images/mls/flx-40145/1.jpg",
+        "alt": "900 Circunvalacion del Robalo A7 - Image 1",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250930223804646038000000-o.jpg",
         "order": 1
       },
       {
-        "src": "../images/mls/flx-41264/2.jpg",
-        "alt": "7 Batallon de San Blas 1 - Image 2",
-        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251215001900347896000000-o.jpg",
+        "src": "../images/mls/flx-40145/2.jpg",
+        "alt": "900 Circunvalacion del Robalo A7 - Image 2",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250930223739974610000000-o.jpg",
         "order": 2
       },
       {
-        "src": "../images/mls/flx-41264/3.jpg",
-        "alt": "7 Batallon de San Blas 1 - Image 3",
-        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251215001903212682000000-o.jpg",
+        "src": "../images/mls/flx-40145/3.jpg",
+        "alt": "900 Circunvalacion del Robalo A7 - Image 3",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250930223749544388000000-o.jpg",
         "order": 3
       },
       {
-        "src": "../images/mls/flx-41264/4.jpg",
-        "alt": "7 Batallon de San Blas 1 - Image 4",
-        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251215001906350047000000-o.jpg",
+        "src": "../images/mls/flx-40145/4.jpg",
+        "alt": "900 Circunvalacion del Robalo A7 - Image 4",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250930223752259703000000-o.jpg",
         "order": 4
       },
       {
-        "src": "../images/mls/flx-41264/5.jpg",
-        "alt": "7 Batallon de San Blas 1 - Image 5",
-        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251215001909590567000000-o.jpg",
+        "src": "../images/mls/flx-40145/5.jpg",
+        "alt": "900 Circunvalacion del Robalo A7 - Image 5",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250930223754294381000000-o.jpg",
         "order": 5
       },
       {
-        "src": "../images/mls/flx-41264/6.jpg",
-        "alt": "7 Batallon de San Blas 1 - Image 6",
-        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251215001912483637000000-o.jpg",
+        "src": "../images/mls/flx-40145/6.jpg",
+        "alt": "900 Circunvalacion del Robalo A7 - Image 6",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250930223756260010000000-o.jpg",
         "order": 6
       },
       {
-        "src": "../images/mls/flx-41264/7.jpg",
-        "alt": "7 Batallon de San Blas 1 - Image 7",
-        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251215001915224226000000-o.jpg",
+        "src": "../images/mls/flx-40145/7.jpg",
+        "alt": "900 Circunvalacion del Robalo A7 - Image 7",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250930223758291716000000-o.jpg",
         "order": 7
       },
       {
-        "src": "../images/mls/flx-41264/8.jpg",
-        "alt": "7 Batallon de San Blas 1 - Image 8",
-        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251215001918457254000000-o.jpg",
+        "src": "../images/mls/flx-40145/8.jpg",
+        "alt": "900 Circunvalacion del Robalo A7 - Image 8",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250930223800490404000000-o.jpg",
         "order": 8
       },
       {
-        "src": "../images/mls/flx-41264/9.jpg",
-        "alt": "7 Batallon de San Blas 1 - Image 9",
-        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251215001921591525000000-o.jpg",
+        "src": "../images/mls/flx-40145/9.jpg",
+        "alt": "900 Circunvalacion del Robalo A7 - Image 9",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250930223802414571000000-o.jpg",
         "order": 9
       },
       {
-        "src": "../images/mls/flx-41264/10.jpg",
-        "alt": "7 Batallon de San Blas 1 - Image 10",
-        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251215001924776515000000-o.jpg",
+        "src": "../images/mls/flx-40145/10.jpg",
+        "alt": "900 Circunvalacion del Robalo A7 - Image 10",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250930223915981112000000-o.jpg",
         "order": 10
       },
       {
-        "src": "../images/mls/flx-41264/11.jpg",
-        "alt": "7 Batallon de San Blas 1 - Image 11",
-        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251215001927882636000000-o.jpg",
+        "src": "../images/mls/flx-40145/11.jpg",
+        "alt": "900 Circunvalacion del Robalo A7 - Image 11",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250930223918019412000000-o.jpg",
         "order": 11
       },
       {
-        "src": "../images/mls/flx-41264/12.jpg",
-        "alt": "7 Batallon de San Blas 1 - Image 12",
-        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251215001930990945000000-o.jpg",
+        "src": "../images/mls/flx-40145/12.jpg",
+        "alt": "900 Circunvalacion del Robalo A7 - Image 12",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250930223921391157000000-o.jpg",
         "order": 12
       },
       {
-        "src": "../images/mls/flx-41264/13.jpg",
-        "alt": "7 Batallon de San Blas 1 - Image 13",
-        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251215001934067574000000-o.jpg",
+        "src": "../images/mls/flx-40145/13.jpg",
+        "alt": "900 Circunvalacion del Robalo A7 - Image 13",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250930223928068937000000-o.jpg",
         "order": 13
       },
       {
-        "src": "../images/mls/flx-41264/14.jpg",
-        "alt": "7 Batallon de San Blas 1 - Image 14",
-        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251215001937476515000000-o.jpg",
+        "src": "../images/mls/flx-40145/14.jpg",
+        "alt": "900 Circunvalacion del Robalo A7 - Image 14",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250930224111339732000000-o.jpg",
         "order": 14
       },
       {
-        "src": "../images/mls/flx-41264/15.jpg",
-        "alt": "7 Batallon de San Blas 1 - Image 15",
-        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251215001940105270000000-o.jpg",
+        "src": "../images/mls/flx-40145/15.jpg",
+        "alt": "900 Circunvalacion del Robalo A7 - Image 15",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250930224117159378000000-o.jpg",
         "order": 15
-      },
-      {
-        "src": "../images/mls/flx-41264/16.jpg",
-        "alt": "7 Batallon de San Blas 1 - Image 16",
-        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251215001943055437000000-o.jpg",
-        "order": 16
-      },
-      {
-        "src": "../images/mls/flx-41264/17.jpg",
-        "alt": "7 Batallon de San Blas 1 - Image 17",
-        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251215001947245923000000-o.jpg",
-        "order": 17
-      },
-      {
-        "src": "../images/mls/flx-41264/18.jpg",
-        "alt": "7 Batallon de San Blas 1 - Image 18",
-        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251215001950833323000000-o.jpg",
-        "order": 18
-      },
-      {
-        "src": "../images/mls/flx-41264/19.jpg",
-        "alt": "7 Batallon de San Blas 1 - Image 19",
-        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251215001954062362000000-o.jpg",
-        "order": 19
-      },
-      {
-        "src": "../images/mls/flx-41264/20.jpg",
-        "alt": "7 Batallon de San Blas 1 - Image 20",
-        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251215001957776219000000-o.jpg",
-        "order": 20
-      },
-      {
-        "src": "../images/mls/flx-41264/21.jpg",
-        "alt": "7 Batallon de San Blas 1 - Image 21",
-        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251215002001408294000000-o.jpg",
-        "order": 21
-      },
-      {
-        "src": "../images/mls/flx-41264/22.jpg",
-        "alt": "7 Batallon de San Blas 1 - Image 22",
-        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251215002005233989000000-o.jpg",
-        "order": 22
       }
     ],
-    "primaryPhotoUrl": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251215001856777247000000-o.jpg",
+    "primaryPhotoUrl": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250930223804646038000000-o.jpg",
     "allPhotoUrls": [
-      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251215001856777247000000-o.jpg",
-      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251215001900347896000000-o.jpg",
-      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251215001903212682000000-o.jpg",
-      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251215001906350047000000-o.jpg",
-      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251215001909590567000000-o.jpg",
-      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251215001912483637000000-o.jpg",
-      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251215001915224226000000-o.jpg",
-      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251215001918457254000000-o.jpg",
-      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251215001921591525000000-o.jpg",
-      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251215001924776515000000-o.jpg",
-      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251215001927882636000000-o.jpg",
-      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251215001930990945000000-o.jpg",
-      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251215001934067574000000-o.jpg",
-      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251215001937476515000000-o.jpg",
-      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251215001940105270000000-o.jpg",
-      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251215001943055437000000-o.jpg",
-      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251215001947245923000000-o.jpg",
-      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251215001950833323000000-o.jpg",
-      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251215001954062362000000-o.jpg",
-      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251215001957776219000000-o.jpg",
-      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251215002001408294000000-o.jpg",
-      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251215002005233989000000-o.jpg"
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250930223804646038000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250930223739974610000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250930223749544388000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250930223752259703000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250930223754294381000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250930223756260010000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250930223758291716000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250930223800490404000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250930223802414571000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250930223915981112000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250930223918019412000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250930223921391157000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250930223928068937000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250930224111339732000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250930224117159378000000-o.jpg"
     ],
     "isotopeCategory": "category-19",
-    "schemaOrg": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"RealEstateListing\",\n      \"name\": \"7 Batallon de San Blas 1\",\n      \"description\": \"Condo San Blas — 1 bed, 1 bath, 675.83 sqft condos in Puerto Vallarta.\",\n      \"url\": \"https://ponchodavalos.com.mx/mls/property-flx-41264.html\",\n      \"image\": [\n            \"https://ponchodavalos.com.mx/images/mls/flx-41264/header.jpg\"\n      ],\n      \"datePosted\": \"2026-03-31\",\n      \"address\": {\n            \"@type\": \"PostalAddress\",\n            \"addressLocality\": \"Puerto Vallarta\",\n            \"addressRegion\": \"Jalisco\",\n            \"addressCountry\": \"MX\"\n      },\n      \"offers\": {\n            \"@type\": \"Offer\",\n            \"price\": \"168000\",\n            \"priceCurrency\": \"USD\",\n            \"availability\": \"https://schema.org/InStock\"\n      },\n      \"numberOfRooms\": 1,\n      \"numberOfBathroomsTotal\": 1,\n      \"floorSize\": {\n            \"@type\": \"QuantitativeValue\",\n            \"value\": 62.79,\n            \"unitCode\": \"MTK\"\n      },\n      \"amenityFeature\": [],\n      \"broker\": {\n            \"@type\": \"RealEstateAgent\",\n            \"name\": \"Poncho Davalos Real Estate\",\n            \"telephone\": \"+52 (322) 292-2312\",\n            \"email\": \"hello@ponchodavalos.com.mx\",\n            \"url\": \"https://ponchodavalos.com.mx\"\n      }\n}",
-    "metaDescription": "Condo San Blas — 1 bed, 1 bath, 675.83 sqft condos in Puerto Vallarta.",
-    "ogImage": "https://ponchodavalos.com.mx/images/mls/flx-41264/header.jpg",
-    "i18nKey": "property.mls_flx-41264",
+    "schemaOrg": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"RealEstateListing\",\n      \"name\": \"900 Circunvalacion del Robalo A7\",\n      \"description\": \"Condominio Las Perlas — 2 bed, 2 bath, 806.67 sqft condos in Puerto Vallarta.\",\n      \"url\": \"https://ponchodavalos.com.mx/mls/property-flx-40145.html\",\n      \"image\": [\n            \"https://ponchodavalos.com.mx/images/mls/flx-40145/header.jpg\"\n      ],\n      \"datePosted\": \"2026-04-01\",\n      \"address\": {\n            \"@type\": \"PostalAddress\",\n            \"addressLocality\": \"Puerto Vallarta\",\n            \"addressRegion\": \"Jalisco\",\n            \"addressCountry\": \"MX\"\n      },\n      \"offers\": {\n            \"@type\": \"Offer\",\n            \"price\": \"185000\",\n            \"priceCurrency\": \"USD\",\n            \"availability\": \"https://schema.org/InStock\"\n      },\n      \"numberOfRooms\": 2,\n      \"numberOfBathroomsTotal\": 2,\n      \"floorSize\": {\n            \"@type\": \"QuantitativeValue\",\n            \"value\": 74.94,\n            \"unitCode\": \"MTK\"\n      },\n      \"amenityFeature\": [],\n      \"broker\": {\n            \"@type\": \"RealEstateAgent\",\n            \"name\": \"Poncho Davalos Real Estate\",\n            \"telephone\": \"+52 (322) 292-2312\",\n            \"email\": \"hello@ponchodavalos.com.mx\",\n            \"url\": \"https://ponchodavalos.com.mx\"\n      }\n}",
+    "metaDescription": "Condominio Las Perlas — 2 bed, 2 bath, 806.67 sqft condos in Puerto Vallarta.",
+    "ogImage": "https://ponchodavalos.com.mx/images/mls/flx-40145/header.jpg",
+    "i18nKey": "property.mls_flx-40145",
     "prevProperty": null,
-    "nextProperty": {
-      "name": "105 Pulpito 202",
-      "url": "property-flx-41284.html",
-      "thumb": "../images/mls/flx-41284/thumb.jpg"
-    },
-    "parkingText": "None"
-  },
-  {
-    "listingId": "FLX-41284",
-    "slug": "flx-41284",
-    "name": "105 Pulpito 202",
-    "fileName": "property-flx-41284.html",
-    "url": "mls/property-flx-41284.html",
-    "fullUrl": "https://ponchodavalos.com.mx/mls/property-flx-41284.html",
-    "priceUsd": 329000,
-    "priceMxn": 6086500,
-    "priceUsdFormatted": "$329,000 USD",
-    "priceMxnFormatted": "$6,086,500 MXN",
-    "beds": 1,
-    "baths": 1,
-    "surface": 86.19,
-    "parking": 0,
-    "yearBuilt": "",
-    "furnished": "",
-    "view": "",
-    "propertyType": "Condominium",
-    "city": "Puerto Vallarta",
-    "state": "Jalisco",
-    "address": "105 Pulpito 202, Scala 202, Puerto Vallarta, JA",
-    "shortLocation": "JA, Puerto Vallarta",
-    "lat": null,
-    "lng": null,
-    "mapEmbedUrl": "",
-    "descriptionEn": "Scala 202 — 1 bed, 1 bath, 927.72 sqft condos in Puerto Vallarta.",
-    "descriptionEs": "Scala 202 — 1 rec, 1 baños, 927.72 pies² condominio en Puerto Vallarta.",
-    "amenities": [],
-    "appliances": [],
-    "utilities": [],
-    "locationFeatures": [],
-    "headerImage": "../images/mls/flx-41284/header.jpg",
-    "thumbImage": "images/mls/flx-41284/thumb.jpg",
-    "images": [
-      {
-        "src": "../images/mls/flx-41284/1.jpg",
-        "alt": "105 Pulpito 202 - Image 1",
-        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251222144015384673000000-o.jpg",
-        "order": 1
-      },
-      {
-        "src": "../images/mls/flx-41284/2.jpg",
-        "alt": "105 Pulpito 202 - Image 2",
-        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251222143936860649000000-o.jpg",
-        "order": 2
-      },
-      {
-        "src": "../images/mls/flx-41284/3.jpg",
-        "alt": "105 Pulpito 202 - Image 3",
-        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251222143945578260000000-o.jpg",
-        "order": 3
-      },
-      {
-        "src": "../images/mls/flx-41284/4.jpg",
-        "alt": "105 Pulpito 202 - Image 4",
-        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251222143949975071000000-o.jpg",
-        "order": 4
-      },
-      {
-        "src": "../images/mls/flx-41284/5.jpg",
-        "alt": "105 Pulpito 202 - Image 5",
-        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251222143954852965000000-o.jpg",
-        "order": 5
-      },
-      {
-        "src": "../images/mls/flx-41284/6.jpg",
-        "alt": "105 Pulpito 202 - Image 6",
-        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251222143941724691000000-o.jpg",
-        "order": 6
-      },
-      {
-        "src": "../images/mls/flx-41284/7.jpg",
-        "alt": "105 Pulpito 202 - Image 7",
-        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251222143928065441000000-o.jpg",
-        "order": 7
-      },
-      {
-        "src": "../images/mls/flx-41284/8.jpg",
-        "alt": "105 Pulpito 202 - Image 8",
-        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251222151223053803000000-o.jpg",
-        "order": 8
-      },
-      {
-        "src": "../images/mls/flx-41284/9.jpg",
-        "alt": "105 Pulpito 202 - Image 9",
-        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251222143931683631000000-o.jpg",
-        "order": 9
-      },
-      {
-        "src": "../images/mls/flx-41284/10.jpg",
-        "alt": "105 Pulpito 202 - Image 10",
-        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251222143958962311000000-o.jpg",
-        "order": 10
-      },
-      {
-        "src": "../images/mls/flx-41284/11.jpg",
-        "alt": "105 Pulpito 202 - Image 11",
-        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251222151204731062000000-o.jpg",
-        "order": 11
-      },
-      {
-        "src": "../images/mls/flx-41284/12.jpg",
-        "alt": "105 Pulpito 202 - Image 12",
-        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251222151357929660000000-o.jpg",
-        "order": 12
-      },
-      {
-        "src": "../images/mls/flx-41284/13.jpg",
-        "alt": "105 Pulpito 202 - Image 13",
-        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251222151409057085000000-o.jpg",
-        "order": 13
-      },
-      {
-        "src": "../images/mls/flx-41284/14.jpg",
-        "alt": "105 Pulpito 202 - Image 14",
-        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251222151420417011000000-o.jpg",
-        "order": 14
-      },
-      {
-        "src": "../images/mls/flx-41284/15.jpg",
-        "alt": "105 Pulpito 202 - Image 15",
-        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251222151429494984000000-o.jpg",
-        "order": 15
-      },
-      {
-        "src": "../images/mls/flx-41284/16.jpg",
-        "alt": "105 Pulpito 202 - Image 16",
-        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251222151438410391000000-o.jpg",
-        "order": 16
-      },
-      {
-        "src": "../images/mls/flx-41284/17.jpg",
-        "alt": "105 Pulpito 202 - Image 17",
-        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251222151446248835000000-o.jpg",
-        "order": 17
-      },
-      {
-        "src": "../images/mls/flx-41284/18.jpg",
-        "alt": "105 Pulpito 202 - Image 18",
-        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251222151454319642000000-o.jpg",
-        "order": 18
-      },
-      {
-        "src": "../images/mls/flx-41284/19.jpg",
-        "alt": "105 Pulpito 202 - Image 19",
-        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251222151201139256000000-o.jpg",
-        "order": 19
-      }
-    ],
-    "primaryPhotoUrl": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251222144015384673000000-o.jpg",
-    "allPhotoUrls": [
-      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251222144015384673000000-o.jpg",
-      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251222143936860649000000-o.jpg",
-      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251222143945578260000000-o.jpg",
-      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251222143949975071000000-o.jpg",
-      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251222143954852965000000-o.jpg",
-      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251222143941724691000000-o.jpg",
-      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251222143928065441000000-o.jpg",
-      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251222151223053803000000-o.jpg",
-      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251222143931683631000000-o.jpg",
-      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251222143958962311000000-o.jpg",
-      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251222151204731062000000-o.jpg",
-      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251222151357929660000000-o.jpg",
-      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251222151409057085000000-o.jpg",
-      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251222151420417011000000-o.jpg",
-      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251222151429494984000000-o.jpg",
-      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251222151438410391000000-o.jpg",
-      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251222151446248835000000-o.jpg",
-      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251222151454319642000000-o.jpg",
-      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251222151201139256000000-o.jpg"
-    ],
-    "isotopeCategory": "category-19",
-    "schemaOrg": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"RealEstateListing\",\n      \"name\": \"105 Pulpito 202\",\n      \"description\": \"Scala 202 — 1 bed, 1 bath, 927.72 sqft condos in Puerto Vallarta.\",\n      \"url\": \"https://ponchodavalos.com.mx/mls/property-flx-41284.html\",\n      \"image\": [\n            \"https://ponchodavalos.com.mx/images/mls/flx-41284/header.jpg\"\n      ],\n      \"datePosted\": \"2026-03-31\",\n      \"address\": {\n            \"@type\": \"PostalAddress\",\n            \"addressLocality\": \"Puerto Vallarta\",\n            \"addressRegion\": \"Jalisco\",\n            \"addressCountry\": \"MX\"\n      },\n      \"offers\": {\n            \"@type\": \"Offer\",\n            \"price\": \"329000\",\n            \"priceCurrency\": \"USD\",\n            \"availability\": \"https://schema.org/InStock\"\n      },\n      \"numberOfRooms\": 1,\n      \"numberOfBathroomsTotal\": 1,\n      \"floorSize\": {\n            \"@type\": \"QuantitativeValue\",\n            \"value\": 86.19,\n            \"unitCode\": \"MTK\"\n      },\n      \"amenityFeature\": [],\n      \"broker\": {\n            \"@type\": \"RealEstateAgent\",\n            \"name\": \"Poncho Davalos Real Estate\",\n            \"telephone\": \"+52 (322) 292-2312\",\n            \"email\": \"hello@ponchodavalos.com.mx\",\n            \"url\": \"https://ponchodavalos.com.mx\"\n      }\n}",
-    "metaDescription": "Scala 202 — 1 bed, 1 bath, 927.72 sqft condos in Puerto Vallarta.",
-    "ogImage": "https://ponchodavalos.com.mx/images/mls/flx-41284/header.jpg",
-    "i18nKey": "property.mls_flx-41284",
-    "prevProperty": {
-      "name": "7 Batallon de San Blas 1",
-      "url": "property-flx-41264.html",
-      "thumb": "../images/mls/flx-41264/thumb.jpg"
-    },
     "nextProperty": {
       "name": "147 P.º De Las Palmas",
       "url": "property-flx-42712.html",
@@ -679,546 +441,14 @@
       "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260319164950840330000000-o.jpg"
     ],
     "isotopeCategory": "category-20",
-    "schemaOrg": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"RealEstateListing\",\n      \"name\": \"147 P.º De Las Palmas\",\n      \"description\": \"Casa Frida — 2 bed, 1 bath, 868.76 sqft houses in Puerto Vallarta.\",\n      \"url\": \"https://ponchodavalos.com.mx/mls/property-flx-42712.html\",\n      \"image\": [\n            \"https://ponchodavalos.com.mx/images/mls/flx-42712/header.jpg\"\n      ],\n      \"datePosted\": \"2026-03-31\",\n      \"address\": {\n            \"@type\": \"PostalAddress\",\n            \"addressLocality\": \"Puerto Vallarta\",\n            \"addressRegion\": \"Jalisco\",\n            \"addressCountry\": \"MX\"\n      },\n      \"offers\": {\n            \"@type\": \"Offer\",\n            \"price\": \"348000\",\n            \"priceCurrency\": \"USD\",\n            \"availability\": \"https://schema.org/InStock\"\n      },\n      \"numberOfRooms\": 2,\n      \"numberOfBathroomsTotal\": 1,\n      \"floorSize\": {\n            \"@type\": \"QuantitativeValue\",\n            \"value\": 80.71,\n            \"unitCode\": \"MTK\"\n      },\n      \"amenityFeature\": [],\n      \"broker\": {\n            \"@type\": \"RealEstateAgent\",\n            \"name\": \"Poncho Davalos Real Estate\",\n            \"telephone\": \"+52 (322) 292-2312\",\n            \"email\": \"hello@ponchodavalos.com.mx\",\n            \"url\": \"https://ponchodavalos.com.mx\"\n      }\n}",
+    "schemaOrg": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"RealEstateListing\",\n      \"name\": \"147 P.º De Las Palmas\",\n      \"description\": \"Casa Frida — 2 bed, 1 bath, 868.76 sqft houses in Puerto Vallarta.\",\n      \"url\": \"https://ponchodavalos.com.mx/mls/property-flx-42712.html\",\n      \"image\": [\n            \"https://ponchodavalos.com.mx/images/mls/flx-42712/header.jpg\"\n      ],\n      \"datePosted\": \"2026-04-01\",\n      \"address\": {\n            \"@type\": \"PostalAddress\",\n            \"addressLocality\": \"Puerto Vallarta\",\n            \"addressRegion\": \"Jalisco\",\n            \"addressCountry\": \"MX\"\n      },\n      \"offers\": {\n            \"@type\": \"Offer\",\n            \"price\": \"348000\",\n            \"priceCurrency\": \"USD\",\n            \"availability\": \"https://schema.org/InStock\"\n      },\n      \"numberOfRooms\": 2,\n      \"numberOfBathroomsTotal\": 1,\n      \"floorSize\": {\n            \"@type\": \"QuantitativeValue\",\n            \"value\": 80.71,\n            \"unitCode\": \"MTK\"\n      },\n      \"amenityFeature\": [],\n      \"broker\": {\n            \"@type\": \"RealEstateAgent\",\n            \"name\": \"Poncho Davalos Real Estate\",\n            \"telephone\": \"+52 (322) 292-2312\",\n            \"email\": \"hello@ponchodavalos.com.mx\",\n            \"url\": \"https://ponchodavalos.com.mx\"\n      }\n}",
     "metaDescription": "Casa Frida — 2 bed, 1 bath, 868.76 sqft houses in Puerto Vallarta.",
     "ogImage": "https://ponchodavalos.com.mx/images/mls/flx-42712/header.jpg",
     "i18nKey": "property.mls_flx-42712",
     "prevProperty": {
-      "name": "105 Pulpito 202",
-      "url": "property-flx-41284.html",
-      "thumb": "../images/mls/flx-41284/thumb.jpg"
-    },
-    "nextProperty": {
-      "name": "9 C. Elote",
-      "url": "property-flx-42023.html",
-      "thumb": "../images/mls/flx-42023/thumb.jpg"
-    },
-    "parkingText": "None"
-  },
-  {
-    "listingId": "FLX-42023",
-    "slug": "flx-42023",
-    "name": "9 C. Elote",
-    "fileName": "property-flx-42023.html",
-    "url": "mls/property-flx-42023.html",
-    "fullUrl": "https://ponchodavalos.com.mx/mls/property-flx-42023.html",
-    "priceUsd": 128800,
-    "priceMxn": 2382800,
-    "priceUsdFormatted": "$128,800 USD",
-    "priceMxnFormatted": "$2,382,800 MXN",
-    "beds": 3,
-    "baths": 3,
-    "surface": 84.97,
-    "parking": 0,
-    "yearBuilt": "",
-    "furnished": "",
-    "view": "",
-    "propertyType": "Single Family",
-    "city": "Puerto Vallarta",
-    "state": "Nayarit",
-    "address": "9 C. Elote, Vista Los Mangos, Other, NA",
-    "shortLocation": "NA, Puerto Vallarta",
-    "lat": null,
-    "lng": null,
-    "mapEmbedUrl": "",
-    "descriptionEn": "Vista Los Mangos — 3 bed, 3 bath, 914.6 sqft houses in Puerto Vallarta.",
-    "descriptionEs": "Vista Los Mangos — 3 rec, 3 baños, 914.6 pies² casa en Puerto Vallarta.",
-    "amenities": [],
-    "appliances": [],
-    "utilities": [],
-    "locationFeatures": [],
-    "headerImage": "../images/mls/flx-42023/header.jpg",
-    "thumbImage": "images/mls/flx-42023/thumb.jpg",
-    "images": [
-      {
-        "src": "../images/mls/flx-42023/1.jpg",
-        "alt": "9 C. Elote - Image 1",
-        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260201204159425907000000-o.jpg",
-        "order": 1
-      },
-      {
-        "src": "../images/mls/flx-42023/2.jpg",
-        "alt": "9 C. Elote - Image 2",
-        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260201204147214607000000-o.jpg",
-        "order": 2
-      },
-      {
-        "src": "../images/mls/flx-42023/3.jpg",
-        "alt": "9 C. Elote - Image 3",
-        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260201204212932943000000-o.jpg",
-        "order": 3
-      },
-      {
-        "src": "../images/mls/flx-42023/4.jpg",
-        "alt": "9 C. Elote - Image 4",
-        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260201204220242976000000-o.jpg",
-        "order": 4
-      },
-      {
-        "src": "../images/mls/flx-42023/5.jpg",
-        "alt": "9 C. Elote - Image 5",
-        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260201204140083069000000-o.jpg",
-        "order": 5
-      },
-      {
-        "src": "../images/mls/flx-42023/6.jpg",
-        "alt": "9 C. Elote - Image 6",
-        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260201210654431348000000-o.jpg",
-        "order": 6
-      },
-      {
-        "src": "../images/mls/flx-42023/7.jpg",
-        "alt": "9 C. Elote - Image 7",
-        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260201204115724550000000-o.jpg",
-        "order": 7
-      },
-      {
-        "src": "../images/mls/flx-42023/8.jpg",
-        "alt": "9 C. Elote - Image 8",
-        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260201204120403278000000-o.jpg",
-        "order": 8
-      },
-      {
-        "src": "../images/mls/flx-42023/9.jpg",
-        "alt": "9 C. Elote - Image 9",
-        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260201204110965567000000-o.jpg",
-        "order": 9
-      },
-      {
-        "src": "../images/mls/flx-42023/10.jpg",
-        "alt": "9 C. Elote - Image 10",
-        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260201204104632289000000-o.jpg",
-        "order": 10
-      },
-      {
-        "src": "../images/mls/flx-42023/11.jpg",
-        "alt": "9 C. Elote - Image 11",
-        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260201204057580486000000-o.jpg",
-        "order": 11
-      },
-      {
-        "src": "../images/mls/flx-42023/12.jpg",
-        "alt": "9 C. Elote - Image 12",
-        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260201204126863400000000-o.jpg",
-        "order": 12
-      }
-    ],
-    "primaryPhotoUrl": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260201204159425907000000-o.jpg",
-    "allPhotoUrls": [
-      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260201204159425907000000-o.jpg",
-      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260201204147214607000000-o.jpg",
-      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260201204212932943000000-o.jpg",
-      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260201204220242976000000-o.jpg",
-      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260201204140083069000000-o.jpg",
-      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260201210654431348000000-o.jpg",
-      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260201204115724550000000-o.jpg",
-      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260201204120403278000000-o.jpg",
-      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260201204110965567000000-o.jpg",
-      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260201204104632289000000-o.jpg",
-      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260201204057580486000000-o.jpg",
-      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260201204126863400000000-o.jpg"
-    ],
-    "isotopeCategory": "category-20",
-    "schemaOrg": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"RealEstateListing\",\n      \"name\": \"9 C. Elote\",\n      \"description\": \"Vista Los Mangos — 3 bed, 3 bath, 914.6 sqft houses in Puerto Vallarta.\",\n      \"url\": \"https://ponchodavalos.com.mx/mls/property-flx-42023.html\",\n      \"image\": [\n            \"https://ponchodavalos.com.mx/images/mls/flx-42023/header.jpg\"\n      ],\n      \"datePosted\": \"2026-03-31\",\n      \"address\": {\n            \"@type\": \"PostalAddress\",\n            \"addressLocality\": \"Puerto Vallarta\",\n            \"addressRegion\": \"Nayarit\",\n            \"addressCountry\": \"MX\"\n      },\n      \"offers\": {\n            \"@type\": \"Offer\",\n            \"price\": \"128800\",\n            \"priceCurrency\": \"USD\",\n            \"availability\": \"https://schema.org/InStock\"\n      },\n      \"numberOfRooms\": 3,\n      \"numberOfBathroomsTotal\": 3,\n      \"floorSize\": {\n            \"@type\": \"QuantitativeValue\",\n            \"value\": 84.97,\n            \"unitCode\": \"MTK\"\n      },\n      \"amenityFeature\": [],\n      \"broker\": {\n            \"@type\": \"RealEstateAgent\",\n            \"name\": \"Poncho Davalos Real Estate\",\n            \"telephone\": \"+52 (322) 292-2312\",\n            \"email\": \"hello@ponchodavalos.com.mx\",\n            \"url\": \"https://ponchodavalos.com.mx\"\n      }\n}",
-    "metaDescription": "Vista Los Mangos — 3 bed, 3 bath, 914.6 sqft houses in Puerto Vallarta.",
-    "ogImage": "https://ponchodavalos.com.mx/images/mls/flx-42023/header.jpg",
-    "i18nKey": "property.mls_flx-42023",
-    "prevProperty": {
-      "name": "147 P.º De Las Palmas",
-      "url": "property-flx-42712.html",
-      "thumb": "../images/mls/flx-42712/thumb.jpg"
-    },
-    "nextProperty": {
-      "name": "353 Amapas 303",
-      "url": "property-flx-41386.html",
-      "thumb": "../images/mls/flx-41386/thumb.jpg"
-    },
-    "parkingText": "None"
-  },
-  {
-    "listingId": "FLX-41386",
-    "slug": "flx-41386",
-    "name": "353 Amapas 303",
-    "fileName": "property-flx-41386.html",
-    "url": "mls/property-flx-41386.html",
-    "fullUrl": "https://ponchodavalos.com.mx/mls/property-flx-41386.html",
-    "priceUsd": 749000,
-    "priceMxn": 13856500,
-    "priceUsdFormatted": "$749,000 USD",
-    "priceMxnFormatted": "$13,856,500 MXN",
-    "beds": 2,
-    "baths": 2,
-    "surface": 105.62,
-    "parking": 0,
-    "yearBuilt": "",
-    "furnished": "",
-    "view": "",
-    "propertyType": "Condominium",
-    "city": "Puerto Vallarta",
-    "state": "Jalisco",
-    "address": "353 Amapas 303, Amapas 353, Puerto Vallarta, JA",
-    "shortLocation": "JA, Puerto Vallarta",
-    "lat": null,
-    "lng": null,
-    "mapEmbedUrl": "",
-    "descriptionEn": "Amapas 353 — 2 bed, 2 bath, 1,136.9 sqft condos in Puerto Vallarta.",
-    "descriptionEs": "Amapas 353 — 2 rec, 2 baños, 1,136.9 pies² condominio en Puerto Vallarta.",
-    "amenities": [],
-    "appliances": [],
-    "utilities": [],
-    "locationFeatures": [],
-    "headerImage": "../images/mls/flx-41386/header.jpg",
-    "thumbImage": "images/mls/flx-41386/thumb.jpg",
-    "images": [
-      {
-        "src": "../images/mls/flx-41386/1.jpg",
-        "alt": "353 Amapas 303 - Image 1",
-        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251220123835126978000000-o.jpg",
-        "order": 1
-      },
-      {
-        "src": "../images/mls/flx-41386/2.jpg",
-        "alt": "353 Amapas 303 - Image 2",
-        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251220123833435241000000-o.jpg",
-        "order": 2
-      },
-      {
-        "src": "../images/mls/flx-41386/3.jpg",
-        "alt": "353 Amapas 303 - Image 3",
-        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251220123836672765000000-o.jpg",
-        "order": 3
-      },
-      {
-        "src": "../images/mls/flx-41386/4.jpg",
-        "alt": "353 Amapas 303 - Image 4",
-        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251220123836044214000000-o.jpg",
-        "order": 4
-      },
-      {
-        "src": "../images/mls/flx-41386/5.jpg",
-        "alt": "353 Amapas 303 - Image 5",
-        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251220123834255734000000-o.jpg",
-        "order": 5
-      },
-      {
-        "src": "../images/mls/flx-41386/6.jpg",
-        "alt": "353 Amapas 303 - Image 6",
-        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251220123838322321000000-o.jpg",
-        "order": 6
-      },
-      {
-        "src": "../images/mls/flx-41386/7.jpg",
-        "alt": "353 Amapas 303 - Image 7",
-        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251220123839278754000000-o.jpg",
-        "order": 7
-      },
-      {
-        "src": "../images/mls/flx-41386/8.jpg",
-        "alt": "353 Amapas 303 - Image 8",
-        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251220123832591232000000-o.jpg",
-        "order": 8
-      },
-      {
-        "src": "../images/mls/flx-41386/9.jpg",
-        "alt": "353 Amapas 303 - Image 9",
-        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251220123841340888000000-o.jpg",
-        "order": 9
-      },
-      {
-        "src": "../images/mls/flx-41386/10.jpg",
-        "alt": "353 Amapas 303 - Image 10",
-        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251220123842073504000000-o.jpg",
-        "order": 10
-      },
-      {
-        "src": "../images/mls/flx-41386/11.jpg",
-        "alt": "353 Amapas 303 - Image 11",
-        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251220123842972890000000-o.jpg",
-        "order": 11
-      },
-      {
-        "src": "../images/mls/flx-41386/12.jpg",
-        "alt": "353 Amapas 303 - Image 12",
-        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251220123843636445000000-o.jpg",
-        "order": 12
-      },
-      {
-        "src": "../images/mls/flx-41386/13.jpg",
-        "alt": "353 Amapas 303 - Image 13",
-        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251220123845062526000000-o.jpg",
-        "order": 13
-      },
-      {
-        "src": "../images/mls/flx-41386/14.jpg",
-        "alt": "353 Amapas 303 - Image 14",
-        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251220123845753159000000-o.jpg",
-        "order": 14
-      },
-      {
-        "src": "../images/mls/flx-41386/15.jpg",
-        "alt": "353 Amapas 303 - Image 15",
-        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251220123846472823000000-o.jpg",
-        "order": 15
-      },
-      {
-        "src": "../images/mls/flx-41386/16.jpg",
-        "alt": "353 Amapas 303 - Image 16",
-        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251220123847285482000000-o.jpg",
-        "order": 16
-      },
-      {
-        "src": "../images/mls/flx-41386/17.jpg",
-        "alt": "353 Amapas 303 - Image 17",
-        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251220123847943725000000-o.jpg",
-        "order": 17
-      }
-    ],
-    "primaryPhotoUrl": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251220123835126978000000-o.jpg",
-    "allPhotoUrls": [
-      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251220123835126978000000-o.jpg",
-      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251220123833435241000000-o.jpg",
-      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251220123836672765000000-o.jpg",
-      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251220123836044214000000-o.jpg",
-      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251220123834255734000000-o.jpg",
-      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251220123838322321000000-o.jpg",
-      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251220123839278754000000-o.jpg",
-      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251220123832591232000000-o.jpg",
-      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251220123841340888000000-o.jpg",
-      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251220123842073504000000-o.jpg",
-      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251220123842972890000000-o.jpg",
-      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251220123843636445000000-o.jpg",
-      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251220123845062526000000-o.jpg",
-      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251220123845753159000000-o.jpg",
-      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251220123846472823000000-o.jpg",
-      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251220123847285482000000-o.jpg",
-      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251220123847943725000000-o.jpg"
-    ],
-    "isotopeCategory": "category-19",
-    "schemaOrg": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"RealEstateListing\",\n      \"name\": \"353 Amapas 303\",\n      \"description\": \"Amapas 353 — 2 bed, 2 bath, 1,136.9 sqft condos in Puerto Vallarta.\",\n      \"url\": \"https://ponchodavalos.com.mx/mls/property-flx-41386.html\",\n      \"image\": [\n            \"https://ponchodavalos.com.mx/images/mls/flx-41386/header.jpg\"\n      ],\n      \"datePosted\": \"2026-03-31\",\n      \"address\": {\n            \"@type\": \"PostalAddress\",\n            \"addressLocality\": \"Puerto Vallarta\",\n            \"addressRegion\": \"Jalisco\",\n            \"addressCountry\": \"MX\"\n      },\n      \"offers\": {\n            \"@type\": \"Offer\",\n            \"price\": \"749000\",\n            \"priceCurrency\": \"USD\",\n            \"availability\": \"https://schema.org/InStock\"\n      },\n      \"numberOfRooms\": 2,\n      \"numberOfBathroomsTotal\": 2,\n      \"floorSize\": {\n            \"@type\": \"QuantitativeValue\",\n            \"value\": 105.62,\n            \"unitCode\": \"MTK\"\n      },\n      \"amenityFeature\": [],\n      \"broker\": {\n            \"@type\": \"RealEstateAgent\",\n            \"name\": \"Poncho Davalos Real Estate\",\n            \"telephone\": \"+52 (322) 292-2312\",\n            \"email\": \"hello@ponchodavalos.com.mx\",\n            \"url\": \"https://ponchodavalos.com.mx\"\n      }\n}",
-    "metaDescription": "Amapas 353 — 2 bed, 2 bath, 1,136.9 sqft condos in Puerto Vallarta.",
-    "ogImage": "https://ponchodavalos.com.mx/images/mls/flx-41386/header.jpg",
-    "i18nKey": "property.mls_flx-41386",
-    "prevProperty": {
-      "name": "9 C. Elote",
-      "url": "property-flx-42023.html",
-      "thumb": "../images/mls/flx-42023/thumb.jpg"
-    },
-    "nextProperty": {
-      "name": "49 Coral UP 103",
-      "url": "property-flx-41871.html",
-      "thumb": "../images/mls/flx-41871/thumb.jpg"
-    },
-    "parkingText": "None"
-  },
-  {
-    "listingId": "FLX-41871",
-    "slug": "flx-41871",
-    "name": "49 Coral UP 103",
-    "fileName": "property-flx-41871.html",
-    "url": "mls/property-flx-41871.html",
-    "fullUrl": "https://ponchodavalos.com.mx/mls/property-flx-41871.html",
-    "priceUsd": 526158,
-    "priceMxn": 9733923,
-    "priceUsdFormatted": "$526,158 USD",
-    "priceMxnFormatted": "$9,733,923 MXN",
-    "beds": 2,
-    "baths": 2,
-    "surface": 93.7,
-    "parking": 0,
-    "yearBuilt": "",
-    "furnished": "",
-    "view": "",
-    "propertyType": "Condominium",
-    "city": "Riviera Nayarit",
-    "state": "Nayarit",
-    "address": "49 Coral UP 103, Zantamar 1, Riviera Nayarit, NA",
-    "shortLocation": "NA, Riviera Nayarit",
-    "lat": null,
-    "lng": null,
-    "mapEmbedUrl": "",
-    "descriptionEn": "Zantamar 1 — 2 bed, 2 bath, 1,008.53 sqft condos in Riviera Nayarit.",
-    "descriptionEs": "Zantamar 1 — 2 rec, 2 baños, 1,008.53 pies² condominio en Riviera Nayarit.",
-    "amenities": [],
-    "appliances": [],
-    "utilities": [],
-    "locationFeatures": [],
-    "headerImage": "../images/mls/flx-41871/header.jpg",
-    "thumbImage": "images/mls/flx-41871/thumb.jpg",
-    "images": [
-      {
-        "src": "../images/mls/flx-41871/1.jpg",
-        "alt": "49 Coral UP 103 - Image 1",
-        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260127173913069086000000-o.jpg",
-        "order": 1
-      },
-      {
-        "src": "../images/mls/flx-41871/2.jpg",
-        "alt": "49 Coral UP 103 - Image 2",
-        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260127173915174892000000-o.jpg",
-        "order": 2
-      },
-      {
-        "src": "../images/mls/flx-41871/3.jpg",
-        "alt": "49 Coral UP 103 - Image 3",
-        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260127173917889056000000-o.jpg",
-        "order": 3
-      },
-      {
-        "src": "../images/mls/flx-41871/4.jpg",
-        "alt": "49 Coral UP 103 - Image 4",
-        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260127173759882096000000-o.jpg",
-        "order": 4
-      },
-      {
-        "src": "../images/mls/flx-41871/5.jpg",
-        "alt": "49 Coral UP 103 - Image 5",
-        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260127173924780913000000-o.jpg",
-        "order": 5
-      },
-      {
-        "src": "../images/mls/flx-41871/6.jpg",
-        "alt": "49 Coral UP 103 - Image 6",
-        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260127175820499701000000-o.jpg",
-        "order": 6
-      },
-      {
-        "src": "../images/mls/flx-41871/7.jpg",
-        "alt": "49 Coral UP 103 - Image 7",
-        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260127173757778846000000-o.jpg",
-        "order": 7
-      },
-      {
-        "src": "../images/mls/flx-41871/8.jpg",
-        "alt": "49 Coral UP 103 - Image 8",
-        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260127173841328269000000-o.jpg",
-        "order": 8
-      },
-      {
-        "src": "../images/mls/flx-41871/9.jpg",
-        "alt": "49 Coral UP 103 - Image 9",
-        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260127175934859257000000-o.jpg",
-        "order": 9
-      },
-      {
-        "src": "../images/mls/flx-41871/10.jpg",
-        "alt": "49 Coral UP 103 - Image 10",
-        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260127173843475995000000-o.jpg",
-        "order": 10
-      },
-      {
-        "src": "../images/mls/flx-41871/11.jpg",
-        "alt": "49 Coral UP 103 - Image 11",
-        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260127173851322513000000-o.jpg",
-        "order": 11
-      },
-      {
-        "src": "../images/mls/flx-41871/12.jpg",
-        "alt": "49 Coral UP 103 - Image 12",
-        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260127173839352590000000-o.jpg",
-        "order": 12
-      },
-      {
-        "src": "../images/mls/flx-41871/13.jpg",
-        "alt": "49 Coral UP 103 - Image 13",
-        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260127174447962869000000-o.jpg",
-        "order": 13
-      },
-      {
-        "src": "../images/mls/flx-41871/14.jpg",
-        "alt": "49 Coral UP 103 - Image 14",
-        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260127173825618447000000-o.jpg",
-        "order": 14
-      },
-      {
-        "src": "../images/mls/flx-41871/15.jpg",
-        "alt": "49 Coral UP 103 - Image 15",
-        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260127173827529457000000-o.jpg",
-        "order": 15
-      },
-      {
-        "src": "../images/mls/flx-41871/16.jpg",
-        "alt": "49 Coral UP 103 - Image 16",
-        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260127173813196823000000-o.jpg",
-        "order": 16
-      },
-      {
-        "src": "../images/mls/flx-41871/17.jpg",
-        "alt": "49 Coral UP 103 - Image 17",
-        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260127173815091194000000-o.jpg",
-        "order": 17
-      },
-      {
-        "src": "../images/mls/flx-41871/18.jpg",
-        "alt": "49 Coral UP 103 - Image 18",
-        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260127173806359101000000-o.jpg",
-        "order": 18
-      },
-      {
-        "src": "../images/mls/flx-41871/19.jpg",
-        "alt": "49 Coral UP 103 - Image 19",
-        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260127173803723934000000-o.jpg",
-        "order": 19
-      },
-      {
-        "src": "../images/mls/flx-41871/20.jpg",
-        "alt": "49 Coral UP 103 - Image 20",
-        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260127173801718252000000-o.jpg",
-        "order": 20
-      },
-      {
-        "src": "../images/mls/flx-41871/21.jpg",
-        "alt": "49 Coral UP 103 - Image 21",
-        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260127173811206431000000-o.jpg",
-        "order": 21
-      },
-      {
-        "src": "../images/mls/flx-41871/22.jpg",
-        "alt": "49 Coral UP 103 - Image 22",
-        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260127173818936869000000-o.jpg",
-        "order": 22
-      },
-      {
-        "src": "../images/mls/flx-41871/23.jpg",
-        "alt": "49 Coral UP 103 - Image 23",
-        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260127173823385848000000-o.jpg",
-        "order": 23
-      }
-    ],
-    "primaryPhotoUrl": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260127173913069086000000-o.jpg",
-    "allPhotoUrls": [
-      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260127173913069086000000-o.jpg",
-      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260127173915174892000000-o.jpg",
-      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260127173917889056000000-o.jpg",
-      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260127173759882096000000-o.jpg",
-      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260127173924780913000000-o.jpg",
-      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260127175820499701000000-o.jpg",
-      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260127173757778846000000-o.jpg",
-      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260127173841328269000000-o.jpg",
-      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260127175934859257000000-o.jpg",
-      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260127173843475995000000-o.jpg",
-      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260127173851322513000000-o.jpg",
-      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260127173839352590000000-o.jpg",
-      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260127174447962869000000-o.jpg",
-      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260127173825618447000000-o.jpg",
-      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260127173827529457000000-o.jpg",
-      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260127173813196823000000-o.jpg",
-      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260127173815091194000000-o.jpg",
-      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260127173806359101000000-o.jpg",
-      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260127173803723934000000-o.jpg",
-      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260127173801718252000000-o.jpg",
-      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260127173811206431000000-o.jpg",
-      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260127173818936869000000-o.jpg",
-      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260127173823385848000000-o.jpg"
-    ],
-    "isotopeCategory": "category-19",
-    "schemaOrg": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"RealEstateListing\",\n      \"name\": \"49 Coral UP 103\",\n      \"description\": \"Zantamar 1 — 2 bed, 2 bath, 1,008.53 sqft condos in Riviera Nayarit.\",\n      \"url\": \"https://ponchodavalos.com.mx/mls/property-flx-41871.html\",\n      \"image\": [\n            \"https://ponchodavalos.com.mx/images/mls/flx-41871/header.jpg\"\n      ],\n      \"datePosted\": \"2026-03-31\",\n      \"address\": {\n            \"@type\": \"PostalAddress\",\n            \"addressLocality\": \"Riviera Nayarit\",\n            \"addressRegion\": \"Nayarit\",\n            \"addressCountry\": \"MX\"\n      },\n      \"offers\": {\n            \"@type\": \"Offer\",\n            \"price\": \"526158\",\n            \"priceCurrency\": \"USD\",\n            \"availability\": \"https://schema.org/InStock\"\n      },\n      \"numberOfRooms\": 2,\n      \"numberOfBathroomsTotal\": 2,\n      \"floorSize\": {\n            \"@type\": \"QuantitativeValue\",\n            \"value\": 93.7,\n            \"unitCode\": \"MTK\"\n      },\n      \"amenityFeature\": [],\n      \"broker\": {\n            \"@type\": \"RealEstateAgent\",\n            \"name\": \"Poncho Davalos Real Estate\",\n            \"telephone\": \"+52 (322) 292-2312\",\n            \"email\": \"hello@ponchodavalos.com.mx\",\n            \"url\": \"https://ponchodavalos.com.mx\"\n      }\n}",
-    "metaDescription": "Zantamar 1 — 2 bed, 2 bath, 1,008.53 sqft condos in Riviera Nayarit.",
-    "ogImage": "https://ponchodavalos.com.mx/images/mls/flx-41871/header.jpg",
-    "i18nKey": "property.mls_flx-41871",
-    "prevProperty": {
-      "name": "353 Amapas 303",
-      "url": "property-flx-41386.html",
-      "thumb": "../images/mls/flx-41386/thumb.jpg"
+      "name": "900 Circunvalacion del Robalo A7",
+      "url": "property-flx-40145.html",
+      "thumb": "../images/mls/flx-40145/thumb.jpg"
     },
     "nextProperty": {
       "name": "263 Venustiano Carranza 309",
@@ -1470,14 +700,14 @@
       "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250820041006094422000000-o.jpg"
     ],
     "isotopeCategory": "category-19",
-    "schemaOrg": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"RealEstateListing\",\n      \"name\": \"263 Venustiano Carranza 309\",\n      \"description\": \"Pavilion 309 — 1 bed, 2 bath, 817.32 sqft condos in Puerto Vallarta.\",\n      \"url\": \"https://ponchodavalos.com.mx/mls/property-flx-39522.html\",\n      \"image\": [\n            \"https://ponchodavalos.com.mx/images/mls/flx-39522/header.jpg\"\n      ],\n      \"datePosted\": \"2026-03-31\",\n      \"address\": {\n            \"@type\": \"PostalAddress\",\n            \"addressLocality\": \"Puerto Vallarta\",\n            \"addressRegion\": \"Jalisco\",\n            \"addressCountry\": \"MX\"\n      },\n      \"offers\": {\n            \"@type\": \"Offer\",\n            \"price\": \"465000\",\n            \"priceCurrency\": \"USD\",\n            \"availability\": \"https://schema.org/InStock\"\n      },\n      \"numberOfRooms\": 1,\n      \"numberOfBathroomsTotal\": 2,\n      \"floorSize\": {\n            \"@type\": \"QuantitativeValue\",\n            \"value\": 75.93,\n            \"unitCode\": \"MTK\"\n      },\n      \"amenityFeature\": [],\n      \"broker\": {\n            \"@type\": \"RealEstateAgent\",\n            \"name\": \"Poncho Davalos Real Estate\",\n            \"telephone\": \"+52 (322) 292-2312\",\n            \"email\": \"hello@ponchodavalos.com.mx\",\n            \"url\": \"https://ponchodavalos.com.mx\"\n      }\n}",
+    "schemaOrg": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"RealEstateListing\",\n      \"name\": \"263 Venustiano Carranza 309\",\n      \"description\": \"Pavilion 309 — 1 bed, 2 bath, 817.32 sqft condos in Puerto Vallarta.\",\n      \"url\": \"https://ponchodavalos.com.mx/mls/property-flx-39522.html\",\n      \"image\": [\n            \"https://ponchodavalos.com.mx/images/mls/flx-39522/header.jpg\"\n      ],\n      \"datePosted\": \"2026-04-01\",\n      \"address\": {\n            \"@type\": \"PostalAddress\",\n            \"addressLocality\": \"Puerto Vallarta\",\n            \"addressRegion\": \"Jalisco\",\n            \"addressCountry\": \"MX\"\n      },\n      \"offers\": {\n            \"@type\": \"Offer\",\n            \"price\": \"465000\",\n            \"priceCurrency\": \"USD\",\n            \"availability\": \"https://schema.org/InStock\"\n      },\n      \"numberOfRooms\": 1,\n      \"numberOfBathroomsTotal\": 2,\n      \"floorSize\": {\n            \"@type\": \"QuantitativeValue\",\n            \"value\": 75.93,\n            \"unitCode\": \"MTK\"\n      },\n      \"amenityFeature\": [],\n      \"broker\": {\n            \"@type\": \"RealEstateAgent\",\n            \"name\": \"Poncho Davalos Real Estate\",\n            \"telephone\": \"+52 (322) 292-2312\",\n            \"email\": \"hello@ponchodavalos.com.mx\",\n            \"url\": \"https://ponchodavalos.com.mx\"\n      }\n}",
     "metaDescription": "Pavilion 309 — 1 bed, 2 bath, 817.32 sqft condos in Puerto Vallarta.",
     "ogImage": "https://ponchodavalos.com.mx/images/mls/flx-39522/header.jpg",
     "i18nKey": "property.mls_flx-39522",
     "prevProperty": {
-      "name": "49 Coral UP 103",
-      "url": "property-flx-41871.html",
-      "thumb": "../images/mls/flx-41871/thumb.jpg"
+      "name": "147 P.º De Las Palmas",
+      "url": "property-flx-42712.html",
+      "thumb": "../images/mls/flx-42712/thumb.jpg"
     },
     "nextProperty": {
       "name": "478 Santa Barbara 3B",
@@ -1820,7 +1050,7 @@
       "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250605023243527139000000-o.jpg"
     ],
     "isotopeCategory": "category-19",
-    "schemaOrg": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"RealEstateListing\",\n      \"name\": \"478 Santa Barbara 3B\",\n      \"description\": \"Indah 3B — 3 bed, 3.5 bath, 2,388.72 sqft condos in Puerto Vallarta.\",\n      \"url\": \"https://ponchodavalos.com.mx/mls/property-flx-38582.html\",\n      \"image\": [\n            \"https://ponchodavalos.com.mx/images/mls/flx-38582/header.jpg\"\n      ],\n      \"datePosted\": \"2026-03-31\",\n      \"address\": {\n            \"@type\": \"PostalAddress\",\n            \"addressLocality\": \"Puerto Vallarta\",\n            \"addressRegion\": \"Jalisco\",\n            \"addressCountry\": \"MX\"\n      },\n      \"offers\": {\n            \"@type\": \"Offer\",\n            \"price\": \"1375000\",\n            \"priceCurrency\": \"USD\",\n            \"availability\": \"https://schema.org/InStock\"\n      },\n      \"numberOfRooms\": 3,\n      \"numberOfBathroomsTotal\": 3.5,\n      \"floorSize\": {\n            \"@type\": \"QuantitativeValue\",\n            \"value\": 221.92,\n            \"unitCode\": \"MTK\"\n      },\n      \"amenityFeature\": [],\n      \"broker\": {\n            \"@type\": \"RealEstateAgent\",\n            \"name\": \"Poncho Davalos Real Estate\",\n            \"telephone\": \"+52 (322) 292-2312\",\n            \"email\": \"hello@ponchodavalos.com.mx\",\n            \"url\": \"https://ponchodavalos.com.mx\"\n      }\n}",
+    "schemaOrg": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"RealEstateListing\",\n      \"name\": \"478 Santa Barbara 3B\",\n      \"description\": \"Indah 3B — 3 bed, 3.5 bath, 2,388.72 sqft condos in Puerto Vallarta.\",\n      \"url\": \"https://ponchodavalos.com.mx/mls/property-flx-38582.html\",\n      \"image\": [\n            \"https://ponchodavalos.com.mx/images/mls/flx-38582/header.jpg\"\n      ],\n      \"datePosted\": \"2026-04-01\",\n      \"address\": {\n            \"@type\": \"PostalAddress\",\n            \"addressLocality\": \"Puerto Vallarta\",\n            \"addressRegion\": \"Jalisco\",\n            \"addressCountry\": \"MX\"\n      },\n      \"offers\": {\n            \"@type\": \"Offer\",\n            \"price\": \"1375000\",\n            \"priceCurrency\": \"USD\",\n            \"availability\": \"https://schema.org/InStock\"\n      },\n      \"numberOfRooms\": 3,\n      \"numberOfBathroomsTotal\": 3.5,\n      \"floorSize\": {\n            \"@type\": \"QuantitativeValue\",\n            \"value\": 221.92,\n            \"unitCode\": \"MTK\"\n      },\n      \"amenityFeature\": [],\n      \"broker\": {\n            \"@type\": \"RealEstateAgent\",\n            \"name\": \"Poncho Davalos Real Estate\",\n            \"telephone\": \"+52 (322) 292-2312\",\n            \"email\": \"hello@ponchodavalos.com.mx\",\n            \"url\": \"https://ponchodavalos.com.mx\"\n      }\n}",
     "metaDescription": "Indah 3B — 3 bed, 3.5 bath, 2,388.72 sqft condos in Puerto Vallarta.",
     "ogImage": "https://ponchodavalos.com.mx/images/mls/flx-38582/header.jpg",
     "i18nKey": "property.mls_flx-38582",
@@ -1828,6 +1058,937 @@
       "name": "263 Venustiano Carranza 309",
       "url": "property-flx-39522.html",
       "thumb": "../images/mls/flx-39522/thumb.jpg"
+    },
+    "nextProperty": {
+      "name": "7 Batallon de San Blas 1",
+      "url": "property-flx-41264.html",
+      "thumb": "../images/mls/flx-41264/thumb.jpg"
+    },
+    "parkingText": "None"
+  },
+  {
+    "listingId": "FLX-41264",
+    "slug": "flx-41264",
+    "name": "7 Batallon de San Blas 1",
+    "fileName": "property-flx-41264.html",
+    "url": "mls/property-flx-41264.html",
+    "fullUrl": "https://ponchodavalos.com.mx/mls/property-flx-41264.html",
+    "priceUsd": 168000,
+    "priceMxn": 3108000,
+    "priceUsdFormatted": "$168,000 USD",
+    "priceMxnFormatted": "$3,108,000 MXN",
+    "beds": 1,
+    "baths": 1,
+    "surface": 62.79,
+    "parking": 0,
+    "yearBuilt": "",
+    "furnished": "",
+    "view": "",
+    "propertyType": "Condominium",
+    "city": "Puerto Vallarta",
+    "state": "Jalisco",
+    "address": "7 Batallon de San Blas 1, Condo San Blas, Puerto Vallarta, JA",
+    "shortLocation": "JA, Puerto Vallarta",
+    "lat": null,
+    "lng": null,
+    "mapEmbedUrl": "",
+    "descriptionEn": "Condo San Blas — 1 bed, 1 bath, 675.83 sqft condos in Puerto Vallarta.",
+    "descriptionEs": "Condo San Blas — 1 rec, 1 baños, 675.83 pies² condominio en Puerto Vallarta.",
+    "amenities": [],
+    "appliances": [],
+    "utilities": [],
+    "locationFeatures": [],
+    "headerImage": "../images/mls/flx-41264/header.jpg",
+    "thumbImage": "images/mls/flx-41264/thumb.jpg",
+    "images": [
+      {
+        "src": "../images/mls/flx-41264/1.jpg",
+        "alt": "7 Batallon de San Blas 1 - Image 1",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251215001856777247000000-o.jpg",
+        "order": 1
+      },
+      {
+        "src": "../images/mls/flx-41264/2.jpg",
+        "alt": "7 Batallon de San Blas 1 - Image 2",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251215001900347896000000-o.jpg",
+        "order": 2
+      },
+      {
+        "src": "../images/mls/flx-41264/3.jpg",
+        "alt": "7 Batallon de San Blas 1 - Image 3",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251215001903212682000000-o.jpg",
+        "order": 3
+      },
+      {
+        "src": "../images/mls/flx-41264/4.jpg",
+        "alt": "7 Batallon de San Blas 1 - Image 4",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251215001906350047000000-o.jpg",
+        "order": 4
+      },
+      {
+        "src": "../images/mls/flx-41264/5.jpg",
+        "alt": "7 Batallon de San Blas 1 - Image 5",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251215001909590567000000-o.jpg",
+        "order": 5
+      },
+      {
+        "src": "../images/mls/flx-41264/6.jpg",
+        "alt": "7 Batallon de San Blas 1 - Image 6",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251215001912483637000000-o.jpg",
+        "order": 6
+      },
+      {
+        "src": "../images/mls/flx-41264/7.jpg",
+        "alt": "7 Batallon de San Blas 1 - Image 7",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251215001915224226000000-o.jpg",
+        "order": 7
+      },
+      {
+        "src": "../images/mls/flx-41264/8.jpg",
+        "alt": "7 Batallon de San Blas 1 - Image 8",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251215001918457254000000-o.jpg",
+        "order": 8
+      },
+      {
+        "src": "../images/mls/flx-41264/9.jpg",
+        "alt": "7 Batallon de San Blas 1 - Image 9",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251215001921591525000000-o.jpg",
+        "order": 9
+      },
+      {
+        "src": "../images/mls/flx-41264/10.jpg",
+        "alt": "7 Batallon de San Blas 1 - Image 10",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251215001924776515000000-o.jpg",
+        "order": 10
+      },
+      {
+        "src": "../images/mls/flx-41264/11.jpg",
+        "alt": "7 Batallon de San Blas 1 - Image 11",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251215001927882636000000-o.jpg",
+        "order": 11
+      },
+      {
+        "src": "../images/mls/flx-41264/12.jpg",
+        "alt": "7 Batallon de San Blas 1 - Image 12",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251215001930990945000000-o.jpg",
+        "order": 12
+      },
+      {
+        "src": "../images/mls/flx-41264/13.jpg",
+        "alt": "7 Batallon de San Blas 1 - Image 13",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251215001934067574000000-o.jpg",
+        "order": 13
+      },
+      {
+        "src": "../images/mls/flx-41264/14.jpg",
+        "alt": "7 Batallon de San Blas 1 - Image 14",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251215001937476515000000-o.jpg",
+        "order": 14
+      },
+      {
+        "src": "../images/mls/flx-41264/15.jpg",
+        "alt": "7 Batallon de San Blas 1 - Image 15",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251215001940105270000000-o.jpg",
+        "order": 15
+      },
+      {
+        "src": "../images/mls/flx-41264/16.jpg",
+        "alt": "7 Batallon de San Blas 1 - Image 16",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251215001943055437000000-o.jpg",
+        "order": 16
+      },
+      {
+        "src": "../images/mls/flx-41264/17.jpg",
+        "alt": "7 Batallon de San Blas 1 - Image 17",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251215001947245923000000-o.jpg",
+        "order": 17
+      },
+      {
+        "src": "../images/mls/flx-41264/18.jpg",
+        "alt": "7 Batallon de San Blas 1 - Image 18",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251215001950833323000000-o.jpg",
+        "order": 18
+      },
+      {
+        "src": "../images/mls/flx-41264/19.jpg",
+        "alt": "7 Batallon de San Blas 1 - Image 19",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251215001954062362000000-o.jpg",
+        "order": 19
+      },
+      {
+        "src": "../images/mls/flx-41264/20.jpg",
+        "alt": "7 Batallon de San Blas 1 - Image 20",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251215001957776219000000-o.jpg",
+        "order": 20
+      },
+      {
+        "src": "../images/mls/flx-41264/21.jpg",
+        "alt": "7 Batallon de San Blas 1 - Image 21",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251215002001408294000000-o.jpg",
+        "order": 21
+      },
+      {
+        "src": "../images/mls/flx-41264/22.jpg",
+        "alt": "7 Batallon de San Blas 1 - Image 22",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251215002005233989000000-o.jpg",
+        "order": 22
+      }
+    ],
+    "primaryPhotoUrl": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251215001856777247000000-o.jpg",
+    "allPhotoUrls": [
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251215001856777247000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251215001900347896000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251215001903212682000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251215001906350047000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251215001909590567000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251215001912483637000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251215001915224226000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251215001918457254000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251215001921591525000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251215001924776515000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251215001927882636000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251215001930990945000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251215001934067574000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251215001937476515000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251215001940105270000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251215001943055437000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251215001947245923000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251215001950833323000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251215001954062362000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251215001957776219000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251215002001408294000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251215002005233989000000-o.jpg"
+    ],
+    "isotopeCategory": "category-19",
+    "schemaOrg": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"RealEstateListing\",\n      \"name\": \"7 Batallon de San Blas 1\",\n      \"description\": \"Condo San Blas — 1 bed, 1 bath, 675.83 sqft condos in Puerto Vallarta.\",\n      \"url\": \"https://ponchodavalos.com.mx/mls/property-flx-41264.html\",\n      \"image\": [\n            \"https://ponchodavalos.com.mx/images/mls/flx-41264/header.jpg\"\n      ],\n      \"datePosted\": \"2026-04-01\",\n      \"address\": {\n            \"@type\": \"PostalAddress\",\n            \"addressLocality\": \"Puerto Vallarta\",\n            \"addressRegion\": \"Jalisco\",\n            \"addressCountry\": \"MX\"\n      },\n      \"offers\": {\n            \"@type\": \"Offer\",\n            \"price\": \"168000\",\n            \"priceCurrency\": \"USD\",\n            \"availability\": \"https://schema.org/InStock\"\n      },\n      \"numberOfRooms\": 1,\n      \"numberOfBathroomsTotal\": 1,\n      \"floorSize\": {\n            \"@type\": \"QuantitativeValue\",\n            \"value\": 62.79,\n            \"unitCode\": \"MTK\"\n      },\n      \"amenityFeature\": [],\n      \"broker\": {\n            \"@type\": \"RealEstateAgent\",\n            \"name\": \"Poncho Davalos Real Estate\",\n            \"telephone\": \"+52 (322) 292-2312\",\n            \"email\": \"hello@ponchodavalos.com.mx\",\n            \"url\": \"https://ponchodavalos.com.mx\"\n      }\n}",
+    "metaDescription": "Condo San Blas — 1 bed, 1 bath, 675.83 sqft condos in Puerto Vallarta.",
+    "ogImage": "https://ponchodavalos.com.mx/images/mls/flx-41264/header.jpg",
+    "i18nKey": "property.mls_flx-41264",
+    "prevProperty": {
+      "name": "478 Santa Barbara 3B",
+      "url": "property-flx-38582.html",
+      "thumb": "../images/mls/flx-38582/thumb.jpg"
+    },
+    "nextProperty": {
+      "name": "105 Pulpito 202",
+      "url": "property-flx-41284.html",
+      "thumb": "../images/mls/flx-41284/thumb.jpg"
+    },
+    "parkingText": "None"
+  },
+  {
+    "listingId": "FLX-41284",
+    "slug": "flx-41284",
+    "name": "105 Pulpito 202",
+    "fileName": "property-flx-41284.html",
+    "url": "mls/property-flx-41284.html",
+    "fullUrl": "https://ponchodavalos.com.mx/mls/property-flx-41284.html",
+    "priceUsd": 329000,
+    "priceMxn": 6086500,
+    "priceUsdFormatted": "$329,000 USD",
+    "priceMxnFormatted": "$6,086,500 MXN",
+    "beds": 1,
+    "baths": 1,
+    "surface": 86.19,
+    "parking": 0,
+    "yearBuilt": "",
+    "furnished": "",
+    "view": "",
+    "propertyType": "Condominium",
+    "city": "Puerto Vallarta",
+    "state": "Jalisco",
+    "address": "105 Pulpito 202, Scala 202, Puerto Vallarta, JA",
+    "shortLocation": "JA, Puerto Vallarta",
+    "lat": null,
+    "lng": null,
+    "mapEmbedUrl": "",
+    "descriptionEn": "Scala 202 — 1 bed, 1 bath, 927.72 sqft condos in Puerto Vallarta.",
+    "descriptionEs": "Scala 202 — 1 rec, 1 baños, 927.72 pies² condominio en Puerto Vallarta.",
+    "amenities": [],
+    "appliances": [],
+    "utilities": [],
+    "locationFeatures": [],
+    "headerImage": "../images/mls/flx-41284/header.jpg",
+    "thumbImage": "images/mls/flx-41284/thumb.jpg",
+    "images": [
+      {
+        "src": "../images/mls/flx-41284/1.jpg",
+        "alt": "105 Pulpito 202 - Image 1",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251222144015384673000000-o.jpg",
+        "order": 1
+      },
+      {
+        "src": "../images/mls/flx-41284/2.jpg",
+        "alt": "105 Pulpito 202 - Image 2",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251222143936860649000000-o.jpg",
+        "order": 2
+      },
+      {
+        "src": "../images/mls/flx-41284/3.jpg",
+        "alt": "105 Pulpito 202 - Image 3",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251222143945578260000000-o.jpg",
+        "order": 3
+      },
+      {
+        "src": "../images/mls/flx-41284/4.jpg",
+        "alt": "105 Pulpito 202 - Image 4",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251222143949975071000000-o.jpg",
+        "order": 4
+      },
+      {
+        "src": "../images/mls/flx-41284/5.jpg",
+        "alt": "105 Pulpito 202 - Image 5",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251222143954852965000000-o.jpg",
+        "order": 5
+      },
+      {
+        "src": "../images/mls/flx-41284/6.jpg",
+        "alt": "105 Pulpito 202 - Image 6",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251222143941724691000000-o.jpg",
+        "order": 6
+      },
+      {
+        "src": "../images/mls/flx-41284/7.jpg",
+        "alt": "105 Pulpito 202 - Image 7",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251222143928065441000000-o.jpg",
+        "order": 7
+      },
+      {
+        "src": "../images/mls/flx-41284/8.jpg",
+        "alt": "105 Pulpito 202 - Image 8",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251222151223053803000000-o.jpg",
+        "order": 8
+      },
+      {
+        "src": "../images/mls/flx-41284/9.jpg",
+        "alt": "105 Pulpito 202 - Image 9",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251222143931683631000000-o.jpg",
+        "order": 9
+      },
+      {
+        "src": "../images/mls/flx-41284/10.jpg",
+        "alt": "105 Pulpito 202 - Image 10",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251222143958962311000000-o.jpg",
+        "order": 10
+      },
+      {
+        "src": "../images/mls/flx-41284/11.jpg",
+        "alt": "105 Pulpito 202 - Image 11",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251222151204731062000000-o.jpg",
+        "order": 11
+      },
+      {
+        "src": "../images/mls/flx-41284/12.jpg",
+        "alt": "105 Pulpito 202 - Image 12",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251222151357929660000000-o.jpg",
+        "order": 12
+      },
+      {
+        "src": "../images/mls/flx-41284/13.jpg",
+        "alt": "105 Pulpito 202 - Image 13",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251222151409057085000000-o.jpg",
+        "order": 13
+      },
+      {
+        "src": "../images/mls/flx-41284/14.jpg",
+        "alt": "105 Pulpito 202 - Image 14",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251222151420417011000000-o.jpg",
+        "order": 14
+      },
+      {
+        "src": "../images/mls/flx-41284/15.jpg",
+        "alt": "105 Pulpito 202 - Image 15",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251222151429494984000000-o.jpg",
+        "order": 15
+      },
+      {
+        "src": "../images/mls/flx-41284/16.jpg",
+        "alt": "105 Pulpito 202 - Image 16",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251222151438410391000000-o.jpg",
+        "order": 16
+      },
+      {
+        "src": "../images/mls/flx-41284/17.jpg",
+        "alt": "105 Pulpito 202 - Image 17",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251222151446248835000000-o.jpg",
+        "order": 17
+      },
+      {
+        "src": "../images/mls/flx-41284/18.jpg",
+        "alt": "105 Pulpito 202 - Image 18",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251222151454319642000000-o.jpg",
+        "order": 18
+      },
+      {
+        "src": "../images/mls/flx-41284/19.jpg",
+        "alt": "105 Pulpito 202 - Image 19",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251222151201139256000000-o.jpg",
+        "order": 19
+      }
+    ],
+    "primaryPhotoUrl": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251222144015384673000000-o.jpg",
+    "allPhotoUrls": [
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251222144015384673000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251222143936860649000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251222143945578260000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251222143949975071000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251222143954852965000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251222143941724691000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251222143928065441000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251222151223053803000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251222143931683631000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251222143958962311000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251222151204731062000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251222151357929660000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251222151409057085000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251222151420417011000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251222151429494984000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251222151438410391000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251222151446248835000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251222151454319642000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251222151201139256000000-o.jpg"
+    ],
+    "isotopeCategory": "category-19",
+    "schemaOrg": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"RealEstateListing\",\n      \"name\": \"105 Pulpito 202\",\n      \"description\": \"Scala 202 — 1 bed, 1 bath, 927.72 sqft condos in Puerto Vallarta.\",\n      \"url\": \"https://ponchodavalos.com.mx/mls/property-flx-41284.html\",\n      \"image\": [\n            \"https://ponchodavalos.com.mx/images/mls/flx-41284/header.jpg\"\n      ],\n      \"datePosted\": \"2026-04-01\",\n      \"address\": {\n            \"@type\": \"PostalAddress\",\n            \"addressLocality\": \"Puerto Vallarta\",\n            \"addressRegion\": \"Jalisco\",\n            \"addressCountry\": \"MX\"\n      },\n      \"offers\": {\n            \"@type\": \"Offer\",\n            \"price\": \"329000\",\n            \"priceCurrency\": \"USD\",\n            \"availability\": \"https://schema.org/InStock\"\n      },\n      \"numberOfRooms\": 1,\n      \"numberOfBathroomsTotal\": 1,\n      \"floorSize\": {\n            \"@type\": \"QuantitativeValue\",\n            \"value\": 86.19,\n            \"unitCode\": \"MTK\"\n      },\n      \"amenityFeature\": [],\n      \"broker\": {\n            \"@type\": \"RealEstateAgent\",\n            \"name\": \"Poncho Davalos Real Estate\",\n            \"telephone\": \"+52 (322) 292-2312\",\n            \"email\": \"hello@ponchodavalos.com.mx\",\n            \"url\": \"https://ponchodavalos.com.mx\"\n      }\n}",
+    "metaDescription": "Scala 202 — 1 bed, 1 bath, 927.72 sqft condos in Puerto Vallarta.",
+    "ogImage": "https://ponchodavalos.com.mx/images/mls/flx-41284/header.jpg",
+    "i18nKey": "property.mls_flx-41284",
+    "prevProperty": {
+      "name": "7 Batallon de San Blas 1",
+      "url": "property-flx-41264.html",
+      "thumb": "../images/mls/flx-41264/thumb.jpg"
+    },
+    "nextProperty": {
+      "name": "9 C. Elote",
+      "url": "property-flx-42023.html",
+      "thumb": "../images/mls/flx-42023/thumb.jpg"
+    },
+    "parkingText": "None"
+  },
+  {
+    "listingId": "FLX-42023",
+    "slug": "flx-42023",
+    "name": "9 C. Elote",
+    "fileName": "property-flx-42023.html",
+    "url": "mls/property-flx-42023.html",
+    "fullUrl": "https://ponchodavalos.com.mx/mls/property-flx-42023.html",
+    "priceUsd": 128800,
+    "priceMxn": 2382800,
+    "priceUsdFormatted": "$128,800 USD",
+    "priceMxnFormatted": "$2,382,800 MXN",
+    "beds": 3,
+    "baths": 3,
+    "surface": 84.97,
+    "parking": 0,
+    "yearBuilt": "",
+    "furnished": "",
+    "view": "",
+    "propertyType": "Single Family",
+    "city": "Puerto Vallarta",
+    "state": "Nayarit",
+    "address": "9 C. Elote, Vista Los Mangos, Other, NA",
+    "shortLocation": "NA, Puerto Vallarta",
+    "lat": null,
+    "lng": null,
+    "mapEmbedUrl": "",
+    "descriptionEn": "Vista Los Mangos — 3 bed, 3 bath, 914.6 sqft houses in Puerto Vallarta.",
+    "descriptionEs": "Vista Los Mangos — 3 rec, 3 baños, 914.6 pies² casa en Puerto Vallarta.",
+    "amenities": [],
+    "appliances": [],
+    "utilities": [],
+    "locationFeatures": [],
+    "headerImage": "../images/mls/flx-42023/header.jpg",
+    "thumbImage": "images/mls/flx-42023/thumb.jpg",
+    "images": [
+      {
+        "src": "../images/mls/flx-42023/1.jpg",
+        "alt": "9 C. Elote - Image 1",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260201204159425907000000-o.jpg",
+        "order": 1
+      },
+      {
+        "src": "../images/mls/flx-42023/2.jpg",
+        "alt": "9 C. Elote - Image 2",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260201204147214607000000-o.jpg",
+        "order": 2
+      },
+      {
+        "src": "../images/mls/flx-42023/3.jpg",
+        "alt": "9 C. Elote - Image 3",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260201204212932943000000-o.jpg",
+        "order": 3
+      },
+      {
+        "src": "../images/mls/flx-42023/4.jpg",
+        "alt": "9 C. Elote - Image 4",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260201204220242976000000-o.jpg",
+        "order": 4
+      },
+      {
+        "src": "../images/mls/flx-42023/5.jpg",
+        "alt": "9 C. Elote - Image 5",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260201204140083069000000-o.jpg",
+        "order": 5
+      },
+      {
+        "src": "../images/mls/flx-42023/6.jpg",
+        "alt": "9 C. Elote - Image 6",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260201210654431348000000-o.jpg",
+        "order": 6
+      },
+      {
+        "src": "../images/mls/flx-42023/7.jpg",
+        "alt": "9 C. Elote - Image 7",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260201204115724550000000-o.jpg",
+        "order": 7
+      },
+      {
+        "src": "../images/mls/flx-42023/8.jpg",
+        "alt": "9 C. Elote - Image 8",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260201204120403278000000-o.jpg",
+        "order": 8
+      },
+      {
+        "src": "../images/mls/flx-42023/9.jpg",
+        "alt": "9 C. Elote - Image 9",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260201204110965567000000-o.jpg",
+        "order": 9
+      },
+      {
+        "src": "../images/mls/flx-42023/10.jpg",
+        "alt": "9 C. Elote - Image 10",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260201204104632289000000-o.jpg",
+        "order": 10
+      },
+      {
+        "src": "../images/mls/flx-42023/11.jpg",
+        "alt": "9 C. Elote - Image 11",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260201204057580486000000-o.jpg",
+        "order": 11
+      },
+      {
+        "src": "../images/mls/flx-42023/12.jpg",
+        "alt": "9 C. Elote - Image 12",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260201204126863400000000-o.jpg",
+        "order": 12
+      }
+    ],
+    "primaryPhotoUrl": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260201204159425907000000-o.jpg",
+    "allPhotoUrls": [
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260201204159425907000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260201204147214607000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260201204212932943000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260201204220242976000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260201204140083069000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260201210654431348000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260201204115724550000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260201204120403278000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260201204110965567000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260201204104632289000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260201204057580486000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260201204126863400000000-o.jpg"
+    ],
+    "isotopeCategory": "category-20",
+    "schemaOrg": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"RealEstateListing\",\n      \"name\": \"9 C. Elote\",\n      \"description\": \"Vista Los Mangos — 3 bed, 3 bath, 914.6 sqft houses in Puerto Vallarta.\",\n      \"url\": \"https://ponchodavalos.com.mx/mls/property-flx-42023.html\",\n      \"image\": [\n            \"https://ponchodavalos.com.mx/images/mls/flx-42023/header.jpg\"\n      ],\n      \"datePosted\": \"2026-04-01\",\n      \"address\": {\n            \"@type\": \"PostalAddress\",\n            \"addressLocality\": \"Puerto Vallarta\",\n            \"addressRegion\": \"Nayarit\",\n            \"addressCountry\": \"MX\"\n      },\n      \"offers\": {\n            \"@type\": \"Offer\",\n            \"price\": \"128800\",\n            \"priceCurrency\": \"USD\",\n            \"availability\": \"https://schema.org/InStock\"\n      },\n      \"numberOfRooms\": 3,\n      \"numberOfBathroomsTotal\": 3,\n      \"floorSize\": {\n            \"@type\": \"QuantitativeValue\",\n            \"value\": 84.97,\n            \"unitCode\": \"MTK\"\n      },\n      \"amenityFeature\": [],\n      \"broker\": {\n            \"@type\": \"RealEstateAgent\",\n            \"name\": \"Poncho Davalos Real Estate\",\n            \"telephone\": \"+52 (322) 292-2312\",\n            \"email\": \"hello@ponchodavalos.com.mx\",\n            \"url\": \"https://ponchodavalos.com.mx\"\n      }\n}",
+    "metaDescription": "Vista Los Mangos — 3 bed, 3 bath, 914.6 sqft houses in Puerto Vallarta.",
+    "ogImage": "https://ponchodavalos.com.mx/images/mls/flx-42023/header.jpg",
+    "i18nKey": "property.mls_flx-42023",
+    "prevProperty": {
+      "name": "105 Pulpito 202",
+      "url": "property-flx-41284.html",
+      "thumb": "../images/mls/flx-41284/thumb.jpg"
+    },
+    "nextProperty": {
+      "name": "353 Amapas 303",
+      "url": "property-flx-41386.html",
+      "thumb": "../images/mls/flx-41386/thumb.jpg"
+    },
+    "parkingText": "None"
+  },
+  {
+    "listingId": "FLX-41386",
+    "slug": "flx-41386",
+    "name": "353 Amapas 303",
+    "fileName": "property-flx-41386.html",
+    "url": "mls/property-flx-41386.html",
+    "fullUrl": "https://ponchodavalos.com.mx/mls/property-flx-41386.html",
+    "priceUsd": 749000,
+    "priceMxn": 13856500,
+    "priceUsdFormatted": "$749,000 USD",
+    "priceMxnFormatted": "$13,856,500 MXN",
+    "beds": 2,
+    "baths": 2,
+    "surface": 105.62,
+    "parking": 0,
+    "yearBuilt": "",
+    "furnished": "",
+    "view": "",
+    "propertyType": "Condominium",
+    "city": "Puerto Vallarta",
+    "state": "Jalisco",
+    "address": "353 Amapas 303, Amapas 353, Puerto Vallarta, JA",
+    "shortLocation": "JA, Puerto Vallarta",
+    "lat": null,
+    "lng": null,
+    "mapEmbedUrl": "",
+    "descriptionEn": "Amapas 353 — 2 bed, 2 bath, 1,136.9 sqft condos in Puerto Vallarta.",
+    "descriptionEs": "Amapas 353 — 2 rec, 2 baños, 1,136.9 pies² condominio en Puerto Vallarta.",
+    "amenities": [],
+    "appliances": [],
+    "utilities": [],
+    "locationFeatures": [],
+    "headerImage": "../images/mls/flx-41386/header.jpg",
+    "thumbImage": "images/mls/flx-41386/thumb.jpg",
+    "images": [
+      {
+        "src": "../images/mls/flx-41386/1.jpg",
+        "alt": "353 Amapas 303 - Image 1",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251220123835126978000000-o.jpg",
+        "order": 1
+      },
+      {
+        "src": "../images/mls/flx-41386/2.jpg",
+        "alt": "353 Amapas 303 - Image 2",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251220123833435241000000-o.jpg",
+        "order": 2
+      },
+      {
+        "src": "../images/mls/flx-41386/3.jpg",
+        "alt": "353 Amapas 303 - Image 3",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251220123836672765000000-o.jpg",
+        "order": 3
+      },
+      {
+        "src": "../images/mls/flx-41386/4.jpg",
+        "alt": "353 Amapas 303 - Image 4",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251220123836044214000000-o.jpg",
+        "order": 4
+      },
+      {
+        "src": "../images/mls/flx-41386/5.jpg",
+        "alt": "353 Amapas 303 - Image 5",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251220123834255734000000-o.jpg",
+        "order": 5
+      },
+      {
+        "src": "../images/mls/flx-41386/6.jpg",
+        "alt": "353 Amapas 303 - Image 6",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251220123838322321000000-o.jpg",
+        "order": 6
+      },
+      {
+        "src": "../images/mls/flx-41386/7.jpg",
+        "alt": "353 Amapas 303 - Image 7",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251220123839278754000000-o.jpg",
+        "order": 7
+      },
+      {
+        "src": "../images/mls/flx-41386/8.jpg",
+        "alt": "353 Amapas 303 - Image 8",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251220123832591232000000-o.jpg",
+        "order": 8
+      },
+      {
+        "src": "../images/mls/flx-41386/9.jpg",
+        "alt": "353 Amapas 303 - Image 9",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251220123841340888000000-o.jpg",
+        "order": 9
+      },
+      {
+        "src": "../images/mls/flx-41386/10.jpg",
+        "alt": "353 Amapas 303 - Image 10",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251220123842073504000000-o.jpg",
+        "order": 10
+      },
+      {
+        "src": "../images/mls/flx-41386/11.jpg",
+        "alt": "353 Amapas 303 - Image 11",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251220123842972890000000-o.jpg",
+        "order": 11
+      },
+      {
+        "src": "../images/mls/flx-41386/12.jpg",
+        "alt": "353 Amapas 303 - Image 12",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251220123843636445000000-o.jpg",
+        "order": 12
+      },
+      {
+        "src": "../images/mls/flx-41386/13.jpg",
+        "alt": "353 Amapas 303 - Image 13",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251220123845062526000000-o.jpg",
+        "order": 13
+      },
+      {
+        "src": "../images/mls/flx-41386/14.jpg",
+        "alt": "353 Amapas 303 - Image 14",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251220123845753159000000-o.jpg",
+        "order": 14
+      },
+      {
+        "src": "../images/mls/flx-41386/15.jpg",
+        "alt": "353 Amapas 303 - Image 15",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251220123846472823000000-o.jpg",
+        "order": 15
+      },
+      {
+        "src": "../images/mls/flx-41386/16.jpg",
+        "alt": "353 Amapas 303 - Image 16",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251220123847285482000000-o.jpg",
+        "order": 16
+      },
+      {
+        "src": "../images/mls/flx-41386/17.jpg",
+        "alt": "353 Amapas 303 - Image 17",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251220123847943725000000-o.jpg",
+        "order": 17
+      }
+    ],
+    "primaryPhotoUrl": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251220123835126978000000-o.jpg",
+    "allPhotoUrls": [
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251220123835126978000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251220123833435241000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251220123836672765000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251220123836044214000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251220123834255734000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251220123838322321000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251220123839278754000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251220123832591232000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251220123841340888000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251220123842073504000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251220123842972890000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251220123843636445000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251220123845062526000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251220123845753159000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251220123846472823000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251220123847285482000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251220123847943725000000-o.jpg"
+    ],
+    "isotopeCategory": "category-19",
+    "schemaOrg": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"RealEstateListing\",\n      \"name\": \"353 Amapas 303\",\n      \"description\": \"Amapas 353 — 2 bed, 2 bath, 1,136.9 sqft condos in Puerto Vallarta.\",\n      \"url\": \"https://ponchodavalos.com.mx/mls/property-flx-41386.html\",\n      \"image\": [\n            \"https://ponchodavalos.com.mx/images/mls/flx-41386/header.jpg\"\n      ],\n      \"datePosted\": \"2026-04-01\",\n      \"address\": {\n            \"@type\": \"PostalAddress\",\n            \"addressLocality\": \"Puerto Vallarta\",\n            \"addressRegion\": \"Jalisco\",\n            \"addressCountry\": \"MX\"\n      },\n      \"offers\": {\n            \"@type\": \"Offer\",\n            \"price\": \"749000\",\n            \"priceCurrency\": \"USD\",\n            \"availability\": \"https://schema.org/InStock\"\n      },\n      \"numberOfRooms\": 2,\n      \"numberOfBathroomsTotal\": 2,\n      \"floorSize\": {\n            \"@type\": \"QuantitativeValue\",\n            \"value\": 105.62,\n            \"unitCode\": \"MTK\"\n      },\n      \"amenityFeature\": [],\n      \"broker\": {\n            \"@type\": \"RealEstateAgent\",\n            \"name\": \"Poncho Davalos Real Estate\",\n            \"telephone\": \"+52 (322) 292-2312\",\n            \"email\": \"hello@ponchodavalos.com.mx\",\n            \"url\": \"https://ponchodavalos.com.mx\"\n      }\n}",
+    "metaDescription": "Amapas 353 — 2 bed, 2 bath, 1,136.9 sqft condos in Puerto Vallarta.",
+    "ogImage": "https://ponchodavalos.com.mx/images/mls/flx-41386/header.jpg",
+    "i18nKey": "property.mls_flx-41386",
+    "prevProperty": {
+      "name": "9 C. Elote",
+      "url": "property-flx-42023.html",
+      "thumb": "../images/mls/flx-42023/thumb.jpg"
+    },
+    "nextProperty": {
+      "name": "49 Coral UP 103",
+      "url": "property-flx-41871.html",
+      "thumb": "../images/mls/flx-41871/thumb.jpg"
+    },
+    "parkingText": "None"
+  },
+  {
+    "listingId": "FLX-41871",
+    "slug": "flx-41871",
+    "name": "49 Coral UP 103",
+    "fileName": "property-flx-41871.html",
+    "url": "mls/property-flx-41871.html",
+    "fullUrl": "https://ponchodavalos.com.mx/mls/property-flx-41871.html",
+    "priceUsd": 526158,
+    "priceMxn": 9733923,
+    "priceUsdFormatted": "$526,158 USD",
+    "priceMxnFormatted": "$9,733,923 MXN",
+    "beds": 2,
+    "baths": 2,
+    "surface": 93.7,
+    "parking": 0,
+    "yearBuilt": "",
+    "furnished": "",
+    "view": "",
+    "propertyType": "Condominium",
+    "city": "Riviera Nayarit",
+    "state": "Nayarit",
+    "address": "49 Coral UP 103, Zantamar 1, Riviera Nayarit, NA",
+    "shortLocation": "NA, Riviera Nayarit",
+    "lat": null,
+    "lng": null,
+    "mapEmbedUrl": "",
+    "descriptionEn": "Zantamar 1 — 2 bed, 2 bath, 1,008.53 sqft condos in Riviera Nayarit.",
+    "descriptionEs": "Zantamar 1 — 2 rec, 2 baños, 1,008.53 pies² condominio en Riviera Nayarit.",
+    "amenities": [],
+    "appliances": [],
+    "utilities": [],
+    "locationFeatures": [],
+    "headerImage": "../images/mls/flx-41871/header.jpg",
+    "thumbImage": "images/mls/flx-41871/thumb.jpg",
+    "images": [
+      {
+        "src": "../images/mls/flx-41871/1.jpg",
+        "alt": "49 Coral UP 103 - Image 1",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260127173913069086000000-o.jpg",
+        "order": 1
+      },
+      {
+        "src": "../images/mls/flx-41871/2.jpg",
+        "alt": "49 Coral UP 103 - Image 2",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260127173915174892000000-o.jpg",
+        "order": 2
+      },
+      {
+        "src": "../images/mls/flx-41871/3.jpg",
+        "alt": "49 Coral UP 103 - Image 3",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260127173917889056000000-o.jpg",
+        "order": 3
+      },
+      {
+        "src": "../images/mls/flx-41871/4.jpg",
+        "alt": "49 Coral UP 103 - Image 4",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260127173759882096000000-o.jpg",
+        "order": 4
+      },
+      {
+        "src": "../images/mls/flx-41871/5.jpg",
+        "alt": "49 Coral UP 103 - Image 5",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260127173924780913000000-o.jpg",
+        "order": 5
+      },
+      {
+        "src": "../images/mls/flx-41871/6.jpg",
+        "alt": "49 Coral UP 103 - Image 6",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260127175820499701000000-o.jpg",
+        "order": 6
+      },
+      {
+        "src": "../images/mls/flx-41871/7.jpg",
+        "alt": "49 Coral UP 103 - Image 7",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260127173757778846000000-o.jpg",
+        "order": 7
+      },
+      {
+        "src": "../images/mls/flx-41871/8.jpg",
+        "alt": "49 Coral UP 103 - Image 8",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260127173841328269000000-o.jpg",
+        "order": 8
+      },
+      {
+        "src": "../images/mls/flx-41871/9.jpg",
+        "alt": "49 Coral UP 103 - Image 9",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260127175934859257000000-o.jpg",
+        "order": 9
+      },
+      {
+        "src": "../images/mls/flx-41871/10.jpg",
+        "alt": "49 Coral UP 103 - Image 10",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260127173843475995000000-o.jpg",
+        "order": 10
+      },
+      {
+        "src": "../images/mls/flx-41871/11.jpg",
+        "alt": "49 Coral UP 103 - Image 11",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260127173851322513000000-o.jpg",
+        "order": 11
+      },
+      {
+        "src": "../images/mls/flx-41871/12.jpg",
+        "alt": "49 Coral UP 103 - Image 12",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260127173839352590000000-o.jpg",
+        "order": 12
+      },
+      {
+        "src": "../images/mls/flx-41871/13.jpg",
+        "alt": "49 Coral UP 103 - Image 13",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260127174447962869000000-o.jpg",
+        "order": 13
+      },
+      {
+        "src": "../images/mls/flx-41871/14.jpg",
+        "alt": "49 Coral UP 103 - Image 14",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260127173825618447000000-o.jpg",
+        "order": 14
+      },
+      {
+        "src": "../images/mls/flx-41871/15.jpg",
+        "alt": "49 Coral UP 103 - Image 15",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260127173827529457000000-o.jpg",
+        "order": 15
+      },
+      {
+        "src": "../images/mls/flx-41871/16.jpg",
+        "alt": "49 Coral UP 103 - Image 16",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260127173813196823000000-o.jpg",
+        "order": 16
+      },
+      {
+        "src": "../images/mls/flx-41871/17.jpg",
+        "alt": "49 Coral UP 103 - Image 17",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260127173815091194000000-o.jpg",
+        "order": 17
+      },
+      {
+        "src": "../images/mls/flx-41871/18.jpg",
+        "alt": "49 Coral UP 103 - Image 18",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260127173806359101000000-o.jpg",
+        "order": 18
+      },
+      {
+        "src": "../images/mls/flx-41871/19.jpg",
+        "alt": "49 Coral UP 103 - Image 19",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260127173803723934000000-o.jpg",
+        "order": 19
+      },
+      {
+        "src": "../images/mls/flx-41871/20.jpg",
+        "alt": "49 Coral UP 103 - Image 20",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260127173801718252000000-o.jpg",
+        "order": 20
+      },
+      {
+        "src": "../images/mls/flx-41871/21.jpg",
+        "alt": "49 Coral UP 103 - Image 21",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260127173811206431000000-o.jpg",
+        "order": 21
+      },
+      {
+        "src": "../images/mls/flx-41871/22.jpg",
+        "alt": "49 Coral UP 103 - Image 22",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260127173818936869000000-o.jpg",
+        "order": 22
+      },
+      {
+        "src": "../images/mls/flx-41871/23.jpg",
+        "alt": "49 Coral UP 103 - Image 23",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260127173823385848000000-o.jpg",
+        "order": 23
+      }
+    ],
+    "primaryPhotoUrl": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260127173913069086000000-o.jpg",
+    "allPhotoUrls": [
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260127173913069086000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260127173915174892000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260127173917889056000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260127173759882096000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260127173924780913000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260127175820499701000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260127173757778846000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260127173841328269000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260127175934859257000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260127173843475995000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260127173851322513000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260127173839352590000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260127174447962869000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260127173825618447000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260127173827529457000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260127173813196823000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260127173815091194000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260127173806359101000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260127173803723934000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260127173801718252000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260127173811206431000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260127173818936869000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260127173823385848000000-o.jpg"
+    ],
+    "isotopeCategory": "category-19",
+    "schemaOrg": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"RealEstateListing\",\n      \"name\": \"49 Coral UP 103\",\n      \"description\": \"Zantamar 1 — 2 bed, 2 bath, 1,008.53 sqft condos in Riviera Nayarit.\",\n      \"url\": \"https://ponchodavalos.com.mx/mls/property-flx-41871.html\",\n      \"image\": [\n            \"https://ponchodavalos.com.mx/images/mls/flx-41871/header.jpg\"\n      ],\n      \"datePosted\": \"2026-04-01\",\n      \"address\": {\n            \"@type\": \"PostalAddress\",\n            \"addressLocality\": \"Riviera Nayarit\",\n            \"addressRegion\": \"Nayarit\",\n            \"addressCountry\": \"MX\"\n      },\n      \"offers\": {\n            \"@type\": \"Offer\",\n            \"price\": \"526158\",\n            \"priceCurrency\": \"USD\",\n            \"availability\": \"https://schema.org/InStock\"\n      },\n      \"numberOfRooms\": 2,\n      \"numberOfBathroomsTotal\": 2,\n      \"floorSize\": {\n            \"@type\": \"QuantitativeValue\",\n            \"value\": 93.7,\n            \"unitCode\": \"MTK\"\n      },\n      \"amenityFeature\": [],\n      \"broker\": {\n            \"@type\": \"RealEstateAgent\",\n            \"name\": \"Poncho Davalos Real Estate\",\n            \"telephone\": \"+52 (322) 292-2312\",\n            \"email\": \"hello@ponchodavalos.com.mx\",\n            \"url\": \"https://ponchodavalos.com.mx\"\n      }\n}",
+    "metaDescription": "Zantamar 1 — 2 bed, 2 bath, 1,008.53 sqft condos in Riviera Nayarit.",
+    "ogImage": "https://ponchodavalos.com.mx/images/mls/flx-41871/header.jpg",
+    "i18nKey": "property.mls_flx-41871",
+    "prevProperty": {
+      "name": "353 Amapas 303",
+      "url": "property-flx-41386.html",
+      "thumb": "../images/mls/flx-41386/thumb.jpg"
     },
     "nextProperty": {
       "name": "277 Venustiano Carranza 3A",
@@ -2051,14 +2212,14 @@
       "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250930161946602722000000-o.jpg"
     ],
     "isotopeCategory": "category-19",
-    "schemaOrg": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"RealEstateListing\",\n      \"name\": \"277 Venustiano Carranza 3A\",\n      \"description\": \"Urban 3A — 2 bed, 2 bath, 1,312.72 sqft condos in Puerto Vallarta.\",\n      \"url\": \"https://ponchodavalos.com.mx/mls/property-flx-39779.html\",\n      \"image\": [\n            \"https://ponchodavalos.com.mx/images/mls/flx-39779/header.jpg\"\n      ],\n      \"datePosted\": \"2026-03-31\",\n      \"address\": {\n            \"@type\": \"PostalAddress\",\n            \"addressLocality\": \"Puerto Vallarta\",\n            \"addressRegion\": \"Jalisco\",\n            \"addressCountry\": \"MX\"\n      },\n      \"offers\": {\n            \"@type\": \"Offer\",\n            \"price\": \"579000\",\n            \"priceCurrency\": \"USD\",\n            \"availability\": \"https://schema.org/InStock\"\n      },\n      \"numberOfRooms\": 2,\n      \"numberOfBathroomsTotal\": 2,\n      \"floorSize\": {\n            \"@type\": \"QuantitativeValue\",\n            \"value\": 121.96,\n            \"unitCode\": \"MTK\"\n      },\n      \"amenityFeature\": [],\n      \"broker\": {\n            \"@type\": \"RealEstateAgent\",\n            \"name\": \"Poncho Davalos Real Estate\",\n            \"telephone\": \"+52 (322) 292-2312\",\n            \"email\": \"hello@ponchodavalos.com.mx\",\n            \"url\": \"https://ponchodavalos.com.mx\"\n      }\n}",
+    "schemaOrg": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"RealEstateListing\",\n      \"name\": \"277 Venustiano Carranza 3A\",\n      \"description\": \"Urban 3A — 2 bed, 2 bath, 1,312.72 sqft condos in Puerto Vallarta.\",\n      \"url\": \"https://ponchodavalos.com.mx/mls/property-flx-39779.html\",\n      \"image\": [\n            \"https://ponchodavalos.com.mx/images/mls/flx-39779/header.jpg\"\n      ],\n      \"datePosted\": \"2026-04-01\",\n      \"address\": {\n            \"@type\": \"PostalAddress\",\n            \"addressLocality\": \"Puerto Vallarta\",\n            \"addressRegion\": \"Jalisco\",\n            \"addressCountry\": \"MX\"\n      },\n      \"offers\": {\n            \"@type\": \"Offer\",\n            \"price\": \"579000\",\n            \"priceCurrency\": \"USD\",\n            \"availability\": \"https://schema.org/InStock\"\n      },\n      \"numberOfRooms\": 2,\n      \"numberOfBathroomsTotal\": 2,\n      \"floorSize\": {\n            \"@type\": \"QuantitativeValue\",\n            \"value\": 121.96,\n            \"unitCode\": \"MTK\"\n      },\n      \"amenityFeature\": [],\n      \"broker\": {\n            \"@type\": \"RealEstateAgent\",\n            \"name\": \"Poncho Davalos Real Estate\",\n            \"telephone\": \"+52 (322) 292-2312\",\n            \"email\": \"hello@ponchodavalos.com.mx\",\n            \"url\": \"https://ponchodavalos.com.mx\"\n      }\n}",
     "metaDescription": "Urban 3A — 2 bed, 2 bath, 1,312.72 sqft condos in Puerto Vallarta.",
     "ogImage": "https://ponchodavalos.com.mx/images/mls/flx-39779/header.jpg",
     "i18nKey": "property.mls_flx-39779",
     "prevProperty": {
-      "name": "478 Santa Barbara 3B",
-      "url": "property-flx-38582.html",
-      "thumb": "../images/mls/flx-38582/thumb.jpg"
+      "name": "49 Coral UP 103",
+      "url": "property-flx-41871.html",
+      "thumb": "../images/mls/flx-41871/thumb.jpg"
     },
     "nextProperty": null,
     "parkingText": "None"
