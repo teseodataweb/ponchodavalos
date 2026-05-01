@@ -1,5 +1,260 @@
 [
   {
+    "listingId": "FLX-39522",
+    "slug": "flx-39522",
+    "name": "263 Venustiano Carranza 309",
+    "fileName": "property-flx-39522.html",
+    "url": "mls/property-flx-39522.html",
+    "fullUrl": "https://ponchodavalos.com.mx/mls/property-flx-39522.html",
+    "priceUsd": 465000,
+    "priceMxn": 8602500,
+    "priceUsdFormatted": "$465,000 USD",
+    "priceMxnFormatted": "$8,602,500 MXN",
+    "beds": 1,
+    "baths": 2,
+    "surface": 75.93,
+    "parking": 0,
+    "yearBuilt": "",
+    "furnished": "",
+    "view": "",
+    "propertyType": "Condominium",
+    "city": "Puerto Vallarta",
+    "state": "Jalisco",
+    "address": "263 Venustiano Carranza 309, Pavilion 309, Puerto Vallarta, JA",
+    "shortLocation": "JA, Puerto Vallarta",
+    "lat": null,
+    "lng": null,
+    "mapEmbedUrl": "",
+    "descriptionEn": "Pavilion 309 — 1 bed, 2 bath, 817.32 sqft condos in Puerto Vallarta.",
+    "descriptionEs": "Pavilion 309 — 1 rec, 2 baños, 817.32 pies² condominio en Puerto Vallarta.",
+    "amenities": [],
+    "appliances": [],
+    "utilities": [],
+    "locationFeatures": [],
+    "headerImage": "../images/mls/flx-39522/header.jpg",
+    "thumbImage": "images/mls/flx-39522/thumb.jpg",
+    "images": [
+      {
+        "src": "../images/mls/flx-39522/1.jpg",
+        "alt": "263 Venustiano Carranza 309 - Image 1",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250820040952111015000000-o.jpg",
+        "order": 1
+      },
+      {
+        "src": "../images/mls/flx-39522/2.jpg",
+        "alt": "263 Venustiano Carranza 309 - Image 2",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250820043235246394000000-o.jpg",
+        "order": 2
+      },
+      {
+        "src": "../images/mls/flx-39522/3.jpg",
+        "alt": "263 Venustiano Carranza 309 - Image 3",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250820043235874096000000-o.jpg",
+        "order": 3
+      },
+      {
+        "src": "../images/mls/flx-39522/4.jpg",
+        "alt": "263 Venustiano Carranza 309 - Image 4",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250820040955040907000000-o.jpg",
+        "order": 4
+      },
+      {
+        "src": "../images/mls/flx-39522/5.jpg",
+        "alt": "263 Venustiano Carranza 309 - Image 5",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250820040955645941000000-o.jpg",
+        "order": 5
+      },
+      {
+        "src": "../images/mls/flx-39522/6.jpg",
+        "alt": "263 Venustiano Carranza 309 - Image 6",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250820040956304562000000-o.jpg",
+        "order": 6
+      },
+      {
+        "src": "../images/mls/flx-39522/7.jpg",
+        "alt": "263 Venustiano Carranza 309 - Image 7",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250820041004384841000000-o.jpg",
+        "order": 7
+      },
+      {
+        "src": "../images/mls/flx-39522/8.jpg",
+        "alt": "263 Venustiano Carranza 309 - Image 8",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250820041004948666000000-o.jpg",
+        "order": 8
+      },
+      {
+        "src": "../images/mls/flx-39522/9.jpg",
+        "alt": "263 Venustiano Carranza 309 - Image 9",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250820041002152828000000-o.jpg",
+        "order": 9
+      },
+      {
+        "src": "../images/mls/flx-39522/10.jpg",
+        "alt": "263 Venustiano Carranza 309 - Image 10",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250820041002714609000000-o.jpg",
+        "order": 10
+      },
+      {
+        "src": "../images/mls/flx-39522/11.jpg",
+        "alt": "263 Venustiano Carranza 309 - Image 11",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250820041003296387000000-o.jpg",
+        "order": 11
+      },
+      {
+        "src": "../images/mls/flx-39522/12.jpg",
+        "alt": "263 Venustiano Carranza 309 - Image 12",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250820041003817825000000-o.jpg",
+        "order": 12
+      },
+      {
+        "src": "../images/mls/flx-39522/13.jpg",
+        "alt": "263 Venustiano Carranza 309 - Image 13",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250820040952681734000000-o.jpg",
+        "order": 13
+      },
+      {
+        "src": "../images/mls/flx-39522/14.jpg",
+        "alt": "263 Venustiano Carranza 309 - Image 14",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250820040953310401000000-o.jpg",
+        "order": 14
+      },
+      {
+        "src": "../images/mls/flx-39522/15.jpg",
+        "alt": "263 Venustiano Carranza 309 - Image 15",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250820040954010939000000-o.jpg",
+        "order": 15
+      },
+      {
+        "src": "../images/mls/flx-39522/16.jpg",
+        "alt": "263 Venustiano Carranza 309 - Image 16",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250820040954533178000000-o.jpg",
+        "order": 16
+      },
+      {
+        "src": "../images/mls/flx-39522/17.jpg",
+        "alt": "263 Venustiano Carranza 309 - Image 17",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250820040956857526000000-o.jpg",
+        "order": 17
+      },
+      {
+        "src": "../images/mls/flx-39522/18.jpg",
+        "alt": "263 Venustiano Carranza 309 - Image 18",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250820043822578515000000-o.jpg",
+        "order": 18
+      },
+      {
+        "src": "../images/mls/flx-39522/19.jpg",
+        "alt": "263 Venustiano Carranza 309 - Image 19",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250820043823227664000000-o.jpg",
+        "order": 19
+      },
+      {
+        "src": "../images/mls/flx-39522/20.jpg",
+        "alt": "263 Venustiano Carranza 309 - Image 20",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250820040957480628000000-o.jpg",
+        "order": 20
+      },
+      {
+        "src": "../images/mls/flx-39522/21.jpg",
+        "alt": "263 Venustiano Carranza 309 - Image 21",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250820040958129223000000-o.jpg",
+        "order": 21
+      },
+      {
+        "src": "../images/mls/flx-39522/22.jpg",
+        "alt": "263 Venustiano Carranza 309 - Image 22",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250820040958699134000000-o.jpg",
+        "order": 22
+      },
+      {
+        "src": "../images/mls/flx-39522/23.jpg",
+        "alt": "263 Venustiano Carranza 309 - Image 23",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250820040959242405000000-o.jpg",
+        "order": 23
+      },
+      {
+        "src": "../images/mls/flx-39522/24.jpg",
+        "alt": "263 Venustiano Carranza 309 - Image 24",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250820040959757026000000-o.jpg",
+        "order": 24
+      },
+      {
+        "src": "../images/mls/flx-39522/25.jpg",
+        "alt": "263 Venustiano Carranza 309 - Image 25",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250820041000909090000000-o.jpg",
+        "order": 25
+      },
+      {
+        "src": "../images/mls/flx-39522/26.jpg",
+        "alt": "263 Venustiano Carranza 309 - Image 26",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250820041000335627000000-o.jpg",
+        "order": 26
+      },
+      {
+        "src": "../images/mls/flx-39522/27.jpg",
+        "alt": "263 Venustiano Carranza 309 - Image 27",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250820041001552822000000-o.jpg",
+        "order": 27
+      },
+      {
+        "src": "../images/mls/flx-39522/28.jpg",
+        "alt": "263 Venustiano Carranza 309 - Image 28",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250820041005506259000000-o.jpg",
+        "order": 28
+      },
+      {
+        "src": "../images/mls/flx-39522/29.jpg",
+        "alt": "263 Venustiano Carranza 309 - Image 29",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250820041006094422000000-o.jpg",
+        "order": 29
+      }
+    ],
+    "primaryPhotoUrl": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250820040952111015000000-o.jpg",
+    "allPhotoUrls": [
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250820040952111015000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250820043235246394000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250820043235874096000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250820040955040907000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250820040955645941000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250820040956304562000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250820041004384841000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250820041004948666000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250820041002152828000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250820041002714609000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250820041003296387000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250820041003817825000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250820040952681734000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250820040953310401000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250820040954010939000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250820040954533178000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250820040956857526000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250820043822578515000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250820043823227664000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250820040957480628000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250820040958129223000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250820040958699134000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250820040959242405000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250820040959757026000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250820041000909090000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250820041000335627000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250820041001552822000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250820041005506259000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250820041006094422000000-o.jpg"
+    ],
+    "isotopeCategory": "category-19",
+    "schemaOrg": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"RealEstateListing\",\n      \"name\": \"263 Venustiano Carranza 309\",\n      \"description\": \"Pavilion 309 — 1 bed, 2 bath, 817.32 sqft condos in Puerto Vallarta.\",\n      \"url\": \"https://ponchodavalos.com.mx/mls/property-flx-39522.html\",\n      \"image\": [\n            \"https://ponchodavalos.com.mx/images/mls/flx-39522/header.jpg\"\n      ],\n      \"datePosted\": \"2026-05-01\",\n      \"address\": {\n            \"@type\": \"PostalAddress\",\n            \"addressLocality\": \"Puerto Vallarta\",\n            \"addressRegion\": \"Jalisco\",\n            \"addressCountry\": \"MX\"\n      },\n      \"offers\": {\n            \"@type\": \"Offer\",\n            \"price\": \"465000\",\n            \"priceCurrency\": \"USD\",\n            \"availability\": \"https://schema.org/InStock\"\n      },\n      \"numberOfRooms\": 1,\n      \"numberOfBathroomsTotal\": 2,\n      \"floorSize\": {\n            \"@type\": \"QuantitativeValue\",\n            \"value\": 75.93,\n            \"unitCode\": \"MTK\"\n      },\n      \"amenityFeature\": [],\n      \"broker\": {\n            \"@type\": \"RealEstateAgent\",\n            \"name\": \"Poncho Davalos Real Estate\",\n            \"telephone\": \"+52 (322) 292-2312\",\n            \"email\": \"hello@ponchodavalos.com.mx\",\n            \"url\": \"https://ponchodavalos.com.mx\"\n      }\n}",
+    "metaDescription": "Pavilion 309 — 1 bed, 2 bath, 817.32 sqft condos in Puerto Vallarta.",
+    "ogImage": "https://ponchodavalos.com.mx/images/mls/flx-39522/header.jpg",
+    "i18nKey": "property.mls_flx-39522",
+    "prevProperty": null,
+    "nextProperty": {
+      "name": "900 Circunvalacion del Robalo A7",
+      "url": "property-flx-40145.html",
+      "thumb": "../images/mls/flx-40145/thumb.jpg"
+    },
+    "parkingText": "None"
+  },
+  {
     "listingId": "FLX-40145",
     "slug": "flx-40145",
     "name": "900 Circunvalacion del Robalo A7",
@@ -144,11 +399,15 @@
       "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250930224117159378000000-o.jpg"
     ],
     "isotopeCategory": "category-19",
-    "schemaOrg": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"RealEstateListing\",\n      \"name\": \"900 Circunvalacion del Robalo A7\",\n      \"description\": \"Condominio Las Perlas — 2 bed, 2 bath, 806.67 sqft condos in Puerto Vallarta.\",\n      \"url\": \"https://ponchodavalos.com.mx/mls/property-flx-40145.html\",\n      \"image\": [\n            \"https://ponchodavalos.com.mx/images/mls/flx-40145/header.jpg\"\n      ],\n      \"datePosted\": \"2026-04-29\",\n      \"address\": {\n            \"@type\": \"PostalAddress\",\n            \"addressLocality\": \"Puerto Vallarta\",\n            \"addressRegion\": \"Jalisco\",\n            \"addressCountry\": \"MX\"\n      },\n      \"offers\": {\n            \"@type\": \"Offer\",\n            \"price\": \"185000\",\n            \"priceCurrency\": \"USD\",\n            \"availability\": \"https://schema.org/InStock\"\n      },\n      \"numberOfRooms\": 2,\n      \"numberOfBathroomsTotal\": 2,\n      \"floorSize\": {\n            \"@type\": \"QuantitativeValue\",\n            \"value\": 74.94,\n            \"unitCode\": \"MTK\"\n      },\n      \"amenityFeature\": [],\n      \"broker\": {\n            \"@type\": \"RealEstateAgent\",\n            \"name\": \"Poncho Davalos Real Estate\",\n            \"telephone\": \"+52 (322) 292-2312\",\n            \"email\": \"hello@ponchodavalos.com.mx\",\n            \"url\": \"https://ponchodavalos.com.mx\"\n      }\n}",
+    "schemaOrg": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"RealEstateListing\",\n      \"name\": \"900 Circunvalacion del Robalo A7\",\n      \"description\": \"Condominio Las Perlas — 2 bed, 2 bath, 806.67 sqft condos in Puerto Vallarta.\",\n      \"url\": \"https://ponchodavalos.com.mx/mls/property-flx-40145.html\",\n      \"image\": [\n            \"https://ponchodavalos.com.mx/images/mls/flx-40145/header.jpg\"\n      ],\n      \"datePosted\": \"2026-05-01\",\n      \"address\": {\n            \"@type\": \"PostalAddress\",\n            \"addressLocality\": \"Puerto Vallarta\",\n            \"addressRegion\": \"Jalisco\",\n            \"addressCountry\": \"MX\"\n      },\n      \"offers\": {\n            \"@type\": \"Offer\",\n            \"price\": \"185000\",\n            \"priceCurrency\": \"USD\",\n            \"availability\": \"https://schema.org/InStock\"\n      },\n      \"numberOfRooms\": 2,\n      \"numberOfBathroomsTotal\": 2,\n      \"floorSize\": {\n            \"@type\": \"QuantitativeValue\",\n            \"value\": 74.94,\n            \"unitCode\": \"MTK\"\n      },\n      \"amenityFeature\": [],\n      \"broker\": {\n            \"@type\": \"RealEstateAgent\",\n            \"name\": \"Poncho Davalos Real Estate\",\n            \"telephone\": \"+52 (322) 292-2312\",\n            \"email\": \"hello@ponchodavalos.com.mx\",\n            \"url\": \"https://ponchodavalos.com.mx\"\n      }\n}",
     "metaDescription": "Condominio Las Perlas — 2 bed, 2 bath, 806.67 sqft condos in Puerto Vallarta.",
     "ogImage": "https://ponchodavalos.com.mx/images/mls/flx-40145/header.jpg",
     "i18nKey": "property.mls_flx-40145",
-    "prevProperty": null,
+    "prevProperty": {
+      "name": "263 Venustiano Carranza 309",
+      "url": "property-flx-39522.html",
+      "thumb": "../images/mls/flx-39522/thumb.jpg"
+    },
     "nextProperty": {
       "name": "105 Pulpito 202",
       "url": "property-flx-41284.html",
@@ -329,7 +588,7 @@
       "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251222151201139256000000-o.jpg"
     ],
     "isotopeCategory": "category-19",
-    "schemaOrg": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"RealEstateListing\",\n      \"name\": \"105 Pulpito 202\",\n      \"description\": \"Scala 202 — 1 bed, 1 bath, 927.72 sqft condos in Puerto Vallarta.\",\n      \"url\": \"https://ponchodavalos.com.mx/mls/property-flx-41284.html\",\n      \"image\": [\n            \"https://ponchodavalos.com.mx/images/mls/flx-41284/header.jpg\"\n      ],\n      \"datePosted\": \"2026-04-29\",\n      \"address\": {\n            \"@type\": \"PostalAddress\",\n            \"addressLocality\": \"Puerto Vallarta\",\n            \"addressRegion\": \"Jalisco\",\n            \"addressCountry\": \"MX\"\n      },\n      \"offers\": {\n            \"@type\": \"Offer\",\n            \"price\": \"329000\",\n            \"priceCurrency\": \"USD\",\n            \"availability\": \"https://schema.org/InStock\"\n      },\n      \"numberOfRooms\": 1,\n      \"numberOfBathroomsTotal\": 1,\n      \"floorSize\": {\n            \"@type\": \"QuantitativeValue\",\n            \"value\": 86.19,\n            \"unitCode\": \"MTK\"\n      },\n      \"amenityFeature\": [],\n      \"broker\": {\n            \"@type\": \"RealEstateAgent\",\n            \"name\": \"Poncho Davalos Real Estate\",\n            \"telephone\": \"+52 (322) 292-2312\",\n            \"email\": \"hello@ponchodavalos.com.mx\",\n            \"url\": \"https://ponchodavalos.com.mx\"\n      }\n}",
+    "schemaOrg": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"RealEstateListing\",\n      \"name\": \"105 Pulpito 202\",\n      \"description\": \"Scala 202 — 1 bed, 1 bath, 927.72 sqft condos in Puerto Vallarta.\",\n      \"url\": \"https://ponchodavalos.com.mx/mls/property-flx-41284.html\",\n      \"image\": [\n            \"https://ponchodavalos.com.mx/images/mls/flx-41284/header.jpg\"\n      ],\n      \"datePosted\": \"2026-05-01\",\n      \"address\": {\n            \"@type\": \"PostalAddress\",\n            \"addressLocality\": \"Puerto Vallarta\",\n            \"addressRegion\": \"Jalisco\",\n            \"addressCountry\": \"MX\"\n      },\n      \"offers\": {\n            \"@type\": \"Offer\",\n            \"price\": \"329000\",\n            \"priceCurrency\": \"USD\",\n            \"availability\": \"https://schema.org/InStock\"\n      },\n      \"numberOfRooms\": 1,\n      \"numberOfBathroomsTotal\": 1,\n      \"floorSize\": {\n            \"@type\": \"QuantitativeValue\",\n            \"value\": 86.19,\n            \"unitCode\": \"MTK\"\n      },\n      \"amenityFeature\": [],\n      \"broker\": {\n            \"@type\": \"RealEstateAgent\",\n            \"name\": \"Poncho Davalos Real Estate\",\n            \"telephone\": \"+52 (322) 292-2312\",\n            \"email\": \"hello@ponchodavalos.com.mx\",\n            \"url\": \"https://ponchodavalos.com.mx\"\n      }\n}",
     "metaDescription": "Scala 202 — 1 bed, 1 bath, 927.72 sqft condos in Puerto Vallarta.",
     "ogImage": "https://ponchodavalos.com.mx/images/mls/flx-41284/header.jpg",
     "i18nKey": "property.mls_flx-41284",
@@ -630,7 +889,7 @@
       "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260319164950840330000000-o.jpg"
     ],
     "isotopeCategory": "category-20",
-    "schemaOrg": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"RealEstateListing\",\n      \"name\": \"147 P.º De Las Palmas\",\n      \"description\": \"Casa Frida — 2 bed, 1 bath, 868.76 sqft houses in Puerto Vallarta.\",\n      \"url\": \"https://ponchodavalos.com.mx/mls/property-flx-42712.html\",\n      \"image\": [\n            \"https://ponchodavalos.com.mx/images/mls/flx-42712/header.jpg\"\n      ],\n      \"datePosted\": \"2026-04-29\",\n      \"address\": {\n            \"@type\": \"PostalAddress\",\n            \"addressLocality\": \"Puerto Vallarta\",\n            \"addressRegion\": \"Jalisco\",\n            \"addressCountry\": \"MX\"\n      },\n      \"offers\": {\n            \"@type\": \"Offer\",\n            \"price\": \"348000\",\n            \"priceCurrency\": \"USD\",\n            \"availability\": \"https://schema.org/InStock\"\n      },\n      \"numberOfRooms\": 2,\n      \"numberOfBathroomsTotal\": 1,\n      \"floorSize\": {\n            \"@type\": \"QuantitativeValue\",\n            \"value\": 80.71,\n            \"unitCode\": \"MTK\"\n      },\n      \"amenityFeature\": [],\n      \"broker\": {\n            \"@type\": \"RealEstateAgent\",\n            \"name\": \"Poncho Davalos Real Estate\",\n            \"telephone\": \"+52 (322) 292-2312\",\n            \"email\": \"hello@ponchodavalos.com.mx\",\n            \"url\": \"https://ponchodavalos.com.mx\"\n      }\n}",
+    "schemaOrg": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"RealEstateListing\",\n      \"name\": \"147 P.º De Las Palmas\",\n      \"description\": \"Casa Frida — 2 bed, 1 bath, 868.76 sqft houses in Puerto Vallarta.\",\n      \"url\": \"https://ponchodavalos.com.mx/mls/property-flx-42712.html\",\n      \"image\": [\n            \"https://ponchodavalos.com.mx/images/mls/flx-42712/header.jpg\"\n      ],\n      \"datePosted\": \"2026-05-01\",\n      \"address\": {\n            \"@type\": \"PostalAddress\",\n            \"addressLocality\": \"Puerto Vallarta\",\n            \"addressRegion\": \"Jalisco\",\n            \"addressCountry\": \"MX\"\n      },\n      \"offers\": {\n            \"@type\": \"Offer\",\n            \"price\": \"348000\",\n            \"priceCurrency\": \"USD\",\n            \"availability\": \"https://schema.org/InStock\"\n      },\n      \"numberOfRooms\": 2,\n      \"numberOfBathroomsTotal\": 1,\n      \"floorSize\": {\n            \"@type\": \"QuantitativeValue\",\n            \"value\": 80.71,\n            \"unitCode\": \"MTK\"\n      },\n      \"amenityFeature\": [],\n      \"broker\": {\n            \"@type\": \"RealEstateAgent\",\n            \"name\": \"Poncho Davalos Real Estate\",\n            \"telephone\": \"+52 (322) 292-2312\",\n            \"email\": \"hello@ponchodavalos.com.mx\",\n            \"url\": \"https://ponchodavalos.com.mx\"\n      }\n}",
     "metaDescription": "Casa Frida — 2 bed, 1 bath, 868.76 sqft houses in Puerto Vallarta.",
     "ogImage": "https://ponchodavalos.com.mx/images/mls/flx-42712/header.jpg",
     "i18nKey": "property.mls_flx-42712",
@@ -638,265 +897,6 @@
       "name": "105 Pulpito 202",
       "url": "property-flx-41284.html",
       "thumb": "../images/mls/flx-41284/thumb.jpg"
-    },
-    "nextProperty": {
-      "name": "263 Venustiano Carranza 309",
-      "url": "property-flx-39522.html",
-      "thumb": "../images/mls/flx-39522/thumb.jpg"
-    },
-    "parkingText": "None"
-  },
-  {
-    "listingId": "FLX-39522",
-    "slug": "flx-39522",
-    "name": "263 Venustiano Carranza 309",
-    "fileName": "property-flx-39522.html",
-    "url": "mls/property-flx-39522.html",
-    "fullUrl": "https://ponchodavalos.com.mx/mls/property-flx-39522.html",
-    "priceUsd": 465000,
-    "priceMxn": 8602500,
-    "priceUsdFormatted": "$465,000 USD",
-    "priceMxnFormatted": "$8,602,500 MXN",
-    "beds": 1,
-    "baths": 2,
-    "surface": 75.93,
-    "parking": 0,
-    "yearBuilt": "",
-    "furnished": "",
-    "view": "",
-    "propertyType": "Condominium",
-    "city": "Puerto Vallarta",
-    "state": "Jalisco",
-    "address": "263 Venustiano Carranza 309, Pavilion 309, Puerto Vallarta, JA",
-    "shortLocation": "JA, Puerto Vallarta",
-    "lat": null,
-    "lng": null,
-    "mapEmbedUrl": "",
-    "descriptionEn": "Pavilion 309 — 1 bed, 2 bath, 817.32 sqft condos in Puerto Vallarta.",
-    "descriptionEs": "Pavilion 309 — 1 rec, 2 baños, 817.32 pies² condominio en Puerto Vallarta.",
-    "amenities": [],
-    "appliances": [],
-    "utilities": [],
-    "locationFeatures": [],
-    "headerImage": "../images/mls/flx-39522/header.jpg",
-    "thumbImage": "images/mls/flx-39522/thumb.jpg",
-    "images": [
-      {
-        "src": "../images/mls/flx-39522/1.jpg",
-        "alt": "263 Venustiano Carranza 309 - Image 1",
-        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250820040952111015000000-o.jpg",
-        "order": 1
-      },
-      {
-        "src": "../images/mls/flx-39522/2.jpg",
-        "alt": "263 Venustiano Carranza 309 - Image 2",
-        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250820043235246394000000-o.jpg",
-        "order": 2
-      },
-      {
-        "src": "../images/mls/flx-39522/3.jpg",
-        "alt": "263 Venustiano Carranza 309 - Image 3",
-        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250820043235874096000000-o.jpg",
-        "order": 3
-      },
-      {
-        "src": "../images/mls/flx-39522/4.jpg",
-        "alt": "263 Venustiano Carranza 309 - Image 4",
-        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250820040955040907000000-o.jpg",
-        "order": 4
-      },
-      {
-        "src": "../images/mls/flx-39522/5.jpg",
-        "alt": "263 Venustiano Carranza 309 - Image 5",
-        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250820040955645941000000-o.jpg",
-        "order": 5
-      },
-      {
-        "src": "../images/mls/flx-39522/6.jpg",
-        "alt": "263 Venustiano Carranza 309 - Image 6",
-        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250820040956304562000000-o.jpg",
-        "order": 6
-      },
-      {
-        "src": "../images/mls/flx-39522/7.jpg",
-        "alt": "263 Venustiano Carranza 309 - Image 7",
-        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250820041004384841000000-o.jpg",
-        "order": 7
-      },
-      {
-        "src": "../images/mls/flx-39522/8.jpg",
-        "alt": "263 Venustiano Carranza 309 - Image 8",
-        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250820041004948666000000-o.jpg",
-        "order": 8
-      },
-      {
-        "src": "../images/mls/flx-39522/9.jpg",
-        "alt": "263 Venustiano Carranza 309 - Image 9",
-        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250820041002152828000000-o.jpg",
-        "order": 9
-      },
-      {
-        "src": "../images/mls/flx-39522/10.jpg",
-        "alt": "263 Venustiano Carranza 309 - Image 10",
-        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250820041002714609000000-o.jpg",
-        "order": 10
-      },
-      {
-        "src": "../images/mls/flx-39522/11.jpg",
-        "alt": "263 Venustiano Carranza 309 - Image 11",
-        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250820041003296387000000-o.jpg",
-        "order": 11
-      },
-      {
-        "src": "../images/mls/flx-39522/12.jpg",
-        "alt": "263 Venustiano Carranza 309 - Image 12",
-        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250820041003817825000000-o.jpg",
-        "order": 12
-      },
-      {
-        "src": "../images/mls/flx-39522/13.jpg",
-        "alt": "263 Venustiano Carranza 309 - Image 13",
-        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250820040952681734000000-o.jpg",
-        "order": 13
-      },
-      {
-        "src": "../images/mls/flx-39522/14.jpg",
-        "alt": "263 Venustiano Carranza 309 - Image 14",
-        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250820040953310401000000-o.jpg",
-        "order": 14
-      },
-      {
-        "src": "../images/mls/flx-39522/15.jpg",
-        "alt": "263 Venustiano Carranza 309 - Image 15",
-        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250820040954010939000000-o.jpg",
-        "order": 15
-      },
-      {
-        "src": "../images/mls/flx-39522/16.jpg",
-        "alt": "263 Venustiano Carranza 309 - Image 16",
-        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250820040954533178000000-o.jpg",
-        "order": 16
-      },
-      {
-        "src": "../images/mls/flx-39522/17.jpg",
-        "alt": "263 Venustiano Carranza 309 - Image 17",
-        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250820040956857526000000-o.jpg",
-        "order": 17
-      },
-      {
-        "src": "../images/mls/flx-39522/18.jpg",
-        "alt": "263 Venustiano Carranza 309 - Image 18",
-        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250820043822578515000000-o.jpg",
-        "order": 18
-      },
-      {
-        "src": "../images/mls/flx-39522/19.jpg",
-        "alt": "263 Venustiano Carranza 309 - Image 19",
-        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250820043823227664000000-o.jpg",
-        "order": 19
-      },
-      {
-        "src": "../images/mls/flx-39522/20.jpg",
-        "alt": "263 Venustiano Carranza 309 - Image 20",
-        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250820040957480628000000-o.jpg",
-        "order": 20
-      },
-      {
-        "src": "../images/mls/flx-39522/21.jpg",
-        "alt": "263 Venustiano Carranza 309 - Image 21",
-        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250820040958129223000000-o.jpg",
-        "order": 21
-      },
-      {
-        "src": "../images/mls/flx-39522/22.jpg",
-        "alt": "263 Venustiano Carranza 309 - Image 22",
-        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250820040958699134000000-o.jpg",
-        "order": 22
-      },
-      {
-        "src": "../images/mls/flx-39522/23.jpg",
-        "alt": "263 Venustiano Carranza 309 - Image 23",
-        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250820040959242405000000-o.jpg",
-        "order": 23
-      },
-      {
-        "src": "../images/mls/flx-39522/24.jpg",
-        "alt": "263 Venustiano Carranza 309 - Image 24",
-        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250820040959757026000000-o.jpg",
-        "order": 24
-      },
-      {
-        "src": "../images/mls/flx-39522/25.jpg",
-        "alt": "263 Venustiano Carranza 309 - Image 25",
-        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250820041000909090000000-o.jpg",
-        "order": 25
-      },
-      {
-        "src": "../images/mls/flx-39522/26.jpg",
-        "alt": "263 Venustiano Carranza 309 - Image 26",
-        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250820041000335627000000-o.jpg",
-        "order": 26
-      },
-      {
-        "src": "../images/mls/flx-39522/27.jpg",
-        "alt": "263 Venustiano Carranza 309 - Image 27",
-        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250820041001552822000000-o.jpg",
-        "order": 27
-      },
-      {
-        "src": "../images/mls/flx-39522/28.jpg",
-        "alt": "263 Venustiano Carranza 309 - Image 28",
-        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250820041005506259000000-o.jpg",
-        "order": 28
-      },
-      {
-        "src": "../images/mls/flx-39522/29.jpg",
-        "alt": "263 Venustiano Carranza 309 - Image 29",
-        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250820041006094422000000-o.jpg",
-        "order": 29
-      }
-    ],
-    "primaryPhotoUrl": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250820040952111015000000-o.jpg",
-    "allPhotoUrls": [
-      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250820040952111015000000-o.jpg",
-      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250820043235246394000000-o.jpg",
-      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250820043235874096000000-o.jpg",
-      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250820040955040907000000-o.jpg",
-      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250820040955645941000000-o.jpg",
-      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250820040956304562000000-o.jpg",
-      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250820041004384841000000-o.jpg",
-      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250820041004948666000000-o.jpg",
-      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250820041002152828000000-o.jpg",
-      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250820041002714609000000-o.jpg",
-      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250820041003296387000000-o.jpg",
-      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250820041003817825000000-o.jpg",
-      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250820040952681734000000-o.jpg",
-      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250820040953310401000000-o.jpg",
-      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250820040954010939000000-o.jpg",
-      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250820040954533178000000-o.jpg",
-      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250820040956857526000000-o.jpg",
-      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250820043822578515000000-o.jpg",
-      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250820043823227664000000-o.jpg",
-      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250820040957480628000000-o.jpg",
-      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250820040958129223000000-o.jpg",
-      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250820040958699134000000-o.jpg",
-      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250820040959242405000000-o.jpg",
-      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250820040959757026000000-o.jpg",
-      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250820041000909090000000-o.jpg",
-      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250820041000335627000000-o.jpg",
-      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250820041001552822000000-o.jpg",
-      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250820041005506259000000-o.jpg",
-      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250820041006094422000000-o.jpg"
-    ],
-    "isotopeCategory": "category-19",
-    "schemaOrg": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"RealEstateListing\",\n      \"name\": \"263 Venustiano Carranza 309\",\n      \"description\": \"Pavilion 309 — 1 bed, 2 bath, 817.32 sqft condos in Puerto Vallarta.\",\n      \"url\": \"https://ponchodavalos.com.mx/mls/property-flx-39522.html\",\n      \"image\": [\n            \"https://ponchodavalos.com.mx/images/mls/flx-39522/header.jpg\"\n      ],\n      \"datePosted\": \"2026-04-29\",\n      \"address\": {\n            \"@type\": \"PostalAddress\",\n            \"addressLocality\": \"Puerto Vallarta\",\n            \"addressRegion\": \"Jalisco\",\n            \"addressCountry\": \"MX\"\n      },\n      \"offers\": {\n            \"@type\": \"Offer\",\n            \"price\": \"465000\",\n            \"priceCurrency\": \"USD\",\n            \"availability\": \"https://schema.org/InStock\"\n      },\n      \"numberOfRooms\": 1,\n      \"numberOfBathroomsTotal\": 2,\n      \"floorSize\": {\n            \"@type\": \"QuantitativeValue\",\n            \"value\": 75.93,\n            \"unitCode\": \"MTK\"\n      },\n      \"amenityFeature\": [],\n      \"broker\": {\n            \"@type\": \"RealEstateAgent\",\n            \"name\": \"Poncho Davalos Real Estate\",\n            \"telephone\": \"+52 (322) 292-2312\",\n            \"email\": \"hello@ponchodavalos.com.mx\",\n            \"url\": \"https://ponchodavalos.com.mx\"\n      }\n}",
-    "metaDescription": "Pavilion 309 — 1 bed, 2 bath, 817.32 sqft condos in Puerto Vallarta.",
-    "ogImage": "https://ponchodavalos.com.mx/images/mls/flx-39522/header.jpg",
-    "i18nKey": "property.mls_flx-39522",
-    "prevProperty": {
-      "name": "147 P.º De Las Palmas",
-      "url": "property-flx-42712.html",
-      "thumb": "../images/mls/flx-42712/thumb.jpg"
     },
     "nextProperty": {
       "name": "7 Batallon de San Blas 1",
@@ -1099,14 +1099,14 @@
       "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251215002005233989000000-o.jpg"
     ],
     "isotopeCategory": "category-19",
-    "schemaOrg": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"RealEstateListing\",\n      \"name\": \"7 Batallon de San Blas 1\",\n      \"description\": \"Condo San Blas — 1 bed, 1 bath, 675.83 sqft condos in Puerto Vallarta.\",\n      \"url\": \"https://ponchodavalos.com.mx/mls/property-flx-41264.html\",\n      \"image\": [\n            \"https://ponchodavalos.com.mx/images/mls/flx-41264/header.jpg\"\n      ],\n      \"datePosted\": \"2026-04-29\",\n      \"address\": {\n            \"@type\": \"PostalAddress\",\n            \"addressLocality\": \"Puerto Vallarta\",\n            \"addressRegion\": \"Jalisco\",\n            \"addressCountry\": \"MX\"\n      },\n      \"offers\": {\n            \"@type\": \"Offer\",\n            \"price\": \"168000\",\n            \"priceCurrency\": \"USD\",\n            \"availability\": \"https://schema.org/InStock\"\n      },\n      \"numberOfRooms\": 1,\n      \"numberOfBathroomsTotal\": 1,\n      \"floorSize\": {\n            \"@type\": \"QuantitativeValue\",\n            \"value\": 62.79,\n            \"unitCode\": \"MTK\"\n      },\n      \"amenityFeature\": [],\n      \"broker\": {\n            \"@type\": \"RealEstateAgent\",\n            \"name\": \"Poncho Davalos Real Estate\",\n            \"telephone\": \"+52 (322) 292-2312\",\n            \"email\": \"hello@ponchodavalos.com.mx\",\n            \"url\": \"https://ponchodavalos.com.mx\"\n      }\n}",
+    "schemaOrg": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"RealEstateListing\",\n      \"name\": \"7 Batallon de San Blas 1\",\n      \"description\": \"Condo San Blas — 1 bed, 1 bath, 675.83 sqft condos in Puerto Vallarta.\",\n      \"url\": \"https://ponchodavalos.com.mx/mls/property-flx-41264.html\",\n      \"image\": [\n            \"https://ponchodavalos.com.mx/images/mls/flx-41264/header.jpg\"\n      ],\n      \"datePosted\": \"2026-05-01\",\n      \"address\": {\n            \"@type\": \"PostalAddress\",\n            \"addressLocality\": \"Puerto Vallarta\",\n            \"addressRegion\": \"Jalisco\",\n            \"addressCountry\": \"MX\"\n      },\n      \"offers\": {\n            \"@type\": \"Offer\",\n            \"price\": \"168000\",\n            \"priceCurrency\": \"USD\",\n            \"availability\": \"https://schema.org/InStock\"\n      },\n      \"numberOfRooms\": 1,\n      \"numberOfBathroomsTotal\": 1,\n      \"floorSize\": {\n            \"@type\": \"QuantitativeValue\",\n            \"value\": 62.79,\n            \"unitCode\": \"MTK\"\n      },\n      \"amenityFeature\": [],\n      \"broker\": {\n            \"@type\": \"RealEstateAgent\",\n            \"name\": \"Poncho Davalos Real Estate\",\n            \"telephone\": \"+52 (322) 292-2312\",\n            \"email\": \"hello@ponchodavalos.com.mx\",\n            \"url\": \"https://ponchodavalos.com.mx\"\n      }\n}",
     "metaDescription": "Condo San Blas — 1 bed, 1 bath, 675.83 sqft condos in Puerto Vallarta.",
     "ogImage": "https://ponchodavalos.com.mx/images/mls/flx-41264/header.jpg",
     "i18nKey": "property.mls_flx-41264",
     "prevProperty": {
-      "name": "263 Venustiano Carranza 309",
-      "url": "property-flx-39522.html",
-      "thumb": "../images/mls/flx-39522/thumb.jpg"
+      "name": "147 P.º De Las Palmas",
+      "url": "property-flx-42712.html",
+      "thumb": "../images/mls/flx-42712/thumb.jpg"
     },
     "nextProperty": {
       "name": "9 C. Elote",
@@ -1239,7 +1239,7 @@
       "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260201204126863400000000-o.jpg"
     ],
     "isotopeCategory": "category-20",
-    "schemaOrg": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"RealEstateListing\",\n      \"name\": \"9 C. Elote\",\n      \"description\": \"Vista Los Mangos — 3 bed, 3 bath, 914.6 sqft houses in Puerto Vallarta.\",\n      \"url\": \"https://ponchodavalos.com.mx/mls/property-flx-42023.html\",\n      \"image\": [\n            \"https://ponchodavalos.com.mx/images/mls/flx-42023/header.jpg\"\n      ],\n      \"datePosted\": \"2026-04-29\",\n      \"address\": {\n            \"@type\": \"PostalAddress\",\n            \"addressLocality\": \"Puerto Vallarta\",\n            \"addressRegion\": \"Nayarit\",\n            \"addressCountry\": \"MX\"\n      },\n      \"offers\": {\n            \"@type\": \"Offer\",\n            \"price\": \"128800\",\n            \"priceCurrency\": \"USD\",\n            \"availability\": \"https://schema.org/InStock\"\n      },\n      \"numberOfRooms\": 3,\n      \"numberOfBathroomsTotal\": 3,\n      \"floorSize\": {\n            \"@type\": \"QuantitativeValue\",\n            \"value\": 84.97,\n            \"unitCode\": \"MTK\"\n      },\n      \"amenityFeature\": [],\n      \"broker\": {\n            \"@type\": \"RealEstateAgent\",\n            \"name\": \"Poncho Davalos Real Estate\",\n            \"telephone\": \"+52 (322) 292-2312\",\n            \"email\": \"hello@ponchodavalos.com.mx\",\n            \"url\": \"https://ponchodavalos.com.mx\"\n      }\n}",
+    "schemaOrg": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"RealEstateListing\",\n      \"name\": \"9 C. Elote\",\n      \"description\": \"Vista Los Mangos — 3 bed, 3 bath, 914.6 sqft houses in Puerto Vallarta.\",\n      \"url\": \"https://ponchodavalos.com.mx/mls/property-flx-42023.html\",\n      \"image\": [\n            \"https://ponchodavalos.com.mx/images/mls/flx-42023/header.jpg\"\n      ],\n      \"datePosted\": \"2026-05-01\",\n      \"address\": {\n            \"@type\": \"PostalAddress\",\n            \"addressLocality\": \"Puerto Vallarta\",\n            \"addressRegion\": \"Nayarit\",\n            \"addressCountry\": \"MX\"\n      },\n      \"offers\": {\n            \"@type\": \"Offer\",\n            \"price\": \"128800\",\n            \"priceCurrency\": \"USD\",\n            \"availability\": \"https://schema.org/InStock\"\n      },\n      \"numberOfRooms\": 3,\n      \"numberOfBathroomsTotal\": 3,\n      \"floorSize\": {\n            \"@type\": \"QuantitativeValue\",\n            \"value\": 84.97,\n            \"unitCode\": \"MTK\"\n      },\n      \"amenityFeature\": [],\n      \"broker\": {\n            \"@type\": \"RealEstateAgent\",\n            \"name\": \"Poncho Davalos Real Estate\",\n            \"telephone\": \"+52 (322) 292-2312\",\n            \"email\": \"hello@ponchodavalos.com.mx\",\n            \"url\": \"https://ponchodavalos.com.mx\"\n      }\n}",
     "metaDescription": "Vista Los Mangos — 3 bed, 3 bath, 914.6 sqft houses in Puerto Vallarta.",
     "ogImage": "https://ponchodavalos.com.mx/images/mls/flx-42023/header.jpg",
     "i18nKey": "property.mls_flx-42023",
@@ -1414,7 +1414,7 @@
       "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251220123847943725000000-o.jpg"
     ],
     "isotopeCategory": "category-19",
-    "schemaOrg": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"RealEstateListing\",\n      \"name\": \"353 Amapas 303\",\n      \"description\": \"Amapas 353 — 2 bed, 2 bath, 1,136.9 sqft condos in Puerto Vallarta.\",\n      \"url\": \"https://ponchodavalos.com.mx/mls/property-flx-41386.html\",\n      \"image\": [\n            \"https://ponchodavalos.com.mx/images/mls/flx-41386/header.jpg\"\n      ],\n      \"datePosted\": \"2026-04-29\",\n      \"address\": {\n            \"@type\": \"PostalAddress\",\n            \"addressLocality\": \"Puerto Vallarta\",\n            \"addressRegion\": \"Jalisco\",\n            \"addressCountry\": \"MX\"\n      },\n      \"offers\": {\n            \"@type\": \"Offer\",\n            \"price\": \"749000\",\n            \"priceCurrency\": \"USD\",\n            \"availability\": \"https://schema.org/InStock\"\n      },\n      \"numberOfRooms\": 2,\n      \"numberOfBathroomsTotal\": 2,\n      \"floorSize\": {\n            \"@type\": \"QuantitativeValue\",\n            \"value\": 105.62,\n            \"unitCode\": \"MTK\"\n      },\n      \"amenityFeature\": [],\n      \"broker\": {\n            \"@type\": \"RealEstateAgent\",\n            \"name\": \"Poncho Davalos Real Estate\",\n            \"telephone\": \"+52 (322) 292-2312\",\n            \"email\": \"hello@ponchodavalos.com.mx\",\n            \"url\": \"https://ponchodavalos.com.mx\"\n      }\n}",
+    "schemaOrg": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"RealEstateListing\",\n      \"name\": \"353 Amapas 303\",\n      \"description\": \"Amapas 353 — 2 bed, 2 bath, 1,136.9 sqft condos in Puerto Vallarta.\",\n      \"url\": \"https://ponchodavalos.com.mx/mls/property-flx-41386.html\",\n      \"image\": [\n            \"https://ponchodavalos.com.mx/images/mls/flx-41386/header.jpg\"\n      ],\n      \"datePosted\": \"2026-05-01\",\n      \"address\": {\n            \"@type\": \"PostalAddress\",\n            \"addressLocality\": \"Puerto Vallarta\",\n            \"addressRegion\": \"Jalisco\",\n            \"addressCountry\": \"MX\"\n      },\n      \"offers\": {\n            \"@type\": \"Offer\",\n            \"price\": \"749000\",\n            \"priceCurrency\": \"USD\",\n            \"availability\": \"https://schema.org/InStock\"\n      },\n      \"numberOfRooms\": 2,\n      \"numberOfBathroomsTotal\": 2,\n      \"floorSize\": {\n            \"@type\": \"QuantitativeValue\",\n            \"value\": 105.62,\n            \"unitCode\": \"MTK\"\n      },\n      \"amenityFeature\": [],\n      \"broker\": {\n            \"@type\": \"RealEstateAgent\",\n            \"name\": \"Poncho Davalos Real Estate\",\n            \"telephone\": \"+52 (322) 292-2312\",\n            \"email\": \"hello@ponchodavalos.com.mx\",\n            \"url\": \"https://ponchodavalos.com.mx\"\n      }\n}",
     "metaDescription": "Amapas 353 — 2 bed, 2 bath, 1,136.9 sqft condos in Puerto Vallarta.",
     "ogImage": "https://ponchodavalos.com.mx/images/mls/flx-41386/header.jpg",
     "i18nKey": "property.mls_flx-41386",
@@ -1631,7 +1631,7 @@
       "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260127173823385848000000-o.jpg"
     ],
     "isotopeCategory": "category-19",
-    "schemaOrg": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"RealEstateListing\",\n      \"name\": \"49 Coral UP 103\",\n      \"description\": \"Zantamar 1 — 2 bed, 2 bath, 1,008.53 sqft condos in Riviera Nayarit.\",\n      \"url\": \"https://ponchodavalos.com.mx/mls/property-flx-41871.html\",\n      \"image\": [\n            \"https://ponchodavalos.com.mx/images/mls/flx-41871/header.jpg\"\n      ],\n      \"datePosted\": \"2026-04-29\",\n      \"address\": {\n            \"@type\": \"PostalAddress\",\n            \"addressLocality\": \"Riviera Nayarit\",\n            \"addressRegion\": \"Nayarit\",\n            \"addressCountry\": \"MX\"\n      },\n      \"offers\": {\n            \"@type\": \"Offer\",\n            \"price\": \"526158\",\n            \"priceCurrency\": \"USD\",\n            \"availability\": \"https://schema.org/InStock\"\n      },\n      \"numberOfRooms\": 2,\n      \"numberOfBathroomsTotal\": 2,\n      \"floorSize\": {\n            \"@type\": \"QuantitativeValue\",\n            \"value\": 93.7,\n            \"unitCode\": \"MTK\"\n      },\n      \"amenityFeature\": [],\n      \"broker\": {\n            \"@type\": \"RealEstateAgent\",\n            \"name\": \"Poncho Davalos Real Estate\",\n            \"telephone\": \"+52 (322) 292-2312\",\n            \"email\": \"hello@ponchodavalos.com.mx\",\n            \"url\": \"https://ponchodavalos.com.mx\"\n      }\n}",
+    "schemaOrg": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"RealEstateListing\",\n      \"name\": \"49 Coral UP 103\",\n      \"description\": \"Zantamar 1 — 2 bed, 2 bath, 1,008.53 sqft condos in Riviera Nayarit.\",\n      \"url\": \"https://ponchodavalos.com.mx/mls/property-flx-41871.html\",\n      \"image\": [\n            \"https://ponchodavalos.com.mx/images/mls/flx-41871/header.jpg\"\n      ],\n      \"datePosted\": \"2026-05-01\",\n      \"address\": {\n            \"@type\": \"PostalAddress\",\n            \"addressLocality\": \"Riviera Nayarit\",\n            \"addressRegion\": \"Nayarit\",\n            \"addressCountry\": \"MX\"\n      },\n      \"offers\": {\n            \"@type\": \"Offer\",\n            \"price\": \"526158\",\n            \"priceCurrency\": \"USD\",\n            \"availability\": \"https://schema.org/InStock\"\n      },\n      \"numberOfRooms\": 2,\n      \"numberOfBathroomsTotal\": 2,\n      \"floorSize\": {\n            \"@type\": \"QuantitativeValue\",\n            \"value\": 93.7,\n            \"unitCode\": \"MTK\"\n      },\n      \"amenityFeature\": [],\n      \"broker\": {\n            \"@type\": \"RealEstateAgent\",\n            \"name\": \"Poncho Davalos Real Estate\",\n            \"telephone\": \"+52 (322) 292-2312\",\n            \"email\": \"hello@ponchodavalos.com.mx\",\n            \"url\": \"https://ponchodavalos.com.mx\"\n      }\n}",
     "metaDescription": "Zantamar 1 — 2 bed, 2 bath, 1,008.53 sqft condos in Riviera Nayarit.",
     "ogImage": "https://ponchodavalos.com.mx/images/mls/flx-41871/header.jpg",
     "i18nKey": "property.mls_flx-41871",
