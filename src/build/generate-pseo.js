@@ -62,14 +62,14 @@ function buildSchemaOrg(page) {
         'memberOf': { '@type': 'Organization', 'name': 'AMPI Riviera Nayarit' },
         'telephone': '+52-322-292-2312',
         'email': 'hello@ponchodavalos.com.mx',
-        'url': 'https://ponchodavalos.com.mx'
+        'url': 'https://ponchodavalosrealty.com'
       },
       {
         '@type': 'RealEstateAgent',
         'name': 'Poncho Davalos Real Estate',
         'telephone': '+52 (322) 292-2312',
         'email': 'hello@ponchodavalos.com.mx',
-        'url': 'https://ponchodavalos.com.mx',
+        'url': 'https://ponchodavalosrealty.com',
         'areaServed': page.zona
           ? { '@type': 'Place', 'name': `${page.zona}, ${page.municipio}` }
           : 'Puerto Vallarta'

@@ -1,5 +1,5 @@
 # robots.txt para Poncho Dávalos Real Estate
-# https://ponchodavalos.com.mx
+# https://ponchodavalosrealty.com
 # Actualizado: Marzo 2026
 
 User-agent: *
@@ -71,7 +71,7 @@ Allow: /fonts/
 Crawl-delay: 1
 
 # Sitemap
-Sitemap: https://ponchodavalos.com.mx/sitemap.xml
+Sitemap: https://ponchodavalosrealty.com/sitemap.xml
 
 # Googlebot específico
 User-agent: Googlebot

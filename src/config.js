@@ -36,7 +36,7 @@ module.exports = {
   translationsDir: path.join(ROOT, 'translations'),
 
   // Site config
-  siteUrl: 'https://ponchodavalos.com.mx',
+  siteUrl: 'https://ponchodavalosrealty.com',
   agentName: 'Poncho Davalos Real Estate',
   agentPhone: '+52 (322) 292-2312',
   agentEmail: 'hello@ponchodavalos.com.mx',
