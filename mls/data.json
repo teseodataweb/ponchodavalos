@@ -1,5 +1,372 @@
 [
   {
+    "listingId": "FLX-44497",
+    "slug": "flx-44497",
+    "name": "253 Av. Las Palmas E3",
+    "fileName": "property-flx-44497.html",
+    "url": "mls/property-flx-44497.html",
+    "fullUrl": "https://ponchodavalosrealty.com/mls/property-flx-44497.html",
+    "priceUsd": 184576,
+    "priceMxn": 3414656,
+    "priceUsdFormatted": "$184,576 USD",
+    "priceMxnFormatted": "$3,414,656 MXN",
+    "beds": 2,
+    "baths": 2,
+    "surface": 78.97,
+    "parking": 0,
+    "yearBuilt": "",
+    "furnished": "",
+    "view": "",
+    "propertyType": "Condominium",
+    "city": "Puerto Vallarta",
+    "state": "Jalisco",
+    "address": "253 Av. Las Palmas E3, Coras Living E3, Puerto Vallarta, JA",
+    "shortLocation": "JA, Puerto Vallarta",
+    "lat": null,
+    "lng": null,
+    "mapEmbedUrl": "",
+    "descriptionEn": "Coras Living E3 — 2 bed, 2 bath, 850.04 sqft condos in Puerto Vallarta.",
+    "descriptionEs": "Coras Living E3 — 2 rec, 2 baños, 850.04 pies² condominio en Puerto Vallarta.",
+    "amenities": [],
+    "appliances": [],
+    "utilities": [],
+    "locationFeatures": [],
+    "headerImage": "../images/mls/flx-44497/header.jpg",
+    "thumbImage": "images/mls/flx-44497/thumb.jpg",
+    "images": [
+      {
+        "src": "../images/mls/flx-44497/1.jpg",
+        "alt": "253 Av. Las Palmas E3 - Image 1",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260803041841432752000000-o.jpg",
+        "order": 1
+      },
+      {
+        "src": "../images/mls/flx-44497/2.jpg",
+        "alt": "253 Av. Las Palmas E3 - Image 2",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260803041842052173000000-o.jpg",
+        "order": 2
+      },
+      {
+        "src": "../images/mls/flx-44497/3.jpg",
+        "alt": "253 Av. Las Palmas E3 - Image 3",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260803041851726622000000-o.jpg",
+        "order": 3
+      },
+      {
+        "src": "../images/mls/flx-44497/4.jpg",
+        "alt": "253 Av. Las Palmas E3 - Image 4",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260803041852411105000000-o.jpg",
+        "order": 4
+      },
+      {
+        "src": "../images/mls/flx-44497/5.jpg",
+        "alt": "253 Av. Las Palmas E3 - Image 5",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260803041852987327000000-o.jpg",
+        "order": 5
+      },
+      {
+        "src": "../images/mls/flx-44497/6.jpg",
+        "alt": "253 Av. Las Palmas E3 - Image 6",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260803041905876130000000-o.jpg",
+        "order": 6
+      },
+      {
+        "src": "../images/mls/flx-44497/7.jpg",
+        "alt": "253 Av. Las Palmas E3 - Image 7",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260803041907547822000000-o.jpg",
+        "order": 7
+      },
+      {
+        "src": "../images/mls/flx-44497/8.jpg",
+        "alt": "253 Av. Las Palmas E3 - Image 8",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260803041908199504000000-o.jpg",
+        "order": 8
+      }
+    ],
+    "primaryPhotoUrl": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260803041841432752000000-o.jpg",
+    "allPhotoUrls": [
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260803041841432752000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260803041842052173000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260803041851726622000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260803041852411105000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260803041852987327000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260803041905876130000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260803041907547822000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260803041908199504000000-o.jpg"
+    ],
+    "isotopeCategory": "category-19",
+    "schemaOrg": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"RealEstateListing\",\n      \"name\": \"253 Av. Las Palmas E3\",\n      \"description\": \"Coras Living E3 — 2 bed, 2 bath, 850.04 sqft condos in Puerto Vallarta.\",\n      \"url\": \"https://ponchodavalosrealty.com/mls/property-flx-44497.html\",\n      \"image\": [\n            \"https://ponchodavalosrealty.com/images/mls/flx-44497/header.jpg\"\n      ],\n      \"datePosted\": \"2026-08-07\",\n      \"address\": {\n            \"@type\": \"PostalAddress\",\n            \"addressLocality\": \"Puerto Vallarta\",\n            \"addressRegion\": \"Jalisco\",\n            \"addressCountry\": \"MX\"\n      },\n      \"offers\": {\n            \"@type\": \"Offer\",\n            \"price\": \"184576\",\n            \"priceCurrency\": \"USD\",\n            \"availability\": \"https://schema.org/InStock\"\n      },\n      \"numberOfRooms\": 2,\n      \"numberOfBathroomsTotal\": 2,\n      \"floorSize\": {\n            \"@type\": \"QuantitativeValue\",\n            \"value\": 78.97,\n            \"unitCode\": \"MTK\"\n      },\n      \"amenityFeature\": [],\n      \"broker\": {\n            \"@type\": \"RealEstateAgent\",\n            \"name\": \"Poncho Davalos Real Estate\",\n            \"telephone\": \"+52 (322) 292-2312\",\n            \"email\": \"hello@ponchodavalos.com.mx\",\n            \"url\": \"https://ponchodavalosrealty.com\"\n      }\n}",
+    "metaDescription": "Coras Living E3 — 2 bed, 2 bath, 850.04 sqft condos in Puerto Vallarta.",
+    "ogImage": "https://ponchodavalosrealty.com/images/mls/flx-44497/header.jpg",
+    "i18nKey": "property.mls_flx-44497",
+    "prevProperty": null,
+    "nextProperty": {
+      "name": "253 Las Palmas C3",
+      "url": "property-flx-44480.html",
+      "thumb": "../images/mls/flx-44480/thumb.jpg"
+    },
+    "parkingText": "None"
+  },
+  {
+    "listingId": "FLX-44480",
+    "slug": "flx-44480",
+    "name": "253 Las Palmas C3",
+    "fileName": "property-flx-44480.html",
+    "url": "mls/property-flx-44480.html",
+    "fullUrl": "https://ponchodavalosrealty.com/mls/property-flx-44480.html",
+    "priceUsd": 185000,
+    "priceMxn": 3422500,
+    "priceUsdFormatted": "$185,000 USD",
+    "priceMxnFormatted": "$3,422,500 MXN",
+    "beds": 2,
+    "baths": 2,
+    "surface": 78.97,
+    "parking": 0,
+    "yearBuilt": "",
+    "furnished": "",
+    "view": "",
+    "propertyType": "Condominium",
+    "city": "Puerto Vallarta",
+    "state": "Jalisco",
+    "address": "253 Las Palmas C3, Coras Living, Puerto Vallarta, JA",
+    "shortLocation": "JA, Puerto Vallarta",
+    "lat": null,
+    "lng": null,
+    "mapEmbedUrl": "",
+    "descriptionEn": "Coras Living — 2 bed, 2 bath, 850.04 sqft condos in Puerto Vallarta.",
+    "descriptionEs": "Coras Living — 2 rec, 2 baños, 850.04 pies² condominio en Puerto Vallarta.",
+    "amenities": [],
+    "appliances": [],
+    "utilities": [],
+    "locationFeatures": [],
+    "headerImage": "../images/mls/flx-44480/header.jpg",
+    "thumbImage": "images/mls/flx-44480/thumb.jpg",
+    "images": [
+      {
+        "src": "../images/mls/flx-44480/1.jpg",
+        "alt": "253 Las Palmas C3 - Image 1",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260806222119620320000000-o.jpg",
+        "order": 1
+      },
+      {
+        "src": "../images/mls/flx-44480/2.jpg",
+        "alt": "253 Las Palmas C3 - Image 2",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260729131411720517000000-o.jpg",
+        "order": 2
+      },
+      {
+        "src": "../images/mls/flx-44480/3.jpg",
+        "alt": "253 Las Palmas C3 - Image 3",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260806222122387035000000-o.jpg",
+        "order": 3
+      },
+      {
+        "src": "../images/mls/flx-44480/4.jpg",
+        "alt": "253 Las Palmas C3 - Image 4",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260806222120428582000000-o.jpg",
+        "order": 4
+      },
+      {
+        "src": "../images/mls/flx-44480/5.jpg",
+        "alt": "253 Las Palmas C3 - Image 5",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260806222123645432000000-o.jpg",
+        "order": 5
+      },
+      {
+        "src": "../images/mls/flx-44480/6.jpg",
+        "alt": "253 Las Palmas C3 - Image 6",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260806222124263245000000-o.jpg",
+        "order": 6
+      },
+      {
+        "src": "../images/mls/flx-44480/7.jpg",
+        "alt": "253 Las Palmas C3 - Image 7",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260806222124979343000000-o.jpg",
+        "order": 7
+      },
+      {
+        "src": "../images/mls/flx-44480/8.jpg",
+        "alt": "253 Las Palmas C3 - Image 8",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260806222125673172000000-o.jpg",
+        "order": 8
+      }
+    ],
+    "primaryPhotoUrl": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260806222119620320000000-o.jpg",
+    "allPhotoUrls": [
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260806222119620320000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260729131411720517000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260806222122387035000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260806222120428582000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260806222123645432000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260806222124263245000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260806222124979343000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260806222125673172000000-o.jpg"
+    ],
+    "isotopeCategory": "category-19",
+    "schemaOrg": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"RealEstateListing\",\n      \"name\": \"253 Las Palmas C3\",\n      \"description\": \"Coras Living — 2 bed, 2 bath, 850.04 sqft condos in Puerto Vallarta.\",\n      \"url\": \"https://ponchodavalosrealty.com/mls/property-flx-44480.html\",\n      \"image\": [\n            \"https://ponchodavalosrealty.com/images/mls/flx-44480/header.jpg\"\n      ],\n      \"datePosted\": \"2026-08-07\",\n      \"address\": {\n            \"@type\": \"PostalAddress\",\n            \"addressLocality\": \"Puerto Vallarta\",\n            \"addressRegion\": \"Jalisco\",\n            \"addressCountry\": \"MX\"\n      },\n      \"offers\": {\n            \"@type\": \"Offer\",\n            \"price\": \"185000\",\n            \"priceCurrency\": \"USD\",\n            \"availability\": \"https://schema.org/InStock\"\n      },\n      \"numberOfRooms\": 2,\n      \"numberOfBathroomsTotal\": 2,\n      \"floorSize\": {\n            \"@type\": \"QuantitativeValue\",\n            \"value\": 78.97,\n            \"unitCode\": \"MTK\"\n      },\n      \"amenityFeature\": [],\n      \"broker\": {\n            \"@type\": \"RealEstateAgent\",\n            \"name\": \"Poncho Davalos Real Estate\",\n            \"telephone\": \"+52 (322) 292-2312\",\n            \"email\": \"hello@ponchodavalos.com.mx\",\n            \"url\": \"https://ponchodavalosrealty.com\"\n      }\n}",
+    "metaDescription": "Coras Living — 2 bed, 2 bath, 850.04 sqft condos in Puerto Vallarta.",
+    "ogImage": "https://ponchodavalosrealty.com/images/mls/flx-44480/header.jpg",
+    "i18nKey": "property.mls_flx-44480",
+    "prevProperty": {
+      "name": "253 Av. Las Palmas E3",
+      "url": "property-flx-44497.html",
+      "thumb": "../images/mls/flx-44497/thumb.jpg"
+    },
+    "nextProperty": {
+      "name": "253 Las Palmas D6",
+      "url": "property-flx-44482.html",
+      "thumb": "../images/mls/flx-44482/thumb.jpg"
+    },
+    "parkingText": "None"
+  },
+  {
+    "listingId": "FLX-44482",
+    "slug": "flx-44482",
+    "name": "253 Las Palmas D6",
+    "fileName": "property-flx-44482.html",
+    "url": "mls/property-flx-44482.html",
+    "fullUrl": "https://ponchodavalosrealty.com/mls/property-flx-44482.html",
+    "priceUsd": 181405,
+    "priceMxn": 3355993,
+    "priceUsdFormatted": "$181,405 USD",
+    "priceMxnFormatted": "$3,355,993 MXN",
+    "beds": 3,
+    "baths": 0,
+    "surface": 78.97,
+    "parking": 0,
+    "yearBuilt": "",
+    "furnished": "",
+    "view": "",
+    "propertyType": "Condominium",
+    "city": "Puerto Vallarta",
+    "state": "Jalisco",
+    "address": "253 Las Palmas D6, Coras Living D6, Puerto Vallarta, JA",
+    "shortLocation": "JA, Puerto Vallarta",
+    "lat": null,
+    "lng": null,
+    "mapEmbedUrl": "",
+    "descriptionEn": "Coras Living D6 — 3 bed, 0 bath, 850.04 sqft condos in Puerto Vallarta.",
+    "descriptionEs": "Coras Living D6 — 3 rec, 0 baños, 850.04 pies² condominio en Puerto Vallarta.",
+    "amenities": [],
+    "appliances": [],
+    "utilities": [],
+    "locationFeatures": [],
+    "headerImage": "../images/mls/flx-44482/header.jpg",
+    "thumbImage": "images/mls/flx-44482/thumb.jpg",
+    "images": [
+      {
+        "src": "../images/mls/flx-44482/1.jpg",
+        "alt": "253 Las Palmas D6 - Image 1",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260803031121725403000000-o.jpg",
+        "order": 1
+      },
+      {
+        "src": "../images/mls/flx-44482/2.jpg",
+        "alt": "253 Las Palmas D6 - Image 2",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260803031122901455000000-o.jpg",
+        "order": 2
+      },
+      {
+        "src": "../images/mls/flx-44482/3.jpg",
+        "alt": "253 Las Palmas D6 - Image 3",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260803031123506447000000-o.jpg",
+        "order": 3
+      },
+      {
+        "src": "../images/mls/flx-44482/4.jpg",
+        "alt": "253 Las Palmas D6 - Image 4",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260803031124099829000000-o.jpg",
+        "order": 4
+      },
+      {
+        "src": "../images/mls/flx-44482/5.jpg",
+        "alt": "253 Las Palmas D6 - Image 5",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260803031125216875000000-o.jpg",
+        "order": 5
+      },
+      {
+        "src": "../images/mls/flx-44482/6.jpg",
+        "alt": "253 Las Palmas D6 - Image 6",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260803031125784272000000-o.jpg",
+        "order": 6
+      },
+      {
+        "src": "../images/mls/flx-44482/7.jpg",
+        "alt": "253 Las Palmas D6 - Image 7",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260803031126881798000000-o.jpg",
+        "order": 7
+      },
+      {
+        "src": "../images/mls/flx-44482/8.jpg",
+        "alt": "253 Las Palmas D6 - Image 8",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260803031128130393000000-o.jpg",
+        "order": 8
+      },
+      {
+        "src": "../images/mls/flx-44482/9.jpg",
+        "alt": "253 Las Palmas D6 - Image 9",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260803031128840923000000-o.jpg",
+        "order": 9
+      },
+      {
+        "src": "../images/mls/flx-44482/10.jpg",
+        "alt": "253 Las Palmas D6 - Image 10",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260803031130096166000000-o.jpg",
+        "order": 10
+      },
+      {
+        "src": "../images/mls/flx-44482/11.jpg",
+        "alt": "253 Las Palmas D6 - Image 11",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260803031131995970000000-o.jpg",
+        "order": 11
+      },
+      {
+        "src": "../images/mls/flx-44482/12.jpg",
+        "alt": "253 Las Palmas D6 - Image 12",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260803031132595364000000-o.jpg",
+        "order": 12
+      },
+      {
+        "src": "../images/mls/flx-44482/13.jpg",
+        "alt": "253 Las Palmas D6 - Image 13",
+        "remoteSrc": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260803031133825276000000-o.jpg",
+        "order": 13
+      }
+    ],
+    "primaryPhotoUrl": "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260803031121725403000000-o.jpg",
+    "allPhotoUrls": [
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260803031121725403000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260803031122901455000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260803031123506447000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260803031124099829000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260803031125216875000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260803031125784272000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260803031126881798000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260803031128130393000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260803031128840923000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260803031130096166000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260803031131995970000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260803031132595364000000-o.jpg",
+      "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260803031133825276000000-o.jpg"
+    ],
+    "isotopeCategory": "category-19",
+    "schemaOrg": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"RealEstateListing\",\n      \"name\": \"253 Las Palmas D6\",\n      \"description\": \"Coras Living D6 — 3 bed, 0 bath, 850.04 sqft condos in Puerto Vallarta.\",\n      \"url\": \"https://ponchodavalosrealty.com/mls/property-flx-44482.html\",\n      \"image\": [\n            \"https://ponchodavalosrealty.com/images/mls/flx-44482/header.jpg\"\n      ],\n      \"datePosted\": \"2026-08-07\",\n      \"address\": {\n            \"@type\": \"PostalAddress\",\n            \"addressLocality\": \"Puerto Vallarta\",\n            \"addressRegion\": \"Jalisco\",\n            \"addressCountry\": \"MX\"\n      },\n      \"offers\": {\n            \"@type\": \"Offer\",\n            \"price\": \"181405\",\n            \"priceCurrency\": \"USD\",\n            \"availability\": \"https://schema.org/InStock\"\n      },\n      \"numberOfRooms\": 3,\n      \"numberOfBathroomsTotal\": 0,\n      \"floorSize\": {\n            \"@type\": \"QuantitativeValue\",\n            \"value\": 78.97,\n            \"unitCode\": \"MTK\"\n      },\n      \"amenityFeature\": [],\n      \"broker\": {\n            \"@type\": \"RealEstateAgent\",\n            \"name\": \"Poncho Davalos Real Estate\",\n            \"telephone\": \"+52 (322) 292-2312\",\n            \"email\": \"hello@ponchodavalos.com.mx\",\n            \"url\": \"https://ponchodavalosrealty.com\"\n      }\n}",
+    "metaDescription": "Coras Living D6 — 3 bed, 0 bath, 850.04 sqft condos in Puerto Vallarta.",
+    "ogImage": "https://ponchodavalosrealty.com/images/mls/flx-44482/header.jpg",
+    "i18nKey": "property.mls_flx-44482",
+    "prevProperty": {
+      "name": "253 Las Palmas C3",
+      "url": "property-flx-44480.html",
+      "thumb": "../images/mls/flx-44480/thumb.jpg"
+    },
+    "nextProperty": {
+      "name": "253 LAS PALMAS D5",
+      "url": "property-flx-44481.html",
+      "thumb": "../images/mls/flx-44481/thumb.jpg"
+    },
+    "parkingText": "None"
+  },
+  {
     "listingId": "FLX-44481",
     "slug": "flx-44481",
     "name": "253 LAS PALMAS D5",
@@ -102,11 +469,15 @@
       "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260803042044561390000000-o.jpg"
     ],
     "isotopeCategory": "category-19",
-    "schemaOrg": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"RealEstateListing\",\n      \"name\": \"253 LAS PALMAS D5\",\n      \"description\": \"Coras Living D5 — 2 bed, 2 bath, 865.1 sqft condos in Puerto Vallarta.\",\n      \"url\": \"https://ponchodavalosrealty.com/mls/property-flx-44481.html\",\n      \"image\": [\n            \"https://ponchodavalosrealty.com/images/mls/flx-44481/header.jpg\"\n      ],\n      \"datePosted\": \"2026-08-05\",\n      \"address\": {\n            \"@type\": \"PostalAddress\",\n            \"addressLocality\": \"Puerto Vallarta\",\n            \"addressRegion\": \"Jalisco\",\n            \"addressCountry\": \"MX\"\n      },\n      \"offers\": {\n            \"@type\": \"Offer\",\n            \"price\": \"184266\",\n            \"priceCurrency\": \"USD\",\n            \"availability\": \"https://schema.org/InStock\"\n      },\n      \"numberOfRooms\": 2,\n      \"numberOfBathroomsTotal\": 2,\n      \"floorSize\": {\n            \"@type\": \"QuantitativeValue\",\n            \"value\": 80.37,\n            \"unitCode\": \"MTK\"\n      },\n      \"amenityFeature\": [],\n      \"broker\": {\n            \"@type\": \"RealEstateAgent\",\n            \"name\": \"Poncho Davalos Real Estate\",\n            \"telephone\": \"+52 (322) 292-2312\",\n            \"email\": \"hello@ponchodavalos.com.mx\",\n            \"url\": \"https://ponchodavalosrealty.com\"\n      }\n}",
+    "schemaOrg": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"RealEstateListing\",\n      \"name\": \"253 LAS PALMAS D5\",\n      \"description\": \"Coras Living D5 — 2 bed, 2 bath, 865.1 sqft condos in Puerto Vallarta.\",\n      \"url\": \"https://ponchodavalosrealty.com/mls/property-flx-44481.html\",\n      \"image\": [\n            \"https://ponchodavalosrealty.com/images/mls/flx-44481/header.jpg\"\n      ],\n      \"datePosted\": \"2026-08-07\",\n      \"address\": {\n            \"@type\": \"PostalAddress\",\n            \"addressLocality\": \"Puerto Vallarta\",\n            \"addressRegion\": \"Jalisco\",\n            \"addressCountry\": \"MX\"\n      },\n      \"offers\": {\n            \"@type\": \"Offer\",\n            \"price\": \"184266\",\n            \"priceCurrency\": \"USD\",\n            \"availability\": \"https://schema.org/InStock\"\n      },\n      \"numberOfRooms\": 2,\n      \"numberOfBathroomsTotal\": 2,\n      \"floorSize\": {\n            \"@type\": \"QuantitativeValue\",\n            \"value\": 80.37,\n            \"unitCode\": \"MTK\"\n      },\n      \"amenityFeature\": [],\n      \"broker\": {\n            \"@type\": \"RealEstateAgent\",\n            \"name\": \"Poncho Davalos Real Estate\",\n            \"telephone\": \"+52 (322) 292-2312\",\n            \"email\": \"hello@ponchodavalos.com.mx\",\n            \"url\": \"https://ponchodavalosrealty.com\"\n      }\n}",
     "metaDescription": "Coras Living D5 — 2 bed, 2 bath, 865.1 sqft condos in Puerto Vallarta.",
     "ogImage": "https://ponchodavalosrealty.com/images/mls/flx-44481/header.jpg",
     "i18nKey": "property.mls_flx-44481",
-    "prevProperty": null,
+    "prevProperty": {
+      "name": "253 Las Palmas D6",
+      "url": "property-flx-44482.html",
+      "thumb": "../images/mls/flx-44482/thumb.jpg"
+    },
     "nextProperty": {
       "name": "900 Circunvalacion del Robalo A7",
       "url": "property-flx-40145.html",
@@ -259,7 +630,7 @@
       "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20250930224117159378000000-o.jpg"
     ],
     "isotopeCategory": "category-19",
-    "schemaOrg": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"RealEstateListing\",\n      \"name\": \"900 Circunvalacion del Robalo A7\",\n      \"description\": \"Condominio Las Perlas — 2 bed, 2 bath, 806.67 sqft condos in Puerto Vallarta.\",\n      \"url\": \"https://ponchodavalosrealty.com/mls/property-flx-40145.html\",\n      \"image\": [\n            \"https://ponchodavalosrealty.com/images/mls/flx-40145/header.jpg\"\n      ],\n      \"datePosted\": \"2026-08-05\",\n      \"address\": {\n            \"@type\": \"PostalAddress\",\n            \"addressLocality\": \"Puerto Vallarta\",\n            \"addressRegion\": \"Jalisco\",\n            \"addressCountry\": \"MX\"\n      },\n      \"offers\": {\n            \"@type\": \"Offer\",\n            \"price\": \"215000\",\n            \"priceCurrency\": \"USD\",\n            \"availability\": \"https://schema.org/InStock\"\n      },\n      \"numberOfRooms\": 2,\n      \"numberOfBathroomsTotal\": 2,\n      \"floorSize\": {\n            \"@type\": \"QuantitativeValue\",\n            \"value\": 74.94,\n            \"unitCode\": \"MTK\"\n      },\n      \"amenityFeature\": [],\n      \"broker\": {\n            \"@type\": \"RealEstateAgent\",\n            \"name\": \"Poncho Davalos Real Estate\",\n            \"telephone\": \"+52 (322) 292-2312\",\n            \"email\": \"hello@ponchodavalos.com.mx\",\n            \"url\": \"https://ponchodavalosrealty.com\"\n      }\n}",
+    "schemaOrg": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"RealEstateListing\",\n      \"name\": \"900 Circunvalacion del Robalo A7\",\n      \"description\": \"Condominio Las Perlas — 2 bed, 2 bath, 806.67 sqft condos in Puerto Vallarta.\",\n      \"url\": \"https://ponchodavalosrealty.com/mls/property-flx-40145.html\",\n      \"image\": [\n            \"https://ponchodavalosrealty.com/images/mls/flx-40145/header.jpg\"\n      ],\n      \"datePosted\": \"2026-08-07\",\n      \"address\": {\n            \"@type\": \"PostalAddress\",\n            \"addressLocality\": \"Puerto Vallarta\",\n            \"addressRegion\": \"Jalisco\",\n            \"addressCountry\": \"MX\"\n      },\n      \"offers\": {\n            \"@type\": \"Offer\",\n            \"price\": \"215000\",\n            \"priceCurrency\": \"USD\",\n            \"availability\": \"https://schema.org/InStock\"\n      },\n      \"numberOfRooms\": 2,\n      \"numberOfBathroomsTotal\": 2,\n      \"floorSize\": {\n            \"@type\": \"QuantitativeValue\",\n            \"value\": 74.94,\n            \"unitCode\": \"MTK\"\n      },\n      \"amenityFeature\": [],\n      \"broker\": {\n            \"@type\": \"RealEstateAgent\",\n            \"name\": \"Poncho Davalos Real Estate\",\n            \"telephone\": \"+52 (322) 292-2312\",\n            \"email\": \"hello@ponchodavalos.com.mx\",\n            \"url\": \"https://ponchodavalosrealty.com\"\n      }\n}",
     "metaDescription": "Condominio Las Perlas — 2 bed, 2 bath, 806.67 sqft condos in Puerto Vallarta.",
     "ogImage": "https://ponchodavalosrealty.com/images/mls/flx-40145/header.jpg",
     "i18nKey": "property.mls_flx-40145",
@@ -448,7 +819,7 @@
       "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20251222151201139256000000-o.jpg"
     ],
     "isotopeCategory": "category-19",
-    "schemaOrg": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"RealEstateListing\",\n      \"name\": \"105 Pulpito 202\",\n      \"description\": \"Scala 202 — 1 bed, 1 bath, 927.72 sqft condos in Puerto Vallarta.\",\n      \"url\": \"https://ponchodavalosrealty.com/mls/property-flx-41284.html\",\n      \"image\": [\n            \"https://ponchodavalosrealty.com/images/mls/flx-41284/header.jpg\"\n      ],\n      \"datePosted\": \"2026-08-05\",\n      \"address\": {\n            \"@type\": \"PostalAddress\",\n            \"addressLocality\": \"Puerto Vallarta\",\n            \"addressRegion\": \"Jalisco\",\n            \"addressCountry\": \"MX\"\n      },\n      \"offers\": {\n            \"@type\": \"Offer\",\n            \"price\": \"299000\",\n            \"priceCurrency\": \"USD\",\n            \"availability\": \"https://schema.org/InStock\"\n      },\n      \"numberOfRooms\": 1,\n      \"numberOfBathroomsTotal\": 1,\n      \"floorSize\": {\n            \"@type\": \"QuantitativeValue\",\n            \"value\": 86.19,\n            \"unitCode\": \"MTK\"\n      },\n      \"amenityFeature\": [],\n      \"broker\": {\n            \"@type\": \"RealEstateAgent\",\n            \"name\": \"Poncho Davalos Real Estate\",\n            \"telephone\": \"+52 (322) 292-2312\",\n            \"email\": \"hello@ponchodavalos.com.mx\",\n            \"url\": \"https://ponchodavalosrealty.com\"\n      }\n}",
+    "schemaOrg": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"RealEstateListing\",\n      \"name\": \"105 Pulpito 202\",\n      \"description\": \"Scala 202 — 1 bed, 1 bath, 927.72 sqft condos in Puerto Vallarta.\",\n      \"url\": \"https://ponchodavalosrealty.com/mls/property-flx-41284.html\",\n      \"image\": [\n            \"https://ponchodavalosrealty.com/images/mls/flx-41284/header.jpg\"\n      ],\n      \"datePosted\": \"2026-08-07\",\n      \"address\": {\n            \"@type\": \"PostalAddress\",\n            \"addressLocality\": \"Puerto Vallarta\",\n            \"addressRegion\": \"Jalisco\",\n            \"addressCountry\": \"MX\"\n      },\n      \"offers\": {\n            \"@type\": \"Offer\",\n            \"price\": \"299000\",\n            \"priceCurrency\": \"USD\",\n            \"availability\": \"https://schema.org/InStock\"\n      },\n      \"numberOfRooms\": 1,\n      \"numberOfBathroomsTotal\": 1,\n      \"floorSize\": {\n            \"@type\": \"QuantitativeValue\",\n            \"value\": 86.19,\n            \"unitCode\": \"MTK\"\n      },\n      \"amenityFeature\": [],\n      \"broker\": {\n            \"@type\": \"RealEstateAgent\",\n            \"name\": \"Poncho Davalos Real Estate\",\n            \"telephone\": \"+52 (322) 292-2312\",\n            \"email\": \"hello@ponchodavalos.com.mx\",\n            \"url\": \"https://ponchodavalosrealty.com\"\n      }\n}",
     "metaDescription": "Scala 202 — 1 bed, 1 bath, 927.72 sqft condos in Puerto Vallarta.",
     "ogImage": "https://ponchodavalosrealty.com/images/mls/flx-41284/header.jpg",
     "i18nKey": "property.mls_flx-41284",
@@ -749,7 +1120,7 @@
       "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260319164950840330000000-o.jpg"
     ],
     "isotopeCategory": "category-20",
-    "schemaOrg": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"RealEstateListing\",\n      \"name\": \"147 P.º De Las Palmas\",\n      \"description\": \"Casa Frida — 2 bed, 1 bath, 868.76 sqft houses in Puerto Vallarta.\",\n      \"url\": \"https://ponchodavalosrealty.com/mls/property-flx-42712.html\",\n      \"image\": [\n            \"https://ponchodavalosrealty.com/images/mls/flx-42712/header.jpg\"\n      ],\n      \"datePosted\": \"2026-08-05\",\n      \"address\": {\n            \"@type\": \"PostalAddress\",\n            \"addressLocality\": \"Puerto Vallarta\",\n            \"addressRegion\": \"Jalisco\",\n            \"addressCountry\": \"MX\"\n      },\n      \"offers\": {\n            \"@type\": \"Offer\",\n            \"price\": \"348000\",\n            \"priceCurrency\": \"USD\",\n            \"availability\": \"https://schema.org/InStock\"\n      },\n      \"numberOfRooms\": 2,\n      \"numberOfBathroomsTotal\": 1,\n      \"floorSize\": {\n            \"@type\": \"QuantitativeValue\",\n            \"value\": 80.71,\n            \"unitCode\": \"MTK\"\n      },\n      \"amenityFeature\": [],\n      \"broker\": {\n            \"@type\": \"RealEstateAgent\",\n            \"name\": \"Poncho Davalos Real Estate\",\n            \"telephone\": \"+52 (322) 292-2312\",\n            \"email\": \"hello@ponchodavalos.com.mx\",\n            \"url\": \"https://ponchodavalosrealty.com\"\n      }\n}",
+    "schemaOrg": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"RealEstateListing\",\n      \"name\": \"147 P.º De Las Palmas\",\n      \"description\": \"Casa Frida — 2 bed, 1 bath, 868.76 sqft houses in Puerto Vallarta.\",\n      \"url\": \"https://ponchodavalosrealty.com/mls/property-flx-42712.html\",\n      \"image\": [\n            \"https://ponchodavalosrealty.com/images/mls/flx-42712/header.jpg\"\n      ],\n      \"datePosted\": \"2026-08-07\",\n      \"address\": {\n            \"@type\": \"PostalAddress\",\n            \"addressLocality\": \"Puerto Vallarta\",\n            \"addressRegion\": \"Jalisco\",\n            \"addressCountry\": \"MX\"\n      },\n      \"offers\": {\n            \"@type\": \"Offer\",\n            \"price\": \"348000\",\n            \"priceCurrency\": \"USD\",\n            \"availability\": \"https://schema.org/InStock\"\n      },\n      \"numberOfRooms\": 2,\n      \"numberOfBathroomsTotal\": 1,\n      \"floorSize\": {\n            \"@type\": \"QuantitativeValue\",\n            \"value\": 80.71,\n            \"unitCode\": \"MTK\"\n      },\n      \"amenityFeature\": [],\n      \"broker\": {\n            \"@type\": \"RealEstateAgent\",\n            \"name\": \"Poncho Davalos Real Estate\",\n            \"telephone\": \"+52 (322) 292-2312\",\n            \"email\": \"hello@ponchodavalos.com.mx\",\n            \"url\": \"https://ponchodavalosrealty.com\"\n      }\n}",
     "metaDescription": "Casa Frida — 2 bed, 1 bath, 868.76 sqft houses in Puerto Vallarta.",
     "ogImage": "https://ponchodavalosrealty.com/images/mls/flx-42712/header.jpg",
     "i18nKey": "property.mls_flx-42712",
@@ -966,7 +1337,7 @@
       "https://cdn.resize.sparkplatform.com/pvr/1024x768/true/20260127173823385848000000-o.jpg"
     ],
     "isotopeCategory": "category-19",
-    "schemaOrg": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"RealEstateListing\",\n      \"name\": \"49 Coral UP 103\",\n      \"description\": \"Zantamar 1 — 2 bed, 2 bath, 1,008.53 sqft condos in Riviera Nayarit.\",\n      \"url\": \"https://ponchodavalosrealty.com/mls/property-flx-41871.html\",\n      \"image\": [\n            \"https://ponchodavalosrealty.com/images/mls/flx-41871/header.jpg\"\n      ],\n      \"datePosted\": \"2026-08-05\",\n      \"address\": {\n            \"@type\": \"PostalAddress\",\n            \"addressLocality\": \"Riviera Nayarit\",\n            \"addressRegion\": \"Nayarit\",\n            \"addressCountry\": \"MX\"\n      },\n      \"offers\": {\n            \"@type\": \"Offer\",\n            \"price\": \"485000\",\n            \"priceCurrency\": \"USD\",\n            \"availability\": \"https://schema.org/InStock\"\n      },\n      \"numberOfRooms\": 2,\n      \"numberOfBathroomsTotal\": 2,\n      \"floorSize\": {\n            \"@type\": \"QuantitativeValue\",\n            \"value\": 93.7,\n            \"unitCode\": \"MTK\"\n      },\n      \"amenityFeature\": [],\n      \"broker\": {\n            \"@type\": \"RealEstateAgent\",\n            \"name\": \"Poncho Davalos Real Estate\",\n            \"telephone\": \"+52 (322) 292-2312\",\n            \"email\": \"hello@ponchodavalos.com.mx\",\n            \"url\": \"https://ponchodavalosrealty.com\"\n      }\n}",
+    "schemaOrg": "{\n      \"@context\": \"https://schema.org\",\n      \"@type\": \"RealEstateListing\",\n      \"name\": \"49 Coral UP 103\",\n      \"description\": \"Zantamar 1 — 2 bed, 2 bath, 1,008.53 sqft condos in Riviera Nayarit.\",\n      \"url\": \"https://ponchodavalosrealty.com/mls/property-flx-41871.html\",\n      \"image\": [\n            \"https://ponchodavalosrealty.com/images/mls/flx-41871/header.jpg\"\n      ],\n      \"datePosted\": \"2026-08-07\",\n      \"address\": {\n            \"@type\": \"PostalAddress\",\n            \"addressLocality\": \"Riviera Nayarit\",\n            \"addressRegion\": \"Nayarit\",\n            \"addressCountry\": \"MX\"\n      },\n      \"offers\": {\n            \"@type\": \"Offer\",\n            \"price\": \"485000\",\n            \"priceCurrency\": \"USD\",\n            \"availability\": \"https://schema.org/InStock\"\n      },\n      \"numberOfRooms\": 2,\n      \"numberOfBathroomsTotal\": 2,\n      \"floorSize\": {\n            \"@type\": \"QuantitativeValue\",\n            \"value\": 93.7,\n            \"unitCode\": \"MTK\"\n      },\n      \"amenityFeature\": [],\n      \"broker\": {\n            \"@type\": \"RealEstateAgent\",\n            \"name\": \"Poncho Davalos Real Estate\",\n            \"telephone\": \"+52 (322) 292-2312\",\n            \"email\": \"hello@ponchodavalos.com.mx\",\n            \"url\": \"https://ponchodavalosrealty.com\"\n      }\n}",
     "metaDescription": "Zantamar 1 — 2 bed, 2 bath, 1,008.53 sqft condos in Riviera Nayarit.",
     "ogImage": "https://ponchodavalosrealty.com/images/mls/flx-41871/header.jpg",
     "i18nKey": "property.mls_flx-41871",
